@@ -1,0 +1,41 @@
+---
+import { Card, CardContent, CardHeader, CardTitle } from './ui/card';
+
+interface Kpi {
+  label: string;
+  value: string;
+  hint?: string;
+  tone?: 'default' | 'success' | 'danger';
+}
+
+interface Props {
+  items: Kpi[];
+}
+
+const { items } = Astro.props;
+const toneClass = {
+  default: 'text-foreground',
+  success: 'text-success',
+  danger: 'text-danger',
+};
+---
+
+<div class="grid grid-cols-2 gap-3 lg:grid-cols-4">
+  {
+    items.map((item) => (
+      <Card>
+        <CardHeader className="pb-2">
+          <CardTitle className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+            {item.label}
+          </CardTitle>
+        </CardHeader>
+        <CardContent>
+          <div class:list={['text-2xl font-semibold tabular-nums sm:text-3xl', toneClass[item.tone ?? 'default']]}>
+            {item.value}
+          </div>
+          {item.hint && <p class="mt-1 text-xs text-muted-foreground">{item.hint}</p>}
+        </CardContent>
+      </Card>
+    ))
+  }
+</div>

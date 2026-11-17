@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "title": "PPPK Paruh Waktu — Non Dinas Pendidikan",
+    "period": "2026",
+    "generated_at": "18 November 2026, 00:33 WITA",
+    "source_updated_at": "10 November 2026, 14:24 WITA",
+    "source": "parse-usulan-perpanjangan"
+  },
+  "summary": {
+    "total": 163,
+    "processed": 150,
+    "belum": 13,
+    "ratio": 92.02,
+    "province": {
+      "total": 4536,
+      "processed": 163,
+      "ratio": 3.59
+    },
+    "unit_count": 23,
+    "unregistered": 32,
+    "unit_status_counts": {
+      "lengkap": 15,
+      "sebagian": 4,
+      "kosong": 4
+    }
+  },
+  "units": [
+    {
+      "unit": "DINAS KESEHATAN",
+      "total": 74,
+      "processed": 69,
+      "belum": 5,
+      "ratio": 93.24
+    },
+    {
+      "unit": "DINAS SOSIAL",
+      "total": 18,
+      "processed": 17,
+      "belum": 1,
+      "ratio": 94.44
+    },
+    {
+      "unit": "DINAS PEKERJAAN UMUM DAN PERUMAHAN RAKYAT",
+      "total": 11,
+      "processed": 10,
+      "belum": 1,
+      "ratio": 90.91
+    },
+    {
+      "unit": "DINAS PETERNAKAN",
+      "total": 10,
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0
+    },
+    {
+      "unit": "DINAS PERTANIAN DAN KETAHANAN PANGAN",
+      "total": 9,
+      "processed": 9,
+      "belum": 0,
+      "ratio": 100.0
+    },
+    {
+      "unit": "DINAS PERINDUSTRIAN DAN PERDAGANGAN",
+      "total": 6,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0
+    },
+    {
+      "unit": "BIRO UMUM",
+      "total": 5,
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0
+    },
+    {
+      "unit": "DINAS KELAUTAN DAN PERIKANAN",
+      "total": 5,
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0
+    },
+    {
+      "unit": "DINAS LINGKUNGAN HIDUP DAN KEHUTANAN",
+      "total": 4,
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0
+    },
+    {
+      "unit": "DINAS KOPERASI. USAHA KECIL DAN MENENGAH",
+      "total": 3,
+      "processed": 3,
+      "belum": 0,
+      "ratio": 100.0
+    },
+    {
+      "unit": "BADAN PENGEMBANGAN SUMBER DAYA MANUSIA DAERAH",
+      "total": 2,
+      "processed": 1,
+      "belum": 1,
+      "ratio": 50.0
+    },
+    {
+      "unit": "DINAS PARIWISATA DAN EKONOMI KREATIF",
+      "total": 2,
+      "processed": 2,
+      "belum": 0,
+      "ratio": 100.0
+    },
+    {
+      "unit": "DINAS PEMBERDAYAAN MASYARAKAT DAN DESA",
+      "total": 2,
+      "processed": 2,
+      "belum": 0,
+      "ratio": 100.0
+    },
+    {
+      "unit": "RUMAH SAKIT UMUM DAERAH PROF. DR. W. Z.YOHANES KUPANG",
+      "total": 2,
+      "processed": 2,
+      "belum": 0,
+      "ratio": 100.0
+    },
+    {
+      "unit": "SEKRETARIAT DEWAN PERWAKILAN RAKYAT DAERAH",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "unit": "BADAN PENDAPATAN DAN ASET DAERAH",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "unit": "BADAN PENGELOLA PERBATASAN",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "unit": "BIRO PEREKONOMIAN DAN ADMINISTRASI PEMBANGUNAN",
+      "total": 1,
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0
+    },
+    {
+      "unit": "DINAS ENERGI DAN SUMBER DAYA MINERAL",
+      "total": 1,
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0
+    },
+    {
+      "unit": "DINAS KEARSIPAN DAN PERPUSTAKAAN",
+      "total": 1,
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0
+    },
+    {
+      "unit": "SATUAN POLISI PAMONG PRAJA",
+      "total": 1,
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0
+    },
+    {
+      "unit": "UPTD PENDAPATAN DAERAH WILAYAH KABUPATEN LEMBATA",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "unit": "UPTD PROTEKSI TANAMAN PANGAN, HORTIKULTURA DAN PERKEBUNAN",
+      "total": 1,
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0
+    }
+  ],
+  "invalid_submissions": [
+    {
+      "unit": "BADAN PENGELOLA PERBATASAN",
+      "reason": "NIP tidak valid (1 baris)",
+      "count": 1
+    },
+    {
+      "unit": "BADAN PENGEMBANGAN SUMBER DAYA MANUSIA DAERAH",
+      "reason": "NIP tidak valid (11 baris)",
+      "count": 1
+    },
+    {
+      "unit": "Belum teridentifikasi",
+      "reason": "NIP tidak valid (2 baris)",
+      "count": 1
+    },
+    {
+      "unit": "Belum teridentifikasi",
+      "reason": "Tanpa lampiran Excel (hanya PDF/tautan)",
+      "count": 4
+    },
+    {
+      "unit": "DINAS KEARSIPAN DAN PERPUSTAKAAN",
+      "reason": "NIP tidak valid (2 baris)",
+      "count": 1
+    },
+    {
+      "unit": "DINAS KOMUNIKASI DAN INFORMATIKA",
+      "reason": "Tanpa lampiran Excel (hanya PDF/tautan)",
+      "count": 1
+    },
+    {
+      "unit": "DINAS PERHUBUNGAN",
+      "reason": "NIP tidak valid (2 baris)",
+      "count": 1
+    },
+    {
+      "unit": "DINAS SOSIAL",
+      "reason": "Tanpa lampiran Excel (hanya PDF/tautan)",
+      "count": 1
+    },
+    {
+      "unit": "RUMAH SAKIT UMUM DAERAH PROF. DR. W. Z.YOHANES KUPANG",
+      "reason": "Berkas Excel tidak sesuai template",
+      "count": 1
+    }
+  ]
+}

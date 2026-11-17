@@ -1,0 +1,143 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import KpiCards from '../components/KpiCards.astro';
+import StatTable from '../components/StatTable.astro';
+import ChartFrame from '../components/charts/ChartFrame.astro';
+import RatioDonut from '../components/charts/RatioDonut';
+import JenjangBar from '../components/charts/JenjangBar';
+import UnitBar from '../components/charts/UnitBar';
+import { Card, CardContent, CardHeader, CardTitle } from '../components/ui/card';
+import { fmtInt, fmtPct } from '../lib/format';
+import type { TableColumn } from '../lib/table';
+import data from '../data/paruh-pendidikan.json';
+
+const { summary } = data;
+const share = summary.province.total ? (summary.total / summary.province.total) * 100 : 0;
+
+const bucketColumns: TableColumn[] = [
+  { key: 'name', label: 'Jenjang / satuan kerja' },
+  { key: 'total', label: 'Jumlah', format: 'int', align: 'right' },
+  { key: 'processed', label: 'Sudah masuk', format: 'int', align: 'right' },
+  { key: 'belum', label: 'Belum', format: 'int', align: 'right' },
+  { key: 'ratio', label: 'Persentase', format: 'pct', align: 'right' },
+];
+
+const unitColumns: TableColumn[] = [
+  { key: 'unit', label: 'Unit kerja' },
+  { key: 'total', label: 'Jumlah', format: 'int', align: 'right' },
+  { key: 'processed', label: 'Sudah masuk', format: 'int', align: 'right' },
+  { key: 'belum', label: 'Belum', format: 'int', align: 'right' },
+  { key: 'ratio', label: 'Persentase', format: 'pct', align: 'right' },
+];
+
+const invalidColumns: TableColumn[] = [
+  { key: 'unit', label: 'Unit kerja' },
+  { key: 'reason', label: 'Alasan' },
+  { key: 'count', label: 'Pengirim', format: 'int', align: 'right' },
+];
+---
+
+<BaseLayout
+  title="PPPK Paruh Waktu — Pendidikan | Workspace Status"
+  description="Status usulan perpanjangan PPPK paruh waktu Dinas Pendidikan dan Kebudayaan tahun 2026."
+  pageLabel="PPPK Paruh Waktu"
+>
+  <header class="mb-6">
+    <h1 class="text-3xl font-semibold sm:text-4xl">{data.meta.title}</h1>
+    <p class="mt-2 text-sm text-muted-foreground">
+      Periode {data.meta.period} · Terakhir diperbarui {data.meta.generated_at} · Sumber data
+      {data.meta.source_updated_at}
+    </p>
+  </header>
+
+  <KpiCards
+    items={[
+      { label: 'Total master', value: fmtInt(summary.total) },
+      { label: 'Sudah masuk', value: fmtInt(summary.processed), tone: 'success' },
+      { label: 'Belum', value: fmtInt(summary.belum), tone: 'danger' },
+      { label: 'Persentase', value: fmtPct(summary.ratio) },
+    ]}
+  />
+
+  <section class="mt-6 grid gap-4 lg:grid-cols-[minmax(0,1fr)_minmax(0,2fr)]">
+    <ChartFrame title="Capaian kelompok" description="Bagian dari master PPPK paruh waktu kelompok ini.">
+      <RatioDonut client:visible processed={summary.processed} belum={summary.belum} />
+    </ChartFrame>
+    <Card className="flex flex-col justify-center">
+      <CardHeader>
+        <CardTitle>Konteks provinsi</CardTitle>
+      </CardHeader>
+      <CardContent className="space-y-2 text-sm text-muted-foreground">
+        <p>
+          Secara provinsi, <span class="font-medium text-foreground">{fmtInt(summary.province.processed)}</span>
+          dari {fmtInt(summary.province.total)} PPPK paruh waktu ({fmtPct(summary.province.ratio)})
+          sudah masuk daftar.
+        </p>
+        <p>
+          Kelompok Dinas Pendidikan dan Kebudayaan mencakup {fmtPct(share)} dari seluruh PPPK
+          paruh waktu provinsi, dengan {fmtInt(summary.satuan_kerja_count)} satuan kerja tercatat.
+        </p>
+        <p class="text-xs">
+          Di luar kelompok ini masih ada {fmtInt(summary.unregistered)} baris usulan dengan NIP yang
+          tidak ditemukan pada daftar resmi; baris tersebut tidak dihitung sebagai sudah masuk.
+        </p>
+      </CardContent>
+    </Card>
+  </section>
+
+  <div class="mt-8 space-y-8">
+    <ChartFrame
+      title="Capaian per jenjang"
+      description="Satuan kerja sekolah (SMA, SMK, SLB) dan unit induk dinas."
+      empty={!data.jenjang.length}
+    >
+      <JenjangBar client:visible rows={data.jenjang} />
+    </ChartFrame>
+    <StatTable
+      title="Tabel per jenjang"
+      columns={bucketColumns}
+      rows={data.jenjang}
+      description="Jumlah master, sudah masuk, dan yang masih belum."
+    />
+
+    <StatTable
+      title="Per unit kerja"
+      columns={unitColumns}
+      rows={data.units}
+      description="Unit induk dan cabang dinas pada kelompok Pendidikan."
+    />
+
+    <ChartFrame
+      title="Satuan kerja terbesar"
+      description="15 satuan kerja dengan jumlah PPPK paruh waktu paling banyak."
+      empty={!data.satuan_kerja.length}
+    >
+      <UnitBar client:visible rows={data.satuan_kerja} labelKey="name" />
+    </ChartFrame>
+    <StatTable
+      title="Tabel satuan kerja"
+      columns={bucketColumns}
+      rows={data.satuan_kerja}
+      description="Baris terakhir merangkum satuan kerja di luar 15 terbesar."
+    />
+
+    <StatTable
+      title="Pengirim dengan usulan terakhir yang tidak dapat dipakai"
+      columns={invalidColumns}
+      rows={data.invalid_submissions}
+      description="Diringkas per unit kerja dan alasan; tanpa alamat email."
+    />
+
+    <Card>
+      <CardHeader><CardTitle>Catatan metodologi</CardTitle></CardHeader>
+      <CardContent>
+        <ul class="list-disc space-y-1 pl-5 text-sm text-muted-foreground">
+          <li>Pencocokan per NIP terhadap daftar resmi PPPK paruh waktu.</li>
+          <li>Jika satu NIP dikirim berulang, usulan dari email terbaru yang dipakai.</li>
+          <li>Usulan dengan NIP tidak valid tidak menambah jumlah “sudah masuk”.</li>
+          <li>Angka dibulatkan dua angka desimal; jumlah orang tetap menggunakan bilangan bulat.</li>
+        </ul>
+      </CardContent>
+    </Card>
+  </div>
+</BaseLayout>

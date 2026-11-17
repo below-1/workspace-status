@@ -2,7 +2,7 @@
 
 Static status pages published from data pipelines in the private `below-1/workspace` repo.
 
-Status: **design draft v2 — implementation pending review**.
+Status: **implemented** (design baseline; see current files for exact code).
 
 ## 1. Identity
 
@@ -34,7 +34,7 @@ Out of scope for first release:
 - client-side fetching, APIs, databases, auth
 - committing generated `dist/`
 
-Shared code is **global** (theme, layout, chart wrappers), not a generic content model. Extract a component only when identical markup actually repeats.
+Shared code is **global** (theme, layout, chart wrappers, table/KPI presentation), not a generic content model. Extract a component only when identical markup actually repeats.
 
 ## 3. Stack
 
@@ -42,15 +42,15 @@ Shared code is **global** (theme, layout, chart wrappers), not a generic content
 - **React** — interactive islands only (theme toggle + charts).
 - **shadcn/ui** — copied components, not a dependency package.
 - **Tailwind CSS v4** — global utility layer + CSS variables.
-- **Recharts** — chart engine, pulled in via shadcn `chart` component.
+- **Recharts** — chart engine, wrapped by a local shadcn-style `chart` component.
 - **TypeScript strict**.
 
 Integration rules:
 
-- `.astro` files own page structure and static tables. Good for HTML weight and accessibility.
+- `.astro` files own page structure, KPI cards, chart frames, and static tables. Good for HTML weight and accessibility.
 - React is added through `@astrojs/react`; no full-page React SPA.
-- Each React island receives JSON data as props at build time.
-- shadcn components live in `src/components/ui/` and are generated/copied by `npx shadcn@latest add ...`.
+- React islands: theme toggle, donut, jenjang bar, unit bar. Each receives JSON data as props at build time.
+- shadcn components live in `src/components/ui/` and follow shadcn's copy-paste pattern (CVA + Radix Slot + Tailwind tokens).
 - `rsc: false` in `components.json` — Astro React islands are not React Server Components.
 - Tailwind v4 via `@tailwindcss/vite` (not `@astrojs/tailwind`).
 - Global CSS imported once in `BaseLayout.astro`. No per-page style files.
@@ -80,15 +80,19 @@ workspace-status/
       paruh-non-pendidikan.json
     lib/
       utils.ts                 # shadcn cn()
-      format.ts                # number/percent/WITA formatters
+      format.ts                # number/percent formatters
+      table.ts                 # TableColumn type
     components/
-      ui/                      # shadcn: button, card, badge, chart, table, ...
+      ui/                      # shadcn-style: button, card, badge, table, chart
       ThemeToggle.tsx
       charts/
         RatioDonut.tsx
+        HorizontalStatusChart.tsx
         JenjangBar.tsx
         UnitBar.tsx
-        ChartFrame.tsx         # shared title/desc/empty-state wrapper
+        ChartFrame.astro       # shared title/desc/empty-state wrapper
+      KpiCards.astro
+      StatTable.astro
     layouts/
       BaseLayout.astro
     pages/
@@ -381,7 +385,7 @@ Free libraries evaluated (checked on npm, current versions):
 
 Decision: use **shadcn `chart`**, which wraps **Recharts**. One dependency path, MIT, consistent tokens, no custom chart CSS. Install only the pieces needed: `chart`, `card`, `badge`, `table`, `button`.
 
-Charts planned:
+Charts implemented:
 
 | Page | Chart | Data | Why |
 |---|---|---|---|
@@ -394,7 +398,7 @@ Charts planned:
 
 Rules:
 - Tables remain the source of truth; charts are a visual summary beside them, never instead of them.
-- `ChartFrame.tsx` supplies title, short description, `<title>`/`<desc>` for accessibility, and empty state.
+- `ChartFrame.astro` supplies title, short description, and empty state; chart islands carry Recharts tooltips.
 - Series colors from tokens: `primary` = sudah masuk, `danger/30` = belum, `warning` = sebagian.
 - Always show numeric labels/legend. No color-only meaning.
 - React islands use `client:visible` for charts below fold, `client:idle` for `ThemeToggle`, `client:load` only if a chart must paint immediately.

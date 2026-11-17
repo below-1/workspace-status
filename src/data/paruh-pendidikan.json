@@ -1,0 +1,191 @@
+{
+  "meta": {
+    "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
+    "period": "2026",
+    "generated_at": "18 November 2026, 00:33 WITA",
+    "source_updated_at": "10 November 2026, 14:24 WITA",
+    "source": "parse-usulan-perpanjangan"
+  },
+  "summary": {
+    "total": 4373,
+    "processed": 13,
+    "belum": 4360,
+    "ratio": 0.3,
+    "province": {
+      "total": 4536,
+      "processed": 163,
+      "ratio": 3.59
+    },
+    "unit_count": 2,
+    "unregistered": 32,
+    "satuan_kerja_count": 594
+  },
+  "jenjang": [
+    {
+      "name": "SMA",
+      "total": 2899,
+      "processed": 0,
+      "belum": 2899,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK",
+      "total": 1082,
+      "processed": 0,
+      "belum": 1082,
+      "ratio": 0.0
+    },
+    {
+      "name": "Unit induk Dinas Pendidikan",
+      "total": 232,
+      "processed": 13,
+      "belum": 219,
+      "ratio": 5.6
+    },
+    {
+      "name": "SLB",
+      "total": 159,
+      "processed": 0,
+      "belum": 159,
+      "ratio": 0.0
+    },
+    {
+      "name": "Satuan kerja lainnya",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    }
+  ],
+  "units": [
+    {
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "total": 4372,
+      "processed": 13,
+      "belum": 4359,
+      "ratio": 0.3
+    },
+    {
+      "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    }
+  ],
+  "satuan_kerja": [
+    {
+      "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "total": 232,
+      "processed": 13,
+      "belum": 219,
+      "ratio": 5.6
+    },
+    {
+      "name": "SMK NEGERI 1 ENDE",
+      "total": 27,
+      "processed": 0,
+      "belum": 27,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 3 KOMODO",
+      "total": 26,
+      "processed": 0,
+      "belum": 26,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 KODI",
+      "total": 23,
+      "processed": 0,
+      "belum": 23,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI BATETI",
+      "total": 22,
+      "processed": 0,
+      "belum": 22,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI HAREKAKAE",
+      "total": 21,
+      "processed": 0,
+      "belum": 21,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 HAWU MEHARA",
+      "total": 20,
+      "processed": 0,
+      "belum": 20,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 FATULEU",
+      "total": 19,
+      "processed": 0,
+      "belum": 19,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 KUPANG",
+      "total": 19,
+      "processed": 0,
+      "belum": 19,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 ENDE",
+      "total": 18,
+      "processed": 0,
+      "belum": 18,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 MALAKA BARAT",
+      "total": 18,
+      "processed": 0,
+      "belum": 18,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 CIBAL",
+      "total": 18,
+      "processed": 0,
+      "belum": 18,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 2 KUPANG",
+      "total": 18,
+      "processed": 0,
+      "belum": 18,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 KODI BALAGHAR",
+      "total": 17,
+      "processed": 0,
+      "belum": 17,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 WAE RII",
+      "total": 17,
+      "processed": 0,
+      "belum": 17,
+      "ratio": 0.0
+    },
+    {
+      "name": "Satuan kerja lainnya (579 satuan kerja)",
+      "total": 3858,
+      "processed": 0,
+      "belum": 3858,
+      "ratio": 0.0
+    }
+  ],
+  "invalid_submissions": []
+}

@@ -1,0 +1,30 @@
+---
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../ui/card';
+
+interface Props {
+  title: string;
+  description?: string;
+  empty?: boolean;
+  emptyText?: string;
+}
+
+const { title, description, empty = false, emptyText = 'Belum ada data untuk ditampilkan.' } = Astro.props;
+---
+
+<Card>
+  <CardHeader>
+    <CardTitle>{title}</CardTitle>
+    {description && <CardDescription>{description}</CardDescription>}
+  </CardHeader>
+  <CardContent>
+    {
+      empty ? (
+        <div class="flex h-40 items-center justify-center rounded-lg border border-dashed text-sm text-muted-foreground">
+          {emptyText}
+        </div>
+      ) : (
+        <slot />
+      )
+    }
+  </CardContent>
+</Card>

@@ -1,0 +1,110 @@
+---
+import '@fontsource/inter/400.css';
+import '@fontsource/inter/600.css';
+import '../styles/globals.css';
+
+import ThemeToggle from '../components/ThemeToggle';
+
+interface Props {
+  title: string;
+  description: string;
+  pageLabel?: string;
+}
+
+const { title, description, pageLabel } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+const path = Astro.url.pathname;
+const links = [
+  { href: `${base}paruh-pendidikan/`, label: 'Pendidikan', match: 'paruh-pendidikan' },
+  { href: `${base}paruh-non-pendidikan/`, label: 'Non-Pendidikan', match: 'paruh-non-pendidikan' },
+];
+---
+
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    <link rel="icon" href={`${base}favicon.svg`} type="image/svg+xml" />
+    <script is:inline>
+      (() => {
+        try {
+          const saved = localStorage.getItem('theme');
+          const dark = saved
+            ? saved === 'dark'
+            : window.matchMedia('(prefers-color-scheme: dark)').matches;
+          document.documentElement.classList.toggle('dark', dark);
+        } catch (_) {}
+      })();
+    </script>
+  </head>
+  <body class="min-h-screen">
+    <a
+      href="#content"
+      class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-md focus:bg-primary focus:px-3 focus:py-2 focus:text-primary-foreground"
+    >
+      Lewati ke konten
+    </a>
+
+    <header class="border-b bg-card/80 backdrop-blur">
+      <div class="h-1 w-full bg-brand" aria-hidden="true"></div>
+      <div class="mx-auto flex max-w-6xl items-center gap-4 px-4 py-4 sm:px-6">
+        <a href={`${base}`} class="flex flex-col leading-tight">
+          <span class="text-sm font-semibold tracking-tight">Workspace Status</span>
+          <span class="text-xs text-muted-foreground">Status hasil olahan data</span>
+        </a>
+        <nav class="ml-auto hidden items-center gap-1 sm:flex" aria-label="Navigasi utama">
+          {
+            links.map((link) => (
+              <a
+                href={link.href}
+                aria-current={path.includes(link.match) ? 'page' : undefined}
+                class:list={[
+                  'rounded-md px-3 py-2 text-sm transition-colors',
+                  path.includes(link.match)
+                    ? 'bg-primary/10 font-medium text-primary'
+                    : 'text-muted-foreground hover:bg-muted hover:text-foreground',
+                ]}
+              >
+                {link.label}
+              </a>
+            ))
+          }
+        </nav>
+        <div class="ml-auto sm:ml-0"><ThemeToggle client:idle /></div>
+      </div>
+      <div class="mx-auto flex max-w-6xl gap-2 overflow-x-auto px-4 pb-3 sm:hidden" aria-label="Navigasi">
+        {
+          links.map((link) => (
+            <a
+              href={link.href}
+              class:list={[
+                'whitespace-nowrap rounded-md border px-3 py-1.5 text-xs',
+                path.includes(link.match)
+                  ? 'border-primary/30 bg-primary/10 text-primary'
+                  : 'text-muted-foreground',
+              ]}
+            >
+              {link.label}
+            </a>
+          ))
+        }
+      </div>
+    </header>
+
+    <main id="content" class="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-10">
+      {pageLabel && <p class="mb-2 text-xs font-semibold uppercase tracking-widest text-primary">{pageLabel}</p>}
+      <slot />
+    </main>
+
+    <footer class="border-t py-6">
+      <div class="mx-auto flex max-w-6xl flex-col gap-1 px-4 text-xs text-muted-foreground sm:flex-row sm:items-center sm:px-6">
+        <span>Data agregat dari pipeline <span class="font-medium text-foreground">parse-usulan-perpanjangan</span>.</span>
+        <span class="sm:ml-auto">Pencocokan per NIP. Tidak menampilkan data per orang.</span>
+      </div>
+    </footer>
+  </body>
+</html>

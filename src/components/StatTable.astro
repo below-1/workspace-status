@@ -1,0 +1,67 @@
+---
+import { fmtInt, fmtPct } from '../lib/format';
+import type { TableColumn } from '../lib/table';
+import { cn } from '../lib/utils';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/card';
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from './ui/table';
+
+interface Props {
+  title: string;
+  description?: string;
+  columns: TableColumn[];
+  rows: Record<string, string | number>[];
+}
+
+const { title, description, columns, rows } = Astro.props;
+
+function display(value: string | number | undefined, format: TableColumn['format'] = 'text') {
+  if (value === undefined || value === null) return '—';
+  if (format === 'int') return fmtInt(Number(value));
+  if (format === 'pct') return fmtPct(Number(value));
+  return String(value);
+}
+---
+
+<Card>
+  <CardHeader>
+    <CardTitle>{title}</CardTitle>
+    {description && <CardDescription>{description}</CardDescription>}
+  </CardHeader>
+  <CardContent>
+    {
+      rows.length ? (
+        <Table>
+          <TableHeader>
+            <TableRow>
+              {columns.map((column) => (
+                <TableHead className={cn(column.align === 'right' && 'text-right')}>
+                  {column.label}
+                </TableHead>
+              ))}
+            </TableRow>
+          </TableHeader>
+          <TableBody>
+            {rows.map((row) => (
+              <TableRow>
+                {columns.map((column) => (
+                  <TableCell
+                    className={cn(
+                      column.align === 'right' && 'text-right',
+                      column.format === 'text' && 'font-medium',
+                    )}
+                  >
+                    {display(row[column.key], column.format)}
+                  </TableCell>
+                ))}
+              </TableRow>
+            ))}
+          </TableBody>
+        </Table>
+      ) : (
+        <div class="flex h-24 items-center justify-center rounded-lg border border-dashed text-sm text-muted-foreground">
+          Belum ada data.
+        </div>
+      )
+    }
+  </CardContent>
+</Card>
