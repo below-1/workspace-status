@@ -2,7 +2,7 @@
 
 Static status pages published from data pipelines in the private `below-1/workspace` repo.
 
-Status: **design draft — implementation pending review**.
+Status: **design draft v2 — implementation pending review**.
 
 ## 1. Identity
 
@@ -34,9 +34,30 @@ Out of scope for first release:
 - client-side fetching, APIs, databases, auth
 - committing generated `dist/`
 
-Shared code limited to `BaseLayout.astro`. A component is extracted only when identical markup actually repeats.
+Shared code is **global** (theme, layout, chart wrappers), not a generic content model. Extract a component only when identical markup actually repeats.
 
-## 3. Repo layout
+## 3. Stack
+
+- **Astro** — static pages, routing, build-time JSON import, SEO.
+- **React** — interactive islands only (theme toggle + charts).
+- **shadcn/ui** — copied components, not a dependency package.
+- **Tailwind CSS v4** — global utility layer + CSS variables.
+- **Recharts** — chart engine, pulled in via shadcn `chart` component.
+- **TypeScript strict**.
+
+Integration rules:
+
+- `.astro` files own page structure and static tables. Good for HTML weight and accessibility.
+- React is added through `@astrojs/react`; no full-page React SPA.
+- Each React island receives JSON data as props at build time.
+- shadcn components live in `src/components/ui/` and are generated/copied by `npx shadcn@latest add ...`.
+- `rsc: false` in `components.json` — Astro React islands are not React Server Components.
+- Tailwind v4 via `@tailwindcss/vite` (not `@astrojs/tailwind`).
+- Global CSS imported once in `BaseLayout.astro`. No per-page style files.
+
+`.astro/components/*` and `src/components/*` can coexist; convention: React components only under `src/components/`.
+
+## 4. Repo layout
 
 ```
 workspace-status/
@@ -46,14 +67,28 @@ workspace-status/
   package.json
   package-lock.json
   tsconfig.json
+  components.json
   .gitignore
   public/
     .nojekyll
     robots.txt
   src/
+    styles/
+      globals.css              # Tailwind import + theme tokens + base styles
     data/
       paruh-pendidikan.json
       paruh-non-pendidikan.json
+    lib/
+      utils.ts                 # shadcn cn()
+      format.ts                # number/percent/WITA formatters
+    components/
+      ui/                      # shadcn: button, card, badge, chart, table, ...
+      ThemeToggle.tsx
+      charts/
+        RatioDonut.tsx
+        JenjangBar.tsx
+        UnitBar.tsx
+        ChartFrame.tsx         # shared title/desc/empty-state wrapper
     layouts/
       BaseLayout.astro
     pages/
@@ -65,7 +100,7 @@ workspace-status/
 
 `src/data/*.json` is tracked in git. `dist/`, `node_modules/`, `.astro/` are ignored.
 
-## 4. Data flow
+## 5. Data flow
 
 ```
 private workspace
@@ -89,7 +124,7 @@ No reverse dependency. The public repo never reads the private repo. No tokens o
 
 The generator writes JSON only. It does **not** commit, push, or call the GitHub API. Manual commit/push is the review gate before anything becomes public.
 
-## 5. Source data
+## 6. Source data
 
 Generator inputs, all already produced by `parse-usulan-perpanjangan`:
 
@@ -108,11 +143,11 @@ Group rule stays `common.paruh_group(unit)`:
 
 Satuan-kerja jenjang rule stays `common.paruh_jenjang(...)`.
 
-## 6. JSON contracts
+## 7. JSON contracts
 
 Both files carry `meta` and `summary`, then page-specific keys. They are separate shapes on purpose.
 
-### 6.1 `src/data/paruh-pendidikan.json`
+### 7.1 `src/data/paruh-pendidikan.json`
 
 ```json
 {
@@ -153,7 +188,7 @@ Notes:
 - `satuan_kerja` contains top 15 rows by `total`, plus one aggregated `Satuan kerja lainnya (n satuan kerja)` row. Mirrors the PDF, avoids a 594-row table.
 - `ratio` values are percentages, not fractions.
 
-### 6.2 `src/data/paruh-non-pendidikan.json`
+### 7.2 `src/data/paruh-non-pendidikan.json`
 
 ```json
 {
@@ -192,16 +227,189 @@ Reasons used in `invalid_submissions` are the existing fixed strings:
 
 Only `unit`, `reason`, `count`. Never sender address, sender name, NIP, or subject.
 
-## 7. Page design
+## 8. Global theme + styling
+
+One theme for the whole repo. Defined once in `src/styles/globals.css`, imported once in `BaseLayout.astro`. Every page and every React island uses the same CSS variables. No local color literals in pages/components except data-viz series colors that are also sourced from tokens.
+
+### 8.1 Direction
+
+Recommended: **Calm Teal on Slate**, with the existing report maroon (`#8B0000`) kept only as a small brand accent (header rule / footer), not as the primary action color.
+
+Why:
+- Calm, institutional, non-alarmist for progress reporting.
+- Teal/green/amber/red separate cleanly in charts.
+- Contrast passes WCAG AA on light backgrounds.
+- Maroon continuity with `laporan_*.pdf` without making every chart look like an error state.
+
+Alternative considered: **Institutional Maroon** (primary `#8B0000`). Rejected as global primary — too heavy and collides semantically with red "belum / invalid" states.
+
+### 8.2 Tokens (light)
+
+| Token | Hex | Use |
+|---|---|---|
+| `background` | `#F8FAFC` | page |
+| `foreground` | `#0F172A` | text |
+| `card` | `#FFFFFF` | cards / table surface |
+| `muted` | `#F1F5F9` | subtle bands |
+| `muted-foreground` | `#64748B` | labels, timestamps |
+| `border` | `#E2E8F0` | borders |
+| `primary` | `#0F766E` | links, active, progress fill |
+| `primary-foreground` | `#FFFFFF` | text on primary |
+| `accent` | `#B45309` | highlight, warnings |
+| `success` | `#15803D` | sudah masuk / lengkap |
+| `warning` | `#B45309` | sebagian |
+| `danger` | `#B91C1C` | belum / kosong / invalid |
+| `brand` | `#8B0000` | thin header rule only |
+
+Dark mode tokens mirror these (`background #0B1120`, `card #111827`, `foreground #E2E8F0`, `primary #2DD4BF`, etc.). Class strategy: `<html class="dark">`. Inline pre-paint script in `BaseLayout.astro` reads `localStorage.theme` / `prefers-color-scheme`, sets class before render. `ThemeToggle.tsx` hydrates `client:idle` and only flips the class + storage.
+
+### 8.3 Typography
+
+- Self-host via `@fontsource/inter` (MIT/SIL OFL). No runtime Google Fonts request.
+- Body + headings: **Inter**.
+- Numbers/tables: same Inter with `font-variant-numeric: tabular-nums`.
+- Max two weights: 400 and 600. Headings use 600.
+- Indonesian labels; dates in `dd MMM yyyy, HH:mm WITA`.
+
+### 8.4 Layout language
+
+- `max-w-6xl` container, generous `py-8` page padding.
+- Header: site title, current page label, `Terakhir diperbarui`, theme toggle.
+- Cards: `rounded-xl border bg-card shadow-sm`, no heavy shadows.
+- KPI cards: label uppercase small `tracking-wide text-muted-foreground`, value `text-3xl font-semibold tabular-nums`.
+- Progress bar: `h-2.5 rounded-full bg-muted`, fill `bg-primary`; pending segment `bg-danger/20` with explicit label.
+- Tables: sticky header, right-aligned numeric columns, `tabular-nums`, horizontal scroll wrapper on small screens, zebra via `odd:bg-muted/40`.
+- Badges: shadcn `Badge` variants mapped to `success` / `warning` / `danger` tokens. Never color alone — always text label too.
+- Spacing: Tailwind scale 4/6/8. Radius: `rounded-lg` / `rounded-xl`.
+
+### 8.5 Tailwind / shadcn setup
+
+`src/styles/globals.css` skeleton:
+
+```css
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --background: #f8fafc;
+  --foreground: #0f172a;
+  --card: #ffffff;
+  --primary: #0f766e;
+  --primary-foreground: #ffffff;
+  --success: #15803d;
+  --warning: #b45309;
+  --danger: #b91c1c;
+  --brand: #8b0000;
+  /* + shadcn required vars: muted, border, ring, radius, ... */
+}
+
+.dark { /* mirrored tokens */ }
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-primary: var(--primary);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+  --color-danger: var(--danger);
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "tnum";
+  }
+}
+```
+
+`components.json` essentials:
+
+```json
+{
+  "style": "new-york",
+  "rsc": false,
+  "tsx": true,
+  "tailwind": {
+    "config": "",
+    "css": "src/styles/globals.css",
+    "baseColor": "slate",
+    "cssVariables": true
+  },
+  "aliases": {
+    "components": "@/components",
+    "ui": "@/components/ui",
+    "lib": "@/lib",
+    "utils": "@/lib/utils"
+  }
+}
+```
+
+`astro.config.mjs` essentials:
+
+```js
+import { defineConfig } from 'astro/config';
+import react from '@astrojs/react';
+import tailwindcss from '@tailwindcss/vite';
+
+export default defineConfig({
+  site: 'https://below-1.github.io',
+  base: '/workspace-status',
+  output: 'static',
+  integrations: [react()],
+  vite: { plugins: [tailwindcss()] },
+});
+```
+
+`tsconfig.json`: extend `astro/tsconfigs/strict`, set `jsx: "react-jsx"`, `baseUrl: "."`, `paths: { "@/*": ["src/*"] }`.
+
+## 9. Charts / data viz
+
+Free libraries evaluated (checked on npm, current versions):
+
+| Library | License | Fit | Verdict |
+|---|---|---|---|
+| shadcn `chart` + Recharts | MIT | React-first, declarative bar/donut/line, themeable via CSS vars | **chosen** |
+| Nivo | MIT | Beautiful defaults, many chart types, heavier bundle | later if needed |
+| Visx | MIT | Low-level React + D3 primitives, max control, slower to build | not now |
+| Chart.js + react-chartjs-2 | MIT | Canvas, capable, less React-idiomatic | not now |
+| uPlot | MIT | Tiny/fast time series, poor categorical bars | only for future trend pages |
+| ECharts | Apache-2.0 | Very powerful, large bundle | overkill |
+| Observable Plot (`@observablehq/plot`) | ISC | Great build-time SVG, not React-native | optional future static charts |
+| D3 | ISC | Maximum control, high cost | not now |
+
+Decision: use **shadcn `chart`**, which wraps **Recharts**. One dependency path, MIT, consistent tokens, no custom chart CSS. Install only the pieces needed: `chart`, `card`, `badge`, `table`, `button`.
+
+Charts planned:
+
+| Page | Chart | Data | Why |
+|---|---|---|---|
+| Pendidikan | donut | `summary.processed` vs `summary.belum` | instant overall ratio |
+| Pendidikan | horizontal stacked bar | `jenjang[]` | 0% school placement is the story; sorted by `total` |
+| Pendidikan | horizontal bar | `satuan_kerja[]` | top 15 + `lainnya`, no 594-row chart |
+| Non-Pendidikan | horizontal stacked bar | `units[]` | done/pending per unit, sorted by `total` |
+| Non-Pendidikan | 3 stat cards | `unit_status_counts` | lengkap/sebagian/kosong, no chart needed |
+| `/` | small progress line | both `summary` | directory context |
+
+Rules:
+- Tables remain the source of truth; charts are a visual summary beside them, never instead of them.
+- `ChartFrame.tsx` supplies title, short description, `<title>`/`<desc>` for accessibility, and empty state.
+- Series colors from tokens: `primary` = sudah masuk, `danger/30` = belum, `warning` = sebagian.
+- Always show numeric labels/legend. No color-only meaning.
+- React islands use `client:visible` for charts below fold, `client:idle` for `ThemeToggle`, `client:load` only if a chart must paint immediately.
+- No chart library loaded on `/` beyond what is needed for tiny progress bars.
+
+## 10. Page design
 
 ### `/paruh-pendidikan`
 
 1. Title + `Terakhir diperbarui: <generated_at>`.
-2. KPI row: total master, sudah masuk, belum, persentase.
-3. Progress bar + province-wide line (`x/y` provinsi, share of group).
-4. Table: per jenjang.
-5. Table: per unit kerja.
-6. Table: top satuan kerja + `lainnya` row.
+2. KPI row (Astro static, shadcn Card styling): total master, sudah masuk, belum, persentase.
+3. `RatioDonut` + province-wide line (`x/y` provinsi, share of group).
+4. `JenjangBar` + static table per jenjang.
+5. Static table per unit kerja.
+6. `UnitBar` for `satuan_kerja[]` + static table.
 7. Notes: NIP matching, newest submission wins, `TAK TERDAFTAR` excluded, master source.
 8. Invalid-submissions table when non-empty.
 
@@ -209,21 +417,19 @@ Only `unit`, `reason`, `count`. Never sender address, sender name, NIP, or subje
 
 1. Title + `Terakhir diperbarui`.
 2. KPI row.
-3. Progress bar + province line.
-4. Line: `n unit lengkap / m sebagian / k kosong`.
-5. Table: per unit kerja.
+3. `RatioDonut` + province line.
+4. 3 stat cards from `unit_status_counts`.
+5. `UnitBar` + static table per unit kerja.
 6. Notes.
 7. Invalid-submissions table when non-empty.
 
 ### `/`
 
 - Site title, one paragraph.
-- Two cards linking to the pages, each showing group total + processed + ratio from JSON.
-- No other content.
+- Two cards linking to the pages, each showing group total + processed + ratio.
+- Tiny CSS progress line per card from JSON. No chart island.
 
-Styling: plain CSS in `BaseLayout.astro`. Indonesian labels. Desktop tables scroll horizontally on narrow screens.
-
-## 8. Workspace generator changes
+## 11. Workspace generator changes
 
 New files in private repo:
 
@@ -265,7 +471,7 @@ Atomic write: serialize to `*.tmp`, then `Path.replace()`.
 
 No network calls. No commit. No push.
 
-## 9. GitHub Actions deployment
+## 12. GitHub Actions deployment
 
 `.github/workflows/deploy-pages.yml`:
 
@@ -274,7 +480,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: [main, master]
 
 permissions:
   contents: read
@@ -312,6 +518,8 @@ jobs:
         uses: actions/deploy-pages@v4
 ```
 
+Current default branch is `master`; workflow allows both `main` and `master` until branch naming is settled.
+
 Pages source is set to GitHub Actions once, after the workflow exists:
 
 ```
@@ -320,20 +528,23 @@ gh api repos/below-1/workspace-status/pages -X POST -f build_type=workflow
 
 Deferred until implementation. Repo is already public and cloned; Pages itself is not enabled yet.
 
-## 10. Safety
+## 13. Safety
 
 - Public repo. Treat every committed byte as public forever.
 - JSON is aggregate-only. No NIP, names, emails, phone numbers, subjects, or source filenames.
 - Invalid submissions include counts by unit + fixed reason only.
 - `robots.txt` present; add `noindex` later if needed.
 - Operator reviews `git diff` in public repo before commit.
+- Chart tooltips/labels only use fields present in JSON; no hidden raw row data passed to islands.
 
-## 11. Local commands
+## 14. Local commands
 
 In public repo:
 
 ```
 npm install
+npx shadcn@latest init
+npx shadcn@latest add button card badge table chart
 npm run dev
 npm run build
 npm run check
@@ -350,14 +561,18 @@ git commit -m "data: refresh paruh waktu status"
 git push
 ```
 
-## 12. Rollout order after design approval
+## 15. Rollout order after design approval
 
-1. Add `astro.config.mjs`, `package.json`, `tsconfig.json`, `.gitignore`, `public/`.
-2. Add `BaseLayout.astro` + three pages with placeholder-free rendering from JSON.
-3. Add `deploy-pages.yml`.
-4. Enable Pages via `gh api`.
-5. In private workspace: add `repo_root`, `status_export.py`, action, pipeline, tests.
-6. Run `publish-web`; inspect generated JSON.
-7. Commit JSON in public repo; verify live Pages URL.
+1. Add `astro.config.mjs`, `package.json`, `tsconfig.json`, `components.json`, `.gitignore`, `public/`.
+2. Add `src/styles/globals.css` with global tokens; import in `BaseLayout.astro`.
+3. Init shadcn; add `button`, `card`, `badge`, `table`, `chart`.
+4. Add `ThemeToggle.tsx` + pre-paint script.
+5. Add chart islands (`RatioDonut`, `JenjangBar`, `UnitBar`) + `ChartFrame`.
+6. Add three pages with placeholder-free rendering from JSON.
+7. Add `deploy-pages.yml`.
+8. Enable Pages via `gh api`.
+9. In private workspace: add `repo_root`, `status_export.py`, action, pipeline, tests.
+10. Run `publish-web`; inspect generated JSON.
+11. Commit JSON in public repo; verify live Pages URL.
 
-Implementation does not start until this design is reviewed.
+Implementation does not start until this expanded design is reviewed.
