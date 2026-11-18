@@ -17,6 +17,7 @@ const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const path = Astro.url.pathname;
 const isHome = path === base || path === base.replace(/\/$/, '') || path === '/';
 const parent = `${base}status-rekapitulasi-pppk-paruh-waktu/`;
+const shell = 'mx-auto w-full max-w-[1200px] px-4 sm:px-6';
 const links = [
   {
     href: parent,
@@ -62,18 +63,18 @@ const links = [
       Lewati ke konten
     </a>
 
-    <header class="border-b bg-card/80 backdrop-blur">
-      <div class="mx-auto flex max-w-6xl items-center gap-4 px-4 py-4 sm:px-6">
+    <header class="sticky top-0 z-40 border-b bg-card/90 backdrop-blur">
+      <div class:list={[shell, 'flex items-center gap-4 py-3']}>
         <a href={`${base}`} class="flex items-center gap-3" aria-label="Workspace Status — beranda">
           <img
             src={`${base}brand/ntt-crest.png`}
             alt=""
             aria-hidden="true"
-            class="size-8 shrink-0 object-contain"
+            class="size-9 shrink-0 object-contain sm:size-10"
           />
           <span class="flex flex-col leading-tight">
-            <span class="text-sm font-semibold tracking-tight">Workspace Status</span>
-            <span class="text-xs text-muted-foreground">Status hasil olahan data</span>
+            <span class="text-base font-semibold tracking-tight">Workspace Status</span>
+            <span class="text-xs text-muted-foreground">Monitoring Data PPPK Paruh Waktu</span>
           </span>
         </a>
         {!isHome && <nav class="ml-auto hidden items-center gap-1 sm:flex" aria-label="Navigasi utama">
@@ -83,10 +84,10 @@ const links = [
                 href={link.href}
                 aria-current={link.active ? 'page' : undefined}
                 class:list={[
-                  'rounded-md px-3 py-2 text-sm transition-colors',
+                  'relative px-3 py-2 text-sm transition-colors after:absolute after:inset-x-3 after:-bottom-px after:h-0.5',
                   link.active
-                    ? 'bg-primary/10 font-medium text-primary'
-                    : 'text-muted-foreground hover:bg-muted hover:text-foreground',
+                    ? 'font-medium text-primary after:bg-primary'
+                    : 'text-muted-foreground after:bg-transparent hover:text-foreground hover:after:bg-border',
                 ]}
               >
                 {link.label}
@@ -94,18 +95,19 @@ const links = [
             ))
           }
         </nav>}
-        <div class="ml-auto sm:ml-0"><ThemeToggle client:idle /></div>
+        <div class="ml-auto shrink-0 sm:ml-0"><ThemeToggle client:idle /></div>
       </div>
-      {!isHome && <div class="mx-auto flex max-w-6xl gap-2 overflow-x-auto px-4 pb-3 sm:hidden" aria-label="Navigasi">
+      {!isHome && <div class:list={[shell, 'flex gap-2 overflow-x-auto pb-3 sm:hidden']} aria-label="Navigasi">
         {
           links.map((link) => (
             <a
               href={link.href}
+              aria-current={link.active ? 'page' : undefined}
               class:list={[
-                'whitespace-nowrap rounded-md border px-3 py-1.5 text-xs',
+                'shrink-0 border-b-2 px-3 py-1.5 text-xs transition-colors',
                 link.active
-                  ? 'border-primary/30 bg-primary/10 text-primary'
-                  : 'text-muted-foreground',
+                  ? 'border-primary font-medium text-primary'
+                  : 'border-transparent text-muted-foreground hover:text-foreground',
               ]}
             >
               {link.label}
@@ -118,7 +120,8 @@ const links = [
     <main
       id="content"
       class:list={[
-        'mx-auto w-full max-w-6xl px-4 py-8 sm:px-6 sm:py-10',
+        shell,
+        'py-8 sm:py-10',
         fullHeight && 'flex flex-1 flex-col justify-center',
       ]}
     >
@@ -127,7 +130,7 @@ const links = [
     </main>
 
     <footer class="border-t py-6">
-      <div class="mx-auto flex max-w-6xl flex-col gap-1 px-4 text-xs text-muted-foreground sm:flex-row sm:items-center sm:px-6">
+      <div class:list={[shell, 'flex flex-col gap-1 py-1 text-xs text-muted-foreground sm:flex-row sm:items-center']}>
         <span>Data agregat dari pipeline <span class="font-medium text-foreground">parse-usulan-perpanjangan</span>.</span>
         <span class="sm:ml-auto">Pencocokan per NIP. Tidak menampilkan data per orang.</span>
       </div>

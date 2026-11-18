@@ -1,0 +1,108 @@
+---
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/card';
+import { fmtInt, fmtPct } from '../lib/format';
+
+interface StatusCounts {
+  lengkap: number;
+  sebagian: number;
+  kosong: number;
+}
+
+interface Props {
+  ratio: number;
+  processed: number;
+  total: number;
+  counts: StatusCounts;
+  unitLabel?: string;
+  contextDescription?: string;
+}
+
+const {
+  ratio,
+  processed,
+  total,
+  counts,
+  unitLabel = 'unit kerja',
+  contextDescription = 'Ringkasan cakupan pada kelompok ini.',
+} = Astro.props;
+
+const width = Math.min(100, Math.max(0, ratio));
+const statusLabel =
+  ratio >= 99.5
+    ? 'Selesai'
+    : ratio >= 90
+      ? 'Hampir selesai'
+      : ratio >= 60
+        ? 'Bergulir'
+        : 'Perlu tindak lanjut';
+
+const statusItems = [
+  { label: 'Lengkap', value: counts.lengkap, valueClass: 'text-success', dotClass: 'bg-success' },
+  { label: 'Sebagian', value: counts.sebagian, valueClass: 'text-warning', dotClass: 'bg-warning' },
+  { label: 'Belum ada', value: counts.kosong, valueClass: 'text-danger', dotClass: 'bg-danger' },
+];
+---
+
+<section class="grid gap-4 lg:grid-cols-[minmax(0,2fr)_minmax(0,3fr)]" aria-label="Ringkasan progres">
+  <Card>
+    <CardHeader>
+      <CardTitle>Konteks singkat</CardTitle>
+      <CardDescription>{contextDescription}</CardDescription>
+    </CardHeader>
+    <CardContent className="space-y-3 text-sm text-muted-foreground">
+      <slot />
+    </CardContent>
+  </Card>
+
+  <Card className="relative overflow-hidden">
+    <CardHeader className="flex flex-row items-start justify-between gap-4">
+      <div>
+        <CardTitle>Ringkasan progres</CardTitle>
+        <CardDescription>Capaian pengisian data pada kelompok ini.</CardDescription>
+      </div>
+      <span class="shrink-0 rounded-full bg-primary-soft px-2.5 py-1 text-xs font-medium text-primary-soft-foreground">
+        {statusLabel}
+      </span>
+    </CardHeader>
+    <CardContent>
+      <div class="flex flex-wrap items-end gap-x-3 gap-y-1">
+        <span class="text-4xl font-semibold leading-none tabular-nums text-primary sm:text-5xl">
+          {fmtPct(ratio)}
+        </span>
+        <span class="pb-1 text-sm text-muted-foreground">Tingkat penyelesaian data</span>
+      </div>
+
+      <div
+        class="mt-4 h-3 w-full overflow-hidden rounded-full bg-muted"
+        role="progressbar"
+        aria-label="Tingkat penyelesaian data"
+        aria-valuenow={width}
+        aria-valuemin="0"
+        aria-valuemax="100"
+      >
+        <div class="h-full rounded-full bg-primary" style={`width: ${width}%`}></div>
+      </div>
+
+      <div class="mt-5 grid gap-3 sm:grid-cols-3">
+        {
+          statusItems.map((item) => (
+            <div class="rounded-lg border bg-card p-3">
+              <div class="flex items-center gap-2 text-xs text-muted-foreground">
+                <span class:list={['size-2 shrink-0 rounded-full', item.dotClass]} aria-hidden="true"></span>
+                {item.label}
+              </div>
+              <div class:list={['mt-1 text-2xl font-semibold tabular-nums', item.valueClass]}>
+                {fmtInt(item.value)}
+              </div>
+            </div>
+          ))
+        }
+      </div>
+
+      <p class="mt-4 text-xs text-muted-foreground">
+        {fmtInt(processed)} dari {fmtInt(total)} PPPK paruh waktu pada kelompok ini sudah masuk daftar,
+        terpetakan pada {fmtInt(counts.lengkap + counts.sebagian + counts.kosong)} {unitLabel}.
+      </p>
+    </CardContent>
+  </Card>
+</section>

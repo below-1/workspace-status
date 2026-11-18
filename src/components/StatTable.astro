@@ -17,8 +17,13 @@ const { title, description, columns, rows } = Astro.props;
 function display(value: string | number | undefined, format: TableColumn['format'] = 'text') {
   if (value === undefined || value === null) return '—';
   if (format === 'int') return fmtInt(Number(value));
-  if (format === 'pct') return fmtPct(Number(value));
+  if (format === 'pct' || format === 'progress') return fmtPct(Number(value));
   return String(value);
+}
+
+function clampPct(value: string | number | undefined): number {
+  if (value === undefined || value === null) return 0;
+  return Math.min(100, Math.max(0, Number(value)));
 }
 ---
 
@@ -46,11 +51,26 @@ function display(value: string | number | undefined, format: TableColumn['format
                 {columns.map((column) => (
                   <TableCell
                     className={cn(
-                      column.align === 'right' && 'text-right',
+                      (column.align === 'right' || column.format === 'progress') && 'text-right',
                       column.format === 'text' && 'font-medium',
                     )}
                   >
-                    {display(row[column.key], column.format)}
+                    {column.format === 'progress' ? (
+                      <div class="flex items-center justify-end gap-3">
+                        <div
+                          class="hidden h-1.5 w-16 overflow-hidden rounded-full bg-muted sm:block"
+                          aria-hidden="true"
+                        >
+                          <div
+                            class="h-full rounded-full bg-primary"
+                            style={`width: ${clampPct(row[column.key])}%`}
+                          />
+                        </div>
+                        <span class="tabular-nums">{display(row[column.key], column.format)}</span>
+                      </div>
+                    ) : (
+                      display(row[column.key], column.format)
+                    )}
                   </TableCell>
                 ))}
               </TableRow>

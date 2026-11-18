@@ -1,11 +1,16 @@
 ---
 import { Card, CardContent, CardHeader, CardTitle } from './ui/card';
 
+type Tone = 'default' | 'primary' | 'success' | 'danger';
+type IconName = 'total' | 'processed' | 'pending' | 'ratio';
+
 interface Kpi {
   label: string;
   value: string;
   hint?: string;
-  tone?: 'default' | 'success' | 'danger';
+  tone?: Tone;
+  icon?: IconName;
+  progress?: number;
 }
 
 interface Props {
@@ -13,29 +18,87 @@ interface Props {
 }
 
 const { items } = Astro.props;
-const toneClass = {
+
+const toneClass: Record<Tone, string> = {
   default: 'text-foreground',
+  primary: 'text-primary',
   success: 'text-success',
   danger: 'text-danger',
 };
+
+const iconClass: Record<Tone, string> = {
+  default: 'bg-primary-soft text-primary',
+  primary: 'bg-primary-soft text-primary',
+  success: 'bg-success/10 text-success',
+  danger: 'bg-danger/10 text-danger',
+};
+
+const barClass: Record<Tone, string> = {
+  default: 'bg-primary',
+  primary: 'bg-primary',
+  success: 'bg-success',
+  danger: 'bg-danger',
+};
+
+const iconPath: Record<IconName, string> = {
+  total: 'M4 6h16M4 12h16M4 18h16',
+  processed: 'm5 13 4 4L19 7',
+  pending: 'M12 9v4m0 4h.01M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0Z',
+  ratio: 'M3 12h4l3-8 4 16 3-8h4',
+};
+
+function clamp(value: number | undefined): number {
+  if (value === undefined) return 0;
+  return Math.min(100, Math.max(0, value));
+}
 ---
 
-<div class="grid grid-cols-2 gap-3 lg:grid-cols-4">
+<div class="grid grid-cols-2 gap-3 lg:grid-cols-4 lg:gap-4">
   {
-    items.map((item) => (
-      <Card>
-        <CardHeader className="pb-2">
-          <CardTitle className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
-            {item.label}
-          </CardTitle>
-        </CardHeader>
-        <CardContent>
-          <div class:list={['text-2xl font-semibold tabular-nums sm:text-3xl', toneClass[item.tone ?? 'default']]}>
-            {item.value}
-          </div>
-          {item.hint && <p class="mt-1 text-xs text-muted-foreground">{item.hint}</p>}
-        </CardContent>
-      </Card>
-    ))
+    items.map((item) => {
+      const tone = item.tone ?? 'default';
+      const icon = item.icon ?? (tone === 'success' ? 'processed' : tone === 'danger' ? 'pending' : 'total');
+      return (
+        <Card className="relative overflow-hidden">
+          <CardHeader className="flex flex-row items-center justify-between gap-3 pb-2">
+            <CardTitle className="text-[11px] font-semibold uppercase tracking-[0.12em] text-muted-foreground">
+              {item.label}
+            </CardTitle>
+            <span class:list={['flex size-8 shrink-0 items-center justify-center rounded-lg', iconClass[tone]]}>
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.75"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="size-4"
+                aria-hidden="true"
+              >
+                <path d={iconPath[icon]} />
+              </svg>
+            </span>
+          </CardHeader>
+          <CardContent className="pt-0">
+            <div class:list={['text-3xl font-semibold leading-none tabular-nums sm:text-4xl', toneClass[tone]]}>
+              {item.value}
+            </div>
+            {item.hint && <p class="mt-2 text-xs leading-snug text-muted-foreground">{item.hint}</p>}
+            {item.progress !== undefined && (
+              <div
+                class="mt-3 h-1.5 w-full overflow-hidden rounded-full bg-muted"
+                role="progressbar"
+                aria-valuenow={clamp(item.progress)}
+                aria-valuemin="0"
+                aria-valuemax="100"
+                aria-label={`Progres ${item.label}`}
+              >
+                <div class:list={['h-full rounded-full', barClass[tone]]} style={`width: ${clamp(item.progress)}%`} />
+              </div>
+            )}
+          </CardContent>
+        </Card>
+      );
+    })
   }
 </div>

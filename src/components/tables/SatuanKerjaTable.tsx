@@ -112,7 +112,10 @@ const columns = helper.columns([
             aria-hidden="true"
           >
             <div
-              className="h-full rounded-full bg-primary"
+              className={cn(
+                'h-full rounded-full',
+                ratio >= 100 ? 'bg-success' : ratio < 60 ? 'bg-warning' : 'bg-primary',
+              )}
               style={{ width: `${Math.min(100, Math.max(0, ratio))}%` }}
             />
           </div>
@@ -261,7 +264,8 @@ export default function SatuanKerjaTable({ rows }: Props) {
         </Button>
       </div>
 
-      <Table className="min-w-[760px]">
+      <div className="max-h-[70vh] overflow-auto rounded-lg border">
+        <Table className="min-w-[760px]">
         <TableHeader>
           {table.getHeaderGroups().map((group) => (
             <TableRow key={group.id}>
@@ -321,7 +325,8 @@ export default function SatuanKerjaTable({ rows }: Props) {
             </TableRow>
           )}
         </TableBody>
-      </Table>
+        </Table>
+      </div>
 
       <div className="flex flex-wrap items-center gap-2 text-sm">
         <Button

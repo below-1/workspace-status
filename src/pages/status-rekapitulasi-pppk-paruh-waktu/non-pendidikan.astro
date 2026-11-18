@@ -1,8 +1,9 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHeader from '../../components/PageHeader.astro';
 import KpiCards from '../../components/KpiCards.astro';
+import ProgressSummary from '../../components/ProgressSummary.astro';
 import StatTable from '../../components/StatTable.astro';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../../components/ui/card';
 import { fmtInt, fmtPct } from '../../lib/format';
 import type { TableColumn } from '../../lib/table';
 import data from '../../data/paruh-non-pendidikan.json';
@@ -17,7 +18,7 @@ const unitColumns: TableColumn[] = [
   { key: 'total', label: 'Jumlah', format: 'int', align: 'right' },
   { key: 'processed', label: 'Sudah masuk', format: 'int', align: 'right' },
   { key: 'belum', label: 'Belum', format: 'int', align: 'right' },
-  { key: 'ratio', label: 'Persentase', format: 'pct', align: 'right' },
+  { key: 'ratio', label: 'Progres', format: 'progress', align: 'right' },
 ];
 
 const invalidColumns: TableColumn[] = [
@@ -28,69 +29,71 @@ const invalidColumns: TableColumn[] = [
 ---
 
 <BaseLayout
-  title="PPPK Paruh Waktu — Non-Pendidikan | Workspace Status"
+  title="PPPK Paruh Waktu — Non Dinas Pendidikan | Workspace Status"
   description="Ringkasan status usulan perpanjangan PPPK paruh waktu unit kerja di luar Dinas Pendidikan tahun 2026."
-  pageLabel="PPPK Paruh Waktu"
 >
-  <header class="mb-6">
-    <a href={`${base}status-rekapitulasi-pppk-paruh-waktu/`} class="text-sm text-primary hover:underline">
-      ← Kembali ke ringkasan
-    </a>
-    <h1 class="mt-3 text-3xl font-semibold sm:text-4xl">{data.meta.title}</h1>
-    <p class="mt-2 text-sm text-muted-foreground">
-      Periode {data.meta.period} · Terakhir diperbarui {data.meta.generated_at} · Sumber data
-      {data.meta.source_updated_at}
-    </p>
-  </header>
+  <PageHeader
+    eyebrow={`PPPK Paruh Waktu · Periode ${data.meta.period}`}
+    title="Non Dinas Pendidikan"
+    description="Monitoring progres pengisian data PPPK Paruh Waktu pada unit kerja di luar Dinas Pendidikan dan Kebudayaan di lingkungan Pemerintah Provinsi NTT."
+    generated={data.meta.generated_at}
+    backHref={`${base}status-rekapitulasi-pppk-paruh-waktu/`}
+    backLabel="Kembali ke ringkasan"
+  />
 
   <KpiCards
     items={[
-      { label: 'Total master', value: fmtInt(summary.total) },
-      { label: 'Sudah masuk', value: fmtInt(summary.processed), tone: 'success' },
-      { label: 'Belum', value: fmtInt(summary.belum), tone: 'danger' },
-      { label: 'Persentase', value: fmtPct(summary.ratio) },
+      { label: 'Total master', value: fmtInt(summary.total), icon: 'total' },
+      {
+        label: 'Sudah masuk',
+        value: fmtInt(summary.processed),
+        hint: `${fmtPct(summary.ratio)} dari total master`,
+        tone: 'success',
+        icon: 'processed',
+        progress: summary.ratio,
+      },
+      {
+        label: 'Belum',
+        value: fmtInt(summary.belum),
+        hint: 'Perlu tindak lanjut',
+        tone: 'danger',
+        icon: 'pending',
+        progress: 100 - summary.ratio,
+      },
+      {
+        label: 'Persentase',
+        value: fmtPct(summary.ratio),
+        tone: 'primary',
+        icon: 'ratio',
+        progress: summary.ratio,
+      },
     ]}
   />
 
-  <section class="mt-6 grid gap-4 lg:grid-cols-[minmax(0,1fr)_minmax(0,2fr)]">
-    <Card>
-      <CardHeader>
-        <CardTitle>Konteks singkat</CardTitle>
-        <CardDescription>Unit kerja di luar Dinas Pendidikan dan Kebudayaan.</CardDescription>
-      </CardHeader>
-      <CardContent className="space-y-2 text-sm text-muted-foreground">
-        <p>
-          Secara provinsi, <span class="font-medium text-foreground">{fmtInt(summary.province.processed)}</span>
-          dari {fmtInt(summary.province.total)} PPPK paruh waktu ({fmtPct(summary.province.ratio)})
-          sudah masuk daftar.
-        </p>
-        <p>
-          Kelompok ini mencakup {fmtPct(share)} dari seluruh paruh waktu provinsi, tersebar pada
-          {fmtInt(summary.unit_count)} unit kerja.
-        </p>
-        <p class="text-xs">
-          {fmtInt(summary.unregistered)} baris usulan dengan NIP tak terdaftar tidak dihitung sebagai
-          sudah masuk.
-        </p>
-      </CardContent>
-    </Card>
-    <Card className="flex flex-col justify-center">
-      <CardHeader>
-        <CardTitle>Status unit kerja</CardTitle>
-        <CardDescription>Ringkasan {fmtInt(summary.unit_count)} unit kerja.</CardDescription>
-      </CardHeader>
-      <CardContent className="space-y-2 text-sm">
-        <p>
-          <span class="font-semibold text-success">{fmtInt(counts.lengkap)} lengkap</span> ·{' '}
-          <span class="font-semibold text-warning">{fmtInt(counts.sebagian)} sebagian</span> ·{' '}
-          <span class="font-semibold text-danger">{fmtInt(counts.kosong)} belum sama sekali</span>
-        </p>
-        <p class="text-xs text-muted-foreground">
-          Unit lengkap berarti seluruh PPPK paruh waktu pada unit tersebut sudah masuk daftar.
-        </p>
-      </CardContent>
-    </Card>
-  </section>
+  <div class="mt-6">
+    <ProgressSummary
+      ratio={summary.ratio}
+      processed={summary.processed}
+      total={summary.total}
+      counts={counts}
+      unitLabel="unit kerja"
+      contextDescription="Unit kerja di luar Dinas Pendidikan dan Kebudayaan."
+    >
+      <p>
+        Secara provinsi, <span class="font-medium text-foreground">{fmtInt(summary.province.processed)}</span>
+        dari {fmtInt(summary.province.total)} PPPK paruh waktu ({fmtPct(summary.province.ratio)})
+        sudah masuk daftar.
+      </p>
+      <p>
+        Kelompok ini mencakup {fmtPct(share)} dari seluruh paruh waktu provinsi, tersebar pada
+        {fmtInt(summary.unit_count)} unit kerja.
+      </p>
+      <p class="text-xs">
+        {fmtInt(summary.unregistered)} baris usulan dengan NIP tak terdaftar tidak dihitung sebagai
+        sudah masuk.
+      </p>
+    </ProgressSummary>
+  </div>
 
   <div class="mt-8 space-y-8">
     <StatTable
@@ -100,7 +103,7 @@ const invalidColumns: TableColumn[] = [
       description="Jumlah master, sudah masuk, dan yang masih belum per unit kerja."
     />
 
-    <details class="rounded-xl border bg-card p-5 text-sm">
+    <details class="rounded-xl border bg-card p-6 text-sm">
       <summary class="cursor-pointer font-semibold">Catatan metodologi dan pengirim bermasalah</summary>
       <div class="mt-4 space-y-6">
         <ul class="list-disc space-y-1 pl-5 text-muted-foreground">
@@ -108,6 +111,7 @@ const invalidColumns: TableColumn[] = [
           <li>Jika satu NIP dikirim berulang, usulan dari email terbaru yang dipakai.</li>
           <li>Unit lengkap berarti seluruh PPPK paruh waktu pada unit tersebut sudah masuk daftar.</li>
           <li>Usulan dengan NIP tidak valid tidak menambah jumlah “sudah masuk”.</li>
+          <li>Email terakhir diproses {data.meta.source_updated_at}.</li>
         </ul>
         <StatTable
           title="Pengirim dengan usulan terakhir yang tidak dapat dipakai"
