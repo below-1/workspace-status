@@ -1,15 +1,15 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
-import KpiCards from '../components/KpiCards.astro';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../components/ui/card';
-import { fmtInt, fmtPct } from '../lib/format';
-import data from '../data/paruh-waktu.json';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import KpiCards from '../../components/KpiCards.astro';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../../components/ui/card';
+import { fmtInt, fmtPct } from '../../lib/format';
+import data from '../../data/paruh-waktu.json';
 
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const { summary } = data;
 const hrefs: Record<string, string> = {
-  pendidikan: `${base}paruh-pendidikan/`,
-  'non-pendidikan': `${base}paruh-non-pendidikan/`,
+  pendidikan: `${base}pppk-paruh-waktu/pendidikan/`,
+  'non-pendidikan': `${base}pppk-paruh-waktu/non-pendidikan/`,
 };
 const descriptions: Record<string, string> = {
   pendidikan: 'Sekolah dan unit induk di bawah Dinas Pendidikan dan Kebudayaan.',

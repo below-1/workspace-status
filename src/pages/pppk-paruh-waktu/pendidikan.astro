@@ -1,11 +1,11 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
-import KpiCards from '../components/KpiCards.astro';
-import StatTable from '../components/StatTable.astro';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../components/ui/card';
-import { fmtInt, fmtPct } from '../lib/format';
-import type { TableColumn } from '../lib/table';
-import data from '../data/paruh-pendidikan.json';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import KpiCards from '../../components/KpiCards.astro';
+import StatTable from '../../components/StatTable.astro';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../../components/ui/card';
+import { fmtInt, fmtPct } from '../../lib/format';
+import type { TableColumn } from '../../lib/table';
+import data from '../../data/paruh-pendidikan.json';
 
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const { summary } = data;
@@ -83,7 +83,7 @@ const invalidColumns: TableColumn[] = [
       </CardHeader>
       <CardContent>
         <a
-          href={`${base}paruh-pendidikan/satuan-kerja/`}
+          href={`${base}pppk-paruh-waktu/pendidikan/satuan-kerja/`}
           class="inline-flex items-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground hover:bg-primary/90"
         >
           Lihat status per satuan kerja →

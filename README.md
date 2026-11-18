@@ -2,7 +2,7 @@
 
 Static status pages for data pipelines in the private `below-1/workspace` repo.
 
-See [DESIGN.md](DESIGN.md) for scope, data contracts, theme, and deployment.
+Deploy by pushing `main`/`master`; GitHub Actions publishes `dist/` to Pages.
 
 ## Local
 

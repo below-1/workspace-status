@@ -1,11 +1,11 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
-import KpiCards from '../components/KpiCards.astro';
-import StatTable from '../components/StatTable.astro';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../components/ui/card';
-import { fmtInt, fmtPct } from '../lib/format';
-import type { TableColumn } from '../lib/table';
-import data from '../data/paruh-non-pendidikan.json';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import KpiCards from '../../components/KpiCards.astro';
+import StatTable from '../../components/StatTable.astro';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../../components/ui/card';
+import { fmtInt, fmtPct } from '../../lib/format';
+import type { TableColumn } from '../../lib/table';
+import data from '../../data/paruh-non-pendidikan.json';
 
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const { summary, units } = data;

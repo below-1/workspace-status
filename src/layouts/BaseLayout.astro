@@ -15,10 +15,19 @@ const { title, description, pageLabel } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const path = Astro.url.pathname;
 const isHome = path === base || path === base.replace(/\/$/, '') || path === '/';
+const parent = `${base}pppk-paruh-waktu/`;
 const links = [
-  { href: `${base}pppk-paruh-waktu/`, label: 'Ringkasan', match: 'pppk-paruh-waktu' },
-  { href: `${base}paruh-pendidikan/`, label: 'Pendidikan', match: 'paruh-pendidikan' },
-  { href: `${base}paruh-non-pendidikan/`, label: 'Non-Pendidikan', match: 'paruh-non-pendidikan' },
+  {
+    href: parent,
+    label: 'Ringkasan',
+    active: path === parent || path === parent.replace(/\/$/, ''),
+  },
+  { href: `${parent}pendidikan/`, label: 'Pendidikan', active: path.startsWith(`${parent}pendidikan/`) },
+  {
+    href: `${parent}non-pendidikan/`,
+    label: 'Non-Pendidikan',
+    active: path.startsWith(`${parent}non-pendidikan/`),
+  },
 ];
 ---
 
@@ -63,10 +72,10 @@ const links = [
             links.map((link) => (
               <a
                 href={link.href}
-                aria-current={path.includes(link.match) ? 'page' : undefined}
+                aria-current={link.active ? 'page' : undefined}
                 class:list={[
                   'rounded-md px-3 py-2 text-sm transition-colors',
-                  path.includes(link.match)
+                  link.active
                     ? 'bg-primary/10 font-medium text-primary'
                     : 'text-muted-foreground hover:bg-muted hover:text-foreground',
                 ]}
@@ -85,7 +94,7 @@ const links = [
               href={link.href}
               class:list={[
                 'whitespace-nowrap rounded-md border px-3 py-1.5 text-xs',
-                path.includes(link.match)
+                link.active
                   ? 'border-primary/30 bg-primary/10 text-primary'
                   : 'text-muted-foreground',
               ]}

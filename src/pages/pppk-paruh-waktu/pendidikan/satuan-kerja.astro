@@ -1,12 +1,12 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import KpiCards from '../../components/KpiCards.astro';
-import StatTable from '../../components/StatTable.astro';
-import SatuanKerjaTable from '../../components/tables/SatuanKerjaTable';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../../components/ui/card';
-import { fmtInt, fmtPct } from '../../lib/format';
-import type { TableColumn } from '../../lib/table';
-import data from '../../data/paruh-pendidikan.json';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import KpiCards from '../../../components/KpiCards.astro';
+import StatTable from '../../../components/StatTable.astro';
+import SatuanKerjaTable from '../../../components/tables/SatuanKerjaTable';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../../../components/ui/card';
+import { fmtInt, fmtPct } from '../../../lib/format';
+import type { TableColumn } from '../../../lib/table';
+import data from '../../../data/paruh-pendidikan.json';
 
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const { summary } = data;
@@ -38,7 +38,7 @@ const invalidColumns: TableColumn[] = [
       <a href={`${base}pppk-paruh-waktu/`} class="text-primary hover:underline">
         ← Ringkasan
       </a>
-      <a href={`${base}paruh-pendidikan/`} class="text-primary hover:underline">
+      <a href={`${base}pppk-paruh-waktu/pendidikan/`} class="text-primary hover:underline">
         ← Pendidikan
       </a>
     </div>
