@@ -17,7 +17,7 @@ const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const path = Astro.url.pathname;
 const isHome = path === base || path === base.replace(/\/$/, '') || path === '/';
 const parent = `${base}status-rekapitulasi-pppk-paruh-waktu/`;
-const shell = 'mx-auto w-full max-w-[1200px] px-4 sm:px-6';
+const shell = 'mx-auto w-full max-w-[1200px] px-4 sm:px-8';
 const links = [
   {
     href: parent,
@@ -64,7 +64,7 @@ const links = [
     </a>
 
     <header class="sticky top-0 z-40 border-b bg-card/90 backdrop-blur">
-      <div class:list={[shell, 'flex items-center gap-4 py-3']}>
+      <div class:list={[shell, 'flex items-center gap-4 py-4']}>
         <a href={`${base}`} class="flex items-center gap-3" aria-label="Workspace Status — beranda">
           <img
             src={`${base}brand/ntt-crest.png`}
@@ -121,15 +121,15 @@ const links = [
       id="content"
       class:list={[
         shell,
-        'py-8 sm:py-10',
+        'py-12 sm:py-16',
         fullHeight && 'flex flex-1 flex-col justify-center',
       ]}
     >
-      {pageLabel && <p class="mb-2 text-xs font-semibold uppercase tracking-widest text-primary">{pageLabel}</p>}
+      {pageLabel && <p class="mb-4 text-xs font-semibold uppercase tracking-widest text-primary">{pageLabel}</p>}
       <slot />
     </main>
 
-    <footer class="border-t py-6">
+    <footer class="border-t py-10">
       <div class:list={[shell, 'flex flex-col gap-1 py-1 text-xs text-muted-foreground sm:flex-row sm:items-center']}>
         <span>Data agregat dari pipeline <span class="font-medium text-foreground">parse-usulan-perpanjangan</span>.</span>
         <span class="sm:ml-auto">Pencocokan per NIP. Tidak menampilkan data per orang.</span>

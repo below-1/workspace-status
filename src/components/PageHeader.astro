@@ -11,10 +11,10 @@ interface Props {
 const { eyebrow, title, description, generated, backHref, backLabel } = Astro.props;
 ---
 
-<header class="mb-8">
+<header class="mb-12">
   {
     backHref && (
-      <a href={backHref} class="mb-4 inline-flex text-sm font-medium text-primary hover:underline">
+      <a href={backHref} class="mb-6 inline-flex text-sm font-medium text-primary hover:underline">
         ← {backLabel ?? 'Kembali'}
       </a>
     )
@@ -25,6 +25,6 @@ const { eyebrow, title, description, generated, backHref, backLabel } = Astro.pr
       Dihasilkan {generated}
     </span>
   </div>
-  <h1 class="mt-2 text-3xl font-semibold tracking-tight sm:text-4xl">{title}</h1>
-  <p class="mt-3 max-w-3xl text-sm text-muted-foreground sm:text-base">{description}</p>
+  <h1 class="mt-3 text-3xl font-semibold tracking-tight sm:text-4xl">{title}</h1>
+  <p class="mt-4 max-w-3xl text-sm text-muted-foreground sm:text-base">{description}</p>
 </header>

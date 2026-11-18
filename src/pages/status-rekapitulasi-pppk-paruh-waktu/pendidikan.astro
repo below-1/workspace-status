@@ -81,7 +81,7 @@ const invalidColumns: TableColumn[] = [
     ]}
   />
 
-  <Card className="mt-6 flex flex-col gap-4 border-primary/30 bg-primary-soft/50 p-6 sm:flex-row sm:items-center sm:justify-between">
+  <Card className="mt-10 flex flex-col gap-5 border-primary/30 bg-primary-soft/50 p-7 sm:flex-row sm:items-center sm:justify-between">
     <div class="space-y-1">
       <h2 class="text-base font-semibold leading-none text-foreground">Tindak lanjut satuan kerja</h2>
       <p class="text-sm text-muted-foreground">
@@ -99,7 +99,7 @@ const invalidColumns: TableColumn[] = [
     </a>
   </Card>
 
-  <div class="mt-6">
+  <div class="mt-10">
     <ProgressSummary
       ratio={summary.ratio}
       processed={summary.processed}
@@ -124,7 +124,7 @@ const invalidColumns: TableColumn[] = [
     </ProgressSummary>
   </div>
 
-  <div class="mt-8 space-y-8">
+  <div class="mt-12 space-y-12">
     <StatTable
       title="Per jenjang"
       columns={bucketColumns}
@@ -138,9 +138,9 @@ const invalidColumns: TableColumn[] = [
       description="Lima satuan kerja dengan jumlah PPPK paruh waktu paling banyak. Rincian lengkap ada di halaman berikutnya."
     />
 
-    <details class="rounded-xl border bg-card p-6 text-sm">
+    <details class="rounded-xl border bg-card p-7 text-sm">
       <summary class="cursor-pointer font-semibold">Catatan metodologi dan pengirim bermasalah</summary>
-      <div class="mt-4 space-y-6">
+      <div class="mt-5 space-y-8">
         <ul class="list-disc space-y-1 pl-5 text-muted-foreground">
           <li>Pencocokan per NIP terhadap daftar resmi PPPK paruh waktu.</li>
           <li>Jika satu NIP dikirim berulang, usulan dari email terbaru yang dipakai.</li>

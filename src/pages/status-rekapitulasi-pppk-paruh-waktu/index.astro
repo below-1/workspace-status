@@ -70,7 +70,7 @@ function scope(group: (typeof summary.groups)[number]): string {
     ]}
   />
 
-  <section class="mt-8 grid gap-4 md:grid-cols-2" aria-label="Ringkasan per kelompok">
+  <section class="mt-12 grid gap-6 md:grid-cols-2" aria-label="Ringkasan per kelompok">
     {
       summary.groups.map((group) => (
         <Card className="transition-colors hover:border-primary/30">
@@ -87,19 +87,19 @@ function scope(group: (typeof summary.groups)[number]): string {
               <span class="text-3xl font-semibold tabular-nums text-primary">{fmtPct(group.ratio)}</span>
               <span class="text-sm text-muted-foreground">sudah masuk</span>
             </div>
-            <div class="mt-3 h-2.5 w-full overflow-hidden rounded-full bg-muted" aria-hidden="true">
+            <div class="mt-4 h-2.5 w-full overflow-hidden rounded-full bg-muted" aria-hidden="true">
               <div
                 class="h-full rounded-full bg-primary"
                 style={`width: ${Math.min(100, Math.max(0, group.ratio))}%`}
               />
             </div>
-            <p class="mt-3 text-sm text-muted-foreground">
+            <p class="mt-4 text-sm text-muted-foreground">
               <span class="font-medium text-foreground">{fmtInt(group.processed)}</span> dari{' '}
               {fmtInt(group.total)} orang · {scope(group)}
             </p>
             <a
               href={hrefs[group.key]}
-              class="mt-4 inline-flex text-sm font-medium text-primary hover:underline"
+              class="mt-5 inline-flex text-sm font-medium text-primary hover:underline"
             >
               Lihat ringkasan →
             </a>
@@ -109,8 +109,8 @@ function scope(group: (typeof summary.groups)[number]): string {
     }
   </section>
 
-  <section class="mt-8 max-w-3xl rounded-xl border bg-primary-soft/60 p-6 text-sm text-muted-foreground">
-    <h2 class="mb-2 text-sm font-semibold text-foreground">Cara membaca</h2>
+  <section class="mt-12 max-w-3xl rounded-xl border bg-muted/50 p-7 text-sm text-muted-foreground">
+    <h2 class="mb-3 text-sm font-semibold text-foreground">Cara membaca</h2>
     <ul class="list-disc space-y-1 pl-5">
       <li>Angka dihitung dari daftar resmi PPPK paruh waktu yang sudah dikelompokkan.</li>
       <li>“Sudah masuk” berarti NIP ditemukan pada usulan terbaru yang dapat dipakai.</li>

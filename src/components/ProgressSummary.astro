@@ -37,19 +37,19 @@ const statusLabel =
         : 'Perlu tindak lanjut';
 
 const statusItems = [
-  { label: 'Lengkap', value: counts.lengkap, valueClass: 'text-success', dotClass: 'bg-success' },
-  { label: 'Sebagian', value: counts.sebagian, valueClass: 'text-warning', dotClass: 'bg-warning' },
-  { label: 'Belum ada', value: counts.kosong, valueClass: 'text-danger', dotClass: 'bg-danger' },
+  { label: 'Lengkap', value: counts.lengkap, valueClass: 'text-foreground', dotClass: 'bg-success' },
+  { label: 'Sebagian', value: counts.sebagian, valueClass: 'text-foreground', dotClass: 'bg-warning' },
+  { label: 'Belum ada', value: counts.kosong, valueClass: 'text-foreground', dotClass: 'bg-danger' },
 ];
 ---
 
-<section class="grid gap-4 lg:grid-cols-[minmax(0,2fr)_minmax(0,3fr)]" aria-label="Ringkasan progres">
+<section class="grid gap-6 lg:grid-cols-[minmax(0,2fr)_minmax(0,3fr)]" aria-label="Ringkasan progres">
   <Card>
     <CardHeader>
       <CardTitle>Konteks singkat</CardTitle>
       <CardDescription>{contextDescription}</CardDescription>
     </CardHeader>
-    <CardContent className="space-y-3 text-sm text-muted-foreground">
+    <CardContent className="space-y-4 text-sm text-muted-foreground">
       <slot />
     </CardContent>
   </Card>
@@ -73,7 +73,7 @@ const statusItems = [
       </div>
 
       <div
-        class="mt-4 h-3 w-full overflow-hidden rounded-full bg-muted"
+        class="mt-5 h-3 w-full overflow-hidden rounded-full bg-muted"
         role="progressbar"
         aria-label="Tingkat penyelesaian data"
         aria-valuenow={width}
@@ -83,10 +83,10 @@ const statusItems = [
         <div class="h-full rounded-full bg-primary" style={`width: ${width}%`}></div>
       </div>
 
-      <div class="mt-5 grid gap-3 sm:grid-cols-3">
+      <div class="mt-6 grid gap-4 sm:grid-cols-3">
         {
           statusItems.map((item) => (
-            <div class="rounded-lg border bg-card p-3">
+            <div class="rounded-lg border bg-card p-4">
               <div class="flex items-center gap-2 text-xs text-muted-foreground">
                 <span class:list={['size-2 shrink-0 rounded-full', item.dotClass]} aria-hidden="true"></span>
                 {item.label}
@@ -99,7 +99,7 @@ const statusItems = [
         }
       </div>
 
-      <p class="mt-4 text-xs text-muted-foreground">
+      <p class="mt-5 text-xs text-muted-foreground">
         {fmtInt(processed)} dari {fmtInt(total)} PPPK paruh waktu pada kelompok ini sudah masuk daftar,
         terpetakan pada {fmtInt(counts.lengkap + counts.sebagian + counts.kosong)} {unitLabel}.
       </p>

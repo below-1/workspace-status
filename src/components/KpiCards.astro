@@ -22,22 +22,22 @@ const { items } = Astro.props;
 const toneClass: Record<Tone, string> = {
   default: 'text-foreground',
   primary: 'text-primary',
-  success: 'text-success',
-  danger: 'text-danger',
+  success: 'text-foreground',
+  danger: 'text-foreground',
 };
 
 const iconClass: Record<Tone, string> = {
   default: 'bg-primary-soft text-primary',
   primary: 'bg-primary-soft text-primary',
-  success: 'bg-success/10 text-success',
-  danger: 'bg-danger/10 text-danger',
+  success: 'bg-muted text-muted-foreground',
+  danger: 'bg-muted text-muted-foreground',
 };
 
 const barClass: Record<Tone, string> = {
   default: 'bg-primary',
   primary: 'bg-primary',
-  success: 'bg-success',
-  danger: 'bg-danger',
+  success: 'bg-primary',
+  danger: 'bg-muted-foreground/40',
 };
 
 const iconPath: Record<IconName, string> = {
@@ -53,7 +53,7 @@ function clamp(value: number | undefined): number {
 }
 ---
 
-<div class="grid grid-cols-2 gap-3 lg:grid-cols-4 lg:gap-4">
+<div class="grid grid-cols-2 gap-4 lg:grid-cols-4 lg:gap-5">
   {
     items.map((item) => {
       const tone = item.tone ?? 'default';

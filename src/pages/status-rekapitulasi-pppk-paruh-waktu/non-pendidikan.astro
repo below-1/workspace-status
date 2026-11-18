@@ -70,7 +70,7 @@ const invalidColumns: TableColumn[] = [
     ]}
   />
 
-  <div class="mt-6">
+  <div class="mt-10">
     <ProgressSummary
       ratio={summary.ratio}
       processed={summary.processed}
@@ -95,7 +95,7 @@ const invalidColumns: TableColumn[] = [
     </ProgressSummary>
   </div>
 
-  <div class="mt-8 space-y-8">
+  <div class="mt-12 space-y-12">
     <StatTable
       title="Per unit kerja"
       columns={unitColumns}
@@ -103,9 +103,9 @@ const invalidColumns: TableColumn[] = [
       description="Jumlah master, sudah masuk, dan yang masih belum per unit kerja."
     />
 
-    <details class="rounded-xl border bg-card p-6 text-sm">
+    <details class="rounded-xl border bg-card p-7 text-sm">
       <summary class="cursor-pointer font-semibold">Catatan metodologi dan pengirim bermasalah</summary>
-      <div class="mt-4 space-y-6">
+      <div class="mt-5 space-y-8">
         <ul class="list-disc space-y-1 pl-5 text-muted-foreground">
           <li>Pencocokan per NIP terhadap daftar resmi PPPK paruh waktu.</li>
           <li>Jika satu NIP dikirim berulang, usulan dari email terbaru yang dipakai.</li>

@@ -93,12 +93,12 @@ const columns = helper.columns([
   helper.accessor('processed', {
     id: 'processed',
     header: 'Sudah masuk',
-    cell: (info) => <span className="tabular-nums text-success">{fmtInt(info.getValue())}</span>,
+    cell: (info) => <span className="tabular-nums">{fmtInt(info.getValue())}</span>,
   }),
   helper.accessor('belum', {
     id: 'belum',
     header: 'Belum',
-    cell: (info) => <span className="tabular-nums text-danger">{fmtInt(info.getValue())}</span>,
+    cell: (info) => <span className="tabular-nums">{fmtInt(info.getValue())}</span>,
   }),
   helper.accessor('ratio', {
     id: 'ratio',
@@ -112,10 +112,7 @@ const columns = helper.columns([
             aria-hidden="true"
           >
             <div
-              className={cn(
-                'h-full rounded-full',
-                ratio >= 100 ? 'bg-success' : ratio < 60 ? 'bg-warning' : 'bg-primary',
-              )}
+              className="h-full rounded-full bg-primary"
               style={{ width: `${Math.min(100, Math.max(0, ratio))}%` }}
             />
           </div>
@@ -204,8 +201,8 @@ export default function SatuanKerjaTable({ rows }: Props) {
   }
 
   return (
-    <div className="space-y-4">
-      <div className="grid gap-3 sm:grid-cols-[minmax(0,2fr)_minmax(0,1fr)_minmax(0,1fr)]">
+    <div className="space-y-6">
+      <div className="grid gap-4 sm:grid-cols-[minmax(0,2fr)_minmax(0,1fr)_minmax(0,1fr)]">
         <label className="flex flex-col gap-1 text-xs font-medium text-muted-foreground">
           Cari satuan kerja
           <input
@@ -248,7 +245,7 @@ export default function SatuanKerjaTable({ rows }: Props) {
         </label>
       </div>
 
-      <div className="flex flex-wrap items-center gap-2 text-sm text-muted-foreground">
+      <div className="flex flex-wrap items-center gap-3 text-sm text-muted-foreground">
         <span>
           Menampilkan <span className="font-medium text-foreground">{fmtInt(from)}</span>–
           <span className="font-medium text-foreground">{fmtInt(to)}</span> dari{' '}

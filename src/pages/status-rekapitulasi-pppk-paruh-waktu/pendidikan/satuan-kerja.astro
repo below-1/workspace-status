@@ -71,13 +71,13 @@ const invalidColumns: TableColumn[] = [
     ]}
   />
 
-  <Card className="mt-6">
+  <Card className="mt-10">
     <CardHeader>
       <CardTitle>Status satuan kerja</CardTitle>
       <CardDescription>
-        <span class="text-success">{fmtInt(counts.lengkap)} lengkap</span> ·{' '}
-        <span class="text-warning">{fmtInt(counts.sebagian)} sebagian</span> ·{' '}
-        <span class="text-danger">{fmtInt(counts.kosong)} kosong</span>. Cari nama satuan kerja,
+        <span class="font-medium text-foreground">{fmtInt(counts.lengkap)} lengkap</span> ·{' '}
+        <span class="font-medium text-foreground">{fmtInt(counts.sebagian)} sebagian</span> ·{' '}
+        <span class="font-medium text-foreground">{fmtInt(counts.kosong)} kosong</span>. Cari nama satuan kerja,
         saring berdasarkan jenjang atau status, lalu urutkan kolom yang diinginkan.
       </CardDescription>
     </CardHeader>
@@ -86,9 +86,9 @@ const invalidColumns: TableColumn[] = [
     </CardContent>
   </Card>
 
-  <details class="mt-8 rounded-xl border bg-card p-6 text-sm">
+  <details class="mt-12 rounded-xl border bg-card p-7 text-sm">
     <summary class="cursor-pointer font-semibold">Catatan metodologi dan pengirim bermasalah</summary>
-    <div class="mt-4 space-y-6">
+    <div class="mt-5 space-y-8">
       <ul class="list-disc space-y-1 pl-5 text-muted-foreground">
         <li>Pencocokan per NIP terhadap daftar resmi PPPK paruh waktu.</li>
         <li>Jika satu NIP dikirim berulang, usulan dari email terbaru yang dipakai.</li>
