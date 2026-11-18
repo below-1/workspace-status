@@ -2,14 +2,12 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import KpiCards from '../components/KpiCards.astro';
 import StatTable from '../components/StatTable.astro';
-import ChartFrame from '../components/charts/ChartFrame.astro';
-import RatioDonut from '../components/charts/RatioDonut';
-import UnitBar from '../components/charts/UnitBar';
-import { Card, CardContent, CardHeader, CardTitle } from '../components/ui/card';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../components/ui/card';
 import { fmtInt, fmtPct } from '../lib/format';
 import type { TableColumn } from '../lib/table';
 import data from '../data/paruh-non-pendidikan.json';
 
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const { summary, units } = data;
 const counts = summary.unit_status_counts;
 const share = summary.province.total ? (summary.total / summary.province.total) * 100 : 0;
@@ -31,11 +29,14 @@ const invalidColumns: TableColumn[] = [
 
 <BaseLayout
   title="PPPK Paruh Waktu — Non-Pendidikan | Workspace Status"
-  description="Status usulan perpanjangan PPPK paruh waktu unit kerja di luar Dinas Pendidikan tahun 2026."
+  description="Ringkasan status usulan perpanjangan PPPK paruh waktu unit kerja di luar Dinas Pendidikan tahun 2026."
   pageLabel="PPPK Paruh Waktu"
 >
   <header class="mb-6">
-    <h1 class="text-3xl font-semibold sm:text-4xl">{data.meta.title}</h1>
+    <a href={`${base}pppk-paruh-waktu/`} class="text-sm text-primary hover:underline">
+      ← Kembali ke ringkasan
+    </a>
+    <h1 class="mt-3 text-3xl font-semibold sm:text-4xl">{data.meta.title}</h1>
     <p class="mt-2 text-sm text-muted-foreground">
       Periode {data.meta.period} · Terakhir diperbarui {data.meta.generated_at} · Sumber data
       {data.meta.source_updated_at}
@@ -52,11 +53,11 @@ const invalidColumns: TableColumn[] = [
   />
 
   <section class="mt-6 grid gap-4 lg:grid-cols-[minmax(0,1fr)_minmax(0,2fr)]">
-    <ChartFrame title="Capaian kelompok" description="Bagian dari master PPPK paruh waktu kelompok ini.">
-      <RatioDonut client:visible processed={summary.processed} belum={summary.belum} />
-    </ChartFrame>
-    <Card className="flex flex-col justify-center">
-      <CardHeader><CardTitle>Konteks provinsi</CardTitle></CardHeader>
+    <Card>
+      <CardHeader>
+        <CardTitle>Konteks singkat</CardTitle>
+        <CardDescription>Unit kerja di luar Dinas Pendidikan dan Kebudayaan.</CardDescription>
+      </CardHeader>
       <CardContent className="space-y-2 text-sm text-muted-foreground">
         <p>
           Secara provinsi, <span class="font-medium text-foreground">{fmtInt(summary.province.processed)}</span>
@@ -67,52 +68,54 @@ const invalidColumns: TableColumn[] = [
           Kelompok ini mencakup {fmtPct(share)} dari seluruh paruh waktu provinsi, tersebar pada
           {fmtInt(summary.unit_count)} unit kerja.
         </p>
-        <p>
-          Dari {fmtInt(summary.unit_count)} unit, <span class="font-medium text-success">{counts.lengkap} lengkap</span>,
-          <span class="font-medium text-warning">{counts.sebagian} sebagian</span>, dan
-          <span class="font-medium text-danger">{counts.kosong} belum sama sekali</span>.
-        </p>
         <p class="text-xs">
-          Di luar kedua kelompok masih ada {fmtInt(summary.unregistered)} baris usulan dengan NIP yang
-          tidak ditemukan pada daftar resmi; baris tersebut tidak dihitung sebagai sudah masuk.
+          {fmtInt(summary.unregistered)} baris usulan dengan NIP tak terdaftar tidak dihitung sebagai
+          sudah masuk.
+        </p>
+      </CardContent>
+    </Card>
+    <Card className="flex flex-col justify-center">
+      <CardHeader>
+        <CardTitle>Status unit kerja</CardTitle>
+        <CardDescription>Ringkasan {fmtInt(summary.unit_count)} unit kerja.</CardDescription>
+      </CardHeader>
+      <CardContent className="space-y-2 text-sm">
+        <p>
+          <span class="font-semibold text-success">{fmtInt(counts.lengkap)} lengkap</span> ·{' '}
+          <span class="font-semibold text-warning">{fmtInt(counts.sebagian)} sebagian</span> ·{' '}
+          <span class="font-semibold text-danger">{fmtInt(counts.kosong)} belum sama sekali</span>
+        </p>
+        <p class="text-xs text-muted-foreground">
+          Unit lengkap berarti seluruh PPPK paruh waktu pada unit tersebut sudah masuk daftar.
         </p>
       </CardContent>
     </Card>
   </section>
 
   <div class="mt-8 space-y-8">
-    <ChartFrame
-      title="Capaian per unit kerja"
-      description="Jumlah PPPK paruh waktu dan bagian yang sudah masuk, diurutkan dari terbesar."
-      empty={!units.length}
-    >
-      <UnitBar client:visible rows={units} tall />
-    </ChartFrame>
-
     <StatTable
-      title="Tabel per unit kerja"
+      title="Per unit kerja"
       columns={unitColumns}
       rows={units}
       description="Jumlah master, sudah masuk, dan yang masih belum per unit kerja."
     />
 
-    <StatTable
-      title="Pengirim dengan usulan terakhir yang tidak dapat dipakai"
-      columns={invalidColumns}
-      rows={data.invalid_submissions}
-      description="Diringkas per unit kerja dan alasan; tanpa alamat email."
-    />
-
-    <Card>
-      <CardHeader><CardTitle>Catatan metodologi</CardTitle></CardHeader>
-      <CardContent>
-        <ul class="list-disc space-y-1 pl-5 text-sm text-muted-foreground">
+    <details class="rounded-xl border bg-card p-5 text-sm">
+      <summary class="cursor-pointer font-semibold">Catatan metodologi dan pengirim bermasalah</summary>
+      <div class="mt-4 space-y-6">
+        <ul class="list-disc space-y-1 pl-5 text-muted-foreground">
           <li>Pencocokan per NIP terhadap daftar resmi PPPK paruh waktu.</li>
           <li>Jika satu NIP dikirim berulang, usulan dari email terbaru yang dipakai.</li>
           <li>Unit lengkap berarti seluruh PPPK paruh waktu pada unit tersebut sudah masuk daftar.</li>
           <li>Usulan dengan NIP tidak valid tidak menambah jumlah “sudah masuk”.</li>
         </ul>
-      </CardContent>
-    </Card>
+        <StatTable
+          title="Pengirim dengan usulan terakhir yang tidak dapat dipakai"
+          columns={invalidColumns}
+          rows={data.invalid_submissions}
+          description="Diringkas per unit kerja dan alasan; tanpa alamat email."
+        />
+      </div>
+    </details>
   </div>
 </BaseLayout>

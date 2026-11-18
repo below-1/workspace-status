@@ -1,0 +1,99 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import KpiCards from '../components/KpiCards.astro';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../components/ui/card';
+import { fmtInt, fmtPct } from '../lib/format';
+import data from '../data/paruh-waktu.json';
+
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+const { summary } = data;
+const hrefs: Record<string, string> = {
+  pendidikan: `${base}paruh-pendidikan/`,
+  'non-pendidikan': `${base}paruh-non-pendidikan/`,
+};
+const descriptions: Record<string, string> = {
+  pendidikan: 'Sekolah dan unit induk di bawah Dinas Pendidikan dan Kebudayaan.',
+  'non-pendidikan': 'Unit kerja di luar Dinas Pendidikan dan Kebudayaan.',
+};
+
+function scope(group: (typeof summary.groups)[number]): string {
+  return group.key === 'pendidikan'
+    ? `${fmtInt(group.satuan_kerja_count)} satuan kerja`
+    : `${fmtInt(group.unit_count)} unit kerja`;
+}
+---
+
+<BaseLayout
+  title="PPPK Paruh Waktu | Workspace Status"
+  description="Ringkasan status usulan perpanjangan PPPK paruh waktu tahun 2026."
+  pageLabel="PPPK Paruh Waktu"
+>
+  <header class="mb-6">
+    <h1 class="text-3xl font-semibold sm:text-4xl">{data.meta.title}</h1>
+    <p class="mt-2 text-sm text-muted-foreground">
+      Periode {data.meta.period} · Terakhir diperbarui {data.meta.generated_at} · Sumber data
+      {data.meta.source_updated_at}
+    </p>
+  </header>
+
+  <KpiCards
+    items={[
+      { label: 'Total master', value: fmtInt(summary.total), hint: 'PPPK paruh waktu provinsi' },
+      { label: 'Sudah masuk', value: fmtInt(summary.processed), tone: 'success' },
+      { label: 'Belum', value: fmtInt(summary.belum), tone: 'danger' },
+      {
+        label: 'Persentase',
+        value: fmtPct(summary.ratio),
+        hint: `${fmtInt(summary.unregistered)} usulan tak terdaftar`,
+      },
+    ]}
+  />
+
+  <section class="mt-8 grid gap-4 md:grid-cols-2" aria-label="Ringkasan per kelompok">
+    {
+      summary.groups.map((group) => (
+        <Card>
+          <CardHeader>
+            <CardTitle className="text-lg">
+              <a href={hrefs[group.key]} class="hover:text-primary hover:underline">
+                {group.title}
+              </a>
+            </CardTitle>
+            <CardDescription>{descriptions[group.key]}</CardDescription>
+          </CardHeader>
+          <CardContent>
+            <div class="flex items-baseline gap-2">
+              <span class="text-3xl font-semibold tabular-nums">{fmtPct(group.ratio)}</span>
+              <span class="text-sm text-muted-foreground">sudah masuk</span>
+            </div>
+            <div class="mt-3 h-2.5 w-full overflow-hidden rounded-full bg-muted" aria-hidden="true">
+              <div
+                class="h-full rounded-full bg-primary"
+                style={`width: ${Math.min(100, Math.max(0, group.ratio))}%`}
+              />
+            </div>
+            <p class="mt-3 text-sm text-muted-foreground">
+              <span class="font-medium text-foreground">{fmtInt(group.processed)}</span> dari{' '}
+              {fmtInt(group.total)} orang · {scope(group)}
+            </p>
+            <a
+              href={hrefs[group.key]}
+              class="mt-4 inline-flex text-sm font-medium text-primary hover:underline"
+            >
+              Lihat ringkasan →
+            </a>
+          </CardContent>
+        </Card>
+      ))
+    }
+  </section>
+
+  <section class="mt-8 max-w-3xl rounded-xl border bg-muted/40 p-5 text-sm text-muted-foreground">
+    <h2 class="mb-2 text-sm font-semibold text-foreground">Cara membaca</h2>
+    <ul class="list-disc space-y-1 pl-5">
+      <li>Angka dihitung dari daftar resmi PPPK paruh waktu yang sudah dikelompokkan.</li>
+      <li>“Sudah masuk” berarti NIP ditemukan pada usulan terbaru yang dapat dipakai.</li>
+      <li>Usulan dengan NIP tidak terdaftar dihitung terpisah dan tidak menambah capaian.</li>
+    </ul>
+  </section>
+</BaseLayout>

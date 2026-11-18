@@ -1,83 +1,20 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../components/ui/card';
-import pendidikan from '../data/paruh-pendidikan.json';
-import nonPendidikan from '../data/paruh-non-pendidikan.json';
-import { fmtInt, fmtPct } from '../lib/format';
-
-const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
-const pages = [
-  {
-    href: `${base}paruh-pendidikan/`,
-    title: 'PPPK Paruh Waktu — Pendidikan',
-    description: 'Dinas Pendidikan dan Kebudayaan serta cabang dinas di wilayahnya.',
-    data: pendidikan,
-  },
-  {
-    href: `${base}paruh-non-pendidikan/`,
-    title: 'PPPK Paruh Waktu — Non-Pendidikan',
-    description: 'Unit kerja di luar Dinas Pendidikan dan Kebudayaan.',
-    data: nonPendidikan,
-  },
-];
 ---
 
 <BaseLayout
   title="Workspace Status"
-  description="Halaman status hasil olahan data dari pipeline workspace."
-  pageLabel="Ringkasan"
+  description="Situs ringkasan hasil olahan data dari pipeline workspace."
+  pageLabel="Tentang"
 >
   <section class="max-w-3xl">
-    <h1 class="text-3xl font-semibold sm:text-4xl">Status hasil olahan data</h1>
+    <h1 class="text-3xl font-semibold sm:text-4xl">Workspace Status</h1>
     <p class="mt-3 text-muted-foreground">
-      Halaman ini merangkum hasil pemrosesan usulan perpanjangan PPPK paruh waktu tahun 2026.
-      Angka di bawah dihitung dari daftar resmi PPPK paruh waktu dan usulan yang sudah masuk,
-      dicocokkan per nomor induk pegawai.
+      Situs ini menampilkan ringkasan hasil olahan data dari pipeline di workspace. Angkanya
+      disajikan untuk melihat perkembangan tiap hasil olahan data.
     </p>
-    <p class="mt-2 text-xs text-muted-foreground">
-      Diperbarui {pendidikan.meta.generated_at}. Data agregat; tidak menampilkan NIP, nama, atau email.
+    <p class="mt-2 text-sm text-muted-foreground">
+      Data yang ditampilkan sudah agregat. Situs ini tidak menampilkan NIP, nama, atau email.
     </p>
-  </section>
-
-  <section class="mt-8 grid gap-4 md:grid-cols-2" aria-label="Daftar halaman status">
-    {
-      pages.map((page) => (
-        <Card className="transition-colors hover:border-primary/50">
-          <CardHeader>
-            <CardTitle className="text-lg">
-              <a href={page.href} class="hover:text-primary hover:underline">
-                {page.title}
-              </a>
-            </CardTitle>
-            <CardDescription>{page.description}</CardDescription>
-          </CardHeader>
-          <CardContent>
-            <div class="flex items-baseline gap-2">
-              <span class="text-3xl font-semibold tabular-nums">{fmtPct(page.data.summary.ratio)}</span>
-              <span class="text-sm text-muted-foreground">sudah masuk</span>
-            </div>
-            <div class="mt-3 h-2.5 w-full overflow-hidden rounded-full bg-muted" aria-hidden="true">
-              <div
-                class="h-full rounded-full bg-primary"
-                style={`width: ${Math.min(100, Math.max(0, page.data.summary.ratio))}%`}
-              />
-            </div>
-            <p class="mt-3 text-sm text-muted-foreground">
-              <span class="font-medium text-foreground">{fmtInt(page.data.summary.processed)}</span>
-              dari {fmtInt(page.data.summary.total)} orang sudah masuk daftar.
-            </p>
-          </CardContent>
-        </Card>
-      ))
-    }
-  </section>
-
-  <section class="mt-8 rounded-xl border bg-muted/40 p-5 text-sm text-muted-foreground">
-    <h2 class="mb-2 text-sm font-semibold text-foreground">Catatan metodologi</h2>
-    <ul class="list-disc space-y-1 pl-5">
-      <li>Pencocokan menggunakan NIP, bukan nama, agar satu orang tidak terhitung dua kali.</li>
-      <li>Jika satu NIP dikirim lebih dari sekali, usulan dari email terbaru yang dipakai.</li>
-      <li>Baris dengan NIP tidak ditemukan pada daftar resmi tidak dihitung sebagai sudah masuk.</li>
-    </ul>
   </section>
 </BaseLayout>

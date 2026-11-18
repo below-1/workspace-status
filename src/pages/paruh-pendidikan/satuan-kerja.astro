@@ -1,0 +1,94 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import KpiCards from '../../components/KpiCards.astro';
+import StatTable from '../../components/StatTable.astro';
+import SatuanKerjaTable from '../../components/tables/SatuanKerjaTable';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../../components/ui/card';
+import { fmtInt, fmtPct } from '../../lib/format';
+import type { TableColumn } from '../../lib/table';
+import data from '../../data/paruh-pendidikan.json';
+
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+const { summary } = data;
+
+const counts = data.satuan_kerja.reduce(
+  (acc, row) => {
+    if (!row.total || !row.processed) acc.kosong += 1;
+    else if (row.processed >= row.total) acc.lengkap += 1;
+    else acc.sebagian += 1;
+    return acc;
+  },
+  { lengkap: 0, sebagian: 0, kosong: 0 },
+);
+
+const invalidColumns: TableColumn[] = [
+  { key: 'unit', label: 'Unit kerja' },
+  { key: 'reason', label: 'Alasan' },
+  { key: 'count', label: 'Pengirim', format: 'int', align: 'right' },
+];
+---
+
+<BaseLayout
+  title="Status per Satuan Kerja — Pendidikan | Workspace Status"
+  description="Tabel rinci status usulan perpanjangan PPPK paruh waktu untuk satuan kerja Dinas Pendidikan dan Kebudayaan."
+  pageLabel="PPPK Paruh Waktu"
+>
+  <header class="mb-6">
+    <div class="flex flex-wrap gap-4 text-sm">
+      <a href={`${base}pppk-paruh-waktu/`} class="text-primary hover:underline">
+        ← Ringkasan
+      </a>
+      <a href={`${base}paruh-pendidikan/`} class="text-primary hover:underline">
+        ← Pendidikan
+      </a>
+    </div>
+    <h1 class="mt-3 text-3xl font-semibold sm:text-4xl">Status per satuan kerja</h1>
+    <p class="mt-2 text-sm text-muted-foreground">
+      {fmtInt(summary.satuan_kerja_count)} satuan kerja di bawah Dinas Pendidikan dan Kebudayaan ·
+      Diperbarui {data.meta.generated_at}
+    </p>
+  </header>
+
+  <KpiCards
+    items={[
+      { label: 'Total master', value: fmtInt(summary.total) },
+      { label: 'Sudah masuk', value: fmtInt(summary.processed), tone: 'success' },
+      { label: 'Belum', value: fmtInt(summary.belum), tone: 'danger' },
+      { label: 'Persentase', value: fmtPct(summary.ratio) },
+    ]}
+  />
+
+  <Card className="mt-6">
+    <CardHeader>
+      <CardTitle>Status satuan kerja</CardTitle>
+      <CardDescription>
+        <span class="text-success">{fmtInt(counts.lengkap)} lengkap</span> ·{' '}
+        <span class="text-warning">{fmtInt(counts.sebagian)} sebagian</span> ·{' '}
+        <span class="text-danger">{fmtInt(counts.kosong)} kosong</span>. Cari nama satuan kerja,
+        saring berdasarkan jenjang atau status, lalu urutkan kolom yang diinginkan.
+      </CardDescription>
+    </CardHeader>
+    <CardContent>
+      <SatuanKerjaTable client:visible rows={data.satuan_kerja} />
+    </CardContent>
+  </Card>
+
+  <details class="mt-8 rounded-xl border bg-card p-5 text-sm">
+    <summary class="cursor-pointer font-semibold">Catatan metodologi dan pengirim bermasalah</summary>
+    <div class="mt-4 space-y-6">
+      <ul class="list-disc space-y-1 pl-5 text-muted-foreground">
+        <li>Pencocokan per NIP terhadap daftar resmi PPPK paruh waktu.</li>
+        <li>Jika satu NIP dikirim berulang, usulan dari email terbaru yang dipakai.</li>
+        <li>Status “lengkap” berarti seluruh PPPK paruh waktu pada satuan kerja sudah masuk daftar.</li>
+        <li>Jenjang satuan kerja diambil dari penempatan kerja terbanyak pada satuan kerja tersebut.</li>
+        <li>Usulan dengan NIP tidak valid tidak menambah jumlah “sudah masuk”.</li>
+      </ul>
+      <StatTable
+        title="Pengirim dengan usulan terakhir yang tidak dapat dipakai"
+        columns={invalidColumns}
+        rows={data.invalid_submissions}
+        description="Diringkas per unit kerja dan alasan; tanpa alamat email."
+      />
+    </div>
+  </details>
+</BaseLayout>

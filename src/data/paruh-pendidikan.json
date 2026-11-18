@@ -2,7 +2,7 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "18 November 2026, 00:33 WITA",
+    "generated_at": "18 November 2026, 09:28 WITA",
     "source_updated_at": "10 November 2026, 14:24 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -76,6 +76,7 @@
   "satuan_kerja": [
     {
       "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Unit induk Dinas Pendidikan",
       "total": 232,
       "processed": 13,
       "belum": 219,
@@ -83,6 +84,7 @@
     },
     {
       "name": "SMK NEGERI 1 ENDE",
+      "jenjang": "SMK",
       "total": 27,
       "processed": 0,
       "belum": 27,
@@ -90,6 +92,7 @@
     },
     {
       "name": "SMK NEGERI 3 KOMODO",
+      "jenjang": "SMK",
       "total": 26,
       "processed": 0,
       "belum": 26,
@@ -97,6 +100,7 @@
     },
     {
       "name": "SMAN 1 KODI",
+      "jenjang": "SMA",
       "total": 23,
       "processed": 0,
       "belum": 23,
@@ -104,6 +108,7 @@
     },
     {
       "name": "SMA NEGERI BATETI",
+      "jenjang": "SMA",
       "total": 22,
       "processed": 0,
       "belum": 22,
@@ -111,6 +116,7 @@
     },
     {
       "name": "SMA NEGERI HAREKAKAE",
+      "jenjang": "SMA",
       "total": 21,
       "processed": 0,
       "belum": 21,
@@ -118,6 +124,7 @@
     },
     {
       "name": "SMAN 1 HAWU MEHARA",
+      "jenjang": "SMA",
       "total": 20,
       "processed": 0,
       "belum": 20,
@@ -125,6 +132,7 @@
     },
     {
       "name": "SMAN 1 FATULEU",
+      "jenjang": "SMA",
       "total": 19,
       "processed": 0,
       "belum": 19,
@@ -132,6 +140,7 @@
     },
     {
       "name": "SMKN 1 KUPANG",
+      "jenjang": "SMK",
       "total": 19,
       "processed": 0,
       "belum": 19,
@@ -139,6 +148,7 @@
     },
     {
       "name": "SMA NEGERI 2 ENDE",
+      "jenjang": "SMA",
       "total": 18,
       "processed": 0,
       "belum": 18,
@@ -146,6 +156,7 @@
     },
     {
       "name": "SMAN 1 MALAKA BARAT",
+      "jenjang": "SMA",
       "total": 18,
       "processed": 0,
       "belum": 18,
@@ -153,6 +164,7 @@
     },
     {
       "name": "SMAN 2 CIBAL",
+      "jenjang": "SMA",
       "total": 18,
       "processed": 0,
       "belum": 18,
@@ -160,6 +172,7 @@
     },
     {
       "name": "SMKN 2 KUPANG",
+      "jenjang": "SMK",
       "total": 18,
       "processed": 0,
       "belum": 18,
@@ -167,6 +180,7 @@
     },
     {
       "name": "SMA NEGERI 1 KODI BALAGHAR",
+      "jenjang": "SMA",
       "total": 17,
       "processed": 0,
       "belum": 17,
@@ -174,16 +188,4642 @@
     },
     {
       "name": "SMKN 1 WAE RII",
+      "jenjang": "SMK",
       "total": 17,
       "processed": 0,
       "belum": 17,
       "ratio": 0.0
     },
     {
-      "name": "Satuan kerja lainnya (579 satuan kerja)",
-      "total": 3858,
+      "name": "SMA NEGERI 1 LEWA",
+      "jenjang": "SMA",
+      "total": 16,
       "processed": 0,
-      "belum": 3858,
+      "belum": 16,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI NOEBEBA",
+      "jenjang": "SMA",
+      "total": 16,
+      "processed": 0,
+      "belum": 16,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 SOE",
+      "jenjang": "SMA",
+      "total": 16,
+      "processed": 0,
+      "belum": 16,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN BENLUTU",
+      "jenjang": "SMA",
+      "total": 16,
+      "processed": 0,
+      "belum": 16,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN INSANA TENGAH",
+      "jenjang": "SMA",
+      "total": 16,
+      "processed": 0,
+      "belum": 16,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 RINDI UMALULU",
+      "jenjang": "SMA",
+      "total": 15,
+      "processed": 0,
+      "belum": 15,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 3 CIBAL",
+      "jenjang": "SMA",
+      "total": 15,
+      "processed": 0,
+      "belum": 15,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI DINGKANAL",
+      "jenjang": "SMA",
+      "total": 15,
+      "processed": 0,
+      "belum": 15,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 WEWEWA SELATAN",
+      "jenjang": "SMA",
+      "total": 15,
+      "processed": 0,
+      "belum": 15,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 4 KUPANG",
+      "jenjang": "SMA",
+      "total": 15,
+      "processed": 0,
+      "belum": 15,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 7 KUPANG",
+      "jenjang": "SMA",
+      "total": 15,
+      "processed": 0,
+      "belum": 15,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 ATAMBUA",
+      "jenjang": "SMK",
+      "total": 15,
+      "processed": 0,
+      "belum": 15,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 MAUMERE",
+      "jenjang": "SMK",
+      "total": 15,
+      "processed": 0,
+      "belum": 15,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 PANDAWAI",
+      "jenjang": "SMA",
+      "total": 14,
+      "processed": 0,
+      "belum": 14,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 RAIJUA",
+      "jenjang": "SMA",
+      "total": 14,
+      "processed": 0,
+      "belum": 14,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 SABU BARAT",
+      "jenjang": "SMA",
+      "total": 14,
+      "processed": 0,
+      "belum": 14,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 UMALULU",
+      "jenjang": "SMA",
+      "total": 14,
+      "processed": 0,
+      "belum": 14,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 3 AMABI OEFETO TIMUR",
+      "jenjang": "SMA",
+      "total": 14,
+      "processed": 0,
+      "belum": 14,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 3 KEFAMENANU",
+      "jenjang": "SMA",
+      "total": 14,
+      "processed": 0,
+      "belum": 14,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI LEWA TIDAHU",
+      "jenjang": "SMA",
+      "total": 14,
+      "processed": 0,
+      "belum": 14,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 ATAMBUA",
+      "jenjang": "SMA",
+      "total": 14,
+      "processed": 0,
+      "belum": 14,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 NUBATUKAN",
+      "jenjang": "SMA",
+      "total": 14,
+      "processed": 0,
+      "belum": 14,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 KUPANG",
+      "jenjang": "SMA",
+      "total": 14,
+      "processed": 0,
+      "belum": 14,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN OINLASI",
+      "jenjang": "SMA",
+      "total": 14,
+      "processed": 0,
+      "belum": 14,
+      "ratio": 0.0
+    },
+    {
+      "name": "SEKOLAH MENENGAH ATAS (SMA) NEGERI BANAT",
+      "jenjang": "SMA",
+      "total": 13,
+      "processed": 0,
+      "belum": 13,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 KUPANG BARAT",
+      "jenjang": "SMA",
+      "total": 13,
+      "processed": 0,
+      "belum": 13,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 LIAE",
+      "jenjang": "SMA",
+      "total": 13,
+      "processed": 0,
+      "belum": 13,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 3 KUPANG TIMUR",
+      "jenjang": "SMA",
+      "total": 13,
+      "processed": 0,
+      "belum": 13,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 KUPANG",
+      "jenjang": "SMA",
+      "total": 13,
+      "processed": 0,
+      "belum": 13,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 KUPANG TIMUR",
+      "jenjang": "SMA",
+      "total": 13,
+      "processed": 0,
+      "belum": 13,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 SABU TIMUR",
+      "jenjang": "SMA",
+      "total": 13,
+      "processed": 0,
+      "belum": 13,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 WAIKABUBAK",
+      "jenjang": "SMA",
+      "total": 13,
+      "processed": 0,
+      "belum": 13,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 WEWEWA TIMUR",
+      "jenjang": "SMA",
+      "total": 13,
+      "processed": 0,
+      "belum": 13,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN BARANUSA",
+      "jenjang": "SMA",
+      "total": 13,
+      "processed": 0,
+      "belum": 13,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN LURASIK",
+      "jenjang": "SMA",
+      "total": 13,
+      "processed": 0,
+      "belum": 13,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 2 ENDE",
+      "jenjang": "SMK",
+      "total": 13,
+      "processed": 0,
+      "belum": 13,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 KALABAHI",
+      "jenjang": "SMK",
+      "total": 13,
+      "processed": 0,
+      "belum": 13,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 TANA RIGHU",
+      "jenjang": "SMK",
+      "total": 13,
+      "processed": 0,
+      "belum": 13,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 4 KALABAHI",
+      "jenjang": "SMK",
+      "total": 13,
+      "processed": 0,
+      "belum": 13,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLBN LOBALAIN",
+      "jenjang": "SLB",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 BOAWAE",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 WULLA WAIJELU",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 LOBALAIN",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 PACAR",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 WEWEWA TIMUR",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 3 KALABAHI",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI LAENMANEN",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI MAGEPANDA",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI RESTORASI DORENG",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI SASITAMEAN",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI WEBRIAMATA",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 CIBAL",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 KEFAMENANU",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 KOMODO",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 LIAE",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 MAUMERE",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 PANTAR",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 TANA RIGHU",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 KEFAMENANU",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 4 SATARMESE",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN BOKONG",
+      "jenjang": "SMA",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI NOEMUTI",
+      "jenjang": "SMK",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 5 KUPANG",
+      "jenjang": "SMK",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN KOLBANO",
+      "jenjang": "SMK",
+      "total": 12,
+      "processed": 0,
+      "belum": 12,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 NGGAHA ORI ANGU",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 TITEHENA",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 WANUKAKA",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI ALKANI",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI MAUROLE",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI TOBU",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI TOINEKE",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 ABAD",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 AMANUBAN TENGAH",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 AMANUBAN TIMUR",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 AMFOANG BARAT LAUT",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 LEMBOR",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 MOLLO SELATAN",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 SABU BARAT",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 LANGKE REMBONG",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 LEMBOR SELATAN",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 5 KUPANG",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN MATARU",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN OENINO",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN OENOPO",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN SANTIAN",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN TAMALABANG",
+      "jenjang": "SMA",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 SATARMESE",
+      "jenjang": "SMK",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 7 RAKAWATU",
+      "jenjang": "SMK",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 WEWEWA BARAT",
+      "jenjang": "SMK",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 3 KUPANG",
+      "jenjang": "SMK",
+      "total": 11,
+      "processed": 0,
+      "belum": 11,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI OELMASI",
+      "jenjang": "SLB",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 ADONARA TENGAH",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 KAHAUNGU ETI",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 LARANTUKA",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 PACAR",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 RIUNG BARAT",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 WAINGAPU",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI BININO",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI KELUBAGOLIT",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI LASIOLAT",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI NOEMUTI TIMUR",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI PINU PAHAR",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI RAIMANUK",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI WEDEROK",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 KOTA KOMBA",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 MAMBORO",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 ROTE BARAT DAYA",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 RUTENG ANAM",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 TANJUNG BUNGA",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 MAUMERE",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 8 KUPANG",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN INSANA BARAT",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN KUANFATU",
+      "jenjang": "SMA",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 AMARASI",
+      "jenjang": "SMK",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 BOLENG",
+      "jenjang": "SMK",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 LARANTUKA",
+      "jenjang": "SMK",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 LEMBOR SELATAN",
+      "jenjang": "SMK",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 PANDAWAI",
+      "jenjang": "SMK",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 2 WELAK",
+      "jenjang": "SMK",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI PERBATASAN RAI MANUK",
+      "jenjang": "SMK",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 ILE APE",
+      "jenjang": "SMK",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 KODI BANGEDO",
+      "jenjang": "SMK",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 LOBALAIN",
+      "jenjang": "SMK",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 2 KOMODO",
+      "jenjang": "SMK",
+      "total": 10,
+      "processed": 0,
+      "belum": 10,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB N PEMBINA KUPANG",
+      "jenjang": "SLB",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI KOTA RADJA KUPANG",
+      "jenjang": "SLB",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 BALAURING",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 PAHUNGA LODU",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 WOLOWARU",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 12 KUPANG",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 HAHARU",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 RUTENG PURANG",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 3 MACANG PACAR",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 4 TAKARI",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI KAKULUK MESAK",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI MATPUNU",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI OEKOLO",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI PEMANA",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI RESTORASI AIMOLI",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI RESTORASI MAINANG",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI SAENAM",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 LELAK",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 MALAKA TIMUR",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 NITA",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 PANTAI BARU",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 ROTE BARAT",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 SOA",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 TASIFETO BARAT",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN ATENGMELANG",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN AWAALAH",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN KABOLA",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN ROTE SELATAN",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN WELAUS",
+      "jenjang": "SMA",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 2 LAMBOYA",
+      "jenjang": "SMK",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI RESTORASI PULAU KOMODO",
+      "jenjang": "SMK",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 AESESA",
+      "jenjang": "SMK",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 LOLI",
+      "jenjang": "SMK",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 4 KUPANG",
+      "jenjang": "SMK",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN MURIABANG",
+      "jenjang": "SMK",
+      "total": 9,
+      "processed": 0,
+      "belum": 9,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB N BERU",
+      "jenjang": "SLB",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI ENDE",
+      "jenjang": "SLB",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 BUYASURI",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 ILE APE TIMUR",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 LOLI",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 SEMAU",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 TAKARI",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 WAINGAPU",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 HAWU MEHARA",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 KEO TENGAH",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 SOA",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 3 AMARASI SELATAN",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 3 NDOSO",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI BIKOMI UTARA",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI HALIOAN",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI KALONDAMA",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI KOTOLIN",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI LIKWATANG",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI MIOMAFFO TENGAH",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI NIANAM",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI PANTOLA",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI PERBATASAN LAMAKNEN SELATAN",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI SABUN",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI SALBAIT",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI TEREWENG",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI WELAMOSA",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 LAMBOYA",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 POCO RANAKA",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 ROTE BARAT LAUT",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 SABU TENGAH",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 SULAMU",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 TAEBENU",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 TAEKAS",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 KUPANG TIMUR",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 6 KUPANG",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 8 POCO RANAKA",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN APUI",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN BIBOKI ANLEU",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN KAPAN",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN KOKBAUN",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN KUALIN",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN MANUFUI",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN MAUTA",
+      "jenjang": "SMA",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 KEFAMENANU",
+      "jenjang": "SMK",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 KOTA TAMBOLAKA",
+      "jenjang": "SMK",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 REOK BARAT",
+      "jenjang": "SMK",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 2 WAINGAPU",
+      "jenjang": "SMK",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 7 ENDE",
+      "jenjang": "SMK",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 KUWUS",
+      "jenjang": "SMK",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 LAMBALEDA",
+      "jenjang": "SMK",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 SOE",
+      "jenjang": "SMK",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 WEWEWA TIMUR",
+      "jenjang": "SMK",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 2 SOE",
+      "jenjang": "SMK",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN KOBALIMA",
+      "jenjang": "SMK",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN KUALIN",
+      "jenjang": "SMK",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN MARITAING",
+      "jenjang": "SMK",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN OP",
+      "jenjang": "SMK",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN WEWIKU BADARAI",
+      "jenjang": "SMK",
+      "total": 8,
+      "processed": 0,
+      "belum": 8,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI ALOR",
+      "jenjang": "SLB",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI BAJAWA",
+      "jenjang": "SLB",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 AMARASI",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 AMARASI TIMUR",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 NEKAMESE",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 WAIBAKUL",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 WELULI",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 AESESA",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 AMARASI BARAT",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 SULAMU",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 TASIFETO TIMUR",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 WELAK",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI KIUBAAT",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI MATAWAI LA PAWU",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI PULAU ENDE",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI SILAIPUI",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 AESESA",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 AMANUBAN SELATAN",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 AMFOANG BARAT DAYA",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 KUPANG TENGAH",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 LOBALAIN",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 ROTE TIMUR",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 WELAK",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 AMARASI SELATAN",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 BORONG",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 KUPANG BARAT",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 4 POCO RANAKA",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 5 POCO RANAKA",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN AYOTUPAS",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN BIKOMI NILULAT (PERSIAPAN)",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN BURAGA",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN NOEMUTI",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN PULAU PURA",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN WOLWAL",
+      "jenjang": "SMA",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 WAIBAKUL",
+      "jenjang": "SMK",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 WAINGAPU",
+      "jenjang": "SMK",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 3 ATAMBUA",
+      "jenjang": "SMK",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 5 WAINGAPU",
+      "jenjang": "SMK",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI ADONARA BARAT",
+      "jenjang": "SMK",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI INSANA BARAT TUAMAU",
+      "jenjang": "SMK",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI NDORA",
+      "jenjang": "SMK",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI POLLO",
+      "jenjang": "SMK",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI RESTORASI TIMUNG WAE RII",
+      "jenjang": "SMK",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI WITIHAMA",
+      "jenjang": "SMK",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 BORONG",
+      "jenjang": "SMK",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 ROTE BARAT",
+      "jenjang": "SMK",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 2 KUPANG BARAT",
+      "jenjang": "SMK",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 2 WEWEWA BARAT",
+      "jenjang": "SMK",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN KAYANG",
+      "jenjang": "SMK",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN NIBAAF",
+      "jenjang": "SMK",
+      "total": 7,
+      "processed": 0,
+      "belum": 7,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI AM ROIT",
+      "jenjang": "SLB",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI KOMODO",
+      "jenjang": "SLB",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI MANEKAT NIKI-NIKI",
+      "jenjang": "SLB",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI TUNA GRAHITA (C) ALOR",
+      "jenjang": "SLB",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI WAIBAKUL",
+      "jenjang": "SLB",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLBN KANATANG",
+      "jenjang": "SLB",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 ADONARA",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 ADONARA TIMUR",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 AMABI OEFETO",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 AMABI OEFETO TIMUR",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 ENDE",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 JEREBUU",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 KODI UTARA",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 RESTORASI UMBU RATU NGGAY",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 SOLOR SELATAN",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 WAIGETE",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 LEMBOR",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 TASIFETO BARAT",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 3 ATAMBUA",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI ALEMBA",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI I RESTORASI WOLOMEZE",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI KATALA HAMU LINGU",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI NUNKOLO",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI PLUS KOPI COLOL",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI RESTORASI FATUAT",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI RESTORASI PILI",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI SAHAN",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI USAPIMNASI",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI WAIBLAMA",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 AIMERE",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 BOLENG",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 FATULEU TENGAH",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 INERIE",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 KAMBERA",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 LANGKE REMBONG",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 MACANG PACAR",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 SAMBI RAMPAS",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 SATARMESE",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 UMBU RATU NGGAY BARAT",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 AMARASI",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 4 LAMBA LEDA",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 5 ELAR",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 6 KOTA KOMBA",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 9 KUPANG",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN BIUDUK FOHO",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN LAMALU",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN MUTIS EBAN",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN PANTURA",
+      "jenjang": "SMA",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 AMARASI BARAT",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 MACANG PACAR",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 RESTORASI GOLEWA",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 UMBU RATU NGGAY TENGAH",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 WOLOMEZE",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 WULANGGITANG",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 3 ELAR",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 3 MAUMERE",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI HARNENO",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI ILE BOLENG",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI KAKULUK MESAK",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI OEHANI",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI SUNU",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 AMABI OEFETO",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 AMFOANG SELATAN",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 ELAR",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 LAMBOYA",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 WANUKAKA",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 2 LAMBA LEDA",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 3 KALABAHI",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 3 PAHUNGA LODU",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 4 LEWA",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN BIKOMI SELATAN",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN OEOLO",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN SASITAMEAN",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN TOIANAS",
+      "jenjang": "SMK",
+      "total": 6,
+      "processed": 0,
+      "belum": 6,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI TENDA RUTENG",
+      "jenjang": "SLB",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI TUNA GRAHITA (C) ENDE",
+      "jenjang": "SLB",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLBN NUNUMEU",
+      "jenjang": "SLB",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 ADONARA BARAT",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 AMARASI BARAT",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 DEMON PAGONG",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 HAHARU",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 ILE APE",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 KOTA TAMBOLAKA",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 ATAMBUA",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 NEKAMESE",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 SEMAU",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 3 AMARASI TIMUR",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 3 TAKARI",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 3 WAINGAPU",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI FATUKOPA",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI IO KUFEU",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI KOLANA",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI NUNBENA",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI PIDO",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 BOLA",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 ELAR",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 INSANA",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 LAMBA LEDA",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 NAGAWUTUNG",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 RAHONG UTARA",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 RIUNG BARAT",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 TALIBURA",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 11 KUPANG",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 AMARASI TIMUR",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 LAMBA LEDA",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 SANO NGGOANG",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 SATAR MESE LANGKE MAJOK",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 TAEBENU",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 3 LAMBA LEDA",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 6 BORONG",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 7 KOTA KOMBA",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN FAFINESU",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN KI E",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN NOEBANA",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN OELEU",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN PUREMAN",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN ROLE DELU",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN WOLOJITA",
+      "jenjang": "SMA",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 AMFOANG UTARA",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 MAMBORO",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 UMBU RATU NGGAY",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 WEWEWA TENGAH",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 3 WEWEWA BARAT",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 6 KARERA",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI BASMUTI",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI NOEBAUN",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI SOLOR TIMUR",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 AMFOANG BARAT LAUT",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 KODI UTARA",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 LABUAN BAJO",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 6 KUPANG",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 8 KUPANG",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN BAKALANG",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN KOKAR",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN OELET",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN PAISANAUNU",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN RIUNG",
+      "jenjang": "SMK",
+      "total": 5,
+      "processed": 0,
+      "belum": 5,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB C NEGERI WAIKABUBAK",
+      "jenjang": "SLB",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI KOTA KUPANG",
+      "jenjang": "SLB",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI NUSA BUNGTILU",
+      "jenjang": "SLB",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI PANTAR",
+      "jenjang": "SLB",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI TENUBOT",
+      "jenjang": "SLB",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 AMARASI SELATAN",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 AMFOANG UTARA",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 NANGAPANDA",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 RESTORASI RIUNG",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 RINDI",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 WULANGGITANG",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 JEREBUU",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 NDOSO",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 3 FATULEU TENGAH",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 4 KOMODO",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 5 LAMBA LEDA",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI FAUTMOLO",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI KANGAE",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI RESTORASI PADANG ALANG",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 GOLEWA WERE",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 KALABAHI",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 MAUPONGGO",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 SOLOR BARAT",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 TASIFETO TIMUR",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 10 KUPANG",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 AMABI OEFETO TIMUR",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 BAJAWA",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 KALABAHI",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 KOTA KOMBA",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 KUWUS",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 RAHONG UTARA BEOKINA",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 3 KOTA KOMBA",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 3 KUPANG",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 3 SAMBI RAMPAS",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 3 SATAR MESE",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 4 KOTA KOMBA",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 4 SAMBI RAMPAS",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 5 BORONG",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 8 KOTA KOMBA",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN ALAS",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN BOLAN",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN MANAMAS",
+      "jenjang": "SMA",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 2 SABU BARAT",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI BABUIN",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI BATUPUTIH",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI BUNGTILU SEMAU",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI FEOTLEU",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI MOLLO TENGAH",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI PERBATASAN LAMAKNEN SELATAN",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI RESTORASI MANUFUI",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 AIMERE",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 AMARASI SELATAN",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 KOTA KOMBA",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 POCO RANAKA",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 TAKARI",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 2 BELU",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN ALOR BESAR",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN AMPERA",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN BUKAPITING",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN MALAIPEA",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN PANTAI BARU",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN TALIBURA",
+      "jenjang": "SMK",
+      "total": 4,
+      "processed": 0,
+      "belum": 4,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB N WAIKABUBAK",
+      "jenjang": "SLB",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI BENPASI",
+      "jenjang": "SLB",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 02 KABOLA",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 LEBATUKAN",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 PABERIWAI",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 SEMAU SELATAN",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 10 BORONG",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 AMFOANG TIMUR",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI DETUSOKO",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI MAKIR",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI RESTORASI PADANGSUL",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 BAJAWA",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 FATULEU BARAT",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 GOLEWA",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 GOLEWA SELATAN",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 KUWUS",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 LEMBOR SELATAN",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 REOK",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 WEWEWA UTARA",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 ELAR",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 FATULEU TENGAH",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 KOMODO",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 3 AESESA",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 3 ELAR",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 3 POCO RANAKA",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 6 ELAR",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 6 POCO RANAKA",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 7 POCO RANAKA",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 8 BORONG",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 9 BORONG",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN MUTIS",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN PROBUR",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN1 LOURA",
+      "jenjang": "SMA",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 ADONARA",
+      "jenjang": "SMK",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 KODI BALAGHAR",
+      "jenjang": "SMK",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 TAEBENU",
+      "jenjang": "SMK",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 2 AMFOANG SELATAN",
+      "jenjang": "SMK",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 2 KOTA TAMBOLAKA",
+      "jenjang": "SMK",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI JEREBUU",
+      "jenjang": "SMK",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI RAIHAT",
+      "jenjang": "SMK",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI TUNUA",
+      "jenjang": "SMK",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 BUYASURI",
+      "jenjang": "SMK",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 KABUPATEN KUPANG",
+      "jenjang": "SMK",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 KUPANG BARAT",
+      "jenjang": "SMK",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 LEWOLEBA",
+      "jenjang": "SMK",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 NANGARORO",
+      "jenjang": "SMK",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 WAIKABUBAK",
+      "jenjang": "SMK",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 WELAK",
+      "jenjang": "SMK",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN POLEN",
+      "jenjang": "SMK",
+      "total": 3,
+      "processed": 0,
+      "belum": 3,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI LEWOLEBA",
+      "jenjang": "SLB",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI NITSAE",
+      "jenjang": "SLB",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI WERI",
+      "jenjang": "SLB",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 AMFOANG TIMUR",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 WULANDONI",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 2 BOAWAE",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI ALOR KECIL",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI SAMBET",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 AMFOANG SELATAN",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 BORONG",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 KEO TENGAH",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 NDOSO",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 ROTE TENGAH",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 FATULEU",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 NUBATUKAN",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 SAMBI RAMPAS",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 3 BORONG",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 3 FATULEU",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 4 ELAR",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 7 ELAR",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN LANTOKA",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN MAIWAL",
+      "jenjang": "SMA",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 ATADEI",
+      "jenjang": "SMK",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 RAHONG UTARA",
+      "jenjang": "SMK",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 TABUNDUNG",
+      "jenjang": "SMK",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 2 TAKARI",
+      "jenjang": "SMK",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 3 ENDE",
+      "jenjang": "SMK",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 4 ENDE",
+      "jenjang": "SMK",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 5 ENDE",
+      "jenjang": "SMK",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 LAMALERA",
+      "jenjang": "SMK",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 SABU BARAT",
+      "jenjang": "SMK",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 2 KOTA KOMBA",
+      "jenjang": "SMK",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN BOKING",
+      "jenjang": "SMK",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN KLETEK SUAI",
+      "jenjang": "SMK",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN PANDAI",
+      "jenjang": "SMK",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN PERIKANAN WINI",
+      "jenjang": "SMK",
+      "total": 2,
+      "processed": 0,
+      "belum": 2,
+      "ratio": 0.0
+    },
+    {
+      "name": "CABANG DINAS PENDIDIKAN WILAYAH VI",
+      "jenjang": "Satuan kerja lainnya",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI BORONG",
+      "jenjang": "SLB",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI KASIH SAYANG SOA",
+      "jenjang": "SLB",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI LAKAMOLA",
+      "jenjang": "SLB",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI LOURA",
+      "jenjang": "SLB",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLB NEGERI TUNA GRAHITA (C) NUBATUKAN",
+      "jenjang": "SLB",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SLBN MALARUMA",
+      "jenjang": "SLB",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 AMFOANG TENGAH",
+      "jenjang": "SMA",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 1 LEWOLEMA",
+      "jenjang": "SMA",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI 4 ATAMBUA",
+      "jenjang": "SMA",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMA NEGERI KEBERBAKATAN OLAHRAGA FLOBAMORATA",
+      "jenjang": "SMA",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 MBELILING",
+      "jenjang": "SMA",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 SANO NGGOANG",
+      "jenjang": "SMA",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 1 WOLOWAE",
+      "jenjang": "SMA",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 FATULEU BARAT",
+      "jenjang": "SMA",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 2 KUPANG TENGAH",
+      "jenjang": "SMA",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 4 BORONG",
+      "jenjang": "SMA",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMAN 7 BORONG",
+      "jenjang": "SMA",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 AMFOANG TENGAH",
+      "jenjang": "SMK",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI 1 TITEHENA",
+      "jenjang": "SMK",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMK NEGERI RESTORASI OELBANU",
+      "jenjang": "SMK",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 AMABI OEFETO TIMUR",
+      "jenjang": "SMK",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 KODI",
+      "jenjang": "SMK",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 1 TABUNDUNG",
+      "jenjang": "SMK",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 2 ELAR",
+      "jenjang": "SMK",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 6 ENDE",
+      "jenjang": "SMK",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN 7 KUPANG",
+      "jenjang": "SMK",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
+      "ratio": 0.0
+    },
+    {
+      "name": "SMKN BAJAWA UTARA",
+      "jenjang": "SMK",
+      "total": 1,
+      "processed": 0,
+      "belum": 1,
       "ratio": 0.0
     }
   ],
