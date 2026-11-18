@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+---
+
+<BaseLayout
+  title="Halaman tidak ditemukan | Workspace Status"
+  description="Halaman yang diminta tidak tersedia di Workspace Status."
+  pageLabel="404"
+  fullHeight
+>
+  <section class="max-w-xl">
+    <img
+      src={`${base}brand/ntt-crest.png`}
+      alt="Lambang Nusa Tenggara Timur"
+      class="size-16 object-contain"
+    />
+    <p class="mt-6 text-sm font-semibold uppercase tracking-widest text-primary">404</p>
+    <h1 class="mt-2 text-3xl font-semibold sm:text-4xl">Halaman tidak ditemukan</h1>
+    <p class="mt-3 text-muted-foreground">
+      Alamat yang diminta tidak tersedia. Halaman mungkin sudah dipindahkan atau tidak pernah dibuat.
+    </p>
+    <div class="mt-6 flex flex-wrap gap-3">
+      <a
+        href={`${base}`}
+        class="inline-flex items-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground hover:bg-primary/90"
+      >
+        Ke beranda
+      </a>
+      <a
+        href={`${base}pppk-paruh-waktu/`}
+        class="inline-flex items-center rounded-md border bg-card px-4 py-2 text-sm font-medium hover:bg-muted"
+      >
+        Lihat status PPPK paruh waktu
+      </a>
+    </div>
+  </section>
+</BaseLayout>

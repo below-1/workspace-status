@@ -9,9 +9,10 @@ interface Props {
   title: string;
   description: string;
   pageLabel?: string;
+  fullHeight?: boolean;
 }
 
-const { title, description, pageLabel } = Astro.props;
+const { title, description, pageLabel, fullHeight = false } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const path = Astro.url.pathname;
 const isHome = path === base || path === base.replace(/\/$/, '') || path === '/';
@@ -39,7 +40,8 @@ const links = [
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
-    <link rel="icon" href={`${base}favicon.svg`} type="image/svg+xml" />
+    <link rel="icon" href={`${base}favicon.png`} type="image/png" sizes="64x64" />
+    <link rel="apple-touch-icon" href={`${base}apple-touch-icon.png`} />
     <script is:inline>
       (() => {
         try {
@@ -52,7 +54,7 @@ const links = [
       })();
     </script>
   </head>
-  <body class="min-h-screen">
+  <body class:list={['min-h-screen', fullHeight && 'flex flex-col']}>
     <a
       href="#content"
       class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-50 focus:rounded-md focus:bg-primary focus:px-3 focus:py-2 focus:text-primary-foreground"
@@ -61,11 +63,18 @@ const links = [
     </a>
 
     <header class="border-b bg-card/80 backdrop-blur">
-      <div class="h-1 w-full bg-brand" aria-hidden="true"></div>
       <div class="mx-auto flex max-w-6xl items-center gap-4 px-4 py-4 sm:px-6">
-        <a href={`${base}`} class="flex flex-col leading-tight">
-          <span class="text-sm font-semibold tracking-tight">Workspace Status</span>
-          <span class="text-xs text-muted-foreground">Status hasil olahan data</span>
+        <a href={`${base}`} class="flex items-center gap-3" aria-label="Workspace Status — beranda">
+          <img
+            src={`${base}brand/ntt-crest.png`}
+            alt=""
+            aria-hidden="true"
+            class="size-8 shrink-0 object-contain"
+          />
+          <span class="flex flex-col leading-tight">
+            <span class="text-sm font-semibold tracking-tight">Workspace Status</span>
+            <span class="text-xs text-muted-foreground">Status hasil olahan data</span>
+          </span>
         </a>
         {!isHome && <nav class="ml-auto hidden items-center gap-1 sm:flex" aria-label="Navigasi utama">
           {
@@ -106,7 +115,13 @@ const links = [
       </div>}
     </header>
 
-    <main id="content" class="mx-auto max-w-6xl px-4 py-8 sm:px-6 sm:py-10">
+    <main
+      id="content"
+      class:list={[
+        'mx-auto w-full max-w-6xl px-4 py-8 sm:px-6 sm:py-10',
+        fullHeight && 'flex flex-1 flex-col justify-center',
+      ]}
+    >
       {pageLabel && <p class="mb-2 text-xs font-semibold uppercase tracking-widest text-primary">{pageLabel}</p>}
       <slot />
     </main>
