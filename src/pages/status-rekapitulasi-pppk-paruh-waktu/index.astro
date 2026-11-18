@@ -8,8 +8,8 @@ import data from '../../data/paruh-waktu.json';
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const { summary } = data;
 const hrefs: Record<string, string> = {
-  pendidikan: `${base}pppk-paruh-waktu/pendidikan/`,
-  'non-pendidikan': `${base}pppk-paruh-waktu/non-pendidikan/`,
+  pendidikan: `${base}status-rekapitulasi-pppk-paruh-waktu/pendidikan/`,
+  'non-pendidikan': `${base}status-rekapitulasi-pppk-paruh-waktu/non-pendidikan/`,
 };
 const descriptions: Record<string, string> = {
   pendidikan: 'Sekolah dan unit induk di bawah Dinas Pendidikan dan Kebudayaan.',
@@ -24,8 +24,8 @@ function scope(group: (typeof summary.groups)[number]): string {
 ---
 
 <BaseLayout
-  title="PPPK Paruh Waktu | Workspace Status"
-  description="Ringkasan status usulan perpanjangan PPPK paruh waktu tahun 2026."
+  title="Status rekapitulasi data evaluasi PPPK Paruh Waktu | Workspace Status"
+  description="Status rekapitulasi data evaluasi PPPK paruh waktu tahun 2026."
   pageLabel="PPPK Paruh Waktu"
 >
   <header class="mb-6">
