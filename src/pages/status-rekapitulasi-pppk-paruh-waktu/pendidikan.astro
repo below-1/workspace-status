@@ -4,6 +4,8 @@ import PageHeader from '../../components/PageHeader.astro';
 import KpiCards from '../../components/KpiCards.astro';
 import ProgressSummary from '../../components/ProgressSummary.astro';
 import StatTable from '../../components/StatTable.astro';
+import { buttonVariants } from '../../components/ui/button';
+import { Card } from '../../components/ui/card';
 import { fmtInt, fmtPct } from '../../lib/format';
 import type { TableColumn } from '../../lib/table';
 import data from '../../data/paruh-pendidikan.json';
@@ -79,6 +81,24 @@ const invalidColumns: TableColumn[] = [
     ]}
   />
 
+  <Card className="mt-6 flex flex-col gap-4 border-primary/30 bg-primary-soft/50 p-6 sm:flex-row sm:items-center sm:justify-between">
+    <div class="space-y-1">
+      <h2 class="text-base font-semibold leading-none text-foreground">Tindak lanjut satuan kerja</h2>
+      <p class="text-sm text-muted-foreground">
+        <span class="font-medium text-foreground">
+          {fmtInt(counts.kosong)} dari {fmtInt(summary.satuan_kerja_count)} satuan kerja
+        </span>{' '}
+        masih kosong. Buka daftar untuk cari unit, saring status, lalu unduh CSV.
+      </p>
+    </div>
+    <a
+      href={`${base}status-rekapitulasi-pppk-paruh-waktu/pendidikan/satuan-kerja/`}
+      class={buttonVariants({ className: 'w-full shrink-0 sm:w-auto' })}
+    >
+      Lihat status satuan kerja <span aria-hidden="true">→</span>
+    </a>
+  </Card>
+
   <div class="mt-6">
     <ProgressSummary
       ratio={summary.ratio}
@@ -101,12 +121,6 @@ const invalidColumns: TableColumn[] = [
         {fmtInt(summary.unregistered)} baris usulan dengan NIP tak terdaftar tidak dihitung sebagai
         sudah masuk.
       </p>
-      <a
-        href={`${base}status-rekapitulasi-pppk-paruh-waktu/pendidikan/satuan-kerja/`}
-        class="inline-flex text-sm font-medium text-primary hover:underline"
-      >
-        Lihat status per satuan kerja →
-      </a>
     </ProgressSummary>
   </div>
 
