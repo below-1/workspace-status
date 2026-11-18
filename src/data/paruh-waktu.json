@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status rekapitulasi data evaluasi PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "18 November 2026, 10:14 WITA",
-    "source_updated_at": "10 November 2026, 14:24 WITA",
+    "generated_at": "18 November 2026, 14:31 WITA",
+    "source_updated_at": "18 November 2026, 12:20 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
@@ -11,7 +11,7 @@
     "processed": 163,
     "belum": 4373,
     "ratio": 3.59,
-    "unregistered": 32,
+    "unregistered": 39,
     "groups": [
       {
         "key": "pendidikan",

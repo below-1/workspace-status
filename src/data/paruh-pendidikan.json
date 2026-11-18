@@ -2,8 +2,8 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "18 November 2026, 10:14 WITA",
-    "source_updated_at": "10 November 2026, 14:24 WITA",
+    "generated_at": "18 November 2026, 14:31 WITA",
+    "source_updated_at": "18 November 2026, 12:20 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
@@ -17,7 +17,7 @@
       "ratio": 3.59
     },
     "unit_count": 2,
-    "unregistered": 32,
+    "unregistered": 39,
     "satuan_kerja_count": 594
   },
   "jenjang": [
@@ -4827,5 +4827,11 @@
       "ratio": 0.0
     }
   ],
-  "invalid_submissions": []
+  "invalid_submissions": [
+    {
+      "unit": "Dinas Pendidikan Provinsi NTT",
+      "reason": "NIP tidak valid (7 baris)",
+      "count": 1
+    }
+  ]
 }
