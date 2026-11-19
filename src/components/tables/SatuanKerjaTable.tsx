@@ -51,8 +51,7 @@ function statusOf(row: SatuanKerjaRow): Status {
 }
 
 function StatusBadge({ status }: { status: Status }) {
-  const variant = status === 'Lengkap' ? 'success' : status === 'Sebagian' ? 'warning' : 'danger';
-  return <Badge variant={variant}>{status}</Badge>;
+  return <Badge variant="secondary">{status}</Badge>;
 }
 
 const features = tableFeatures({
@@ -108,7 +107,7 @@ const columns = helper.columns([
       return (
         <div className="flex items-center justify-end gap-2">
           <div
-            className="hidden h-1.5 w-16 overflow-hidden rounded-full bg-muted sm:block"
+            className="hidden h-1.5 w-16 overflow-hidden rounded-full bg-muted lg:block"
             aria-hidden="true"
           >
             <div
@@ -136,10 +135,10 @@ interface Props {
 export default function SatuanKerjaTable({ rows }: Props) {
   const [globalFilter, setGlobalFilter] = React.useState('');
   const [columnFilters, setColumnFilters] = React.useState<ColumnFiltersState>([]);
-  const [sorting, setSorting] = React.useState<SortingState>([{ id: 'total', desc: true }]);
+  const [sorting, setSorting] = React.useState<SortingState>([{ id: 'processed', desc: true }]);
   const [pagination, setPagination] = React.useState<PaginationState>({
     pageIndex: 0,
-    pageSize: 25,
+    pageSize: 50,
   });
 
   const table = useTable({
@@ -261,68 +260,115 @@ export default function SatuanKerjaTable({ rows }: Props) {
         </Button>
       </div>
 
-      <div className="max-h-[70vh] overflow-auto rounded-lg border">
+      <div className="hidden rounded-lg border md:block">
         <Table className="min-w-[760px]">
-        <TableHeader>
-          {table.getHeaderGroups().map((group) => (
-            <TableRow key={group.id}>
-              {group.headers.map((header) => {
-                const sorted = header.column.getIsSorted();
-                return (
-                  <TableHead
-                    key={header.id}
-                    aria-sort={
-                      sorted === 'asc' ? 'ascending' : sorted === 'desc' ? 'descending' : 'none'
-                    }
-                    className={cn(
-                      ['total', 'processed', 'belum', 'ratio'].includes(header.column.id) && 'text-right',
-                    )}
-                  >
-                    {header.column.getCanSort() ? (
-                      <button
-                        type="button"
-                        onClick={header.column.getToggleSortingHandler()}
-                        className="inline-flex items-center gap-1 hover:text-foreground"
-                      >
-                        {header.isPlaceholder ? null : <table.FlexRender header={header} />}
-                        <span aria-hidden="true" className="text-[0.65rem]">
-                          {sorted === 'asc' ? '↑' : sorted === 'desc' ? '↓' : '↕'}
-                        </span>
-                      </button>
-                    ) : (
-                      <>{header.isPlaceholder ? null : <table.FlexRender header={header} />}</>
-                    )}
-                  </TableHead>
-                );
-              })}
-            </TableRow>
-          ))}
-        </TableHeader>
-        <TableBody>
-          {pageRows.length ? (
-            pageRows.map((row) => (
-              <TableRow key={row.id}>
-                {row.getAllCells().map((cell) => (
-                  <TableCell
-                    key={cell.id}
-                    className={cn(
-                      ['total', 'processed', 'belum', 'ratio'].includes(cell.column.id) && 'text-right',
-                    )}
-                  >
-                    <table.FlexRender cell={cell} />
-                  </TableCell>
-                ))}
+          <TableHeader>
+            {table.getHeaderGroups().map((group) => (
+              <TableRow key={group.id}>
+                {group.headers.map((header) => {
+                  const sorted = header.column.getIsSorted();
+                  return (
+                    <TableHead
+                      key={header.id}
+                      aria-sort={
+                        sorted === 'asc' ? 'ascending' : sorted === 'desc' ? 'descending' : 'none'
+                      }
+                      className={cn(
+                        ['total', 'processed', 'belum', 'ratio'].includes(header.column.id) && 'text-right',
+                      )}
+                    >
+                      {header.column.getCanSort() ? (
+                        <button
+                          type="button"
+                          onClick={header.column.getToggleSortingHandler()}
+                          className="inline-flex items-center gap-1 hover:text-foreground"
+                        >
+                          {header.isPlaceholder ? null : <table.FlexRender header={header} />}
+                          <span aria-hidden="true" className="text-[0.65rem]">
+                            {sorted === 'asc' ? '↑' : sorted === 'desc' ? '↓' : '↕'}
+                          </span>
+                        </button>
+                      ) : (
+                        <>{header.isPlaceholder ? null : <table.FlexRender header={header} />}</>
+                      )}
+                    </TableHead>
+                  );
+                })}
               </TableRow>
-            ))
-          ) : (
-            <TableRow>
-              <TableCell colSpan={columns.length} className="h-24 text-center text-muted-foreground">
-                Tidak ada satuan kerja yang cocok dengan filter.
-              </TableCell>
-            </TableRow>
-          )}
-        </TableBody>
+            ))}
+          </TableHeader>
+          <TableBody>
+            {pageRows.length ? (
+              pageRows.map((row) => (
+                <TableRow key={row.id}>
+                  {row.getAllCells().map((cell) => (
+                    <TableCell
+                      key={cell.id}
+                      className={cn(
+                        ['total', 'processed', 'belum', 'ratio'].includes(cell.column.id) && 'text-right',
+                      )}
+                    >
+                      <table.FlexRender cell={cell} />
+                    </TableCell>
+                  ))}
+                </TableRow>
+              ))
+            ) : (
+              <TableRow>
+                <TableCell colSpan={columns.length} className="h-24 text-center text-muted-foreground">
+                  Tidak ada satuan kerja yang cocok dengan filter.
+                </TableCell>
+              </TableRow>
+            )}
+          </TableBody>
         </Table>
+      </div>
+
+      <div className="space-y-3 md:hidden">
+        {pageRows.length ? (
+          pageRows.map((row) => {
+            const item = row.original;
+            const ratio = Math.min(100, Math.max(0, item.ratio));
+            return (
+              <article key={row.id} className="rounded-lg border bg-card p-4">
+                <div className="flex items-start justify-between gap-3">
+                  <div className="min-w-0">
+                    <p className="font-medium">{item.name}</p>
+                    <p className="text-xs text-muted-foreground">{item.jenjang}</p>
+                  </div>
+                  <StatusBadge status={statusOf(item)} />
+                </div>
+                <dl className="mt-4 grid grid-cols-3 gap-2 text-center text-sm">
+                  <div className="rounded-md bg-muted px-2 py-2">
+                    <dt className="text-[0.65rem] uppercase tracking-wide text-muted-foreground">Jumlah</dt>
+                    <dd className="font-medium tabular-nums">{fmtInt(item.total)}</dd>
+                  </div>
+                  <div className="rounded-md bg-muted px-2 py-2">
+                    <dt className="text-[0.65rem] uppercase tracking-wide text-muted-foreground">Masuk</dt>
+                    <dd className="font-medium tabular-nums">{fmtInt(item.processed)}</dd>
+                  </div>
+                  <div className="rounded-md bg-muted px-2 py-2">
+                    <dt className="text-[0.65rem] uppercase tracking-wide text-muted-foreground">Belum</dt>
+                    <dd className="font-medium tabular-nums">{fmtInt(item.belum)}</dd>
+                  </div>
+                </dl>
+                <div className="mt-4">
+                  <div className="flex items-center justify-between text-xs text-muted-foreground">
+                    <span>Persentase</span>
+                    <span className="font-medium text-foreground tabular-nums">{fmtPct(item.ratio)}</span>
+                  </div>
+                  <div className="mt-1 h-1.5 overflow-hidden rounded-full bg-muted" aria-hidden="true">
+                    <div className="h-full rounded-full bg-primary" style={{ width: `${ratio}%` }} />
+                  </div>
+                </div>
+              </article>
+            );
+          })
+        ) : (
+          <div className="rounded-lg border border-dashed p-8 text-center text-sm text-muted-foreground">
+            Tidak ada satuan kerja yang cocok dengan filter.
+          </div>
+        )}
       </div>
 
       <div className="flex flex-wrap items-center gap-2 text-sm">

@@ -5,30 +5,30 @@
 :root {
   color-scheme: light;
 
-  --background: #f8fafc;
-  --foreground: #18181b;
+  --background: #fafafa;
+  --foreground: #171717;
   --card: #ffffff;
-  --card-foreground: #18181b;
+  --card-foreground: #171717;
   --popover: #ffffff;
-  --popover-foreground: #18181b;
-  --primary: #164e75;
+  --popover-foreground: #171717;
+  --primary: #4d7c0f;
   --primary-foreground: #ffffff;
-  --primary-soft: #eaf2f8;
-  --primary-soft-foreground: #164e75;
-  --secondary: #f1f5f9;
-  --secondary-foreground: #18181b;
-  --muted: #f1f5f9;
-  --muted-foreground: #64748b;
-  --accent: #eaf2f8;
-  --accent-foreground: #164e75;
-  --destructive: #dc2626;
-  --border: #e2e8f0;
-  --input: #e2e8f0;
-  --ring: #164e75;
+  --primary-soft: #f7fee7;
+  --primary-soft-foreground: #365314;
+  --secondary: #f5f5f5;
+  --secondary-foreground: #171717;
+  --muted: #f5f5f5;
+  --muted-foreground: #737373;
+  --accent: #f7fee7;
+  --accent-foreground: #365314;
+  --destructive: #737373;
+  --border: #e5e5e5;
+  --input: #e5e5e5;
+  --ring: #4d7c0f;
 
-  --success: #15803d;
-  --warning: #d97706;
-  --danger: #dc2626;
+  --success: #525252;
+  --warning: #737373;
+  --danger: #a3a3a3;
 
   --chart-1: var(--primary);
   --chart-2: var(--success);
@@ -44,30 +44,30 @@
 .dark {
   color-scheme: dark;
 
-  --background: #0b0f14;
+  --background: #0a0a0a;
   --foreground: #fafafa;
-  --card: #111821;
+  --card: #171717;
   --card-foreground: #fafafa;
-  --popover: #111821;
+  --popover: #171717;
   --popover-foreground: #fafafa;
-  --primary: #93c5fd;
-  --primary-foreground: #0b1f33;
-  --primary-soft: #123047;
-  --primary-soft-foreground: #bfdbfe;
-  --secondary: #1b2430;
+  --primary: #a3e635;
+  --primary-foreground: #1a2e05;
+  --primary-soft: #1a2e05;
+  --primary-soft-foreground: #d9f99d;
+  --secondary: #262626;
   --secondary-foreground: #fafafa;
-  --muted: #1b2430;
-  --muted-foreground: #a1a1aa;
-  --accent: #123047;
-  --accent-foreground: #bfdbfe;
-  --destructive: #7f1d1d;
-  --border: #25303d;
-  --input: #25303d;
-  --ring: #93c5fd;
+  --muted: #262626;
+  --muted-foreground: #a3a3a3;
+  --accent: #1a2e05;
+  --accent-foreground: #d9f99d;
+  --destructive: #737373;
+  --border: #404040;
+  --input: #404040;
+  --ring: #a3e635;
 
-  --success: #4ade80;
-  --warning: #fbbf24;
-  --danger: #f87171;
+  --success: #e5e5e5;
+  --warning: #a3a3a3;
+  --danger: #737373;
 
   --chart-1: var(--primary);
   --chart-2: var(--success);
@@ -129,5 +129,39 @@
 
   table {
     font-variant-numeric: tabular-nums;
+  }
+}
+
+@layer components {
+  .hero-pattern {
+    position: relative;
+    isolation: isolate;
+    overflow: hidden;
+  }
+
+  .hero-pattern::before,
+  .hero-pattern::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+  }
+
+  .hero-pattern::before {
+    z-index: -2;
+    background-image:
+      linear-gradient(to right, color-mix(in srgb, var(--border) 70%, transparent) 1px, transparent 1px),
+      linear-gradient(to bottom, color-mix(in srgb, var(--border) 70%, transparent) 1px, transparent 1px);
+    background-size: 2rem 2rem;
+    opacity: 0.6;
+    -webkit-mask-image: radial-gradient(ellipse 80% 70% at 72% 18%, var(--foreground), transparent 72%);
+    mask-image: radial-gradient(ellipse 80% 70% at 72% 18%, var(--foreground), transparent 72%);
+  }
+
+  .hero-pattern::after {
+    z-index: -1;
+    background:
+      radial-gradient(circle at 85% 4%, color-mix(in srgb, var(--primary) 9%, transparent), transparent 38%),
+      radial-gradient(circle at 18% 105%, color-mix(in srgb, var(--primary) 5%, transparent), transparent 42%);
   }
 }

@@ -35,48 +35,86 @@ function clampPct(value: string | number | undefined): number {
   <CardContent>
     {
       rows.length ? (
-        <Table>
-          <TableHeader>
-            <TableRow>
-              {columns.map((column) => (
-                <TableHead className={cn(column.align === 'right' && 'text-right')}>
-                  {column.label}
-                </TableHead>
-              ))}
-            </TableRow>
-          </TableHeader>
-          <TableBody>
-            {rows.map((row) => (
-              <TableRow>
-                {columns.map((column) => (
-                  <TableCell
-                    className={cn(
-                      (column.align === 'right' || column.format === 'progress') && 'text-right',
-                      column.format === 'text' && 'font-medium',
-                    )}
-                  >
-                    {column.format === 'progress' ? (
-                      <div class="flex items-center justify-end gap-3">
-                        <div
-                          class="hidden h-1.5 w-16 overflow-hidden rounded-full bg-muted sm:block"
-                          aria-hidden="true"
-                        >
-                          <div
-                            class="h-full rounded-full bg-primary"
-                            style={`width: ${clampPct(row[column.key])}%`}
-                          />
-                        </div>
-                        <span class="tabular-nums">{display(row[column.key], column.format)}</span>
-                      </div>
-                    ) : (
-                      display(row[column.key], column.format)
-                    )}
-                  </TableCell>
+        <>
+          <div class="hidden md:block">
+            <Table>
+              <TableHeader>
+                <TableRow>
+                  {columns.map((column) => (
+                    <TableHead className={cn(column.align === 'right' && 'text-right')}>
+                      {column.label}
+                    </TableHead>
+                  ))}
+                </TableRow>
+              </TableHeader>
+              <TableBody>
+                {rows.map((row) => (
+                  <TableRow>
+                    {columns.map((column) => (
+                      <TableCell
+                        className={cn(
+                          (column.align === 'right' || column.format === 'progress') && 'text-right',
+                          column.format === 'text' && 'font-medium',
+                        )}
+                      >
+                        {column.format === 'progress' ? (
+                          <div class="flex items-center justify-end gap-3">
+                            <div
+                              class="hidden h-1.5 w-16 overflow-hidden rounded-full bg-muted lg:block"
+                              aria-hidden="true"
+                            >
+                              <div
+                                class="h-full rounded-full bg-primary"
+                                style={`width: ${clampPct(row[column.key])}%`}
+                              />
+                            </div>
+                            <span class="tabular-nums">{display(row[column.key], column.format)}</span>
+                          </div>
+                        ) : (
+                          display(row[column.key], column.format)
+                        )}
+                      </TableCell>
+                    ))}
+                  </TableRow>
                 ))}
-              </TableRow>
-            ))}
-          </TableBody>
-        </Table>
+              </TableBody>
+            </Table>
+          </div>
+
+          <div class="space-y-3 md:hidden">
+            {
+              rows.map((row) => (
+                <article class="rounded-lg border bg-card p-4">
+                  <p class="font-medium">
+                    {display(row[columns[0]?.key], columns[0]?.format)}
+                  </p>
+                  <dl class="mt-3 grid grid-cols-2 gap-x-4 gap-y-2 text-sm">
+                    {
+                      columns.slice(1).map((column) => (
+                        <Fragment>
+                          <div class="flex items-center justify-between gap-3">
+                            <dt class="text-xs text-muted-foreground">{column.label}</dt>
+                            <dd class="text-right font-medium tabular-nums">
+                              {display(row[column.key], column.format)}
+                            </dd>
+                          </div>
+                          {column.format === 'progress' && (
+                            <div class="col-span-2 h-1.5 overflow-hidden rounded-full bg-muted" aria-hidden="true">
+                              <div
+                                class="h-full rounded-full bg-primary"
+                                style={`width: ${clampPct(row[column.key])}%`}
+                              />
+                            </div>
+                          )}
+                        </Fragment>
+                      ))
+                    }
+                  </dl>
+                </article>
+              ))
+            }
+          </div>
+        </>
       ) : (
         <div class="flex h-24 items-center justify-center rounded-lg border border-dashed text-sm text-muted-foreground">
           Belum ada data.

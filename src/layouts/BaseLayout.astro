@@ -10,9 +10,10 @@ interface Props {
   description: string;
   pageLabel?: string;
   fullHeight?: boolean;
+  fullBleed?: boolean;
 }
 
-const { title, description, pageLabel, fullHeight = false } = Astro.props;
+const { title, description, pageLabel, fullHeight = false, fullBleed = false } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const path = Astro.url.pathname;
 const isHome = path === base || path === base.replace(/\/$/, '') || path === '/';
@@ -65,7 +66,7 @@ const links = [
 
     <header class="sticky top-0 z-40 border-b bg-card/90 backdrop-blur">
       <div class:list={[shell, 'flex items-center gap-4 py-4']}>
-        <a href={`${base}`} class="flex items-center gap-3" aria-label="Workspace Status — beranda">
+        <a href={`${base}`} class="flex items-center gap-3" aria-label="BKD - Status Data — beranda">
           <img
             src={`${base}brand/ntt-crest.png`}
             alt=""
@@ -73,8 +74,8 @@ const links = [
             class="size-9 shrink-0 object-contain sm:size-10"
           />
           <span class="flex flex-col leading-tight">
-            <span class="text-base font-semibold tracking-tight">Workspace Status</span>
-            <span class="text-xs text-muted-foreground">Monitoring Data PPPK Paruh Waktu</span>
+            <span class="text-base font-semibold tracking-tight">BKD - Status Data</span>
+            <span class="text-xs text-muted-foreground">Ringkasan Hasil Olahan Data</span>
           </span>
         </a>
         {!isHome && <nav class="ml-auto hidden items-center gap-1 sm:flex" aria-label="Navigasi utama">
@@ -120,8 +121,8 @@ const links = [
     <main
       id="content"
       class:list={[
-        shell,
-        'py-12 sm:py-16',
+        !fullBleed && shell,
+        !fullBleed && 'py-12 sm:py-16',
         fullHeight && 'flex flex-1 flex-col justify-center',
       ]}
     >
@@ -131,8 +132,8 @@ const links = [
 
     <footer class="border-t py-10">
       <div class:list={[shell, 'flex flex-col gap-1 py-1 text-xs text-muted-foreground sm:flex-row sm:items-center']}>
-        <span>Data agregat dari pipeline <span class="font-medium text-foreground">parse-usulan-perpanjangan</span>.</span>
-        <span class="sm:ml-auto">Pencocokan per NIP. Tidak menampilkan data per orang.</span>
+        <span>Data agregat hasil olahan.</span>
+        <span class="sm:ml-auto">Tidak menampilkan data per orang.</span>
       </div>
     </footer>
   </body>

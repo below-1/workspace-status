@@ -25,7 +25,7 @@ function scope(group: (typeof summary.groups)[number]): string {
 ---
 
 <BaseLayout
-  title="Status rekapitulasi data evaluasi PPPK Paruh Waktu | Workspace Status"
+  title="Status rekapitulasi data evaluasi PPPK Paruh Waktu | BKD - Status Data"
   description="Status rekapitulasi data evaluasi PPPK paruh waktu tahun 2026."
 >
   <PageHeader
@@ -73,38 +73,34 @@ function scope(group: (typeof summary.groups)[number]): string {
   <section class="mt-12 grid gap-6 md:grid-cols-2" aria-label="Ringkasan per kelompok">
     {
       summary.groups.map((group) => (
-        <Card className="transition-colors hover:border-primary/30">
-          <CardHeader>
-            <CardTitle className="text-lg">
-              <a href={hrefs[group.key]} class="hover:text-primary hover:underline">
-                {group.title}
-              </a>
-            </CardTitle>
-            <CardDescription>{descriptions[group.key]}</CardDescription>
-          </CardHeader>
-          <CardContent>
-            <div class="flex items-baseline gap-2">
-              <span class="text-3xl font-semibold tabular-nums text-primary">{fmtPct(group.ratio)}</span>
-              <span class="text-sm text-muted-foreground">sudah masuk</span>
-            </div>
-            <div class="mt-4 h-2.5 w-full overflow-hidden rounded-full bg-muted" aria-hidden="true">
-              <div
-                class="h-full rounded-full bg-primary"
-                style={`width: ${Math.min(100, Math.max(0, group.ratio))}%`}
-              />
-            </div>
-            <p class="mt-4 text-sm text-muted-foreground">
-              <span class="font-medium text-foreground">{fmtInt(group.processed)}</span> dari{' '}
-              {fmtInt(group.total)} orang · {scope(group)}
-            </p>
-            <a
-              href={hrefs[group.key]}
-              class="mt-5 inline-flex text-sm font-medium text-primary hover:underline"
-            >
-              Lihat ringkasan →
-            </a>
-          </CardContent>
-        </Card>
+        <a
+          href={hrefs[group.key]}
+          class="group block rounded-xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background"
+        >
+          <Card className="h-full transition-colors group-hover:border-primary group-focus-visible:border-primary">
+            <CardHeader>
+              <CardTitle className="text-lg">{group.title}</CardTitle>
+              <CardDescription>{descriptions[group.key]}</CardDescription>
+            </CardHeader>
+            <CardContent>
+              <div class="flex items-baseline gap-2">
+                <span class="text-3xl font-semibold tabular-nums text-primary">{fmtPct(group.ratio)}</span>
+                <span class="text-sm text-muted-foreground">sudah masuk</span>
+              </div>
+              <div class="mt-4 h-2.5 w-full overflow-hidden rounded-full bg-muted" aria-hidden="true">
+                <div
+                  class="h-full rounded-full bg-primary"
+                  style={`width: ${Math.min(100, Math.max(0, group.ratio))}%`}
+                />
+              </div>
+              <p class="mt-4 text-sm text-muted-foreground">
+                <span class="font-medium text-foreground">{fmtInt(group.processed)}</span> dari{' '}
+                {fmtInt(group.total)} orang · {scope(group)}
+              </p>
+              <p class="mt-5 inline-flex text-sm font-medium text-primary">Lihat ringkasan →</p>
+            </CardContent>
+          </Card>
+        </a>
       ))
     }
   </section>
@@ -115,7 +111,6 @@ function scope(group: (typeof summary.groups)[number]): string {
       <li>Angka dihitung dari daftar resmi PPPK paruh waktu yang sudah dikelompokkan.</li>
       <li>“Sudah masuk” berarti NIP ditemukan pada usulan terbaru yang dapat dipakai.</li>
       <li>Usulan dengan NIP tidak terdaftar dihitung terpisah dan tidak menambah capaian.</li>
-      <li>Email terakhir diproses {data.meta.source_updated_at}.</li>
     </ul>
   </section>
 </BaseLayout>

@@ -3,19 +3,24 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
 <BaseLayout
-  title="Workspace Status"
-  description="Situs ringkasan hasil olahan data dari pipeline workspace."
-  pageLabel="Tentang"
+  title="BKD - Status Data"
+  description="Ringkasan hasil olahan data dari berbagai kegiatan monitoring."
   fullHeight
+  fullBleed
 >
-  <section class="max-w-3xl">
-    <h1 class="text-3xl font-semibold sm:text-4xl">Workspace Status</h1>
-    <p class="mt-4 text-muted-foreground">
-      Situs ini menampilkan ringkasan hasil olahan data dari pipeline di workspace. Angkanya
-      disajikan untuk melihat perkembangan tiap hasil olahan data.
-    </p>
-    <p class="mt-3 text-sm text-muted-foreground">
-      Data yang ditampilkan sudah agregat. Situs ini tidak menampilkan NIP, nama, atau email.
-    </p>
+  <section
+    class="hero-pattern flex w-full flex-1 items-center border-b bg-gradient-to-br from-primary-soft/70 via-card to-card"
+  >
+    <div class="relative mx-auto w-full max-w-[1200px] px-4 py-16 sm:px-8 sm:py-24">
+      <p class="text-xs font-semibold uppercase tracking-[0.16em] text-primary">Status Data</p>
+      <h1 class="mt-4 text-4xl font-semibold tracking-tight sm:text-6xl">BKD - Status Data</h1>
+      <p class="mt-6 max-w-2xl text-base text-muted-foreground sm:text-lg">
+        Halaman ini menyajikan ringkasan hasil olahan data dari berbagai kegiatan monitoring. Pilih
+        topik untuk melihat detail statusnya.
+      </p>
+      <p class="mt-3 text-sm text-muted-foreground">
+        Data ditampilkan agregat. Tidak memuat data per orang.
+      </p>
+    </div>
   </section>
 </BaseLayout>
