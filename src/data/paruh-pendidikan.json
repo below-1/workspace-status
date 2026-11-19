@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "19 November 2026, 22:33 WITA",
+    "generated_at": "19 November 2026, 23:02 WITA",
     "source_updated_at": "20 November 2026, 09:44 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 165,
-    "belum": 4208,
-    "ratio": 3.77,
+    "processed": 167,
+    "belum": 4206,
+    "ratio": 3.82,
     "province": {
       "total": 4536,
-      "processed": 315,
-      "ratio": 6.94
+      "processed": 317,
+      "ratio": 6.99
     },
     "unit_count": 2,
     "unregistered": 42,
@@ -24,9 +24,9 @@
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 126,
-      "belum": 2773,
-      "ratio": 4.35
+      "processed": 128,
+      "belum": 2771,
+      "ratio": 4.42
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 165,
-      "belum": 4207,
-      "ratio": 3.77
+      "processed": 167,
+      "belum": 4205,
+      "ratio": 3.82
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -4422,9 +4422,9 @@
       "name": "SMAN 2 FATULEU",
       "jenjang": "SMA",
       "total": 2,
-      "processed": 0,
-      "belum": 2,
-      "ratio": 0.0
+      "processed": 2,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMAN 2 NUBATUKAN",
