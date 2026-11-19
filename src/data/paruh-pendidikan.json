@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "19 November 2026, 13:58 WITA",
+    "generated_at": "19 November 2026, 14:02 WITA",
     "source_updated_at": "20 November 2026, 01:45 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 68,
-    "belum": 4305,
-    "ratio": 1.55,
+    "processed": 75,
+    "belum": 4298,
+    "ratio": 1.72,
     "province": {
       "total": 4536,
-      "processed": 218,
-      "ratio": 4.81
+      "processed": 225,
+      "ratio": 4.96
     },
     "unit_count": 2,
     "unregistered": 39,
@@ -24,9 +24,9 @@
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 44,
-      "belum": 2855,
-      "ratio": 1.52
+      "processed": 51,
+      "belum": 2848,
+      "ratio": 1.76
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 68,
-      "belum": 4304,
-      "ratio": 1.56
+      "processed": 75,
+      "belum": 4297,
+      "ratio": 1.72
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -1950,9 +1950,9 @@
       "name": "SMA NEGERI 1 AMARASI",
       "jenjang": "SMA",
       "total": 7,
-      "processed": 0,
-      "belum": 7,
-      "ratio": 0.0
+      "processed": 7,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI 1 AMARASI TIMUR",
