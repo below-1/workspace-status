@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "19 November 2026, 10:23 WITA",
+    "generated_at": "19 November 2026, 10:31 WITA",
     "source_updated_at": "20 November 2026, 01:45 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 26,
-    "belum": 4347,
-    "ratio": 0.59,
+    "processed": 37,
+    "belum": 4336,
+    "ratio": 0.85,
     "province": {
       "total": 4536,
-      "processed": 176,
-      "ratio": 3.88
+      "processed": 187,
+      "ratio": 4.12
     },
     "unit_count": 2,
     "unregistered": 39,
@@ -24,9 +24,9 @@
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 13,
-      "belum": 2886,
-      "ratio": 0.45
+      "processed": 24,
+      "belum": 2875,
+      "ratio": 0.83
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 26,
-      "belum": 4346,
-      "ratio": 0.59
+      "processed": 37,
+      "belum": 4335,
+      "ratio": 0.85
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -710,9 +710,9 @@
       "name": "SMA NEGERI 1 NGGAHA ORI ANGU",
       "jenjang": "SMA",
       "total": 11,
-      "processed": 0,
-      "belum": 11,
-      "ratio": 0.0
+      "processed": 11,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI 1 TITEHENA",
