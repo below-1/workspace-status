@@ -2,31 +2,31 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "19 November 2026, 15:03 WITA",
+    "generated_at": "19 November 2026, 15:32 WITA",
     "source_updated_at": "20 November 2026, 01:45 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 84,
-    "belum": 4289,
-    "ratio": 1.92,
+    "processed": 92,
+    "belum": 4281,
+    "ratio": 2.1,
     "province": {
       "total": 4536,
-      "processed": 234,
-      "ratio": 5.16
+      "processed": 242,
+      "ratio": 5.34
     },
     "unit_count": 2,
-    "unregistered": 39,
+    "unregistered": 40,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 60,
-      "belum": 2839,
-      "ratio": 2.07
+      "processed": 68,
+      "belum": 2831,
+      "ratio": 2.35
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 84,
-      "belum": 4288,
-      "ratio": 1.92
+      "processed": 92,
+      "belum": 4280,
+      "ratio": 2.1
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -1390,9 +1390,9 @@
       "name": "SMAN AWAALAH",
       "jenjang": "SMA",
       "total": 9,
-      "processed": 0,
-      "belum": 9,
-      "ratio": 0.0
+      "processed": 8,
+      "belum": 1,
+      "ratio": 88.89
     },
     {
       "name": "SMAN KABOLA",
@@ -4828,6 +4828,11 @@
     }
   ],
   "invalid_submissions": [
+    {
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "reason": "NIP tidak valid (1 baris)",
+      "count": 1
+    },
     {
       "unit": "Dinas Pendidikan Provinsi NTT",
       "reason": "NIP tidak valid (7 baris)",
