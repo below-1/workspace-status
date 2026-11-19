@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "18 November 2026, 20:31 WITA",
-    "source_updated_at": "18 November 2026, 12:20 WITA",
+    "generated_at": "19 November 2026, 10:23 WITA",
+    "source_updated_at": "20 November 2026, 01:45 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 13,
-    "belum": 4360,
-    "ratio": 0.3,
+    "processed": 26,
+    "belum": 4347,
+    "ratio": 0.59,
     "province": {
       "total": 4536,
-      "processed": 163,
-      "ratio": 3.59
+      "processed": 176,
+      "ratio": 3.88
     },
     "unit_count": 2,
     "unregistered": 39,
@@ -24,9 +24,9 @@
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 0,
-      "belum": 2899,
-      "ratio": 0.0
+      "processed": 13,
+      "belum": 2886,
+      "ratio": 0.45
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 13,
-      "belum": 4359,
-      "ratio": 0.3
+      "processed": 26,
+      "belum": 4346,
+      "ratio": 0.59
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -326,9 +326,9 @@
       "name": "SMA NEGERI 2 UMALULU",
       "jenjang": "SMA",
       "total": 14,
-      "processed": 0,
-      "belum": 14,
-      "ratio": 0.0
+      "processed": 13,
+      "belum": 1,
+      "ratio": 92.86
     },
     {
       "name": "SMA NEGERI 3 AMABI OEFETO TIMUR",
