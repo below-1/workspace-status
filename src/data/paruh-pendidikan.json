@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "19 November 2026, 16:01 WITA",
+    "generated_at": "19 November 2026, 16:32 WITA",
     "source_updated_at": "20 November 2026, 01:45 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 96,
-    "belum": 4277,
-    "ratio": 2.2,
+    "processed": 106,
+    "belum": 4267,
+    "ratio": 2.42,
     "province": {
       "total": 4536,
-      "processed": 246,
-      "ratio": 5.42
+      "processed": 256,
+      "ratio": 5.64
     },
     "unit_count": 2,
     "unregistered": 40,
@@ -31,16 +31,16 @@
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 4,
-      "belum": 1078,
-      "ratio": 0.37
+      "processed": 12,
+      "belum": 1070,
+      "ratio": 1.11
     },
     {
       "name": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 18,
-      "belum": 214,
-      "ratio": 7.76
+      "processed": 20,
+      "belum": 212,
+      "ratio": 8.62
     },
     {
       "name": "SLB",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 96,
-      "belum": 4276,
-      "ratio": 2.2
+      "processed": 106,
+      "belum": 4266,
+      "ratio": 2.42
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -78,9 +78,9 @@
       "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 18,
-      "belum": 214,
-      "ratio": 7.76
+      "processed": 20,
+      "belum": 212,
+      "ratio": 8.62
     },
     {
       "name": "SMK NEGERI 1 ENDE",
@@ -1910,9 +1910,9 @@
       "name": "SMKN MARITAING",
       "jenjang": "SMK",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMKN OP",
