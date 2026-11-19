@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "19 November 2026, 10:31 WITA",
+    "generated_at": "19 November 2026, 11:02 WITA",
     "source_updated_at": "20 November 2026, 01:45 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 37,
-    "belum": 4336,
-    "ratio": 0.85,
+    "processed": 43,
+    "belum": 4330,
+    "ratio": 0.98,
     "province": {
       "total": 4536,
-      "processed": 187,
-      "ratio": 4.12
+      "processed": 193,
+      "ratio": 4.25
     },
     "unit_count": 2,
     "unregistered": 39,
@@ -24,9 +24,9 @@
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 24,
-      "belum": 2875,
-      "ratio": 0.83
+      "processed": 30,
+      "belum": 2869,
+      "ratio": 1.03
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 37,
-      "belum": 4335,
-      "ratio": 0.85
+      "processed": 43,
+      "belum": 4329,
+      "ratio": 0.98
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -2582,9 +2582,9 @@
       "name": "SMAN 1 FATULEU TENGAH",
       "jenjang": "SMA",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMAN 1 INERIE",
