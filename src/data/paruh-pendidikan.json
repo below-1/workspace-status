@@ -2,31 +2,31 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "20 November 2026, 13:03 WITA",
-    "source_updated_at": "20 November 2026, 12:54 WITA",
+    "generated_at": "20 November 2026, 13:33 WITA",
+    "source_updated_at": "20 November 2026, 13:30 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 259,
-    "belum": 4114,
-    "ratio": 5.92,
+    "processed": 282,
+    "belum": 4091,
+    "ratio": 6.45,
     "province": {
       "total": 4536,
-      "processed": 409,
-      "ratio": 9.02
+      "processed": 432,
+      "ratio": 9.52
     },
     "unit_count": 2,
-    "unregistered": 55,
+    "unregistered": 56,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 204,
-      "belum": 2695,
-      "ratio": 7.04
+      "processed": 225,
+      "belum": 2674,
+      "ratio": 7.76
     },
     {
       "name": "SMK",
@@ -38,9 +38,9 @@
     {
       "name": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 29,
-      "belum": 203,
-      "ratio": 12.5
+      "processed": 31,
+      "belum": 201,
+      "ratio": 13.36
     },
     {
       "name": "SLB",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 259,
-      "belum": 4113,
-      "ratio": 5.92
+      "processed": 282,
+      "belum": 4090,
+      "ratio": 6.45
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -78,9 +78,9 @@
       "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 29,
-      "belum": 203,
-      "ratio": 12.5
+      "processed": 31,
+      "belum": 201,
+      "ratio": 13.36
     },
     {
       "name": "SMK NEGERI 1 ENDE",
@@ -1526,9 +1526,9 @@
       "name": "SMA NEGERI 1 WAINGAPU",
       "jenjang": "SMA",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI 2 HAWU MEHARA",
@@ -2406,9 +2406,9 @@
       "name": "SMA NEGERI 1 AMABI OEFETO TIMUR",
       "jenjang": "SMA",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0
+      "processed": 5,
+      "belum": 1,
+      "ratio": 83.33
     },
     {
       "name": "SMA NEGERI 1 ENDE",
@@ -3046,9 +3046,9 @@
       "name": "SMA NEGERI FATUKOPA",
       "jenjang": "SMA",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI IO KUFEU",
@@ -3942,9 +3942,9 @@
       "name": "SMA NEGERI 02 KABOLA",
       "jenjang": "SMA",
       "total": 3,
-      "processed": 0,
-      "belum": 3,
-      "ratio": 0.0
+      "processed": 3,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI 1 LEBATUKAN",
@@ -4831,7 +4831,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 7
+      "count": 8
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
