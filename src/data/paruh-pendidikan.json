@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "20 November 2026, 22:05 WITA",
-    "source_updated_at": "20 November 2026, 21:56 WITA",
+    "generated_at": "20 November 2026, 22:38 WITA",
+    "source_updated_at": "20 November 2026, 22:22 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 486,
-    "belum": 3887,
-    "ratio": 11.11,
+    "processed": 491,
+    "belum": 3882,
+    "ratio": 11.23,
     "province": {
       "total": 4536,
-      "processed": 636,
-      "ratio": 14.02
+      "processed": 641,
+      "ratio": 14.13
     },
     "unit_count": 2,
     "unregistered": 79,
@@ -24,9 +24,9 @@
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 396,
-      "belum": 2503,
-      "ratio": 13.66
+      "processed": 401,
+      "belum": 2498,
+      "ratio": 13.83
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 486,
-      "belum": 3886,
-      "ratio": 11.12
+      "processed": 491,
+      "belum": 3881,
+      "ratio": 11.23
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -2950,9 +2950,9 @@
       "name": "SMA NEGERI 1 ADONARA BARAT",
       "jenjang": "SMA",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI 1 AMARASI BARAT",
