@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "20 November 2026, 12:42 WITA",
-    "source_updated_at": "20 November 2026, 12:30 WITA",
+    "generated_at": "20 November 2026, 13:03 WITA",
+    "source_updated_at": "20 November 2026, 12:54 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 254,
-    "belum": 4119,
-    "ratio": 5.81,
+    "processed": 259,
+    "belum": 4114,
+    "ratio": 5.92,
     "province": {
       "total": 4536,
-      "processed": 404,
-      "ratio": 8.91
+      "processed": 409,
+      "ratio": 9.02
     },
     "unit_count": 2,
     "unregistered": 55,
@@ -31,9 +31,9 @@
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 19,
-      "belum": 1063,
-      "ratio": 1.76
+      "processed": 24,
+      "belum": 1058,
+      "ratio": 2.22
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 254,
-      "belum": 4118,
-      "ratio": 5.81
+      "processed": 259,
+      "belum": 4113,
+      "ratio": 5.92
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -3326,9 +3326,9 @@
       "name": "SMK NEGERI BASMUTI",
       "jenjang": "SMK",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMK NEGERI NOEBAUN",
