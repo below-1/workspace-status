@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "21 November 2026, 21:06 WITA",
+    "generated_at": "21 November 2026, 21:37 WITA",
     "source_updated_at": "22 November 2026, 12:30 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1063,
-    "belum": 3310,
-    "ratio": 24.31,
+    "processed": 1084,
+    "belum": 3289,
+    "ratio": 24.79,
     "province": {
       "total": 4536,
-      "processed": 1213,
-      "ratio": 26.74
+      "processed": 1234,
+      "ratio": 27.2
     },
     "unit_count": 2,
     "unregistered": 135,
@@ -24,16 +24,16 @@
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 847,
-      "belum": 2052,
-      "ratio": 29.22
+      "processed": 857,
+      "belum": 2042,
+      "ratio": 29.56
     },
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 113,
-      "belum": 969,
-      "ratio": 10.44
+      "processed": 124,
+      "belum": 958,
+      "ratio": 11.46
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1063,
-      "belum": 3309,
-      "ratio": 24.31
+      "processed": 1084,
+      "belum": 3288,
+      "ratio": 24.79
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -1006,9 +1006,9 @@
       "name": "SMA NEGERI PINU PAHAR",
       "jenjang": "SMA",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI RAIMANUK",
@@ -2246,9 +2246,9 @@
       "name": "SMK NEGERI INSANA BARAT TUAMAU",
       "jenjang": "SMK",
       "total": 7,
-      "processed": 0,
-      "belum": 7,
-      "ratio": 0.0
+      "processed": 6,
+      "belum": 1,
+      "ratio": 85.71
     },
     {
       "name": "SMK NEGERI NDORA",
@@ -3294,9 +3294,9 @@
       "name": "SMK NEGERI 1 UMBU RATU NGGAY",
       "jenjang": "SMK",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMK NEGERI 1 WEWEWA TENGAH",
