@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "21 November 2026, 20:36 WITA",
+    "generated_at": "21 November 2026, 21:06 WITA",
     "source_updated_at": "22 November 2026, 12:30 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1052,
-    "belum": 3321,
-    "ratio": 24.06,
+    "processed": 1063,
+    "belum": 3310,
+    "ratio": 24.31,
     "province": {
       "total": 4536,
-      "processed": 1202,
-      "ratio": 26.5
+      "processed": 1213,
+      "ratio": 26.74
     },
     "unit_count": 2,
     "unregistered": 135,
@@ -24,9 +24,9 @@
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 837,
-      "belum": 2062,
-      "ratio": 28.87
+      "processed": 847,
+      "belum": 2052,
+      "ratio": 29.22
     },
     {
       "name": "SMK",
@@ -38,9 +38,9 @@
     {
       "name": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 69,
-      "belum": 163,
-      "ratio": 29.74
+      "processed": 70,
+      "belum": 162,
+      "ratio": 30.17
     },
     {
       "name": "SLB",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1052,
-      "belum": 3320,
-      "ratio": 24.06
+      "processed": 1063,
+      "belum": 3309,
+      "ratio": 24.31
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -78,9 +78,9 @@
       "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 69,
-      "belum": 163,
-      "ratio": 29.74
+      "processed": 70,
+      "belum": 162,
+      "ratio": 30.17
     },
     {
       "name": "SMK NEGERI 1 ENDE",
@@ -1334,9 +1334,9 @@
       "name": "SMAN 1 MALAKA TIMUR",
       "jenjang": "SMA",
       "total": 9,
-      "processed": 0,
-      "belum": 9,
-      "ratio": 0.0
+      "processed": 9,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMAN 1 NITA",
@@ -4414,9 +4414,9 @@
       "name": "SMAN 1 ROTE TENGAH",
       "jenjang": "SMA",
       "total": 2,
-      "processed": 1,
-      "belum": 1,
-      "ratio": 50.0
+      "processed": 2,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMAN 2 FATULEU",
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 17
+      "count": 16
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
