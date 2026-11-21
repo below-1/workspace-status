@@ -2,31 +2,31 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "21 November 2026, 18:36 WITA",
+    "generated_at": "21 November 2026, 19:06 WITA",
     "source_updated_at": "22 November 2026, 12:30 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 974,
-    "belum": 3399,
-    "ratio": 22.27,
+    "processed": 1000,
+    "belum": 3373,
+    "ratio": 22.87,
     "province": {
       "total": 4536,
-      "processed": 1124,
-      "ratio": 24.78
+      "processed": 1150,
+      "ratio": 25.35
     },
     "unit_count": 2,
-    "unregistered": 113,
+    "unregistered": 133,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 768,
-      "belum": 2131,
-      "ratio": 26.49
+      "processed": 794,
+      "belum": 2105,
+      "ratio": 27.39
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 974,
-      "belum": 3398,
-      "ratio": 22.28
+      "processed": 1000,
+      "belum": 3372,
+      "ratio": 22.87
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -470,9 +470,9 @@
       "name": "SMAN LURASIK",
       "jenjang": "SMA",
       "total": 13,
-      "processed": 0,
-      "belum": 13,
-      "ratio": 0.0
+      "processed": 13,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMK NEGERI 2 ENDE",
@@ -758,9 +758,9 @@
       "name": "SMA NEGERI TOINEKE",
       "jenjang": "SMA",
       "total": 11,
-      "processed": 0,
-      "belum": 11,
-      "ratio": 0.0
+      "processed": 10,
+      "belum": 1,
+      "ratio": 90.91
     },
     {
       "name": "SMAN 1 ABAD",
@@ -3510,9 +3510,9 @@
       "name": "SMA NEGERI 1 WULANGGITANG",
       "jenjang": "SMA",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0
+      "processed": 3,
+      "belum": 1,
+      "ratio": 75.0
     },
     {
       "name": "SMA NEGERI 2 JEREBUU",
@@ -4846,11 +4846,16 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (2 baris)",
-      "count": 2
+      "count": 4
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (3 baris)",
+      "count": 1
+    },
+    {
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "reason": "NIP tidak valid (36 baris)",
       "count": 1
     },
     {
