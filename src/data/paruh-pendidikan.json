@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "21 November 2026, 20:07 WITA",
+    "generated_at": "21 November 2026, 20:36 WITA",
     "source_updated_at": "22 November 2026, 12:30 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1032,
-    "belum": 3341,
-    "ratio": 23.6,
+    "processed": 1052,
+    "belum": 3321,
+    "ratio": 24.06,
     "province": {
       "total": 4536,
-      "processed": 1182,
-      "ratio": 26.06
+      "processed": 1202,
+      "ratio": 26.5
     },
     "unit_count": 2,
     "unregistered": 135,
@@ -24,9 +24,9 @@
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 817,
-      "belum": 2082,
-      "ratio": 28.18
+      "processed": 837,
+      "belum": 2062,
+      "ratio": 28.87
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1032,
-      "belum": 3340,
-      "ratio": 23.6
+      "processed": 1052,
+      "belum": 3320,
+      "ratio": 24.06
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -214,9 +214,9 @@
       "name": "SMAN 1 SOE",
       "jenjang": "SMA",
       "total": 16,
-      "processed": 0,
-      "belum": 16,
-      "ratio": 0.0
+      "processed": 16,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMAN BENLUTU",
@@ -3222,9 +3222,9 @@
       "name": "SMAN FAFINESU",
       "jenjang": "SMA",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0
+      "processed": 4,
+      "belum": 1,
+      "ratio": 80.0
     },
     {
       "name": "SMAN KI E",
