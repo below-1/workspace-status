@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "21 November 2026, 12:04 WITA",
-    "source_updated_at": "21 November 2026, 11:57 WITA",
+    "generated_at": "21 November 2026, 12:34 WITA",
+    "source_updated_at": "21 November 2026, 13:23 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 545,
-    "belum": 3828,
-    "ratio": 12.46,
+    "processed": 558,
+    "belum": 3815,
+    "ratio": 12.76,
     "province": {
       "total": 4536,
-      "processed": 695,
-      "ratio": 15.32
+      "processed": 708,
+      "ratio": 15.61
     },
     "unit_count": 2,
     "unregistered": 79,
@@ -24,16 +24,16 @@
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 426,
-      "belum": 2473,
-      "ratio": 14.69
+      "processed": 437,
+      "belum": 2462,
+      "ratio": 15.07
     },
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 59,
-      "belum": 1023,
-      "ratio": 5.45
+      "processed": 61,
+      "belum": 1021,
+      "ratio": 5.64
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 545,
-      "belum": 3827,
-      "ratio": 12.47
+      "processed": 558,
+      "belum": 3814,
+      "ratio": 12.76
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -790,9 +790,9 @@
       "name": "SMAN 1 AMFOANG BARAT LAUT",
       "jenjang": "SMA",
       "total": 11,
-      "processed": 0,
-      "belum": 11,
-      "ratio": 0.0
+      "processed": 11,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMAN 1 LEMBOR",
@@ -4574,9 +4574,9 @@
       "name": "SMKN BOKING",
       "jenjang": "SMK",
       "total": 2,
-      "processed": 0,
-      "belum": 2,
-      "ratio": 0.0
+      "processed": 2,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMKN KLETEK SUAI",
@@ -4861,7 +4861,7 @@
     {
       "unit": "Dinas Pendidikan Provinsi NTT",
       "reason": "NIP tidak valid (7 baris)",
-      "count": 1
+      "count": 2
     }
   ]
 }
