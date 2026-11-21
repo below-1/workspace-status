@@ -2,22 +2,22 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "21 November 2026, 19:06 WITA",
+    "generated_at": "21 November 2026, 19:35 WITA",
     "source_updated_at": "22 November 2026, 12:30 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1000,
-    "belum": 3373,
-    "ratio": 22.87,
+    "processed": 1009,
+    "belum": 3364,
+    "ratio": 23.07,
     "province": {
       "total": 4536,
-      "processed": 1150,
-      "ratio": 25.35
+      "processed": 1159,
+      "ratio": 25.55
     },
     "unit_count": 2,
-    "unregistered": 133,
+    "unregistered": 135,
     "satuan_kerja_count": 594
   },
   "jenjang": [
@@ -31,9 +31,9 @@
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 104,
-      "belum": 978,
-      "ratio": 9.61
+      "processed": 113,
+      "belum": 969,
+      "ratio": 10.44
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1000,
-      "belum": 3372,
-      "ratio": 22.87
+      "processed": 1009,
+      "belum": 3363,
+      "ratio": 23.08
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -3422,9 +3422,9 @@
       "name": "SMKN RIUNG",
       "jenjang": "SMK",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SLB C NEGERI WAIKABUBAK",
@@ -3878,9 +3878,9 @@
       "name": "SMKN ALOR BESAR",
       "jenjang": "SMK",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMKN AMPERA",
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 16
+      "count": 17
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
