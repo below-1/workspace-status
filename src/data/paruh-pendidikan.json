@@ -2,38 +2,38 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "21 November 2026, 21:37 WITA",
+    "generated_at": "21 November 2026, 22:06 WITA",
     "source_updated_at": "22 November 2026, 12:30 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1084,
-    "belum": 3289,
-    "ratio": 24.79,
+    "processed": 1114,
+    "belum": 3259,
+    "ratio": 25.47,
     "province": {
       "total": 4536,
-      "processed": 1234,
-      "ratio": 27.2
+      "processed": 1264,
+      "ratio": 27.87
     },
     "unit_count": 2,
-    "unregistered": 135,
+    "unregistered": 136,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 857,
-      "belum": 2042,
-      "ratio": 29.56
+      "processed": 882,
+      "belum": 2017,
+      "ratio": 30.42
     },
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 124,
-      "belum": 958,
-      "ratio": 11.46
+      "processed": 129,
+      "belum": 953,
+      "ratio": 11.92
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1084,
-      "belum": 3288,
-      "ratio": 24.79
+      "processed": 1114,
+      "belum": 3258,
+      "ratio": 25.48
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -390,9 +390,9 @@
       "name": "SEKOLAH MENENGAH ATAS (SMA) NEGERI BANAT",
       "jenjang": "SMA",
       "total": 13,
-      "processed": 0,
-      "belum": 13,
-      "ratio": 0.0
+      "processed": 13,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI 1 KUPANG BARAT",
@@ -966,9 +966,9 @@
       "name": "SMA NEGERI 2 WAINGAPU",
       "jenjang": "SMA",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI BININO",
@@ -3358,9 +3358,9 @@
       "name": "SMKN 1 KODI UTARA",
       "jenjang": "SMK",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMKN 1 LABUAN BAJO",
@@ -4358,9 +4358,9 @@
       "name": "SMA NEGERI 2 BOAWAE",
       "jenjang": "SMA",
       "total": 2,
-      "processed": 0,
-      "belum": 2,
-      "ratio": 0.0
+      "processed": 2,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI ALOR KECIL",
@@ -4846,7 +4846,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (2 baris)",
-      "count": 3
+      "count": 4
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
