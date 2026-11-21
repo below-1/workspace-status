@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "21 November 2026, 17:53 WITA",
+    "generated_at": "21 November 2026, 18:06 WITA",
     "source_updated_at": "22 November 2026, 12:30 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 949,
-    "belum": 3424,
-    "ratio": 21.7,
+    "processed": 964,
+    "belum": 3409,
+    "ratio": 22.04,
     "province": {
       "total": 4536,
-      "processed": 1099,
-      "ratio": 24.23
+      "processed": 1114,
+      "ratio": 24.56
     },
     "unit_count": 2,
     "unregistered": 112,
@@ -38,16 +38,16 @@
     {
       "name": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 58,
-      "belum": 174,
-      "ratio": 25.0
+      "processed": 69,
+      "belum": 163,
+      "ratio": 29.74
     },
     {
       "name": "SLB",
       "total": 159,
-      "processed": 29,
-      "belum": 130,
-      "ratio": 18.24
+      "processed": 33,
+      "belum": 126,
+      "ratio": 20.75
     },
     {
       "name": "Satuan kerja lainnya",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 949,
-      "belum": 3423,
-      "ratio": 21.71
+      "processed": 964,
+      "belum": 3408,
+      "ratio": 22.05
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -78,9 +78,9 @@
       "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 58,
-      "belum": 174,
-      "ratio": 25.0
+      "processed": 69,
+      "belum": 163,
+      "ratio": 29.74
     },
     {
       "name": "SMK NEGERI 1 ENDE",
@@ -3934,9 +3934,9 @@
       "name": "SLB NEGERI BENPASI",
       "jenjang": "SLB",
       "total": 3,
-      "processed": 0,
-      "belum": 3,
-      "ratio": 0.0
+      "processed": 3,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI 02 KABOLA",
@@ -4654,9 +4654,9 @@
       "name": "SLBN MALARUMA",
       "jenjang": "SLB",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI 1 AMFOANG TENGAH",
