@@ -2,31 +2,31 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "22 November 2026, 19:43 WITA",
-    "source_updated_at": "22 November 2026, 19:33 WITA",
+    "generated_at": "22 November 2026, 19:52 WITA",
+    "source_updated_at": "22 November 2026, 19:50 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1400,
-    "belum": 2973,
-    "ratio": 32.01,
+    "processed": 1401,
+    "belum": 2972,
+    "ratio": 32.04,
     "province": {
       "total": 4536,
-      "processed": 1550,
-      "ratio": 34.17
+      "processed": 1551,
+      "ratio": 34.19
     },
     "unit_count": 2,
-    "unregistered": 158,
+    "unregistered": 163,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 1093,
-      "belum": 1806,
-      "ratio": 37.7
+      "processed": 1094,
+      "belum": 1805,
+      "ratio": 37.74
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1400,
-      "belum": 2972,
-      "ratio": 32.02
+      "processed": 1401,
+      "belum": 2971,
+      "ratio": 32.04
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -4662,9 +4662,9 @@
       "name": "SMA NEGERI 1 AMFOANG TENGAH",
       "jenjang": "SMA",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI 1 LEWOLEMA",
@@ -4862,6 +4862,11 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (4 baris)",
       "count": 3
+    },
+    {
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "reason": "NIP tidak valid (5 baris)",
+      "count": 1
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
