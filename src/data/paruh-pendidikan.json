@@ -2,8 +2,8 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "22 November 2026, 23:01 WITA",
-    "source_updated_at": "22 November 2026, 22:35 WITA",
+    "generated_at": "23 November 2026, 06:52 WITA",
+    "source_updated_at": "23 November 2026, 05:27 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
@@ -2904,7 +2904,7 @@
       "processed": 5,
       "belum": 1,
       "ratio": 83.33,
-      "invalid": 1
+      "invalid": 2
     },
     {
       "name": "SMKN SASITAMEAN",
