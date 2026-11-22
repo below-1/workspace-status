@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "22 November 2026, 22:01 WITA",
-    "source_updated_at": "22 November 2026, 21:58 WITA",
+    "generated_at": "22 November 2026, 22:31 WITA",
+    "source_updated_at": "22 November 2026, 22:29 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1467,
-    "belum": 2906,
-    "ratio": 33.55,
+    "processed": 1501,
+    "belum": 2872,
+    "ratio": 34.32,
     "province": {
       "total": 4536,
-      "processed": 1617,
-      "ratio": 35.65
+      "processed": 1651,
+      "ratio": 36.4
     },
     "unit_count": 2,
     "unregistered": 165,
@@ -24,16 +24,16 @@
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 1127,
-      "belum": 1772,
-      "ratio": 38.88
+      "processed": 1149,
+      "belum": 1750,
+      "ratio": 39.63
     },
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 218,
-      "belum": 864,
-      "ratio": 20.15
+      "processed": 229,
+      "belum": 853,
+      "ratio": 21.16
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -52,25 +52,25 @@
     {
       "name": "Satuan kerja lainnya",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0
     }
   ],
   "units": [
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1467,
-      "belum": 2905,
-      "ratio": 33.55
+      "processed": 1500,
+      "belum": 2872,
+      "ratio": 34.31
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0
     }
   ],
   "satuan_kerja": [
@@ -109,9 +109,9 @@
     {
       "name": "SMA NEGERI BATETI",
       "total": 22,
-      "processed": 0,
-      "belum": 22,
-      "ratio": 0.0,
+      "processed": 22,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -685,9 +685,9 @@
     {
       "name": "SMK NEGERI NOEMUTI",
       "total": 12,
-      "processed": 0,
-      "belum": 12,
-      "ratio": 0.0,
+      "processed": 11,
+      "belum": 1,
+      "ratio": 91.67,
       "invalid": 0
     },
     {
@@ -4605,9 +4605,9 @@
     {
       "name": "CABANG DINAS PENDIDIKAN WILAYAH VI",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0,
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
