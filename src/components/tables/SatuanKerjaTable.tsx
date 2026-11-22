@@ -33,11 +33,11 @@ import { cn } from '@/lib/utils';
 
 export interface SatuanKerjaRow {
   name: string;
-  jenjang: string;
   total: number;
   processed: number;
   belum: number;
   ratio: number;
+  invalid: number;
 }
 
 type Status = 'Lengkap' | 'Sebagian' | 'Kosong';
@@ -78,15 +78,9 @@ const columns = helper.columns([
     sortFn: 'alphanumeric',
     cell: (info) => <span className="font-medium">{info.getValue()}</span>,
   }),
-  helper.accessor('jenjang', {
-    id: 'jenjang',
-    header: 'Jenjang',
-    filterFn: 'equalsString',
-    cell: (info) => <span className="text-muted-foreground">{info.getValue()}</span>,
-  }),
-  helper.accessor('total', {
-    id: 'total',
-    header: 'Jumlah',
+  helper.accessor('invalid', {
+    id: 'invalid',
+    header: 'NI tidak valid',
     cell: (info) => <span className="tabular-nums">{fmtInt(info.getValue())}</span>,
   }),
   helper.accessor('processed', {
@@ -155,11 +149,6 @@ export default function SatuanKerjaTable({ rows }: Props) {
     getColumnCanGlobalFilter: (column) => column.id === 'name',
   });
 
-  const jenjangOptions = React.useMemo(
-    () => Array.from(new Set(rows.map((row) => row.jenjang))).sort((a, b) => a.localeCompare(b, 'id')),
-    [rows],
-  );
-  const jenjangFilter = (table.getColumn('jenjang')?.getFilterValue() as string | undefined) ?? '';
   const statusFilter = (table.getColumn('status')?.getFilterValue() as string | undefined) ?? '';
   const filteredCount = table.getFilteredRowModel().rows.length;
   const pageRows = table.getRowModel().rows;
@@ -177,11 +166,10 @@ export default function SatuanKerjaTable({ rows }: Props) {
     const exportRows = table.getFilteredRowModel().rows.map((row) => row.original);
     const escape = (value: string | number) => `"${String(value).replaceAll('"', '""')}"`;
     const lines = [
-      ['Satuan kerja', 'Jenjang', 'Jumlah', 'Sudah masuk', 'Belum', 'Persentase', 'Status'],
+      ['Satuan kerja', 'NI tidak valid', 'Sudah masuk', 'Belum', 'Persentase', 'Status'],
       ...exportRows.map((row) => [
         row.name,
-        row.jenjang,
-        row.total,
+        row.invalid,
         row.processed,
         row.belum,
         row.ratio,
@@ -201,7 +189,7 @@ export default function SatuanKerjaTable({ rows }: Props) {
 
   return (
     <div className="space-y-6">
-      <div className="grid gap-4 sm:grid-cols-[minmax(0,2fr)_minmax(0,1fr)_minmax(0,1fr)]">
+      <div className="grid gap-4 sm:grid-cols-[minmax(0,2fr)_minmax(0,1fr)]">
         <label className="flex flex-col gap-1 text-xs font-medium text-muted-foreground">
           Cari satuan kerja
           <input
@@ -211,21 +199,6 @@ export default function SatuanKerjaTable({ rows }: Props) {
             placeholder="Nama satuan kerja"
             className="h-9 rounded-md border border-input bg-card px-3 text-sm text-foreground placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
           />
-        </label>
-        <label className="flex flex-col gap-1 text-xs font-medium text-muted-foreground">
-          Jenjang
-          <select
-            value={jenjangFilter}
-            onChange={(event) => table.getColumn('jenjang')?.setFilterValue(event.target.value || undefined)}
-            className="h-9 rounded-md border border-input bg-card px-3 text-sm text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
-          >
-            <option value="">Semua jenjang</option>
-            {jenjangOptions.map((jenjang) => (
-              <option key={jenjang} value={jenjang}>
-                {jenjang}
-              </option>
-            ))}
-          </select>
         </label>
         <label className="flex flex-col gap-1 text-xs font-medium text-muted-foreground">
           Status
@@ -274,7 +247,7 @@ export default function SatuanKerjaTable({ rows }: Props) {
                         sorted === 'asc' ? 'ascending' : sorted === 'desc' ? 'descending' : 'none'
                       }
                       className={cn(
-                        ['total', 'processed', 'belum', 'ratio'].includes(header.column.id) && 'text-right',
+                        ['invalid', 'processed', 'belum', 'ratio'].includes(header.column.id) && 'text-right',
                       )}
                     >
                       {header.column.getCanSort() ? (
@@ -305,7 +278,7 @@ export default function SatuanKerjaTable({ rows }: Props) {
                     <TableCell
                       key={cell.id}
                       className={cn(
-                        ['total', 'processed', 'belum', 'ratio'].includes(cell.column.id) && 'text-right',
+                        ['invalid', 'processed', 'belum', 'ratio'].includes(cell.column.id) && 'text-right',
                       )}
                     >
                       <table.FlexRender cell={cell} />
@@ -334,14 +307,15 @@ export default function SatuanKerjaTable({ rows }: Props) {
                 <div className="flex items-start justify-between gap-3">
                   <div className="min-w-0">
                     <p className="font-medium">{item.name}</p>
-                    <p className="text-xs text-muted-foreground">{item.jenjang}</p>
                   </div>
                   <StatusBadge status={statusOf(item)} />
                 </div>
                 <dl className="mt-4 grid grid-cols-3 gap-2 text-center text-sm">
                   <div className="rounded-md bg-muted px-2 py-2">
-                    <dt className="text-[0.65rem] uppercase tracking-wide text-muted-foreground">Jumlah</dt>
-                    <dd className="font-medium tabular-nums">{fmtInt(item.total)}</dd>
+                    <dt className="text-[0.65rem] uppercase tracking-wide text-muted-foreground">
+                      NI tidak valid
+                    </dt>
+                    <dd className="font-medium tabular-nums">{fmtInt(item.invalid)}</dd>
                   </div>
                   <div className="rounded-md bg-muted px-2 py-2">
                     <dt className="text-[0.65rem] uppercase tracking-wide text-muted-foreground">Masuk</dt>

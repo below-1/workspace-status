@@ -121,7 +121,7 @@ const invalidColumns: TableColumn[] = [
           <span class="font-medium text-foreground">{fmtInt(counts.lengkap)} lengkap</span> ·{' '}
           <span class="font-medium text-foreground">{fmtInt(counts.sebagian)} sebagian</span> ·{' '}
           <span class="font-medium text-foreground">{fmtInt(counts.kosong)} kosong</span>. Cari nama
-          satuan kerja, saring berdasarkan jenjang atau status, lalu urutkan kolom yang diinginkan.
+          satuan kerja, saring berdasarkan status, lalu urutkan kolom yang diinginkan.
         </CardDescription>
       </CardHeader>
       <CardContent>
@@ -136,6 +136,10 @@ const invalidColumns: TableColumn[] = [
           <li>Pencocokan per NIP terhadap daftar resmi PPPK paruh waktu.</li>
           <li>Jika satu NIP dikirim berulang, usulan dari email terbaru yang dipakai.</li>
           <li>Usulan dengan NIP tidak valid tidak menambah jumlah “sudah masuk”.</li>
+          <li>
+            Kolom NI tidak valid menghitung temuan NIP yang masih aktif pada satuan kerja;
+            temuan yang sudah diperbaiki tidak dihitung.
+          </li>
           <li>Angka dibulatkan dua angka desimal; jumlah orang tetap menggunakan bilangan bulat.</li>
         </ul>
         <StatTable
