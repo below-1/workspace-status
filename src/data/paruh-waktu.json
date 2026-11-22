@@ -2,24 +2,24 @@
   "meta": {
     "title": "Status rekapitulasi data evaluasi PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "22 November 2026, 21:30 WITA",
-    "source_updated_at": "22 November 2026, 21:29 WITA",
+    "generated_at": "22 November 2026, 22:01 WITA",
+    "source_updated_at": "22 November 2026, 21:58 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4536,
-    "processed": 1591,
-    "belum": 2945,
-    "ratio": 35.07,
-    "unregistered": 164,
+    "processed": 1617,
+    "belum": 2919,
+    "ratio": 35.65,
+    "unregistered": 165,
     "groups": [
       {
         "key": "pendidikan",
         "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
         "total": 4373,
-        "processed": 1441,
-        "belum": 2932,
-        "ratio": 32.95,
+        "processed": 1467,
+        "belum": 2906,
+        "ratio": 33.55,
         "unit_count": 2,
         "satuan_kerja_count": 594
       },
