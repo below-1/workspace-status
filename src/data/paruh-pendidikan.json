@@ -2,52 +2,52 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "21 November 2026, 23:37 WITA",
-    "source_updated_at": "22 November 2026, 12:30 WITA",
+    "generated_at": "22 November 2026, 19:43 WITA",
+    "source_updated_at": "22 November 2026, 19:33 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1175,
-    "belum": 3198,
-    "ratio": 26.87,
+    "processed": 1400,
+    "belum": 2973,
+    "ratio": 32.01,
     "province": {
       "total": 4536,
-      "processed": 1325,
-      "ratio": 29.21
+      "processed": 1550,
+      "ratio": 34.17
     },
     "unit_count": 2,
-    "unregistered": 146,
+    "unregistered": 158,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 916,
-      "belum": 1983,
-      "ratio": 31.6
+      "processed": 1093,
+      "belum": 1806,
+      "ratio": 37.7
     },
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 152,
-      "belum": 930,
-      "ratio": 14.05
+      "processed": 186,
+      "belum": 896,
+      "ratio": 17.19
     },
     {
       "name": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 74,
-      "belum": 158,
-      "ratio": 31.9
+      "processed": 84,
+      "belum": 148,
+      "ratio": 36.21
     },
     {
       "name": "SLB",
       "total": 159,
-      "processed": 33,
-      "belum": 126,
-      "ratio": 20.75
+      "processed": 37,
+      "belum": 122,
+      "ratio": 23.27
     },
     {
       "name": "Satuan kerja lainnya",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1175,
-      "belum": 3197,
-      "ratio": 26.88
+      "processed": 1400,
+      "belum": 2972,
+      "ratio": 32.02
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -78,9 +78,9 @@
       "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 74,
-      "belum": 158,
-      "ratio": 31.9
+      "processed": 84,
+      "belum": 148,
+      "ratio": 36.21
     },
     {
       "name": "SMK NEGERI 1 ENDE",
@@ -142,9 +142,9 @@
       "name": "SMKN 1 KUPANG",
       "jenjang": "SMK",
       "total": 19,
-      "processed": 0,
-      "belum": 19,
-      "ratio": 0.0
+      "processed": 18,
+      "belum": 1,
+      "ratio": 94.74
     },
     {
       "name": "SMA NEGERI 2 ENDE",
@@ -206,9 +206,9 @@
       "name": "SMA NEGERI NOEBEBA",
       "jenjang": "SMA",
       "total": 16,
-      "processed": 0,
-      "belum": 16,
-      "ratio": 0.0
+      "processed": 16,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMAN 1 SOE",
@@ -230,9 +230,9 @@
       "name": "SMAN INSANA TENGAH",
       "jenjang": "SMA",
       "total": 16,
-      "processed": 0,
-      "belum": 16,
-      "ratio": 0.0
+      "processed": 15,
+      "belum": 1,
+      "ratio": 93.75
     },
     {
       "name": "SMA NEGERI 1 RINDI UMALULU",
@@ -422,9 +422,9 @@
       "name": "SMAN 1 KUPANG",
       "jenjang": "SMA",
       "total": 13,
-      "processed": 0,
-      "belum": 13,
-      "ratio": 0.0
+      "processed": 13,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMAN 1 KUPANG TIMUR",
@@ -526,9 +526,9 @@
       "name": "SMA NEGERI 1 WULLA WAIJELU",
       "jenjang": "SMA",
       "total": 12,
-      "processed": 0,
-      "belum": 12,
-      "ratio": 0.0
+      "processed": 11,
+      "belum": 1,
+      "ratio": 91.67
     },
     {
       "name": "SMA NEGERI 2 LOBALAIN",
@@ -542,9 +542,9 @@
       "name": "SMA NEGERI 2 PACAR",
       "jenjang": "SMA",
       "total": 12,
-      "processed": 0,
-      "belum": 12,
-      "ratio": 0.0
+      "processed": 12,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI 2 WEWEWA TIMUR",
@@ -598,9 +598,9 @@
       "name": "SMA NEGERI WEBRIAMATA",
       "jenjang": "SMA",
       "total": 12,
-      "processed": 0,
-      "belum": 12,
-      "ratio": 0.0
+      "processed": 12,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMAN 1 CIBAL",
@@ -726,9 +726,9 @@
       "name": "SMA NEGERI 1 WANUKAKA",
       "jenjang": "SMA",
       "total": 11,
-      "processed": 0,
-      "belum": 11,
-      "ratio": 0.0
+      "processed": 11,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI ALKANI",
@@ -926,17 +926,17 @@
       "name": "SMA NEGERI 1 ADONARA TENGAH",
       "jenjang": "SMA",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI 1 KAHAUNGU ETI",
       "jenjang": "SMA",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI 1 LARANTUKA",
@@ -982,9 +982,9 @@
       "name": "SMA NEGERI KELUBAGOLIT",
       "jenjang": "SMA",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI LASIOLAT",
@@ -998,9 +998,9 @@
       "name": "SMA NEGERI NOEMUTI TIMUR",
       "jenjang": "SMA",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0
+      "processed": 9,
+      "belum": 1,
+      "ratio": 90.0
     },
     {
       "name": "SMA NEGERI PINU PAHAR",
@@ -1446,9 +1446,9 @@
       "name": "SMKN 1 LOLI",
       "jenjang": "SMK",
       "total": 9,
-      "processed": 7,
-      "belum": 2,
-      "ratio": 77.78
+      "processed": 9,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMKN 4 KUPANG",
@@ -1502,9 +1502,9 @@
       "name": "SMA NEGERI 1 LOLI",
       "jenjang": "SMA",
       "total": 8,
-      "processed": 6,
-      "belum": 2,
-      "ratio": 75.0
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI 1 SEMAU",
@@ -1542,9 +1542,9 @@
       "name": "SMA NEGERI 2 KEO TENGAH",
       "jenjang": "SMA",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI 2 SOA",
@@ -1806,9 +1806,9 @@
       "name": "SMAN MAUTA",
       "jenjang": "SMA",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMK NEGERI 1 KEFAMENANU",
@@ -1998,9 +1998,9 @@
       "name": "SMA NEGERI 2 AMARASI BARAT",
       "jenjang": "SMA",
       "total": 7,
-      "processed": 0,
-      "belum": 7,
-      "ratio": 0.0
+      "processed": 4,
+      "belum": 3,
+      "ratio": 57.14
     },
     {
       "name": "SMA NEGERI 2 SULAMU",
@@ -2518,9 +2518,9 @@
       "name": "SMA NEGERI PLUS KOPI COLOL",
       "jenjang": "SMA",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI RESTORASI FATUAT",
@@ -2566,9 +2566,9 @@
       "name": "SMAN 1 AIMERE",
       "jenjang": "SMA",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0
+      "processed": 5,
+      "belum": 1,
+      "ratio": 83.33
     },
     {
       "name": "SMAN 1 BOLENG",
@@ -2902,9 +2902,9 @@
       "name": "SMKN OEOLO",
       "jenjang": "SMK",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0
+      "processed": 5,
+      "belum": 1,
+      "ratio": 83.33
     },
     {
       "name": "SMKN SASITAMEAN",
@@ -2918,9 +2918,9 @@
       "name": "SMKN TOIANAS",
       "jenjang": "SMK",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SLB NEGERI TENDA RUTENG",
@@ -3502,9 +3502,9 @@
       "name": "SMA NEGERI 1 RINDI",
       "jenjang": "SMA",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI 1 WULANGGITANG",
@@ -3598,9 +3598,9 @@
       "name": "SMAN 1 MAUPONGGO",
       "jenjang": "SMA",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMAN 1 SOLOR BARAT",
@@ -3990,9 +3990,9 @@
       "name": "SMA NEGERI DETUSOKO",
       "jenjang": "SMA",
       "total": 3,
-      "processed": 0,
-      "belum": 3,
-      "ratio": 0.0
+      "processed": 3,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI MAKIR",
@@ -4030,9 +4030,9 @@
       "name": "SMAN 1 GOLEWA",
       "jenjang": "SMA",
       "total": 3,
-      "processed": 0,
-      "belum": 3,
-      "ratio": 0.0
+      "processed": 3,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMAN 1 GOLEWA SELATAN",
@@ -4118,9 +4118,9 @@
       "name": "SMAN 3 POCO RANAKA",
       "jenjang": "SMA",
       "total": 3,
-      "processed": 0,
-      "belum": 3,
-      "ratio": 0.0
+      "processed": 1,
+      "belum": 2,
+      "ratio": 33.33
     },
     {
       "name": "SMAN 6 ELAR",
@@ -4278,9 +4278,9 @@
       "name": "SMKN 1 LEWOLEBA",
       "jenjang": "SMK",
       "total": 3,
-      "processed": 0,
-      "belum": 3,
-      "ratio": 0.0
+      "processed": 3,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMKN 1 NANGARORO",
@@ -4318,17 +4318,17 @@
       "name": "SLB NEGERI LEWOLEBA",
       "jenjang": "SLB",
       "total": 2,
-      "processed": 0,
-      "belum": 2,
-      "ratio": 0.0
+      "processed": 2,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SLB NEGERI NITSAE",
       "jenjang": "SLB",
       "total": 2,
-      "processed": 0,
-      "belum": 2,
-      "ratio": 0.0
+      "processed": 2,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SLB NEGERI WERI",
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 16
+      "count": 20
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4851,7 +4851,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (3 baris)",
-      "count": 1
+      "count": 2
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4861,12 +4861,12 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (4 baris)",
-      "count": 2
+      "count": 3
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (6 baris)",
-      "count": 1
+      "count": 2
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
