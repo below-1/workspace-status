@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "22 November 2026, 20:00 WITA",
-    "source_updated_at": "22 November 2026, 19:50 WITA",
+    "generated_at": "22 November 2026, 20:31 WITA",
+    "source_updated_at": "22 November 2026, 20:26 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1401,
-    "belum": 2972,
-    "ratio": 32.04,
+    "processed": 1408,
+    "belum": 2965,
+    "ratio": 32.2,
     "province": {
       "total": 4536,
-      "processed": 1551,
-      "ratio": 34.19
+      "processed": 1558,
+      "ratio": 34.35
     },
     "unit_count": 2,
     "unregistered": 163,
@@ -31,9 +31,9 @@
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 186,
-      "belum": 896,
-      "ratio": 17.19
+      "processed": 193,
+      "belum": 889,
+      "ratio": 17.84
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1401,
-      "belum": 2971,
-      "ratio": 32.04
+      "processed": 1408,
+      "belum": 2964,
+      "ratio": 32.2
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -2222,9 +2222,9 @@
       "name": "SMK NEGERI 3 ATAMBUA",
       "jenjang": "SMK",
       "total": 7,
-      "processed": 0,
-      "belum": 7,
-      "ratio": 0.0
+      "processed": 7,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMK NEGERI 5 WAINGAPU",
