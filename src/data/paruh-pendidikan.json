@@ -2,38 +2,38 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "22 November 2026, 20:31 WITA",
-    "source_updated_at": "22 November 2026, 20:26 WITA",
+    "generated_at": "22 November 2026, 21:02 WITA",
+    "source_updated_at": "22 November 2026, 20:56 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1408,
-    "belum": 2965,
-    "ratio": 32.2,
+    "processed": 1434,
+    "belum": 2939,
+    "ratio": 32.79,
     "province": {
       "total": 4536,
-      "processed": 1558,
-      "ratio": 34.35
+      "processed": 1584,
+      "ratio": 34.92
     },
     "unit_count": 2,
-    "unregistered": 163,
+    "unregistered": 164,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 1094,
-      "belum": 1805,
-      "ratio": 37.74
+      "processed": 1108,
+      "belum": 1791,
+      "ratio": 38.22
     },
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 193,
-      "belum": 889,
-      "ratio": 17.84
+      "processed": 205,
+      "belum": 877,
+      "ratio": 18.95
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1408,
-      "belum": 2964,
-      "ratio": 32.2
+      "processed": 1434,
+      "belum": 2938,
+      "ratio": 32.8
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -310,9 +310,9 @@
       "name": "SMA NEGERI 1 RAIJUA",
       "jenjang": "SMA",
       "total": 14,
-      "processed": 0,
-      "belum": 14,
-      "ratio": 0.0
+      "processed": 14,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMA NEGERI 2 SABU BARAT",
@@ -694,9 +694,9 @@
       "name": "SMKN 5 KUPANG",
       "jenjang": "SMK",
       "total": 12,
-      "processed": 0,
-      "belum": 12,
-      "ratio": 0.0
+      "processed": 12,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "name": "SMKN KOLBANO",
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 20
+      "count": 21
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
