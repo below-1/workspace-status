@@ -2,38 +2,38 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "23 November 2026, 23:06 WITA",
+    "generated_at": "23 November 2026, 23:31 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 2689,
-    "belum": 1688,
-    "ratio": 61.43,
+    "processed": 2725,
+    "belum": 1652,
+    "ratio": 62.26,
     "province": {
       "total": 4540,
-      "processed": 2839,
-      "ratio": 62.53
+      "processed": 2875,
+      "ratio": 63.33
     },
     "unit_count": 2,
-    "unregistered": 258,
+    "unregistered": 260,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 1882,
-      "belum": 1019,
-      "ratio": 64.87
+      "processed": 1916,
+      "belum": 985,
+      "ratio": 66.05
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 594,
-      "belum": 490,
-      "ratio": 54.8
+      "processed": 596,
+      "belum": 488,
+      "ratio": 54.98
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 2688,
-      "belum": 1688,
-      "ratio": 61.43
+      "processed": 2724,
+      "belum": 1652,
+      "ratio": 62.25
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -317,9 +317,9 @@
     {
       "name": "SMA NEGERI 2 SABU BARAT",
       "total": 14,
-      "processed": 0,
-      "belum": 14,
-      "ratio": 0.0,
+      "processed": 13,
+      "belum": 1,
+      "ratio": 92.86,
       "invalid": 0
     },
     {
@@ -797,9 +797,9 @@
     {
       "name": "SMAN 1 LEMBOR",
       "total": 11,
-      "processed": 0,
-      "belum": 11,
-      "ratio": 0.0,
+      "processed": 11,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1781,10 +1781,10 @@
     {
       "name": "SMAN KOKBAUN",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
-      "invalid": 0
+      "processed": 7,
+      "belum": 1,
+      "ratio": 87.5,
+      "invalid": 1
     },
     {
       "name": "SMAN KUALIN",
@@ -3965,9 +3965,9 @@
     {
       "name": "SMA NEGERI 1 PABERIWAI",
       "total": 3,
-      "processed": 0,
-      "belum": 3,
-      "ratio": 0.0,
+      "processed": 3,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4597,9 +4597,9 @@
     {
       "name": "SMKN PERIKANAN WINI",
       "total": 2,
-      "processed": 0,
-      "belum": 2,
-      "ratio": 0.0,
+      "processed": 2,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 17
+      "count": 19
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
