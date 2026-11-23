@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "23 November 2026, 22:34 WITA",
+    "generated_at": "23 November 2026, 23:06 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -1251,6 +1251,50 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "c992d14bcc6e",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T22:45:17+08:00",
+      "sender_email": "lopesemilianamaria@gmail.com",
+      "outcome": "nip",
+      "reasons": [
+        "nip",
+        "missing_ni",
+        "trailing_000_ni"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 11,
+      "active_findings": 7,
+      "fixed_findings": 0,
+      "findings": [
+        {
+          "code": "missing_ni",
+          "active": 6,
+          "fixed": 0
+        },
+        {
+          "code": "trailing_000_ni",
+          "active": 1,
+          "fixed": 0
+        }
+      ],
+      "invalid_nips": [
+        {
+          "nip": "199704182025212000",
+          "defects": [
+            "trailing_000_ni"
+          ]
+        },
+        {
+          "nip": "",
+          "defects": [
+            "missing_ni"
+          ]
+        }
+      ],
+      "mixed_unit_count": 4
+    },
+    {
       "id": "c8cf197794d1",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T14:35:27+08:00",
@@ -1703,6 +1747,22 @@
       "mixed_unit_count": 3
     },
     {
+      "id": "b44f38269e30",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T22:35:02+08:00",
+      "sender_email": "dalmakbili80@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 2,
+      "pdf_count": 1,
+      "rows_parsed": 12,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 3
+    },
+    {
       "id": "b3fc984fcf1e",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T20:05:15+08:00",
@@ -2107,6 +2167,22 @@
       "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 0
+    },
+    {
+      "id": "9ee9df21928d",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T22:46:54+08:00",
+      "sender_email": "smanegeri1abad@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 22,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 11
     },
     {
       "id": "9e1c8c4698fa",
@@ -2529,6 +2605,22 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "8e9630a70ba3",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T22:44:59+08:00",
+      "sender_email": "smkn7rakawatusumbatimur@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 11,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 11
+    },
+    {
       "id": "8db7203ba369",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T14:48:55+08:00",
@@ -2628,6 +2720,22 @@
       ],
       "invalid_nips": [],
       "mixed_unit_count": 0
+    },
+    {
+      "id": "8c1c28d6f6ad",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T22:36:32+08:00",
+      "sender_email": "aditiaputra0@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 11,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 1
     },
     {
       "id": "8bca394ba207",
@@ -4354,6 +4462,22 @@
       "mixed_unit_count": 1
     },
     {
+      "id": "3cf27be7a0f3",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T22:58:43+08:00",
+      "sender_email": "dalmakbili80@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 2,
+      "pdf_count": 1,
+      "rows_parsed": 12,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 3
+    },
+    {
       "id": "3b9053128e86",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T09:46:17+08:00",
@@ -5330,6 +5454,22 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "1de5161d5f48",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T22:43:03+08:00",
+      "sender_email": "smknpulaukomodo@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 9,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "1da4c785ce4d",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T22:20:35+08:00",
@@ -6239,31 +6379,21 @@
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T14:10:52+08:00",
       "sender_email": "aditiaputra0@gmail.com",
-      "outcome": "nip",
-      "reasons": [
-        "nip",
-        "unregistered_ni"
-      ],
+      "outcome": "valid",
+      "reasons": [],
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 11,
-      "active_findings": 1,
-      "fixed_findings": 0,
+      "active_findings": 0,
+      "fixed_findings": 1,
       "findings": [
         {
           "code": "unregistered_ni",
-          "active": 1,
-          "fixed": 0
+          "active": 0,
+          "fixed": 1
         }
       ],
-      "invalid_nips": [
-        {
-          "nip": "199011202025212262",
-          "defects": [
-            "unregistered_ni"
-          ]
-        }
-      ],
+      "invalid_nips": [],
       "mixed_unit_count": 1
     },
     {

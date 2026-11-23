@@ -2,38 +2,38 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "23 November 2026, 22:34 WITA",
+    "generated_at": "23 November 2026, 23:06 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 2650,
-    "belum": 1727,
-    "ratio": 60.54,
+    "processed": 2689,
+    "belum": 1688,
+    "ratio": 61.43,
     "province": {
       "total": 4540,
-      "processed": 2800,
-      "ratio": 61.67
+      "processed": 2839,
+      "ratio": 62.53
     },
     "unit_count": 2,
-    "unregistered": 251,
+    "unregistered": 258,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 1864,
-      "belum": 1037,
-      "ratio": 64.25
+      "processed": 1882,
+      "belum": 1019,
+      "ratio": 64.87
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 573,
-      "belum": 511,
-      "ratio": 52.86
+      "processed": 594,
+      "belum": 490,
+      "ratio": 54.8
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 2649,
-      "belum": 1727,
-      "ratio": 60.53
+      "processed": 2688,
+      "belum": 1688,
+      "ratio": 61.43
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -765,9 +765,9 @@
     {
       "name": "SMAN 1 ABAD",
       "total": 11,
-      "processed": 0,
-      "belum": 11,
-      "ratio": 0.0,
+      "processed": 11,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -893,9 +893,9 @@
     {
       "name": "SMK NEGERI 7 RAKAWATU",
       "total": 11,
-      "processed": 0,
-      "belum": 11,
-      "ratio": 0.0,
+      "processed": 11,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1149,9 +1149,9 @@
     {
       "name": "SMK NEGERI PERBATASAN RAI MANUK",
       "total": 10,
-      "processed": 9,
-      "belum": 1,
-      "ratio": 90.0,
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1429,9 +1429,9 @@
     {
       "name": "SMK NEGERI RESTORASI PULAU KOMODO",
       "total": 9,
-      "processed": 0,
-      "belum": 9,
-      "ratio": 0.0,
+      "processed": 9,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3029,9 +3029,9 @@
     {
       "name": "SMA NEGERI 3 AMARASI TIMUR",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 1,
+      "ratio": 80.0,
       "invalid": 0
     },
     {
@@ -4189,9 +4189,9 @@
     {
       "name": "SMAN1 LOURA",
       "total": 3,
-      "processed": 0,
-      "belum": 3,
-      "ratio": 0.0,
+      "processed": 3,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 18
+      "count": 17
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4872,6 +4872,11 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (6 baris)",
       "count": 2
+    },
+    {
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "reason": "NIP tidak valid (7 baris)",
+      "count": 1
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
