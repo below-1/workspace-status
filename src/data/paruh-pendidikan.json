@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "24 November 2026, 00:32 WITA",
+    "generated_at": "24 November 2026, 01:01 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 2762,
-    "belum": 1615,
-    "ratio": 63.1,
+    "processed": 2766,
+    "belum": 1611,
+    "ratio": 63.19,
     "province": {
       "total": 4540,
-      "processed": 2912,
-      "ratio": 64.14
+      "processed": 2916,
+      "ratio": 64.23
     },
     "unit_count": 2,
     "unregistered": 261,
@@ -31,16 +31,16 @@
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 596,
-      "belum": 488,
-      "ratio": 54.98
+      "processed": 599,
+      "belum": 485,
+      "ratio": 55.26
     },
     {
       "name": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 147,
-      "belum": 85,
-      "ratio": 63.36
+      "processed": 148,
+      "belum": 84,
+      "ratio": 63.79
     },
     {
       "name": "SLB",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 2761,
-      "belum": 1615,
-      "ratio": 63.09
+      "processed": 2765,
+      "belum": 1611,
+      "ratio": 63.19
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -77,9 +77,9 @@
     {
       "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "total": 232,
-      "processed": 147,
-      "belum": 85,
-      "ratio": 63.36,
+      "processed": 148,
+      "belum": 84,
+      "ratio": 63.79,
       "invalid": 1
     },
     {
@@ -4301,9 +4301,9 @@
     {
       "name": "SMKN 1 WELAK",
       "total": 3,
-      "processed": 0,
-      "belum": 3,
-      "ratio": 0.0,
+      "processed": 3,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
