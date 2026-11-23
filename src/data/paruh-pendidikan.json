@@ -2,38 +2,38 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "23 November 2026, 08:01 WITA",
-    "source_updated_at": "23 November 2026, 08:00 WITA",
+    "generated_at": "23 November 2026, 08:31 WITA",
+    "source_updated_at": "23 November 2026, 09:25 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1502,
-    "belum": 2871,
-    "ratio": 34.35,
+    "processed": 1536,
+    "belum": 2837,
+    "ratio": 35.12,
     "province": {
       "total": 4536,
-      "processed": 1652,
-      "ratio": 36.42
+      "processed": 1686,
+      "ratio": 37.17
     },
     "unit_count": 2,
-    "unregistered": 165,
+    "unregistered": 167,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 1150,
-      "belum": 1749,
-      "ratio": 39.67
+      "processed": 1180,
+      "belum": 1719,
+      "ratio": 40.7
     },
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 229,
-      "belum": 853,
-      "ratio": 21.16
+      "processed": 233,
+      "belum": 849,
+      "ratio": 21.53
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1501,
-      "belum": 2871,
-      "ratio": 34.33
+      "processed": 1535,
+      "belum": 2837,
+      "ratio": 35.11
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -381,10 +381,10 @@
     {
       "name": "SMAN OINLASI",
       "total": 14,
-      "processed": 0,
-      "belum": 14,
-      "ratio": 0.0,
-      "invalid": 0
+      "processed": 13,
+      "belum": 1,
+      "ratio": 92.86,
+      "invalid": 1
     },
     {
       "name": "SEKOLAH MENENGAH ATAS (SMA) NEGERI BANAT",
@@ -1069,9 +1069,9 @@
     {
       "name": "SMAN 2 MAUMERE",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0,
+      "processed": 9,
+      "belum": 1,
+      "ratio": 90.0,
       "invalid": 0
     },
     {
@@ -1605,9 +1605,9 @@
     {
       "name": "SMA NEGERI LIKWATANG",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3917,9 +3917,9 @@
     {
       "name": "SMKN TALIBURA",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 21
+      "count": 23
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
