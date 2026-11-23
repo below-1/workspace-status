@@ -2,26 +2,26 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "23 November 2026, 21:02 WITA",
+    "generated_at": "23 November 2026, 21:33 WITA",
     "source_updated_at": "24 November 2026, 16:07 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total_master": 4536,
-    "valid": 2605,
+    "valid": 2680,
     "needs_fix": 58,
-    "not_submitted": 1873,
+    "not_submitted": 1798,
     "needs_confirmation": 0,
-    "active_findings": 351,
-    "fixed_findings": 582
+    "active_findings": 359,
+    "fixed_findings": 593
   },
   "by_defect": [
     {
       "code": "missing_ni",
       "label": "NIP kosong",
-      "active": 5,
+      "active": 9,
       "fixed": 1,
-      "total": 6
+      "total": 10
     },
     {
       "code": "non_numeric_ni",
@@ -40,44 +40,44 @@
     {
       "code": "trailing_000_ni",
       "label": "NIP berakhiran 000",
-      "active": 135,
-      "fixed": 56,
-      "total": 191
+      "active": 130,
+      "fixed": 63,
+      "total": 193
     },
     {
       "code": "unregistered_ni",
       "label": "NIP tidak terdaftar",
-      "active": 42,
-      "fixed": 28,
-      "total": 70
+      "active": 45,
+      "fixed": 29,
+      "total": 74
     },
     {
       "code": "numeric_cell_ni",
       "label": "NIP tersimpan sebagai angka",
-      "active": 2,
+      "active": 8,
       "fixed": 5,
-      "total": 7
+      "total": 13
     },
     {
       "code": "duplicate_ni_diff_name",
       "label": "NIP ganda beda nama",
       "active": 0,
-      "fixed": 47,
-      "total": 47
+      "fixed": 50,
+      "total": 50
     }
   ],
   "by_jenjang": [
     {
       "name": "SMA",
-      "active": 164,
-      "fixed": 288,
-      "total": 452
+      "active": 160,
+      "fixed": 299,
+      "total": 459
     },
     {
       "name": "SMK",
-      "active": 114,
+      "active": 126,
       "fixed": 175,
-      "total": 289
+      "total": 301
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -96,9 +96,9 @@
     {
       "key": "Pendidikan",
       "label": "Pendidikan",
-      "active": 284,
-      "fixed": 478,
-      "total": 762
+      "active": 292,
+      "fixed": 489,
+      "total": 781
     },
     {
       "key": "Non-Pendidikan",
