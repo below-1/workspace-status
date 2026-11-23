@@ -2,11 +2,43 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 00:02 WITA",
+    "generated_at": "24 November 2026, 00:32 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
+    {
+      "id": "7ff574cb123f",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T00:01:39+08:00",
+      "sender_email": "smanhar039@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 5,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "5aa80c726d25",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T00:29:06+08:00",
+      "sender_email": "smansakomodoa@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 12,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
     {
       "id": "fe92baedaca5",
       "received_on": "2026-11-23",
