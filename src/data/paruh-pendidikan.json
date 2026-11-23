@@ -2,7 +2,7 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "23 November 2026, 18:37 WITA",
+    "generated_at": "23 November 2026, 18:55 WITA",
     "source_updated_at": "24 November 2026, 08:08 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -80,7 +80,7 @@
       "processed": 125,
       "belum": 107,
       "ratio": 53.88,
-      "invalid": 0
+      "invalid": 2
     },
     {
       "name": "SMK NEGERI 1 ENDE",
@@ -176,7 +176,7 @@
       "processed": 17,
       "belum": 1,
       "ratio": 94.44,
-      "invalid": 55
+      "invalid": 1
     },
     {
       "name": "SMA NEGERI 1 KODI BALAGHAR",
@@ -312,7 +312,7 @@
       "processed": 14,
       "belum": 0,
       "ratio": 100.0,
-      "invalid": 1
+      "invalid": 0
     },
     {
       "name": "SMA NEGERI 2 SABU BARAT",
@@ -448,7 +448,7 @@
       "processed": 0,
       "belum": 13,
       "ratio": 0.0,
-      "invalid": 12
+      "invalid": 11
     },
     {
       "name": "SMAN 1 WEWEWA TIMUR",
@@ -1144,7 +1144,7 @@
       "processed": 0,
       "belum": 10,
       "ratio": 0.0,
-      "invalid": 10
+      "invalid": 9
     },
     {
       "name": "SMK NEGERI PERBATASAN RAI MANUK",
@@ -1624,7 +1624,7 @@
       "processed": 6,
       "belum": 2,
       "ratio": 75.0,
-      "invalid": 4
+      "invalid": 2
     },
     {
       "name": "SMA NEGERI PANTOLA",
@@ -1632,7 +1632,7 @@
       "processed": 0,
       "belum": 8,
       "ratio": 0.0,
-      "invalid": 24
+      "invalid": 8
     },
     {
       "name": "SMA NEGERI PERBATASAN LAMAKNEN SELATAN",
@@ -1664,7 +1664,7 @@
       "processed": 0,
       "belum": 8,
       "ratio": 0.0,
-      "invalid": 42
+      "invalid": 7
     },
     {
       "name": "SMA NEGERI WELAMOSA",
@@ -1832,7 +1832,7 @@
       "processed": 0,
       "belum": 8,
       "ratio": 0.0,
-      "invalid": 23
+      "invalid": 8
     },
     {
       "name": "SMK NEGERI 2 WAINGAPU",
@@ -3040,7 +3040,7 @@
       "processed": 0,
       "belum": 5,
       "ratio": 0.0,
-      "invalid": 15
+      "invalid": 4
     },
     {
       "name": "SMA NEGERI FATUKOPA",
@@ -3872,7 +3872,7 @@
       "processed": 0,
       "belum": 4,
       "ratio": 0.0,
-      "invalid": 5
+      "invalid": 4
     },
     {
       "name": "SMKN ALOR BESAR",
@@ -4728,7 +4728,7 @@
       "processed": 0,
       "belum": 1,
       "ratio": 0.0,
-      "invalid": 4
+      "invalid": 1
     },
     {
       "name": "SMAN 4 BORONG",
