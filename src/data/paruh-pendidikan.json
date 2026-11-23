@@ -2,31 +2,31 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "24 November 2026, 07:11 WITA",
+    "generated_at": "24 November 2026, 07:31 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 2778,
-    "belum": 1599,
-    "ratio": 63.47,
+    "processed": 2785,
+    "belum": 1592,
+    "ratio": 63.63,
     "province": {
       "total": 4540,
-      "processed": 2928,
-      "ratio": 64.49
+      "processed": 2935,
+      "ratio": 64.65
     },
     "unit_count": 2,
-    "unregistered": 261,
+    "unregistered": 270,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 1959,
-      "belum": 942,
-      "ratio": 67.53
+      "processed": 1966,
+      "belum": 935,
+      "ratio": 67.77
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 2777,
-      "belum": 1599,
-      "ratio": 63.46
+      "processed": 2784,
+      "belum": 1592,
+      "ratio": 63.62
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -1509,9 +1509,9 @@
     {
       "name": "SMA NEGERI 1 SEMAU",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 7,
+      "belum": 1,
+      "ratio": 87.5,
       "invalid": 0
     },
     {
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 19
+      "count": 20
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",

@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 07:11 WITA",
+    "generated_at": "24 November 2026, 07:31 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -13812,16 +13812,24 @@
     {
       "nip": "198405222025212079",
       "nama": "MERINCE KATHARINA MALAIFANI",
-      "nama_berkas": "",
+      "nama_berkas": "MERINCE KATHARINA MAILAFANI,A.Md",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 1 SEMAU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "needs_fix",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": ",19840522 2025212079",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198405222025212081",
@@ -33940,6 +33948,36 @@
       "received_on": ""
     },
     {
+      "nip": "198905052025212194",
+      "nama": "RENI HERAWATI KUDANG",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMA N 1 SEMAU",
+      "jenjang": "Tidak diketahui",
+      "status": "needs_fix",
+      "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [
+        {
+          "code": "unregistered_ni",
+          "raw": "198905052025212194",
+          "detail": "NIP tidak ditemukan pada data master PPPK"
+        }
+      ],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": ",19890505 2025212194",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-24"
+    },
+    {
       "nip": "198905052025212294",
       "nama": "RENI HERAWATI KUDANG",
       "nama_berkas": "",
@@ -40044,16 +40082,24 @@
     {
       "nip": "199005092025212156",
       "nama": "RUT BELA WAWO",
-      "nama_berkas": "",
+      "nama_berkas": "RUT BELA WAWO,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 1 SEMAU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "needs_fix",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": ",19900509 2025212156",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199005102025211039",
@@ -40728,16 +40774,24 @@
     {
       "nip": "199007022025212167",
       "nama": "MARLEN E J BATMARO",
-      "nama_berkas": "",
+      "nama_berkas": "MARLEN E.J. BATMARO,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 1 SEMAU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "needs_fix",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": ",19900702 2025212167",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199007022025212169",
@@ -45326,16 +45380,24 @@
     {
       "nip": "199104032025212189",
       "nama": "NETY ADRIANY YOSHINTA TKESNAY",
-      "nama_berkas": "",
+      "nama_berkas": "NETY ADRIANY YOSHINTA TKESNAY,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 1 SEMAU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "needs_fix",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": ",19910403 2025212189",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199104042025211036",
@@ -57932,16 +57994,24 @@
     {
       "nip": "199306232025211151",
       "nama": "RONI ROVANDI BUY MESTUNI",
-      "nama_berkas": "",
+      "nama_berkas": "RONI ROVANDI BUY MESTUNI,S.E",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 1 SEMAU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "needs_fix",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": ",19930623 2025211151",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199306252025211143",
@@ -72426,16 +72496,24 @@
     {
       "nip": "199604052025212156",
       "nama": "FEDERITA SUSANA BATU",
-      "nama_berkas": "",
+      "nama_berkas": "FEDERITA SUSANA BATU,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 1 SEMAU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "needs_fix",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": ",19960405 2025212156",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199604052025212160",
@@ -77582,16 +77660,24 @@
     {
       "nip": "199706162025212175",
       "nama": "ELISABET BIONITA DWI ROSITA JEHAMIN",
-      "nama_berkas": "",
+      "nama_berkas": "ELISABET BIONITA DWI ROSITA JEHAMIN,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 1 SEMAU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "needs_fix",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": ",19970616 2025212175",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199706172025212133",

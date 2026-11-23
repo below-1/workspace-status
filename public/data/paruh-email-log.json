@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 07:11 WITA",
+    "generated_at": "24 November 2026, 07:31 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -44,6 +44,43 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "93f0066319ca",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T07:29:50+08:00",
+      "sender_email": "adelcibana78@gmail.com",
+      "outcome": "nip",
+      "reasons": [
+        "nip",
+        "unregistered_ni"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 16,
+      "active_findings": 1,
+      "fixed_findings": 8,
+      "findings": [
+        {
+          "code": "non_numeric_ni",
+          "active": 0,
+          "fixed": 8
+        },
+        {
+          "code": "unregistered_ni",
+          "active": 1,
+          "fixed": 0
+        }
+      ],
+      "invalid_nips": [
+        {
+          "nip": "198905052025212194",
+          "defects": [
+            "unregistered_ni"
+          ]
+        }
+      ],
+      "mixed_unit_count": 7
+    },
+    {
       "id": "92373fc81afa",
       "received_on": "2026-11-24",
       "received_at": "2026-11-24T00:50:07+08:00",
@@ -72,6 +109,28 @@
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "792c06b71848",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T07:23:48+08:00",
+      "sender_email": "adelcibana78@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 8,
+      "active_findings": 0,
+      "fixed_findings": 8,
+      "findings": [
+        {
+          "code": "non_numeric_ni",
+          "active": 0,
+          "fixed": 8
+        }
+      ],
       "invalid_nips": [],
       "mixed_unit_count": 0
     },
