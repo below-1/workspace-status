@@ -1,6 +1,7 @@
 import * as React from "react";
 
 import { Button } from "@/components/ui/button";
+import { readQueryParam, writeQueryParam } from "@/lib/query";
 
 interface DefectDetail {
   code: string;
@@ -28,6 +29,7 @@ interface LookupResponse {
 }
 
 const NIP_LENGTH = 18;
+const NIP_PARAM = "nip";
 
 const ERROR_LABELS: Record<string, string> = {
   missing_ni: "NIP kosong pada berkas",
@@ -183,8 +185,10 @@ export default function NipStatusSearch({ dataUrl }: Props) {
     return cache.current;
   }
 
-  async function runSearch(rawInput: string) {
+  async function runSearch(rawInput: string, updateUrl = true) {
     const raw = rawInput.trim();
+    if (updateUrl) writeQueryParam(NIP_PARAM, raw);
+    setQuery(raw);
     if (!raw) {
       setError("Masukkan NIP terlebih dahulu.");
       setRecord(null);
@@ -226,19 +230,30 @@ export default function NipStatusSearch({ dataUrl }: Props) {
   }
 
   React.useEffect(() => {
-    const params = new URLSearchParams(window.location.search);
-    const initial = params.get("nip") || "";
-    if (initial) {
-      setQuery(initial);
-      void runSearch(initial);
-    }
+    const initial = readQueryParam(NIP_PARAM);
+    if (initial) void runSearch(initial, false);
   }, []);
 
-  function reset() {
+  React.useEffect(() => {
+    function onPopState() {
+      const value = readQueryParam(NIP_PARAM);
+      if (value) void runSearch(value, false);
+      else clearSearch();
+    }
+    window.addEventListener("popstate", onPopState);
+    return () => window.removeEventListener("popstate", onPopState);
+  }, []);
+
+  function clearSearch() {
     setQuery("");
     setRecord(null);
     setSearched(false);
     setError("");
+  }
+
+  function reset() {
+    clearSearch();
+    writeQueryParam(NIP_PARAM, "");
   }
 
   return (

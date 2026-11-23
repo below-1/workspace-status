@@ -3,6 +3,7 @@ import * as React from 'react';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { fmtInt } from '@/lib/format';
+import { readQueryParam, writeQueryParam } from '@/lib/query';
 
 interface Finding {
   code: string;
@@ -67,6 +68,7 @@ const REASON_LABELS: Record<string, string> = {
 };
 
 const TEMPLATE_URL = 'https://s.id/usulperpanjangan2026';
+const EMAIL_PARAM = 'email';
 
 const nipLookupCache = new Map<string, Promise<Record<string, NipLookupRecord>>>();
 
@@ -84,6 +86,28 @@ function loadNipLookup(url: string): Promise<Record<string, NipLookupRecord>> {
     nipLookupCache.set(url, pending);
   }
   return pending;
+}
+
+function evaluateSearch(
+  records: EmailRecord[],
+  rawInput: string,
+): { error: string; matches: EmailRecord[] } {
+  const needle = rawInput.trim().toLowerCase();
+  if (!needle) {
+    return { error: 'Masukkan alamat email pengirim terlebih dahulu.', matches: [] };
+  }
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(needle)) {
+    return { error: 'Masukkan alamat email yang valid.', matches: [] };
+  }
+  const matches = records
+    .filter((record) => record.sender_email.toLowerCase() === needle)
+    .sort((left, right) => {
+      const byDate = (right.received_at || right.received_on).localeCompare(
+        left.received_at || left.received_on,
+      );
+      return byDate || right.id.localeCompare(left.id);
+    });
+  return { error: '', matches };
 }
 
 function formatDateTime(value: string): string {
@@ -303,15 +327,16 @@ export default function EmailLogTable({ dataUrl, lookupUrl, nipPageUrl }: Props)
         if (!response.ok) throw new Error(`Gagal memuat data (${response.status}).`);
         const payload = (await response.json()) as EmailLogResponse;
         if (active) {
-          setRecords(
-            (payload.records ?? []).map((record) => ({
-              ...record,
-              sender_email: record.sender_email ?? '',
-              findings: record.findings ?? [],
-              invalid_nips: record.invalid_nips ?? [],
-              mixed_unit_count: record.mixed_unit_count ?? 0,
-            })),
-          );
+          const loadedRecords = (payload.records ?? []).map((record) => ({
+            ...record,
+            sender_email: record.sender_email ?? '',
+            findings: record.findings ?? [],
+            invalid_nips: record.invalid_nips ?? [],
+            mixed_unit_count: record.mixed_unit_count ?? 0,
+          }));
+          setRecords(loadedRecords);
+          const initial = readQueryParam(EMAIL_PARAM);
+          if (initial) applySearch(initial, loadedRecords);
         }
       } catch (caught) {
         if (active) setLoadError(caught instanceof Error ? caught.message : 'Gagal memuat data.');
@@ -325,44 +350,49 @@ export default function EmailLogTable({ dataUrl, lookupUrl, nipPageUrl }: Props)
     };
   }, [dataUrl]);
 
-  function runSearch(rawInput: string) {
-    const needle = rawInput.trim().toLowerCase();
-    setSearched(false);
-    setMatches([]);
-    setDetail(null);
-    if (!needle) {
-      setSearchError('Masukkan alamat email pengirim terlebih dahulu.');
-      return;
+  React.useEffect(() => {
+    const initial = readQueryParam(EMAIL_PARAM);
+    if (initial) setQuery(initial);
+  }, []);
+
+  React.useEffect(() => {
+    function onPopState() {
+      const value = readQueryParam(EMAIL_PARAM);
+      setQuery(value);
+      if (value) applySearch(value, records);
+      else clearSearch();
     }
-    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(needle)) {
-      setSearchError('Masukkan alamat email yang valid.');
-      return;
-    }
-    setSearchError('');
-    setSearched(true);
-    const found = records
-      .filter((record) => record.sender_email.toLowerCase() === needle)
-      .sort((left, right) => {
-        const byDate = (right.received_at || right.received_on).localeCompare(
-          left.received_at || left.received_on,
-        );
-        return byDate || right.id.localeCompare(left.id);
-      });
-    setMatches(found);
-    setDetail(found[0] ?? null);
+    window.addEventListener('popstate', onPopState);
+    return () => window.removeEventListener('popstate', onPopState);
+  }, [records]);
+
+  function applySearch(rawInput: string, source: EmailRecord[]) {
+    const { error, matches } = evaluateSearch(source, rawInput);
+    setSearchError(error);
+    setSearched(!error);
+    setMatches(matches);
+    setDetail(error ? null : (matches[0] ?? null));
   }
 
   function handleSubmit(event: React.SyntheticEvent<HTMLFormElement>) {
     event.preventDefault();
-    runSearch(query);
+    const raw = query.trim();
+    setQuery(raw);
+    writeQueryParam(EMAIL_PARAM, raw);
+    applySearch(raw, records);
   }
 
-  function reset() {
+  function clearSearch() {
     setQuery('');
     setSearched(false);
     setSearchError('');
     setMatches([]);
     setDetail(null);
+  }
+
+  function reset() {
+    clearSearch();
+    writeQueryParam(EMAIL_PARAM, '');
   }
 
   return (
