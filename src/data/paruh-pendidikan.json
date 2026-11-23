@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "23 November 2026, 17:31 WITA",
+    "generated_at": "23 November 2026, 18:01 WITA",
     "source_updated_at": "24 November 2026, 08:08 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 2176,
-    "belum": 2197,
-    "ratio": 49.76,
+    "processed": 2182,
+    "belum": 2191,
+    "ratio": 49.9,
     "province": {
       "total": 4536,
-      "processed": 2326,
-      "ratio": 51.28
+      "processed": 2332,
+      "ratio": 51.41
     },
     "unit_count": 2,
     "unregistered": 230,
@@ -24,9 +24,9 @@
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 1532,
-      "belum": 1367,
-      "ratio": 52.85
+      "processed": 1538,
+      "belum": 1361,
+      "ratio": 53.05
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 2175,
-      "belum": 2197,
-      "ratio": 49.75
+      "processed": 2181,
+      "belum": 2191,
+      "ratio": 49.89
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -2477,9 +2477,9 @@
     {
       "name": "SMA NEGERI 3 ATAMBUA",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
