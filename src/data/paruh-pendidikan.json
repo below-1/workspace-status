@@ -2,45 +2,45 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "23 November 2026, 14:01 WITA",
+    "generated_at": "23 November 2026, 14:31 WITA",
     "source_updated_at": "24 November 2026, 02:45 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1936,
-    "belum": 2437,
-    "ratio": 44.27,
+    "processed": 1988,
+    "belum": 2385,
+    "ratio": 45.46,
     "province": {
       "total": 4536,
-      "processed": 2086,
-      "ratio": 45.99
+      "processed": 2138,
+      "ratio": 47.13
     },
     "unit_count": 2,
-    "unregistered": 200,
+    "unregistered": 208,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 1410,
-      "belum": 1489,
-      "ratio": 48.64
+      "processed": 1411,
+      "belum": 1488,
+      "ratio": 48.67
     },
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 364,
-      "belum": 718,
-      "ratio": 33.64
+      "processed": 407,
+      "belum": 675,
+      "ratio": 37.62
     },
     {
       "name": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 109,
-      "belum": 123,
-      "ratio": 46.98
+      "processed": 117,
+      "belum": 115,
+      "ratio": 50.43
     },
     {
       "name": "SLB",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1935,
-      "belum": 2437,
-      "ratio": 44.26
+      "processed": 1987,
+      "belum": 2385,
+      "ratio": 45.45
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -77,17 +77,17 @@
     {
       "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "total": 232,
-      "processed": 109,
-      "belum": 123,
-      "ratio": 46.98,
+      "processed": 117,
+      "belum": 115,
+      "ratio": 50.43,
       "invalid": 0
     },
     {
       "name": "SMK NEGERI 1 ENDE",
       "total": 27,
-      "processed": 0,
-      "belum": 27,
-      "ratio": 0.0,
+      "processed": 25,
+      "belum": 2,
+      "ratio": 92.59,
       "invalid": 0
     },
     {
@@ -757,9 +757,9 @@
     {
       "name": "SMA NEGERI TOINEKE",
       "total": 11,
-      "processed": 10,
-      "belum": 1,
-      "ratio": 90.91,
+      "processed": 11,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1149,9 +1149,9 @@
     {
       "name": "SMK NEGERI PERBATASAN RAI MANUK",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0,
+      "processed": 9,
+      "belum": 1,
+      "ratio": 90.0,
       "invalid": 0
     },
     {
@@ -1664,7 +1664,7 @@
       "processed": 0,
       "belum": 8,
       "ratio": 0.0,
-      "invalid": 14
+      "invalid": 28
     },
     {
       "name": "SMA NEGERI WELAMOSA",
@@ -1885,9 +1885,9 @@
     {
       "name": "SMKN 2 SOE",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2901,10 +2901,10 @@
     {
       "name": "SMKN OEOLO",
       "total": 6,
-      "processed": 5,
-      "belum": 1,
-      "ratio": 83.33,
-      "invalid": 2
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
+      "invalid": 0
     },
     {
       "name": "SMKN SASITAMEAN",
@@ -4845,8 +4845,13 @@
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "reason": "NIP tidak valid (16 baris)",
+      "reason": "NIP tidak valid (12 baris)",
       "count": 1
+    },
+    {
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "reason": "NIP tidak valid (16 baris)",
+      "count": 2
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4856,7 +4861,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (2 baris)",
-      "count": 5
+      "count": 4
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",

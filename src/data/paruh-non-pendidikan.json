@@ -2,7 +2,7 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Non Dinas Pendidikan",
     "period": "2026",
-    "generated_at": "23 November 2026, 14:01 WITA",
+    "generated_at": "23 November 2026, 14:31 WITA",
     "source_updated_at": "24 November 2026, 02:45 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -13,11 +13,11 @@
     "ratio": 92.02,
     "province": {
       "total": 4536,
-      "processed": 2086,
-      "ratio": 45.99
+      "processed": 2138,
+      "ratio": 47.13
     },
     "unit_count": 23,
-    "unregistered": 200,
+    "unregistered": 208,
     "unit_status_counts": {
       "lengkap": 15,
       "sebagian": 4,
@@ -231,6 +231,11 @@
     {
       "unit": "DINAS SOSIAL",
       "reason": "Tanpa lampiran Excel (hanya PDF/tautan)",
+      "count": 1
+    },
+    {
+      "unit": "Dinas P dan K Prov. NTT",
+      "reason": "NIP tidak valid (3 baris)",
       "count": 1
     },
     {
