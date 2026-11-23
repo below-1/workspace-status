@@ -2,45 +2,45 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "23 November 2026, 16:49 WITA",
-    "source_updated_at": "24 November 2026, 02:45 WITA",
+    "generated_at": "23 November 2026, 16:57 WITA",
+    "source_updated_at": "24 November 2026, 08:08 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1988,
-    "belum": 2385,
-    "ratio": 45.46,
+    "processed": 2176,
+    "belum": 2197,
+    "ratio": 49.76,
     "province": {
       "total": 4536,
-      "processed": 2138,
-      "ratio": 47.13
+      "processed": 2326,
+      "ratio": 51.28
     },
     "unit_count": 2,
-    "unregistered": 208,
+    "unregistered": 230,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 1411,
-      "belum": 1488,
-      "ratio": 48.67
+      "processed": 1532,
+      "belum": 1367,
+      "ratio": 52.85
     },
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 407,
-      "belum": 675,
-      "ratio": 37.62
+      "processed": 470,
+      "belum": 612,
+      "ratio": 43.44
     },
     {
       "name": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 117,
-      "belum": 115,
-      "ratio": 50.43
+      "processed": 121,
+      "belum": 111,
+      "ratio": 52.16
     },
     {
       "name": "SLB",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1987,
-      "belum": 2385,
-      "ratio": 45.45
+      "processed": 2175,
+      "belum": 2197,
+      "ratio": 49.75
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -77,9 +77,9 @@
     {
       "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "total": 232,
-      "processed": 117,
-      "belum": 115,
-      "ratio": 50.43,
+      "processed": 121,
+      "belum": 111,
+      "ratio": 52.16,
       "invalid": 0
     },
     {
@@ -181,9 +181,9 @@
     {
       "name": "SMA NEGERI 1 KODI BALAGHAR",
       "total": 17,
-      "processed": 0,
-      "belum": 17,
-      "ratio": 0.0,
+      "processed": 16,
+      "belum": 1,
+      "ratio": 94.12,
       "invalid": 0
     },
     {
@@ -413,9 +413,9 @@
     {
       "name": "SMA NEGERI 3 KUPANG TIMUR",
       "total": 13,
-      "processed": 9,
-      "belum": 4,
-      "ratio": 69.23,
+      "processed": 12,
+      "belum": 1,
+      "ratio": 92.31,
       "invalid": 0
     },
     {
@@ -448,7 +448,7 @@
       "processed": 0,
       "belum": 13,
       "ratio": 0.0,
-      "invalid": 0
+      "invalid": 12
     },
     {
       "name": "SMAN 1 WEWEWA TIMUR",
@@ -717,9 +717,9 @@
     {
       "name": "SMA NEGERI 1 TITEHENA",
       "total": 11,
-      "processed": 10,
-      "belum": 1,
-      "ratio": 90.91,
+      "processed": 11,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -813,9 +813,9 @@
     {
       "name": "SMAN 1 SABU BARAT",
       "total": 11,
-      "processed": 0,
-      "belum": 11,
-      "ratio": 0.0,
+      "processed": 9,
+      "belum": 2,
+      "ratio": 81.82,
       "invalid": 0
     },
     {
@@ -941,9 +941,9 @@
     {
       "name": "SMA NEGERI 1 LARANTUKA",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0,
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -997,10 +997,10 @@
     {
       "name": "SMA NEGERI NOEMUTI TIMUR",
       "total": 10,
-      "processed": 9,
-      "belum": 1,
-      "ratio": 90.0,
-      "invalid": 5
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0,
+      "invalid": 6
     },
     {
       "name": "SMA NEGERI PINU PAHAR",
@@ -1037,9 +1037,9 @@
     {
       "name": "SMAN 1 MAMBORO",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0,
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1061,9 +1061,9 @@
     {
       "name": "SMAN 1 TANJUNG BUNGA",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0,
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1117,9 +1117,9 @@
     {
       "name": "SMK NEGERI 1 LARANTUKA",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0,
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1165,9 +1165,9 @@
     {
       "name": "SMKN 1 KODI BANGEDO",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0,
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1229,9 +1229,9 @@
     {
       "name": "SMA NEGERI 12 KUPANG",
       "total": 9,
-      "processed": 0,
-      "belum": 9,
-      "ratio": 0.0,
+      "processed": 9,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1517,9 +1517,9 @@
     {
       "name": "SMA NEGERI 1 TAKARI",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1664,7 +1664,7 @@
       "processed": 0,
       "belum": 8,
       "ratio": 0.0,
-      "invalid": 28
+      "invalid": 42
     },
     {
       "name": "SMA NEGERI WELAMOSA",
@@ -1765,9 +1765,9 @@
     {
       "name": "SMAN BIBOKI ANLEU",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1869,9 +1869,9 @@
     {
       "name": "SMKN 1 SOE",
       "total": 8,
-      "processed": 7,
-      "belum": 1,
-      "ratio": 87.5,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1893,9 +1893,9 @@
     {
       "name": "SMKN KOBALIMA",
       "total": 8,
-      "processed": 1,
-      "belum": 7,
-      "ratio": 12.5,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1989,9 +1989,9 @@
     {
       "name": "SMA NEGERI 2 AESESA",
       "total": 7,
-      "processed": 0,
-      "belum": 7,
-      "ratio": 0.0,
+      "processed": 7,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2237,9 +2237,9 @@
     {
       "name": "SMK NEGERI ADONARA BARAT",
       "total": 7,
-      "processed": 0,
-      "belum": 7,
-      "ratio": 0.0,
+      "processed": 7,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2389,9 +2389,9 @@
     {
       "name": "SMA NEGERI 1 ADONARA TIMUR",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2405,9 +2405,9 @@
     {
       "name": "SMA NEGERI 1 AMABI OEFETO TIMUR",
       "total": 6,
-      "processed": 5,
-      "belum": 1,
-      "ratio": 83.33,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2445,9 +2445,9 @@
     {
       "name": "SMA NEGERI 1 SOLOR SELATAN",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2525,9 +2525,9 @@
     {
       "name": "SMA NEGERI RESTORASI FATUAT",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2757,9 +2757,9 @@
     {
       "name": "SMK NEGERI 1 WULANGGITANG",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2789,9 +2789,9 @@
     {
       "name": "SMK NEGERI ILE BOLENG",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2965,9 +2965,9 @@
     {
       "name": "SMA NEGERI 1 DEMON PAGONG",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 1,
+      "ratio": 80.0,
       "invalid": 0
     },
     {
@@ -3333,17 +3333,17 @@
     {
       "name": "SMK NEGERI NOEBAUN",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0,
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
       "name": "SMK NEGERI SOLOR TIMUR",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0,
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3605,9 +3605,9 @@
     {
       "name": "SMAN 1 SOLOR BARAT",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0,
+      "processed": 3,
+      "belum": 1,
+      "ratio": 75.0,
       "invalid": 0
     },
     {
@@ -4101,9 +4101,9 @@
     {
       "name": "SMAN 3 AESESA",
       "total": 3,
-      "processed": 0,
-      "belum": 3,
-      "ratio": 0.0,
+      "processed": 3,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4509,17 +4509,17 @@
     {
       "name": "SMK NEGERI 1 TABUNDUNG",
       "total": 2,
-      "processed": 0,
-      "belum": 2,
-      "ratio": 0.0,
+      "processed": 2,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
       "name": "SMK NEGERI 2 TAKARI",
       "total": 2,
-      "processed": 0,
-      "belum": 2,
-      "ratio": 0.0,
+      "processed": 2,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4757,9 +4757,9 @@
     {
       "name": "SMK NEGERI 1 TITEHENA",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0,
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4789,9 +4789,9 @@
     {
       "name": "SMKN 1 TABUNDUNG",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0,
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4831,12 +4831,12 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "Berkas Excel tidak sesuai template",
-      "count": 1
+      "count": 2
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 23
+      "count": 20
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4861,12 +4861,12 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (2 baris)",
-      "count": 4
+      "count": 5
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (3 baris)",
-      "count": 3
+      "count": 2
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4886,22 +4886,17 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (8 baris)",
-      "count": 1
+      "count": 2
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "Tanpa lampiran Excel (hanya PDF/tautan)",
-      "count": 1
+      "count": 2
     },
     {
       "unit": "Dinas Pendidikan Provinsi NTT",
       "reason": "NIP tidak valid (7 baris)",
       "count": 2
-    },
-    {
-      "unit": "Dinas Pendidikan dan Kebudayaan Prov. NTT",
-      "reason": "NIP tidak valid (16 baris)",
-      "count": 1
     }
   ]
 }
