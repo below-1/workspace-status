@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "24 November 2026, 01:31 WITA",
+    "generated_at": "24 November 2026, 02:01 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 2766,
-    "belum": 1611,
-    "ratio": 63.19,
+    "processed": 2778,
+    "belum": 1599,
+    "ratio": 63.47,
     "province": {
       "total": 4540,
-      "processed": 2916,
-      "ratio": 64.23
+      "processed": 2928,
+      "ratio": 64.49
     },
     "unit_count": 2,
     "unregistered": 261,
@@ -24,9 +24,9 @@
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 1948,
-      "belum": 953,
-      "ratio": 67.15
+      "processed": 1959,
+      "belum": 942,
+      "ratio": 67.53
     },
     {
       "name": "SMK",
@@ -38,9 +38,9 @@
     {
       "name": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 148,
-      "belum": 84,
-      "ratio": 63.79
+      "processed": 149,
+      "belum": 83,
+      "ratio": 64.22
     },
     {
       "name": "SLB",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 2765,
-      "belum": 1611,
-      "ratio": 63.19
+      "processed": 2777,
+      "belum": 1599,
+      "ratio": 63.46
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -77,9 +77,9 @@
     {
       "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "total": 232,
-      "processed": 148,
-      "belum": 84,
-      "ratio": 63.79,
+      "processed": 149,
+      "belum": 83,
+      "ratio": 64.22,
       "invalid": 1
     },
     {
@@ -645,9 +645,9 @@
     {
       "name": "SMAN 1 PANTAR",
       "total": 12,
-      "processed": 0,
-      "belum": 12,
-      "ratio": 0.0,
+      "processed": 11,
+      "belum": 1,
+      "ratio": 91.67,
       "invalid": 0
     },
     {
