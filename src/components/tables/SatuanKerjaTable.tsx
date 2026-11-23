@@ -80,7 +80,7 @@ const columns = helper.columns([
   }),
   helper.accessor('invalid', {
     id: 'invalid',
-    header: 'NI tidak valid',
+    header: 'NIP belum valid',
     cell: (info) => <span className="tabular-nums">{fmtInt(info.getValue())}</span>,
   }),
   helper.accessor('processed', {
@@ -166,7 +166,7 @@ export default function SatuanKerjaTable({ rows }: Props) {
     const exportRows = table.getFilteredRowModel().rows.map((row) => row.original);
     const escape = (value: string | number) => `"${String(value).replaceAll('"', '""')}"`;
     const lines = [
-      ['Satuan kerja', 'NI tidak valid', 'Sudah masuk', 'Belum', 'Persentase', 'Status'],
+      ['Satuan kerja', 'NIP belum valid', 'Sudah masuk', 'Belum', 'Persentase', 'Status'],
       ...exportRows.map((row) => [
         row.name,
         row.invalid,
@@ -313,7 +313,7 @@ export default function SatuanKerjaTable({ rows }: Props) {
                 <dl className="mt-4 grid grid-cols-3 gap-2 text-center text-sm">
                   <div className="rounded-md bg-muted px-2 py-2">
                     <dt className="text-[0.65rem] uppercase tracking-wide text-muted-foreground">
-                      NI tidak valid
+                      NIP belum valid
                     </dt>
                     <dd className="font-medium tabular-nums">{fmtInt(item.invalid)}</dd>
                   </div>
