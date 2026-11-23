@@ -2,31 +2,31 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "23 November 2026, 23:31 WITA",
+    "generated_at": "24 November 2026, 00:02 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 2725,
-    "belum": 1652,
-    "ratio": 62.26,
+    "processed": 2745,
+    "belum": 1632,
+    "ratio": 62.71,
     "province": {
       "total": 4540,
-      "processed": 2875,
-      "ratio": 63.33
+      "processed": 2895,
+      "ratio": 63.77
     },
     "unit_count": 2,
-    "unregistered": 260,
+    "unregistered": 261,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 1916,
-      "belum": 985,
-      "ratio": 66.05
+      "processed": 1931,
+      "belum": 970,
+      "ratio": 66.56
     },
     {
       "name": "SMK",
@@ -45,9 +45,9 @@
     {
       "name": "SLB",
       "total": 159,
-      "processed": 65,
-      "belum": 94,
-      "ratio": 40.88
+      "processed": 70,
+      "belum": 89,
+      "ratio": 44.03
     },
     {
       "name": "Satuan kerja lainnya",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 2724,
-      "belum": 1652,
-      "ratio": 62.25
+      "processed": 2744,
+      "belum": 1632,
+      "ratio": 62.71
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -317,9 +317,9 @@
     {
       "name": "SMA NEGERI 2 SABU BARAT",
       "total": 14,
-      "processed": 13,
-      "belum": 1,
-      "ratio": 92.86,
+      "processed": 14,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1789,9 +1789,9 @@
     {
       "name": "SMAN KUALIN",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2045,9 +2045,9 @@
     {
       "name": "SMA NEGERI MATAWAI LA PAWU",
       "total": 7,
-      "processed": 0,
-      "belum": 7,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 1,
+      "ratio": 85.71,
       "invalid": 0
     },
     {
@@ -2941,9 +2941,9 @@
     {
       "name": "SLB NEGERI TUNA GRAHITA (C) ENDE",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0,
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4831,7 +4831,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "Berkas Excel tidak sesuai template",
-      "count": 3
+      "count": 2
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",

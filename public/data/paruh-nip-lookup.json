@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "23 November 2026, 23:31 WITA",
+    "generated_at": "24 November 2026, 00:02 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -3118,16 +3118,16 @@
     {
       "nip": "197512282025212037",
       "nama": "DORKAS ABI",
-      "nama_berkas": "",
+      "nama_berkas": "Dorkas Abi S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN KUALIN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "197601172025211013",
@@ -6010,16 +6010,16 @@
     {
       "nip": "197910082025211078",
       "nama": "OBED HUNGA MEHA",
-      "nama_berkas": "",
+      "nama_berkas": "OBED HUNGA MEHA. A.Md",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI MATAWAI LA PAWU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "197910162025211015",
@@ -6242,16 +6242,16 @@
     {
       "nip": "197912312025211295",
       "nama": "KAHORA KADU NDIMA",
-      "nama_berkas": "",
+      "nama_berkas": "KAHORA KADU NDIMA, SE",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI MATAWAI LA PAWU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "198001022025211026",
@@ -15950,16 +15950,16 @@
     {
       "nip": "198504172025212096",
       "nama": "ROBERTHA YULIANA MBINDI",
-      "nama_berkas": "",
+      "nama_berkas": "ROBERTHA YULIANA MBINDI, A.Ma",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SLB NEGERI TUNA GRAHITA (C) ENDE",
       "jenjang": "SLB",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "198504232025211107",
@@ -18392,32 +18392,34 @@
       "jenjang": "Tidak diketahui",
       "status": "needs_fix",
       "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [
         "wrong_length_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "wrong_length_ni",
           "raw": "19860323202511174",
           "detail": "length=17"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-23"
     },
     {
       "nip": "198603232025211174",
       "nama": "HENRI DUNANT BIHA",
-      "nama_berkas": "",
+      "nama_berkas": "Henri Dunant Biha, S.Pd.,Gr., M.Hum",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 SABU BARAT",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "198603232025211176",
@@ -21038,16 +21040,16 @@
     {
       "nip": "198612182025212104",
       "nama": "PATRIS M. NUBATONIS",
-      "nama_berkas": "",
+      "nama_berkas": "Patris M. Nubatonis, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN KUALIN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "198612212025211133",
@@ -22418,16 +22420,16 @@
     {
       "nip": "198703302025211106",
       "nama": "YARTEN PELLO",
-      "nama_berkas": "",
+      "nama_berkas": "Yarten Pello, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN KUALIN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "198703312025212095",
@@ -34486,6 +34488,28 @@
       "received_on": ""
     },
     {
+      "nip": "198905292025211216",
+      "nama": "MARKUS KARANGGA MANANG, S.Pd.K",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMA NEGERI MATAWAI LA PAWU",
+      "jenjang": "Tidak diketahui",
+      "status": "needs_fix",
+      "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [],
+      "active_details": [
+        {
+          "code": "unregistered_ni",
+          "raw": "198905292025211216",
+          "detail": "NIP tidak ditemukan pada data master PPPK"
+        }
+      ],
+      "fixed_details": [],
+      "received_on": "2026-11-23"
+    },
+    {
       "nip": "198906022025212178",
       "nama": "ANITA KANA",
       "nama_berkas": "Anita Kana, S.Pd",
@@ -36668,16 +36692,16 @@
     {
       "nip": "198910072025211193",
       "nama": "MARIANUS WODA",
-      "nama_berkas": "",
+      "nama_berkas": "MARIANUS WODA, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SLB NEGERI TUNA GRAHITA (C) ENDE",
       "jenjang": "SLB",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "198910072025211195",
@@ -46610,16 +46634,16 @@
     {
       "nip": "199106182025211151",
       "nama": "YUSUF BETI",
-      "nama_berkas": "",
+      "nama_berkas": "Yusuf Beti, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN KUALIN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199106182025212172",
@@ -59190,16 +59214,16 @@
     {
       "nip": "199309182025212155",
       "nama": "SEPRIANI RIHI MILA",
-      "nama_berkas": "",
+      "nama_berkas": "SEPRIANI RIHI MILA, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI MATAWAI LA PAWU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199309182025212157",
@@ -60128,16 +60152,16 @@
     {
       "nip": "199311242025211108",
       "nama": "NICOLAS UMBU ANDUNG",
-      "nama_berkas": "",
+      "nama_berkas": "NICOLAS UMBU ANDUNG, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI MATAWAI LA PAWU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199311242025212132",
@@ -60328,12 +60352,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SLB NEGERI TUNA GRAHITA (C) ENDE",
       "jenjang": "SLB",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199312142025212166",
@@ -62142,12 +62166,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SLB NEGERI TUNA GRAHITA (C) ENDE",
       "jenjang": "SLB",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199405062025212169",
@@ -62258,16 +62282,16 @@
     {
       "nip": "199405122025212170",
       "nama": "MINCE URU ANA HUTAR",
-      "nama_berkas": "",
+      "nama_berkas": "MINCE URU ANA HUTAR, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI MATAWAI LA PAWU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199405122025212172",
@@ -70446,16 +70470,16 @@
     {
       "nip": "199511212025211125",
       "nama": "NAHASON NAITBOHO",
-      "nama_berkas": "",
+      "nama_berkas": "Nahason Naitboho, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN KUALIN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199511232025211114",
@@ -76104,16 +76128,16 @@
     {
       "nip": "199702042025212160",
       "nama": "CHATARINA DERICCI F. LEOKLARAN",
-      "nama_berkas": "",
+      "nama_berkas": "Chatarina Dericci F. Leoklaran, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN KUALIN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199702092025211031",
@@ -76396,16 +76420,16 @@
     {
       "nip": "199703022025211086",
       "nama": "MELROS TAMONOB",
-      "nama_berkas": "",
+      "nama_berkas": "Melros Tamonob, S.Pd., Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN KUALIN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199703072025212152",
@@ -78430,16 +78454,16 @@
     {
       "nip": "199709282025211077",
       "nama": "PADLER H. TEFBANA",
-      "nama_berkas": "",
+      "nama_berkas": "Padler H. Tefbana, S.Pd., Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN KUALIN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199709292025212143",
@@ -80154,16 +80178,16 @@
     {
       "nip": "199803232025212145",
       "nama": "ANGGRENI IMESKE WULANDARI",
-      "nama_berkas": "",
+      "nama_berkas": "ANGGRENI IMESKE WULANDARI, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI MATAWAI LA PAWU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199803232025212146",
@@ -84452,12 +84476,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SLB NEGERI TUNA GRAHITA (C) ENDE",
       "jenjang": "SLB",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "200306232025211005",
