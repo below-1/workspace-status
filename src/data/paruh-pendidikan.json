@@ -2,52 +2,52 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "23 November 2026, 21:39 WITA",
-    "source_updated_at": "24 November 2026, 16:07 WITA",
+    "generated_at": "23 November 2026, 22:02 WITA",
+    "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 2554,
-    "belum": 1823,
-    "ratio": 58.35,
+    "processed": 2603,
+    "belum": 1774,
+    "ratio": 59.47,
     "province": {
       "total": 4540,
-      "processed": 2704,
-      "ratio": 59.56
+      "processed": 2753,
+      "ratio": 60.64
     },
     "unit_count": 2,
-    "unregistered": 248,
+    "unregistered": 250,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 1804,
-      "belum": 1097,
-      "ratio": 62.19
+      "processed": 1837,
+      "belum": 1064,
+      "ratio": 63.32
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 553,
-      "belum": 531,
-      "ratio": 51.01
+      "processed": 557,
+      "belum": 527,
+      "ratio": 51.38
     },
     {
       "name": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 138,
-      "belum": 94,
-      "ratio": 59.48
+      "processed": 143,
+      "belum": 89,
+      "ratio": 61.64
     },
     {
       "name": "SLB",
       "total": 159,
-      "processed": 58,
-      "belum": 101,
-      "ratio": 36.48
+      "processed": 65,
+      "belum": 94,
+      "ratio": 40.88
     },
     {
       "name": "Satuan kerja lainnya",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 2553,
-      "belum": 1823,
-      "ratio": 58.34
+      "processed": 2602,
+      "belum": 1774,
+      "ratio": 59.46
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -77,9 +77,9 @@
     {
       "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "total": 232,
-      "processed": 138,
-      "belum": 94,
-      "ratio": 59.48,
+      "processed": 143,
+      "belum": 89,
+      "ratio": 61.64,
       "invalid": 2
     },
     {
@@ -573,9 +573,9 @@
     {
       "name": "SMA NEGERI MAGEPANDA",
       "total": 12,
-      "processed": 0,
-      "belum": 12,
-      "ratio": 0.0,
+      "processed": 12,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -861,9 +861,9 @@
     {
       "name": "SMAN OENOPO",
       "total": 11,
-      "processed": 0,
-      "belum": 11,
-      "ratio": 0.0,
+      "processed": 11,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1549,9 +1549,9 @@
     {
       "name": "SMA NEGERI 2 SOA",
       "total": 8,
-      "processed": 7,
-      "belum": 1,
-      "ratio": 87.5,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1749,9 +1749,9 @@
     {
       "name": "SMAN 8 POCO RANAKA",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1949,9 +1949,9 @@
     {
       "name": "SLB NEGERI BAJAWA",
       "total": 7,
-      "processed": 0,
-      "belum": 7,
-      "ratio": 0.0,
+      "processed": 7,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3789,9 +3789,9 @@
     {
       "name": "SMK NEGERI BATUPUTIH",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4725,10 +4725,10 @@
     {
       "name": "SMAN 2 KUPANG TENGAH",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0,
-      "invalid": 1
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0,
+      "invalid": 0
     },
     {
       "name": "SMAN 4 BORONG",
@@ -4831,12 +4831,12 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "Berkas Excel tidak sesuai template",
-      "count": 2
+      "count": 3
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 19
+      "count": 18
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4856,7 +4856,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (2 baris)",
-      "count": 4
+      "count": 3
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4882,6 +4882,11 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "Tanpa lampiran Excel (hanya PDF/tautan)",
       "count": 2
+    },
+    {
+      "unit": "Dinas Pendidikan Dan Kebudayaan Provinsi Nusa Tenggara Timur",
+      "reason": "NIP tidak valid (2 baris)",
+      "count": 1
     },
     {
       "unit": "Dinas Pendidikan Provinsi NTT",
