@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "23 November 2026, 12:02 WITA",
+    "generated_at": "23 November 2026, 12:31 WITA",
     "source_updated_at": "24 November 2026, 02:45 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1796,
-    "belum": 2577,
-    "ratio": 41.07,
+    "processed": 1828,
+    "belum": 2545,
+    "ratio": 41.8,
     "province": {
       "total": 4536,
-      "processed": 1946,
-      "ratio": 42.9
+      "processed": 1978,
+      "ratio": 43.61
     },
     "unit_count": 2,
     "unregistered": 185,
@@ -24,16 +24,16 @@
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 1312,
-      "belum": 1587,
-      "ratio": 45.26
+      "processed": 1333,
+      "belum": 1566,
+      "ratio": 45.98
     },
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 335,
-      "belum": 747,
-      "ratio": 30.96
+      "processed": 346,
+      "belum": 736,
+      "ratio": 31.98
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1795,
-      "belum": 2577,
-      "ratio": 41.06
+      "processed": 1827,
+      "belum": 2545,
+      "ratio": 41.79
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -533,9 +533,9 @@
     {
       "name": "SMA NEGERI 2 LOBALAIN",
       "total": 12,
-      "processed": 0,
-      "belum": 12,
-      "ratio": 0.0,
+      "processed": 12,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -909,9 +909,9 @@
     {
       "name": "SMKN 3 KUPANG",
       "total": 11,
-      "processed": 0,
-      "belum": 11,
-      "ratio": 0.0,
+      "processed": 11,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1717,9 +1717,9 @@
     {
       "name": "SMAN 1 TAEBENU",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4685,9 +4685,9 @@
     {
       "name": "SMA NEGERI KEBERBAKATAN OLAHRAGA FLOBAMORATA",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0,
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
