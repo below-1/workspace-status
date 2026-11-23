@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "23 November 2026, 18:55 WITA",
+    "generated_at": "23 November 2026, 19:01 WITA",
     "source_updated_at": "24 November 2026, 08:08 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -38172,16 +38172,16 @@
     {
       "nip": "199002252025211108",
       "nama": "PADA MANGNGI",
-      "nama_berkas": "",
+      "nama_berkas": "Pada Mangngi, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 2 SABU BARAT",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199002262025211102",
@@ -64316,16 +64316,16 @@
     {
       "nip": "199411062025212170",
       "nama": "EGELINOFE RIWU NAWA",
-      "nama_berkas": "",
+      "nama_berkas": "Egelinofe Riwu Nawa, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 2 SABU BARAT",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199411082025211108",
@@ -79044,16 +79044,16 @@
     {
       "nip": "199802152025211084",
       "nama": "FRENGKI ERSON",
-      "nama_berkas": "",
+      "nama_berkas": "Frengki Erison, S.Si",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 2 SABU BARAT",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199802292025212111",
@@ -82670,12 +82670,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 2 SABU BARAT",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "200004182025211021",
