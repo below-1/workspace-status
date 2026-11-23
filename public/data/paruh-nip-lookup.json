@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "23 November 2026, 18:31 WITA",
+    "generated_at": "23 November 2026, 18:37 WITA",
     "source_updated_at": "24 November 2026, 08:08 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -3240,16 +3240,16 @@
     {
       "nip": "197607122025212038",
       "nama": "YULIANA MANANEL",
-      "nama_berkas": "",
+      "nama_berkas": "Yuliana Mananel, SE",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "197607192025211012",
@@ -10098,12 +10098,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "198206252025211034",
@@ -20986,16 +20986,16 @@
     {
       "nip": "198701022025212135",
       "nama": "YOKSI SILLI",
-      "nama_berkas": "",
+      "nama_berkas": "Yoksi Silli,S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 NEKAMESE",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "198701032025211131",
@@ -24616,16 +24616,16 @@
     {
       "nip": "198710062025212131",
       "nama": "MARIESA ISABELLA BISINGLASI",
-      "nama_berkas": "",
+      "nama_berkas": "Mariesa Isabella Bisinglasi,S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 NEKAMESE",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "198710062025212133",
@@ -30552,15 +30552,23 @@
     {
       "nip": "198811012025211166",
       "nama": "NELSON S. AMNESI",
-      "nama_berkas": "Nelson Sudjanto Amnesi",
+      "nama_berkas": "",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
       "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "duplicate_ni_diff_name"
+      ],
       "active_details": [],
-      "fixed_details": [],
+      "fixed_details": [
+        {
+          "code": "duplicate_ni_diff_name",
+          "raw": "198811012025211166",
+          "detail": "NIP ganda; versi terbaru: Nelson S. Amnesi"
+        }
+      ],
       "received_on": "2026-10-28"
     },
     {
@@ -41322,16 +41330,16 @@
     {
       "nip": "199009032025212164",
       "nama": "LUSIA IYE",
-      "nama_berkas": "",
+      "nama_berkas": "Lusia Iye,S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 NEKAMESE",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199009042025211039",
@@ -43092,16 +43100,16 @@
     {
       "nip": "199012302025212166",
       "nama": "RAHAB BANI",
-      "nama_berkas": "",
+      "nama_berkas": "Rahab Bani,S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 NEKAMESE",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199012312025211370",
@@ -44816,16 +44824,16 @@
     {
       "nip": "199104082025212157",
       "nama": "MERISOMA LEWANEY",
-      "nama_berkas": "",
+      "nama_berkas": "Merisoma Lewaney,S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 NEKAMESE",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199104092025212185",
@@ -48506,16 +48514,16 @@
     {
       "nip": "199112092025212166",
       "nama": "DESSY NATALIA LEOBISA",
-      "nama_berkas": "",
+      "nama_berkas": "Dessy Natalia Leobisa, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199112112025212169",
@@ -50002,16 +50010,16 @@
     {
       "nip": "199203132025211167",
       "nama": "ISHAK NAITBOHO",
-      "nama_berkas": "",
+      "nama_berkas": "Ishak Naitboho, A.Md",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199203132025211171",

@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "23 November 2026, 18:31 WITA",
+    "generated_at": "23 November 2026, 18:37 WITA",
     "source_updated_at": "24 November 2026, 08:08 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -666,6 +666,22 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "cbdacaa1ee76",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T18:35:07+08:00",
+      "sender_email": "alexanderlasi3@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 5,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "caf7d98815cc",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T15:11:38+08:00",
@@ -890,6 +906,22 @@
       "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 0
+    },
+    {
+      "id": "c09db4406b89",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T18:35:28+08:00",
+      "sender_email": "novymuskanan2@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 10,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 5
     },
     {
       "id": "bdb8579cea15",
