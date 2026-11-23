@@ -11,9 +11,17 @@ interface Props {
   pageLabel?: string;
   fullHeight?: boolean;
   fullBleed?: boolean;
+  footerNote?: string;
 }
 
-const { title, description, pageLabel, fullHeight = false, fullBleed = false } = Astro.props;
+const {
+  title,
+  description,
+  pageLabel,
+  fullHeight = false,
+  fullBleed = false,
+  footerNote = 'Data agregat hasil olahan.',
+} = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const path = Astro.url.pathname;
 const isHome = path === base || path === base.replace(/\/$/, '') || path === '/';
@@ -30,6 +38,12 @@ const links = [
     href: `${parent}non-pendidikan/`,
     label: 'Non-Pendidikan',
     active: path.startsWith(`${parent}non-pendidikan/`),
+  },
+  { href: `${parent}status-nip/`, label: 'NIP', active: path.startsWith(`${parent}status-nip/`) },
+  {
+    href: `${parent}status-unit-email/`,
+    label: 'Email',
+    active: path.startsWith(`${parent}status-unit-email/`),
   },
 ];
 ---
@@ -132,8 +146,8 @@ const links = [
 
     <footer class="border-t py-10">
       <div class:list={[shell, 'flex flex-col gap-1 py-1 text-xs text-muted-foreground sm:flex-row sm:items-center']}>
-        <span>Data agregat hasil olahan.</span>
-        <span class="sm:ml-auto">Tidak menampilkan data per orang.</span>
+        <span>{footerNote}</span>
+        <span class="sm:ml-auto">Dihasilkan dari pipeline internal.</span>
       </div>
     </footer>
   </body>

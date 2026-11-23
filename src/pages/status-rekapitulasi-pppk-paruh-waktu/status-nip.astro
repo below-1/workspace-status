@@ -1,0 +1,30 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import NipStatusSearch from '../../components/tables/NipStatusSearch';
+import data from '../../data/paruh-status-nip.json';
+
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+---
+
+<BaseLayout
+  title="Status NIP PPPK Paruh Waktu | BKD - Status Data"
+  description="Cari status usulan PPPK paruh waktu berdasarkan NIP."
+  footerNote="Halaman ini menampilkan NIP dan nama ASN sesuai kebijakan publikasi data ASN."
+>
+  <PageHeader
+    eyebrow={`PPPK Paruh Waktu · Periode ${data.meta.period}`}
+    title="Status NIP"
+    description="Masukkan NIP untuk melihat status usulan PPPK paruh waktu."
+    generated={data.meta.generated_at}
+    backHref={`${base}status-rekapitulasi-pppk-paruh-waktu/`}
+    backLabel="Kembali ke ringkasan"
+  />
+
+  <NipStatusSearch client:load dataUrl={`${base}data/paruh-nip-lookup.json?v=${encodeURIComponent(data.meta.generated_at)}`} />
+
+  <p class="mt-8 text-xs text-muted-foreground">
+    NIP dan nama ditampilkan sesuai kebijakan publikasi data ASN. Email, subjek, nama pengirim,
+    dan nama berkas tidak ditampilkan.
+  </p>
+</BaseLayout>
