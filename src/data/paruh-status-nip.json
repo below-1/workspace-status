@@ -2,18 +2,18 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "23 November 2026, 22:02 WITA",
+    "generated_at": "23 November 2026, 22:34 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total_master": 4540,
-    "valid": 2744,
-    "needs_fix": 49,
-    "not_submitted": 1747,
+    "valid": 2791,
+    "needs_fix": 44,
+    "not_submitted": 1705,
     "needs_confirmation": 0,
-    "active_findings": 332,
-    "fixed_findings": 624
+    "active_findings": 306,
+    "fixed_findings": 670
   },
   "by_defect": [
     {
@@ -26,36 +26,36 @@
     {
       "code": "non_numeric_ni",
       "label": "NIP bukan angka",
-      "active": 135,
-      "fixed": 466,
-      "total": 601
+      "active": 117,
+      "fixed": 499,
+      "total": 616
     },
     {
       "code": "wrong_length_ni",
       "label": "Panjang NIP salah",
-      "active": 6,
+      "active": 8,
       "fixed": 8,
-      "total": 14
+      "total": 16
     },
     {
       "code": "trailing_000_ni",
       "label": "NIP berakhiran 000",
-      "active": 130,
-      "fixed": 65,
+      "active": 128,
+      "fixed": 67,
       "total": 195
     },
     {
       "code": "unregistered_ni",
       "label": "NIP tidak terdaftar",
-      "active": 44,
-      "fixed": 29,
-      "total": 73
+      "active": 42,
+      "fixed": 34,
+      "total": 76
     },
     {
       "code": "numeric_cell_ni",
       "label": "NIP tersimpan sebagai angka",
-      "active": 8,
-      "fixed": 5,
+      "active": 2,
+      "fixed": 11,
       "total": 13
     },
     {
@@ -69,20 +69,20 @@
   "by_jenjang": [
     {
       "name": "SMA",
-      "active": 155,
-      "fixed": 305,
-      "total": 460
+      "active": 142,
+      "fixed": 336,
+      "total": 478
     },
     {
       "name": "SMK",
-      "active": 104,
-      "fixed": 200,
-      "total": 304
+      "active": 94,
+      "fixed": 212,
+      "total": 306
     },
     {
       "name": "Unit induk Dinas Pendidikan",
-      "active": 4,
-      "fixed": 23,
+      "active": 1,
+      "fixed": 26,
       "total": 27
     },
     {
@@ -96,9 +96,9 @@
     {
       "key": "Pendidikan",
       "label": "Pendidikan",
-      "active": 265,
-      "fixed": 520,
-      "total": 785
+      "active": 239,
+      "fixed": 566,
+      "total": 805
     },
     {
       "key": "Non-Pendidikan",
