@@ -2,38 +2,38 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "23 November 2026, 21:33 WITA",
+    "generated_at": "23 November 2026, 21:39 WITA",
     "source_updated_at": "24 November 2026, 16:07 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
-    "total": 4373,
-    "processed": 2539,
-    "belum": 1834,
-    "ratio": 58.06,
+    "total": 4377,
+    "processed": 2554,
+    "belum": 1823,
+    "ratio": 58.35,
     "province": {
-      "total": 4536,
-      "processed": 2689,
-      "ratio": 59.28
+      "total": 4540,
+      "processed": 2704,
+      "ratio": 59.56
     },
     "unit_count": 2,
-    "unregistered": 249,
+    "unregistered": 248,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
-      "total": 2899,
+      "total": 2901,
       "processed": 1804,
-      "belum": 1095,
-      "ratio": 62.23
+      "belum": 1097,
+      "ratio": 62.19
     },
     {
       "name": "SMK",
-      "total": 1082,
-      "processed": 538,
-      "belum": 544,
-      "ratio": 49.72
+      "total": 1084,
+      "processed": 553,
+      "belum": 531,
+      "ratio": 51.01
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -60,10 +60,10 @@
   "units": [
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "total": 4372,
-      "processed": 2538,
-      "belum": 1834,
-      "ratio": 58.05
+      "total": 4376,
+      "processed": 2553,
+      "belum": 1823,
+      "ratio": 58.34
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -1829,10 +1829,10 @@
     {
       "name": "SMK NEGERI 1 REOK BARAT",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
-      "invalid": 8
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
+      "invalid": 0
     },
     {
       "name": "SMK NEGERI 2 WAINGAPU",
@@ -1844,6 +1844,14 @@
     },
     {
       "name": "SMK NEGERI 7 ENDE",
+      "total": 8,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
+      "invalid": 0
+    },
+    {
+      "name": "SMK NEGERI ADONARA BARAT",
       "total": 8,
       "processed": 8,
       "belum": 0,
@@ -2083,6 +2091,14 @@
       "invalid": 0
     },
     {
+      "name": "SMAN 1 KAMBERA",
+      "total": 7,
+      "processed": 6,
+      "belum": 1,
+      "ratio": 85.71,
+      "invalid": 0
+    },
+    {
       "name": "SMAN 1 KUPANG TENGAH",
       "total": 7,
       "processed": 7,
@@ -2228,14 +2244,6 @@
     },
     {
       "name": "SMK NEGERI 5 WAINGAPU",
-      "total": 7,
-      "processed": 7,
-      "belum": 0,
-      "ratio": 100.0,
-      "invalid": 0
-    },
-    {
-      "name": "SMK NEGERI ADONARA BARAT",
       "total": 7,
       "processed": 7,
       "belum": 0,
@@ -2507,6 +2515,14 @@
       "invalid": 0
     },
     {
+      "name": "SMA NEGERI KOLANA",
+      "total": 6,
+      "processed": 5,
+      "belum": 1,
+      "ratio": 83.33,
+      "invalid": 0
+    },
+    {
       "name": "SMA NEGERI NUNKOLO",
       "total": 6,
       "processed": 0,
@@ -2588,14 +2604,6 @@
     },
     {
       "name": "SMAN 1 INERIE",
-      "total": 6,
-      "processed": 6,
-      "belum": 0,
-      "ratio": 100.0,
-      "invalid": 0
-    },
-    {
-      "name": "SMAN 1 KAMBERA",
       "total": 6,
       "processed": 6,
       "belum": 0,
@@ -2725,9 +2733,9 @@
     {
       "name": "SMK NEGERI 1 MACANG PACAR",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3056,14 +3064,6 @@
       "processed": 0,
       "belum": 5,
       "ratio": 0.0,
-      "invalid": 0
-    },
-    {
-      "name": "SMA NEGERI KOLANA",
-      "total": 5,
-      "processed": 5,
-      "belum": 0,
-      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3763,6 +3763,14 @@
       "invalid": 0
     },
     {
+      "name": "SMK NEGERI 1 ADONARA",
+      "total": 4,
+      "processed": 3,
+      "belum": 1,
+      "ratio": 75.0,
+      "invalid": 0
+    },
+    {
       "name": "SMK NEGERI 2 SABU BARAT",
       "total": 4,
       "processed": 4,
@@ -4184,14 +4192,6 @@
       "processed": 0,
       "belum": 3,
       "ratio": 0.0,
-      "invalid": 0
-    },
-    {
-      "name": "SMK NEGERI 1 ADONARA",
-      "total": 3,
-      "processed": 3,
-      "belum": 0,
-      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4871,12 +4871,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (6 baris)",
-      "count": 2
-    },
-    {
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "reason": "NIP tidak valid (7 baris)",
-      "count": 1
+      "count": 3
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",

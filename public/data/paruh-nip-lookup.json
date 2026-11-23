@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "23 November 2026, 21:33 WITA",
+    "generated_at": "23 November 2026, 21:39 WITA",
     "source_updated_at": "24 November 2026, 16:07 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -22747,24 +22747,24 @@
     },
     {
       "nip": "198704232025212119",
-      "nama": "Maria Magdalena Surat Masan, S.Pd.Gr",
-      "nama_berkas": "",
+      "nama": "MARIA MAGDALENA  SURAT MASAN",
+      "nama_berkas": "Maria Magdalena Surat Masan, S.Pd.Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 ADONARA TENGAH",
-      "jenjang": "Tidak diketahui",
-      "status": "needs_fix",
-      "errors": [
-        "unregistered_ni"
+      "satuan_kerja": "SMK NEGERI ADONARA BARAT",
+      "jenjang": "SMK",
+      "status": "valid",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
-          "code": "unregistered_ni",
+          "code": "non_numeric_ni",
           "raw": "19870423 202521 2 119",
-          "detail": "setelah spasi dihapus: 198704232025212119"
+          "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-23"
     },
     {
@@ -23778,6 +23778,20 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-20"
+    },
+    {
+      "nip": "198707182025211149",
+      "nama": "ROLAND ABRAM ARYOSIE AKAL",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMA NEGERI KOLANA",
+      "jenjang": "SMA",
+      "status": "not_submitted",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": ""
     },
     {
       "nip": "198707202025211160",
@@ -30135,18 +30149,18 @@
       "satuan_kerja": "SMK NEGERI 1 REOK BARAT - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Tidak diketahui",
       "status": "not_paruh",
-      "errors": [
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"198809142025212055",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-21"
     },
     {
@@ -31730,16 +31744,16 @@
     {
       "nip": "198901012025212328",
       "nama": "BERTA NIMAT",
-      "nama_berkas": "",
+      "nama_berkas": "BERTA NIMAT, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 MACANG PACAR",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "198901022025211152",
@@ -32188,16 +32202,16 @@
     {
       "nip": "198901302025212143",
       "nama": "IMELDA TETI",
-      "nama_berkas": "",
+      "nama_berkas": "IMELDA TETI, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 MACANG PACAR",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "198902012025212000",
@@ -33350,16 +33364,16 @@
     {
       "nip": "198904082025212182",
       "nama": "MARTINA LANGONG",
-      "nama_berkas": "",
+      "nama_berkas": "MARTINA LANGONG, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 MACANG PACAR",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "198904112025211032",
@@ -36819,18 +36833,18 @@
       "satuan_kerja": "SMK NEGERI 1 REOK BARAT - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Tidak diketahui",
       "status": "not_paruh",
-      "errors": [
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"198910212025212030",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-21"
     },
     {
@@ -41775,18 +41789,18 @@
       "satuan_kerja": "",
       "jenjang": "Tidak diketahui",
       "status": "not_paruh",
-      "errors": [
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"199009042025211039",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-21"
     },
     {
@@ -45140,6 +45154,20 @@
       "received_on": "2026-11-23"
     },
     {
+      "nip": "199104012025211158",
+      "nama": "APRIANTO DOMU KILIMANDU",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMAN 1 KAMBERA",
+      "jenjang": "SMA",
+      "status": "not_submitted",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": ""
+    },
+    {
       "nip": "199104012025212193",
       "nama": "MARIA YANTI JUAN TANU",
       "nama_berkas": "Maria Yanti Juan Tanu, S.Pd",
@@ -45915,18 +45943,18 @@
       "satuan_kerja": "SMK NEGERI 1 REOK BARAT - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Tidak diketahui",
       "status": "not_paruh",
-      "errors": [
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"199105182024212036",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-21"
     },
     {
@@ -46914,16 +46942,16 @@
     {
       "nip": "199107142025212164",
       "nama": "YULIANA NOVITA GANUH",
-      "nama_berkas": "",
+      "nama_berkas": "YULIANA NOVITA GANUH, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 MACANG PACAR",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199107162025211149",
@@ -47764,16 +47792,16 @@
     {
       "nip": "199109152025212165",
       "nama": "GABRILA SENIA",
-      "nama_berkas": "",
+      "nama_berkas": "GABRILA SENIA, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 MACANG PACAR",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199109162025211126",
@@ -51982,6 +52010,20 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-19"
+    },
+    {
+      "nip": "199206052025212197",
+      "nama": "ANASTASIA JEDO KWUTA",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMK NEGERI 1 ADONARA",
+      "jenjang": "SMK",
+      "status": "not_submitted",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": ""
     },
     {
       "nip": "199206062025211030",
@@ -57531,18 +57573,18 @@
       "satuan_kerja": "SMK NEGERI 1 REOK BARAT - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Tidak diketahui",
       "status": "not_paruh",
-      "errors": [
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"199306042024212062",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-21"
     },
     {
@@ -58562,16 +58604,16 @@
     {
       "nip": "199308192025212190",
       "nama": "SERAFIANI SANUR",
-      "nama_berkas": "",
+      "nama_berkas": "SERAFIANI SANUR, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 MACANG PACAR",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-23"
     },
     {
       "nip": "199308212025211139",
@@ -60786,19 +60828,19 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 REOK BARAT",
       "jenjang": "SMK",
-      "status": "needs_fix",
-      "errors": [
+      "status": "valid",
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"199402042025212173",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-21"
     },
     {
@@ -63728,19 +63770,19 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 REOK BARAT",
       "jenjang": "SMK",
-      "status": "needs_fix",
-      "errors": [
+      "status": "valid",
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"199409012025212150",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-21"
     },
     {
@@ -64217,18 +64259,18 @@
       "satuan_kerja": "SMK NEGERI 1 REOK BARAT - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Tidak diketahui",
       "status": "not_paruh",
-      "errors": [
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"199409292025212047",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-21"
     },
     {
@@ -68420,19 +68462,19 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 REOK BARAT",
       "jenjang": "SMK",
-      "status": "needs_fix",
-      "errors": [
+      "status": "valid",
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"199506172025212162",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-21"
     },
     {
@@ -70074,19 +70116,19 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 REOK BARAT",
       "jenjang": "SMK",
-      "status": "needs_fix",
-      "errors": [
+      "status": "valid",
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"199511052025212158",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-21"
     },
     {
@@ -71900,19 +71942,19 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 REOK BARAT",
       "jenjang": "SMK",
-      "status": "needs_fix",
-      "errors": [
+      "status": "valid",
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"199603182025211115",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-21"
     },
     {
@@ -73626,19 +73668,19 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 REOK BARAT",
       "jenjang": "SMK",
-      "status": "needs_fix",
-      "errors": [
+      "status": "valid",
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"199607042025211131",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-21"
     },
     {
@@ -76461,18 +76503,18 @@
       "satuan_kerja": "SMK NEGERI 1 REOK BARAT - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Tidak diketahui",
       "status": "not_paruh",
-      "errors": [
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"199703232025212050",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-21"
     },
     {
@@ -76730,19 +76772,19 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 REOK BARAT",
       "jenjang": "SMK",
-      "status": "needs_fix",
-      "errors": [
+      "status": "valid",
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"199704182025211106",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-21"
     },
     {
@@ -78373,18 +78415,18 @@
       "satuan_kerja": "SMK NEGERI 1 REOK BARAT - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Tidak diketahui",
       "status": "not_paruh",
-      "errors": [
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"199710152025212055",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-21"
     },
     {
@@ -78494,19 +78536,19 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 REOK BARAT",
       "jenjang": "SMK",
-      "status": "needs_fix",
-      "errors": [
+      "status": "valid",
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"199711012025212133",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-21"
     },
     {
