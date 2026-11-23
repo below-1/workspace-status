@@ -2,38 +2,38 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "23 November 2026, 13:00 WITA",
+    "generated_at": "23 November 2026, 13:31 WITA",
     "source_updated_at": "24 November 2026, 02:45 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1874,
-    "belum": 2499,
-    "ratio": 42.85,
+    "processed": 1906,
+    "belum": 2467,
+    "ratio": 43.59,
     "province": {
       "total": 4536,
-      "processed": 2024,
-      "ratio": 44.62
+      "processed": 2056,
+      "ratio": 45.33
     },
     "unit_count": 2,
-    "unregistered": 185,
+    "unregistered": 197,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 1367,
-      "belum": 1532,
-      "ratio": 47.15
+      "processed": 1398,
+      "belum": 1501,
+      "ratio": 48.22
     },
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 346,
-      "belum": 736,
-      "ratio": 31.98
+      "processed": 347,
+      "belum": 735,
+      "ratio": 32.07
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1873,
-      "belum": 2499,
-      "ratio": 42.84
+      "processed": 1905,
+      "belum": 2467,
+      "ratio": 43.57
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -269,9 +269,9 @@
     {
       "name": "SMAN 4 KUPANG",
       "total": 15,
-      "processed": 0,
-      "belum": 15,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 9,
+      "ratio": 40.0,
       "invalid": 0
     },
     {
@@ -1144,7 +1144,7 @@
       "processed": 0,
       "belum": 10,
       "ratio": 0.0,
-      "invalid": 0
+      "invalid": 10
     },
     {
       "name": "SMK NEGERI PERBATASAN RAI MANUK",
@@ -2077,9 +2077,9 @@
     {
       "name": "SMAN 1 AMFOANG BARAT DAYA",
       "total": 7,
-      "processed": 0,
-      "belum": 7,
-      "ratio": 0.0,
+      "processed": 7,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2133,9 +2133,9 @@
     {
       "name": "SMAN 2 KUPANG BARAT",
       "total": 7,
-      "processed": 0,
-      "belum": 7,
-      "ratio": 0.0,
+      "processed": 7,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2645,9 +2645,9 @@
     {
       "name": "SMAN 2 AMARASI",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2997,9 +2997,9 @@
     {
       "name": "SMA NEGERI 2 ATAMBUA",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0,
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4557,9 +4557,9 @@
     {
       "name": "SMKN 1 SABU BARAT",
       "total": 2,
-      "processed": 0,
-      "belum": 2,
-      "ratio": 0.0,
+      "processed": 1,
+      "belum": 1,
+      "ratio": 50.0,
       "invalid": 0
     },
     {
@@ -4840,6 +4840,11 @@
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "reason": "NIP tidak valid (10 baris)",
+      "count": 1
+    },
+    {
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (16 baris)",
       "count": 1
     },
@@ -4851,7 +4856,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (2 baris)",
-      "count": 3
+      "count": 4
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
