@@ -246,6 +246,12 @@ function EmailDetail({
                       <dt className="text-xs text-muted-foreground">Unit</dt>
                       <dd className="font-medium text-foreground">{detail?.satuan_kerja || '—'}</dd>
                     </div>
+                    <div>
+                      <dt className="text-xs text-muted-foreground">Alasan</dt>
+                      <dd className="font-medium text-foreground">
+                        {item.defects.map((code) => REASON_LABELS[code] ?? code).join('; ')}
+                      </dd>
+                    </div>
                   </dl>
                 </li>
               );
