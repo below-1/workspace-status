@@ -2,8 +2,8 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Non Dinas Pendidikan",
     "period": "2026",
-    "generated_at": "23 November 2026, 20:01 WITA",
-    "source_updated_at": "24 November 2026, 15:41 WITA",
+    "generated_at": "23 November 2026, 20:31 WITA",
+    "source_updated_at": "24 November 2026, 16:07 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
@@ -13,11 +13,11 @@
     "ratio": 92.02,
     "province": {
       "total": 4536,
-      "processed": 2429,
-      "ratio": 53.55
+      "processed": 2526,
+      "ratio": 55.69
     },
     "unit_count": 23,
-    "unregistered": 237,
+    "unregistered": 238,
     "unit_status_counts": {
       "lengkap": 15,
       "sebagian": 4,
@@ -201,7 +201,7 @@
     {
       "unit": "Belum teridentifikasi",
       "reason": "Berkas Excel tidak sesuai template",
-      "count": 73
+      "count": 69
     },
     {
       "unit": "Belum teridentifikasi",
@@ -211,7 +211,7 @@
     {
       "unit": "Belum teridentifikasi",
       "reason": "Tanpa lampiran Excel (hanya PDF/tautan)",
-      "count": 25
+      "count": 26
     },
     {
       "unit": "DINAS KEARSIPAN DAN PERPUSTAKAAN",
