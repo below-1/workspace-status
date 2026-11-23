@@ -2,11 +2,29 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 06:01 WITA",
+    "generated_at": "24 November 2026, 07:11 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
+    {
+      "id": "d724cec6cb9f",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T06:42:04+08:00",
+      "sender_email": "smanalemba@gmail.com",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
     {
       "id": "a6092fb9779d",
       "received_on": "2026-11-24",
@@ -58,6 +76,50 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "76739d48c1c0",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T06:37:25+08:00",
+      "sender_email": "rhynamanihuruk01@gmail.com",
+      "outcome": "nip",
+      "reasons": [
+        "nip",
+        "trailing_000_ni"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 7,
+      "active_findings": 3,
+      "fixed_findings": 0,
+      "findings": [
+        {
+          "code": "trailing_000_ni",
+          "active": 3,
+          "fixed": 0
+        }
+      ],
+      "invalid_nips": [
+        {
+          "nip": "197701192025212000",
+          "defects": [
+            "trailing_000_ni"
+          ]
+        },
+        {
+          "nip": "199203152025212000",
+          "defects": [
+            "trailing_000_ni"
+          ]
+        },
+        {
+          "nip": "199210092025211000",
+          "defects": [
+            "trailing_000_ni"
+          ]
+        }
+      ],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "5aa80c726d25",
       "received_on": "2026-11-24",
       "received_at": "2026-11-24T00:29:06+08:00",
@@ -88,6 +150,24 @@
       "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 1
+    },
+    {
+      "id": "119656d512f3",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T06:22:04+08:00",
+      "sender_email": "sman2wewewatimur@gmail.com",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
     },
     {
       "id": "0ce53080b41c",

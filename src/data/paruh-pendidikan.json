@@ -2,7 +2,7 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "24 November 2026, 06:01 WITA",
+    "generated_at": "24 November 2026, 07:11 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -4861,7 +4861,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (3 baris)",
-      "count": 2
+      "count": 3
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
