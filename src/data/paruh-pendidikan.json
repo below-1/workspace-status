@@ -2,7 +2,7 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "23 November 2026, 17:01 WITA",
+    "generated_at": "23 November 2026, 17:31 WITA",
     "source_updated_at": "24 November 2026, 08:08 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -1000,7 +1000,7 @@
       "processed": 10,
       "belum": 0,
       "ratio": 100.0,
-      "invalid": 6
+      "invalid": 0
     },
     {
       "name": "SMA NEGERI PINU PAHAR",
@@ -4861,7 +4861,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (2 baris)",
-      "count": 5
+      "count": 4
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",

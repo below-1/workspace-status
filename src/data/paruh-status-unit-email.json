@@ -2,25 +2,26 @@
   "meta": {
     "title": "Status unit dan email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "23 November 2026, 17:01 WITA",
+    "generated_at": "23 November 2026, 17:31 WITA",
     "source_updated_at": "24 November 2026, 08:08 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
-    "emails": 592,
-    "failed": 276,
-    "valid_files": 316,
-    "active_nip_emails": 71,
+    "emails": 593,
+    "failed": 272,
+    "valid_files": 321,
+    "active_nip_emails": 67,
     "units_affected": 2,
-    "active_findings": 346,
-    "fixed_findings": 377
+    "satuan_affected": 47,
+    "active_findings": 340,
+    "fixed_findings": 383
   },
   "by_reason": [
     {
       "code": "no_excel",
       "label": "Tanpa lampiran Excel",
       "count": 65,
-      "ratio": 10.98
+      "ratio": 10.96
     },
     {
       "code": "excel_unreadable",
@@ -32,51 +33,37 @@
       "code": "template",
       "label": "Excel tidak sesuai template",
       "count": 139,
-      "ratio": 23.48
+      "ratio": 23.44
     },
     {
       "code": "nip",
       "label": "NIP tidak valid",
-      "count": 71,
-      "ratio": 11.99
+      "count": 67,
+      "ratio": 11.3
     }
   ],
   "by_unit": [
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "emails": 461,
-      "failed": 145,
-      "valid": 316,
-      "ratio": 68.55
-    },
-    {
-      "unit": "Belum teridentifikasi",
-      "emails": 131,
-      "failed": 131,
-      "valid": 0,
-      "ratio": 0.0
+      "emails": 383,
+      "failed": 62,
+      "valid": 321,
+      "ratio": 83.81
     }
   ],
   "by_satuan": [
     {
-      "satuan_kerja": "SMA NEGERI 2 SOA",
-      "emails": 7,
-      "failed": 7,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMA NEGERI SASITAMEAN",
-      "emails": 6,
-      "failed": 6,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMK Negeri Witihama",
+      "satuan_kerja": "SMK NEGERI WITIHAMA",
       "emails": 6,
       "failed": 0,
       "valid": 6,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI NOEMUTI TIMUR",
+      "emails": 5,
+      "failed": 0,
+      "valid": 5,
       "ratio": 100.0
     },
     {
@@ -87,70 +74,63 @@
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SLB Negeri Nusa Bungtilu",
+      "satuan_kerja": "SLB NEGERI NUSA BUNGTILU",
       "emails": 4,
       "failed": 0,
       "valid": 4,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SLBN Tenubot",
+      "satuan_kerja": "SLB NEGERI TENUBOT",
       "emails": 4,
       "failed": 0,
       "valid": 4,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA Negeri 1 Aimere",
-      "emails": 4,
-      "failed": 0,
-      "valid": 4,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 2 Amarasi Barat",
+      "satuan_kerja": "SMA NEGERI 2 AMARASI BARAT",
       "emails": 4,
       "failed": 4,
       "valid": 0,
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMA Negeri Noemuti Timur",
+      "satuan_kerja": "SMAN 1 AIMERE",
       "emails": 4,
-      "failed": 4,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 4,
+      "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMK NEGERI 5 WAINGAPU",
+      "satuan_kerja": "SMAN 1 ROTE TENGAH",
       "emails": 4,
-      "failed": 1,
-      "valid": 3,
-      "ratio": 75.0
+      "failed": 0,
+      "valid": 4,
+      "ratio": 100.0
     },
     {
-      "satuan_kerja": "SLB Negeri Weri",
+      "satuan_kerja": "SLB NEGERI WERI",
       "emails": 3,
       "failed": 0,
       "valid": 3,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA NEGERI 1 AESESA",
+      "satuan_kerja": "SMA NEGERI 1 AMARASI SELATAN",
       "emails": 3,
       "failed": 0,
       "valid": 3,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA NEGERI 1 PABERIWAI",
+      "satuan_kerja": "SMA NEGERI 1 RESTORASI RIUNG",
       "emails": 3,
-      "failed": 3,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 3,
+      "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA NEGERI MAUTA",
+      "satuan_kerja": "SMA NEGERI TEREWENG",
       "emails": 3,
       "failed": 3,
       "valid": 0,
@@ -164,67 +144,46 @@
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMA Negeri 1 Restorasi Riung",
+      "satuan_kerja": "SMAN 1 AESESA",
       "emails": 3,
       "failed": 0,
       "valid": 3,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA Negeri Fafinesu",
+      "satuan_kerja": "SMAN 1 MOLLO SELATAN",
       "emails": 3,
       "failed": 0,
       "valid": 3,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA Negeri Tereweng",
+      "satuan_kerja": "SMAN FAFINESU",
+      "emails": 3,
+      "failed": 0,
+      "valid": 3,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMAN MAUTA",
       "emails": 3,
       "failed": 3,
       "valid": 0,
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMAN 1 AMARASI SELATAN",
+      "satuan_kerja": "SMAN OINLASI",
       "emails": 3,
       "failed": 0,
       "valid": 3,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 1 Mollo Selatan",
+      "satuan_kerja": "SMK NEGERI 5 WAINGAPU",
       "emails": 3,
       "failed": 0,
       "valid": 3,
       "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMAN 1 SOA",
-      "emails": 3,
-      "failed": 3,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMAN Oinlasi",
-      "emails": 3,
-      "failed": 0,
-      "valid": 3,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMAN. 1 Rote Tengah",
-      "emails": 3,
-      "failed": 0,
-      "valid": 3,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMK NEGERI 1 WAIBAKUL",
-      "emails": 3,
-      "failed": 3,
-      "valid": 0,
-      "ratio": 0.0
     },
     {
       "satuan_kerja": "SMK NEGERI OEHANI",
@@ -241,32 +200,25 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMK Negeri 1 Loli",
+      "satuan_kerja": "SMKN 1 AMARASI SELATAN",
       "emails": 3,
       "failed": 0,
       "valid": 3,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMK Negeri Oeolo",
+      "satuan_kerja": "SMKN 1 LOLI",
       "emails": 3,
       "failed": 0,
       "valid": 3,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMKN 1 Amarasi Selatan",
+      "satuan_kerja": "SMKN OEOLO",
       "emails": 3,
       "failed": 0,
       "valid": 3,
       "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMKN 3 PAHUNGA LODU",
-      "emails": 3,
-      "failed": 3,
-      "valid": 0,
-      "ratio": 0.0
     },
     {
       "satuan_kerja": "SMKN1 SOE",
@@ -276,14 +228,7 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SLB NEGERI BAJAWA",
-      "emails": 2,
-      "failed": 2,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SLB Negeri Kota Kupang",
+      "satuan_kerja": "SLB NEGERI KOTA KUPANG",
       "emails": 2,
       "failed": 0,
       "valid": 2,
@@ -311,7 +256,21 @@
       "ratio": 0.0
     },
     {
+      "satuan_kerja": "SMA NEGERI 1 AMABI OEFETO TIMUR",
+      "emails": 2,
+      "failed": 0,
+      "valid": 2,
+      "ratio": 100.0
+    },
+    {
       "satuan_kerja": "SMA NEGERI 1 AMARASI",
+      "emails": 2,
+      "failed": 0,
+      "valid": 2,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 1 AMFOANG TENGAH",
       "emails": 2,
       "failed": 0,
       "valid": 2,
@@ -325,7 +284,14 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA NEGERI 1 SOE",
+      "satuan_kerja": "SMA NEGERI 1 SEMAU SELATAN",
+      "emails": 2,
+      "failed": 2,
+      "valid": 0,
+      "ratio": 0.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 1 WANUKAKA",
       "emails": 2,
       "failed": 0,
       "valid": 2,
@@ -339,21 +305,28 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA NEGERI 2 MAUMERE",
+      "satuan_kerja": "SMA NEGERI 2 ENDE",
       "emails": 2,
       "failed": 0,
       "valid": 2,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA NEGERI 2 RUTENG PURANG",
+      "satuan_kerja": "SMA NEGERI 2 SEMAU",
+      "emails": 2,
+      "failed": 0,
+      "valid": 2,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 2 TASIFETO BARAT",
       "emails": 2,
       "failed": 2,
       "valid": 0,
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMA NEGERI 2 SEMAU",
+      "satuan_kerja": "SMA NEGERI 2 WAINGAPU",
       "emails": 2,
       "failed": 0,
       "valid": 2,
@@ -367,91 +340,70 @@
       "ratio": 100.0
     },
     {
+      "satuan_kerja": "SMA NEGERI 3 KUPANG TIMUR",
+      "emails": 2,
+      "failed": 0,
+      "valid": 2,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 3 WAINGAPU",
+      "emails": 2,
+      "failed": 2,
+      "valid": 0,
+      "ratio": 0.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI BATETI",
+      "emails": 2,
+      "failed": 0,
+      "valid": 2,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI DETUSOKO",
+      "emails": 2,
+      "failed": 0,
+      "valid": 2,
+      "ratio": 100.0
+    },
+    {
       "satuan_kerja": "SMA NEGERI KATALA HAMU LINGU",
       "emails": 2,
-      "failed": 2,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 2,
+      "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA NEGERI NOEMUTI TIMUR",
-      "emails": 2,
-      "failed": 2,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Amabi Oefeto Timur",
+      "satuan_kerja": "SMA NEGERI MIOMAFFO TENGAH",
       "emails": 2,
       "failed": 0,
       "valid": 2,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA Negeri 1 Amfoang Tengah",
+      "satuan_kerja": "SMA NEGERI NOEBEBA",
       "emails": 2,
       "failed": 0,
       "valid": 2,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA Negeri 1 Atambua",
+      "satuan_kerja": "SMA NEGERI PLUS KOPI COLOL",
       "emails": 2,
       "failed": 0,
       "valid": 2,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA Negeri 1 Kalabahi",
+      "satuan_kerja": "SMA NEGERI TOINEKE",
       "emails": 2,
-      "failed": 0,
-      "valid": 2,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Lobalain",
-      "emails": 2,
-      "failed": 0,
-      "valid": 2,
-      "ratio": 100.0
+      "failed": 1,
+      "valid": 1,
+      "ratio": 50.0
     },
     {
       "satuan_kerja": "SMA Negeri 1 Restorasi Wolomeze",
-      "emails": 2,
-      "failed": 0,
-      "valid": 2,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Wanukaka",
-      "emails": 2,
-      "failed": 0,
-      "valid": 2,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Wolowae",
-      "emails": 2,
-      "failed": 0,
-      "valid": 2,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 2 Ende",
-      "emails": 2,
-      "failed": 0,
-      "valid": 2,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 2 Tasifeto Barat",
-      "emails": 2,
-      "failed": 2,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 2 Waingapu",
       "emails": 2,
       "failed": 0,
       "valid": 2,
@@ -465,70 +417,21 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA Negeri 3 Kupang Timur",
+      "satuan_kerja": "SMAN 1 ATAMBUA",
       "emails": 2,
       "failed": 0,
       "valid": 2,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA Negeri 3 Waingapu",
-      "emails": 2,
-      "failed": 2,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Bateti",
+      "satuan_kerja": "SMAN 1 GOLEWA",
       "emails": 2,
       "failed": 0,
       "valid": 2,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA Negeri Detusoko",
-      "emails": 2,
-      "failed": 0,
-      "valid": 2,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Katala Hamu Lingu",
-      "emails": 2,
-      "failed": 0,
-      "valid": 2,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Noebeba",
-      "emails": 2,
-      "failed": 0,
-      "valid": 2,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Toineke",
-      "emails": 2,
-      "failed": 1,
-      "valid": 1,
-      "ratio": 50.0
-    },
-    {
-      "satuan_kerja": "SMAN 1 AESESA",
-      "emails": 2,
-      "failed": 2,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMAN 1 AIMERE",
-      "emails": 2,
-      "failed": 2,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMAN 1 Golewa",
+      "satuan_kerja": "SMAN 1 KALABAHI",
       "emails": 2,
       "failed": 0,
       "valid": 2,
@@ -542,6 +445,13 @@
       "ratio": 100.0
     },
     {
+      "satuan_kerja": "SMAN 1 LOBALAIN",
+      "emails": 2,
+      "failed": 0,
+      "valid": 2,
+      "ratio": 100.0
+    },
+    {
       "satuan_kerja": "SMAN 1 NUBATUKAN",
       "emails": 2,
       "failed": 2,
@@ -549,21 +459,21 @@
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMAN 1 Semau Selatan",
+      "satuan_kerja": "SMAN 1 SOE",
       "emails": 2,
-      "failed": 2,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 2,
+      "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 1 WEWEWA UTARA",
+      "satuan_kerja": "SMAN 1 WOLOWAE",
       "emails": 2,
-      "failed": 2,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 2,
+      "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 2 Amabi Oefeto Timur",
+      "satuan_kerja": "SMAN 2 AMABI OEFETO TIMUR",
       "emails": 2,
       "failed": 0,
       "valid": 2,
@@ -575,6 +485,13 @@
       "failed": 1,
       "valid": 1,
       "ratio": 50.0
+    },
+    {
+      "satuan_kerja": "SMAN 2 MAUMERE",
+      "emails": 2,
+      "failed": 0,
+      "valid": 2,
+      "ratio": 100.0
     },
     {
       "satuan_kerja": "SMAN 4 KUPANG",
@@ -598,35 +515,7 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 8 KOTA KOMBA",
-      "emails": 2,
-      "failed": 2,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMAN ALAS",
-      "emails": 2,
-      "failed": 2,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMAN Insana Tengah",
-      "emails": 2,
-      "failed": 0,
-      "valid": 2,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMAN Miomaffo Tengah",
-      "emails": 2,
-      "failed": 0,
-      "valid": 2,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMAN Plus Kopi Colol",
+      "satuan_kerja": "SMAN INSANA TENGAH",
       "emails": 2,
       "failed": 0,
       "valid": 2,
@@ -640,7 +529,7 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMK NEGERI 1 LEWOLEBA",
+      "satuan_kerja": "SMK NEGERI 1 ADONARA",
       "emails": 2,
       "failed": 0,
       "valid": 2,
@@ -654,60 +543,39 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMK Negeri 1 Adonara",
+      "satuan_kerja": "SMK NEGERI 7 ENDE",
       "emails": 2,
       "failed": 0,
       "valid": 2,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMK Negeri 2 Kupang",
-      "emails": 2,
-      "failed": 2,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMK Negeri 7 Ende",
+      "satuan_kerja": "SMK NEGERI HARNENO",
       "emails": 2,
       "failed": 0,
       "valid": 2,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMK Negeri Harneno",
+      "satuan_kerja": "SMK NEGERI MOLLO TENGAH",
       "emails": 2,
       "failed": 0,
       "valid": 2,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMK Negeri Kobalima",
+      "satuan_kerja": "SMKN 1 AESESA",
       "emails": 2,
       "failed": 0,
       "valid": 2,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMK Negeri Mollo Tengah",
+      "satuan_kerja": "SMKN 1 LEWOLEBA",
       "emails": 2,
       "failed": 0,
       "valid": 2,
       "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMKN 1 Aesesa",
-      "emails": 2,
-      "failed": 0,
-      "valid": 2,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMKN 1 LAMBOYA",
-      "emails": 2,
-      "failed": 2,
-      "valid": 0,
-      "ratio": 0.0
     },
     {
       "satuan_kerja": "SMKN 1 SABU BARAT",
@@ -717,11 +585,18 @@
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMKN 1 TANA RIGHU",
+      "satuan_kerja": "SMKN 2 KUPANG",
       "emails": 2,
       "failed": 2,
       "valid": 0,
       "ratio": 0.0
+    },
+    {
+      "satuan_kerja": "SMKN KOBALIMA",
+      "emails": 2,
+      "failed": 0,
+      "valid": 2,
+      "ratio": 100.0
     },
     {
       "satuan_kerja": "SMKN1 Umbu Ratu Nggay",
@@ -732,13 +607,6 @@
     },
     {
       "satuan_kerja": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "Dinas Pendidikan Dan Kebudayaan Provinsi NTT",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -752,7 +620,28 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SLB N Beru",
+      "satuan_kerja": "SLB N BERU",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SLB NEGERI AM ROIT",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SLB NEGERI BENPASI",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SLB NEGERI KASIH SAYANG SOA",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -766,35 +655,14 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SLB NEGERI TENDA RUTENG",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SLB Negeri Benpasi",
+      "satuan_kerja": "SLB NEGERI NITSAE",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SLB Negeri Kasih Sayang Soa",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SLB Negeri Pantar",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SLBN Am Roit",
+      "satuan_kerja": "SLB NEGERI PANTAR",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -808,21 +676,14 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SLBN MALARUMA MBAY",
+      "satuan_kerja": "SLBN MALARUMA",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SLBN Nitsae",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SLBN Nunumeu",
+      "satuan_kerja": "SLBN NUNUMEU",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -857,67 +718,137 @@
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMA NEGERI 1 ADONARA TIMUR",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMA NEGERI 1 BUYASURI",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMA NEGERI 1 ENDE",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMA NEGERI 1 FATULEU",
+      "satuan_kerja": "SMA NEGERI 02 KABOLA",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA NEGERI 1 HAHARU",
+      "satuan_kerja": "SMA NEGERI 1 ADONARA",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 1 ADONARA BARAT",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 1 ADONARA TENGAH",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 1 AMARASI TIMUR",
       "emails": 1,
       "failed": 1,
       "valid": 0,
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMA NEGERI 1 JEREBUU",
+      "satuan_kerja": "SMA NEGERI 1 BOAWAE",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 1 ENDE",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 1 ILE APE TIMUR",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 1 KAHAUNGU ETI",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 1 KUPANG BARAT",
       "emails": 1,
       "failed": 1,
       "valid": 0,
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMA NEGERI 1 RESTORASI RIUNG",
+      "satuan_kerja": "SMA NEGERI 1 LEWA",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 1 LEWOLEMA",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 1 NANGAPANDA",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 1 NGGAHA ORI ANGU",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 1 PACAR",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 1 RAIJUA",
       "emails": 1,
       "failed": 1,
       "valid": 0,
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMA NEGERI 1 SABU BARAT",
+      "satuan_kerja": "SMA NEGERI 1 RINDI",
       "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA NEGERI 1 WAIBAKUL",
+      "satuan_kerja": "SMA NEGERI 1 TAKARI",
       "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 1 TITEHENA",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
     },
     {
       "satuan_kerja": "SMA NEGERI 1 WAINGAPU",
@@ -927,7 +858,28 @@
       "ratio": 100.0
     },
     {
+      "satuan_kerja": "SMA NEGERI 1 WULLA WAIJELU",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
       "satuan_kerja": "SMA NEGERI 12 KUPANG",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 2 AESESA",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 2 ATAMBUA",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -948,6 +900,13 @@
       "ratio": 100.0
     },
     {
+      "satuan_kerja": "SMA NEGERI 2 KEO TENGAH",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
       "satuan_kerja": "SMA NEGERI 2 LEMBOR",
       "emails": 1,
       "failed": 0,
@@ -955,11 +914,18 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA NEGERI 2 SABU BARAT",
+      "satuan_kerja": "SMA NEGERI 2 LOBALAIN",
       "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI 2 PACAR",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
     },
     {
       "satuan_kerja": "SMA NEGERI 2 UMALULU",
@@ -969,7 +935,7 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA NEGERI 3 Kalabahi",
+      "satuan_kerja": "SMA NEGERI 3 KALABAHI",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -990,28 +956,119 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA NEGERI 4 KOMODO",
+      "satuan_kerja": "SMA NEGERI 4 TAKARI",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI ALKANI",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI ALOR KECIL",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI BIKOMI UTARA",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI BININO",
       "emails": 1,
       "failed": 1,
       "valid": 0,
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMA NEGERI BARANUSA",
+      "satuan_kerja": "SMA NEGERI DINGKANAL",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA NEGERI BURAGA",
+      "satuan_kerja": "SMA NEGERI FATUKOPA",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA NEGERI LEWA TIDAHU",
+      "satuan_kerja": "SMA NEGERI FAUTMOLO",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI HALIOAN",
+      "emails": 1,
+      "failed": 1,
+      "valid": 0,
+      "ratio": 0.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI HAREKAKAE",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI KANGAE",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI KEBERBAKATAN OLAHRAGA FLOBAMORATA",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI KELUBAGOLIT",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI LIKWATANG",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI MATPUNU",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI MAUROLE",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI NIANAM",
       "emails": 1,
       "failed": 1,
       "valid": 0,
@@ -1020,9 +1077,72 @@
     {
       "satuan_kerja": "SMA NEGERI PEMANA",
       "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI PINU PAHAR",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI RESTORASI FATUAT",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI RESTORASI MAINANG",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI RESTORASI PADANG ALANG",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI RESTORASI PILI",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI SABUN",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI SALBAIT",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI USAPIMNASI",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMA NEGERI WEBRIAMATA",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
     },
     {
       "satuan_kerja": "SMA NEGERI WEDEROK",
@@ -1039,280 +1159,7 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA Negeri 02 Kabola",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Adonara",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Adonara Barat",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Adonara Tengah",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Amarasi Timur",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Ende",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Fatuleu Tengah",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Ile Ape Timur",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Kahaungu Eti",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Kefamenanu",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Kupang Barat",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Kupang Tengah",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Lewa",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Lewolema",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Malaka Barat",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Malaka Timur",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Mamboro",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Nangapanda",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Nggaha Ori Angu",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Pacar",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Raijua",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Rindi",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Satarmese",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Solor Barat",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Titehena",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Umbu Ratu Nggay Barat",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
       "satuan_kerja": "SMA Negeri 1 Wagete",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Waikabubak",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Wewewa Selatan",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 1 Wulla Waijelu",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 10 Kupang",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 2 Atambua",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 2 Kalabahi",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 2 Keo Tengah",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 2 Lobalain",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 4 Takari",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 7 Kupang",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri 9 Borong",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Alkani",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Alor Kecil",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -1326,161 +1173,7 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMA Negeri Benlutu",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Biboki Anleu",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Bikomi Utara",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Fatukopa",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Halioan",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Harekakae",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Kangae",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Keberbakatan Olahraga Flobamorata Kupang",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Kelubagolit",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Likwatang",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Lurasik",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Maiwal",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Maurole",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Nianam",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Pemana",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Pinu Pahar",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Restorasi Fatuat",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Restorasi Mainang",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Restorasi Padang Alang",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Sabun",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Salbait",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Usapimnasi",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMA Negeri Webriamata",
+      "satuan_kerja": "SMAN 1 AMANUBAN SELATAN",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -1508,74 +1201,67 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 1 Amanuban Selatan",
+      "satuan_kerja": "SMAN 1 FATULEU",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 1 BOAWAE",
+      "satuan_kerja": "SMAN 1 FATULEU TENGAH",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 1 FATULEU BARAT",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMAN 1 INERIE",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMAN 1 Keo Tengah",
+      "satuan_kerja": "SMAN 1 KEFAMENANU",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 1 Kupang",
+      "satuan_kerja": "SMAN 1 KEO TENGAH",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 1 LAMBOYA",
+      "satuan_kerja": "SMAN 1 KUPANG",
       "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 1 LEMBOR",
+      "satuan_kerja": "SMAN 1 KUPANG TENGAH",
       "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 1 LEMBOR SELATAN",
+      "satuan_kerja": "SMAN 1 MALAKA BARAT",
       "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
     },
     {
       "satuan_kerja": "SMAN 1 MALAKA TIMUR",
       "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMAN 1 MAMBORO",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
     },
     {
       "satuan_kerja": "SMAN 1 MAUPONGGO",
@@ -1585,25 +1271,39 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 1 ROTE BARAT LAUT",
+      "satuan_kerja": "SMAN 1 ROTE BARAT",
       "emails": 1,
       "failed": 1,
       "valid": 0,
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMAN 1 Rote Barat",
+      "satuan_kerja": "SMAN 1 SABU BARAT",
       "emails": 1,
       "failed": 1,
       "valid": 0,
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMAN 1 Rote Tengah",
+      "satuan_kerja": "SMAN 1 SABU TIMUR",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMAN 1 SATARMESE",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMAN 1 SOLOR BARAT",
+      "emails": 1,
+      "failed": 1,
+      "valid": 0,
+      "ratio": 0.0
     },
     {
       "satuan_kerja": "SMAN 1 SULAMU",
@@ -1613,7 +1313,7 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 1 Sabu Timur",
+      "satuan_kerja": "SMAN 1 TAEBENU",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -1627,42 +1327,49 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 1 Taebenu",
+      "satuan_kerja": "SMAN 1 TASIFETO BARAT",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 1 Takari",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMAN 1 Tasifeto Barat",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMAN 1 Tasifeto Timur",
+      "satuan_kerja": "SMAN 1 TASIFETO TIMUR",
       "emails": 1,
       "failed": 1,
       "valid": 0,
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMAN 1 WELAK",
+      "satuan_kerja": "SMAN 1 UMBU RATU NGGAY BARAT",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMAN 1 WAIKABUBAK",
       "emails": 1,
       "failed": 1,
       "valid": 0,
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMAN 11 Kupang",
+      "satuan_kerja": "SMAN 1 WEWEWA SELATAN",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMAN 10 KUPANG",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMAN 11 KUPANG",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -1676,14 +1383,28 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 2 Aesesa",
+      "satuan_kerja": "SMAN 2 FATULEU",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 2 FATULEU",
+      "satuan_kerja": "SMAN 2 KALABAHI",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMAN 2 KUPANG",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMAN 2 KUPANG BARAT",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -1697,49 +1418,14 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 2 Kupang",
+      "satuan_kerja": "SMAN 3 AESESA",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 2 Kupang Barat",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMAN 2 PACAR",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMAN 3 Aesesa",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMAN 3 SAMBI RAMPAS",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMAN 4 SAMBI RAMPAS",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMAN 5 Kupang",
+      "satuan_kerja": "SMAN 5 KUPANG",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -1755,30 +1441,58 @@
     {
       "satuan_kerja": "SMAN 7 KUPANG",
       "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN 9 Kupang",
+      "satuan_kerja": "SMAN 9 BORONG",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN Alas",
+      "satuan_kerja": "SMAN 9 KUPANG",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN Awaalah",
+      "satuan_kerja": "SMAN ALAS",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMAN AWAALAH",
       "emails": 1,
       "failed": 1,
       "valid": 0,
       "ratio": 0.0
+    },
+    {
+      "satuan_kerja": "SMAN BARANUSA",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMAN BENLUTU",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMAN BIBOKI ANLEU",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
     },
     {
       "satuan_kerja": "SMAN BOKONG",
@@ -1788,28 +1502,14 @@
       "ratio": 100.0
     },
     {
+      "satuan_kerja": "SMAN BURAGA",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
       "satuan_kerja": "SMAN Bikomi Nilulat",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMAN Binino",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMAN Dingkanal",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMAN Fautmolo",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -1837,18 +1537,18 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN Matpunu",
+      "satuan_kerja": "SMAN LURASIK",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN NOEMUTI",
+      "satuan_kerja": "SMAN MAIWAL",
       "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
     },
     {
       "satuan_kerja": "SMAN OENINO",
@@ -1858,7 +1558,14 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN OENOPO",
+      "satuan_kerja": "SMAN PROBUR",
+      "emails": 1,
+      "failed": 1,
+      "valid": 0,
+      "ratio": 0.0
+    },
+    {
+      "satuan_kerja": "SMAN PULAU PURA",
       "emails": 1,
       "failed": 1,
       "valid": 0,
@@ -1872,25 +1579,11 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMAN Restorasi Pili",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
       "satuan_kerja": "SMAN WELAUS",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMAN.Probur",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
     },
     {
       "satuan_kerja": "SMK N 1 Lamboya",
@@ -1921,7 +1614,28 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMK NEGERI 1 MACANG PACAR",
+      "satuan_kerja": "SMK NEGERI 1 AMARASI",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMK NEGERI 1 ENDE",
+      "emails": 1,
+      "failed": 1,
+      "valid": 0,
+      "ratio": 0.0
+    },
+    {
+      "satuan_kerja": "SMK NEGERI 1 KOTA TAMBOLAKA",
+      "emails": 1,
+      "failed": 1,
+      "valid": 0,
+      "ratio": 0.0
+    },
+    {
+      "satuan_kerja": "SMK NEGERI 1 MAMBORO",
       "emails": 1,
       "failed": 1,
       "valid": 0,
@@ -1935,18 +1649,18 @@
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMK NEGERI 1 RAHONG UTARA",
+      "satuan_kerja": "SMK NEGERI 1 REOK BARAT",
       "emails": 1,
       "failed": 1,
       "valid": 0,
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMK NEGERI 1 REOK BARAT",
+      "satuan_kerja": "SMK NEGERI 1 RESTORASI GOLEWA",
       "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
     },
     {
       "satuan_kerja": "SMK NEGERI 1 WAINGAPU",
@@ -1957,6 +1671,20 @@
     },
     {
       "satuan_kerja": "SMK NEGERI 2 AMFOANG SELATAN",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMK NEGERI 2 ENDE",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMK NEGERI 2 TAKARI",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -1977,14 +1705,14 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMK NEGERI 4 LEWA",
+      "satuan_kerja": "SMK NEGERI BABUIN",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMK NEGERI BABUIN",
+      "satuan_kerja": "SMK NEGERI BASMUTI",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -2005,6 +1733,34 @@
       "ratio": 100.0
     },
     {
+      "satuan_kerja": "SMK NEGERI KAKULUK MESAK",
+      "emails": 1,
+      "failed": 1,
+      "valid": 0,
+      "ratio": 0.0
+    },
+    {
+      "satuan_kerja": "SMK NEGERI NDORA",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMK NEGERI NOEMUTI",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMK NEGERI PERBATASAN RAI MANUK",
+      "emails": 1,
+      "failed": 1,
+      "valid": 0,
+      "ratio": 0.0
+    },
+    {
       "satuan_kerja": "SMK NEGERI POLLO",
       "emails": 1,
       "failed": 0,
@@ -2012,137 +1768,46 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMK Negeri 1 Amarasi",
+      "satuan_kerja": "SMK NEGERI SUNU",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMK Negeri 1 Ende",
+      "satuan_kerja": "SMKN 1 AMABI OEFETO",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMKN 1 KODI",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMKN 1 KODI BANGEDO",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMKN 1 KODI UTARA",
       "emails": 1,
       "failed": 1,
       "valid": 0,
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMK Negeri 1 Kodi Bangedo",
+      "satuan_kerja": "SMKN 1 KUPANG BARAT",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMK Negeri 1 Lobalain",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMK Negeri 1 Mamboro",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMK Negeri 1 Pandawai",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMK Negeri 1 Waikabubak",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMK Negeri 2 Ende",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMK Negeri 2 SoE",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMK Negeri 2 Takari",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMK Negeri 7 Kupang",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMK Negeri Alor Besar",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMK Negeri Bakalang",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMK Negeri Basmuti",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMK Negeri Kakuluk Mesak",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMK Negeri Noemuti",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMK Negeri Riung",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMKN 1 Amabi Oefeto",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMKN 1 KALABAHI",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
     },
     {
       "satuan_kerja": "SMKN 1 Kab Kupang",
@@ -2152,42 +1817,21 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMKN 1 Kodi",
+      "satuan_kerja": "SMKN 1 LOBALAIN",
       "emails": 1,
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMKN 1 Kodi Utara",
+      "satuan_kerja": "SMKN 1 WAIKABUBAK",
       "emails": 1,
       "failed": 1,
       "valid": 0,
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMKN 1 Kupang Barat",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMKN 1 RESTORASI GOLEWA",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMKN 1 WELAK",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "SMKN 1 Wewewa Barat",
+      "satuan_kerja": "SMKN 1 WEWEWA BARAT",
       "emails": 1,
       "failed": 1,
       "valid": 0,
@@ -2199,6 +1843,20 @@
       "failed": 1,
       "valid": 0,
       "ratio": 0.0
+    },
+    {
+      "satuan_kerja": "SMKN 2 SOE",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMKN 4 LEWA",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
     },
     {
       "satuan_kerja": "SMKN 5 KUPANG",
@@ -2215,7 +1873,14 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMKN 8 Kupang",
+      "satuan_kerja": "SMKN 7 KUPANG",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMKN 8 KUPANG",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -2224,9 +1889,9 @@
     {
       "satuan_kerja": "SMKN ALOR BESAR",
       "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
     },
     {
       "satuan_kerja": "SMKN AMPERA",
@@ -2236,39 +1901,32 @@
       "ratio": 100.0
     },
     {
-      "satuan_kerja": "SMKN Boking",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMKN KOKAR-",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMKN Maritaing",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMKN Ndora",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMKN OEOLO",
+      "satuan_kerja": "SMKN BAKALANG",
       "emails": 1,
       "failed": 1,
       "valid": 0,
       "ratio": 0.0
+    },
+    {
+      "satuan_kerja": "SMKN BOKING",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMKN KOKAR",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
+    },
+    {
+      "satuan_kerja": "SMKN MARITAING",
+      "emails": 1,
+      "failed": 0,
+      "valid": 1,
+      "ratio": 100.0
     },
     {
       "satuan_kerja": "SMKN Perbatasan Lamaknen Seatan",
@@ -2278,14 +1936,14 @@
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMKN Perbatasan Rai Manuk",
+      "satuan_kerja": "SMKN RIUNG",
       "emails": 1,
       "failed": 1,
       "valid": 0,
       "ratio": 0.0
     },
     {
-      "satuan_kerja": "SMKN Sunu",
+      "satuan_kerja": "SMKN TALIBURA",
       "emails": 1,
       "failed": 0,
       "valid": 1,
@@ -2297,43 +1955,22 @@
       "failed": 0,
       "valid": 1,
       "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "SMKN Talibura",
-      "emails": 1,
-      "failed": 0,
-      "valid": 1,
-      "ratio": 100.0
-    },
-    {
-      "satuan_kerja": "Sma Negeri Pulau Pura",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
-    },
-    {
-      "satuan_kerja": "Unit Satuan Pendidikan SMK NEGERI 1 Kota Tambolaka",
-      "emails": 1,
-      "failed": 1,
-      "valid": 0,
-      "ratio": 0.0
     }
   ],
   "by_week": [
     {
       "period": "2026-11-23",
-      "emails": 181,
-      "failed": 82,
-      "valid": 99,
-      "ratio": 54.7
+      "emails": 182,
+      "failed": 81,
+      "valid": 101,
+      "ratio": 55.49
     },
     {
       "period": "2026-11-16",
       "emails": 407,
-      "failed": 194,
-      "valid": 213,
-      "ratio": 52.33
+      "failed": 191,
+      "valid": 216,
+      "ratio": 53.07
     },
     {
       "period": "2026-11-09",

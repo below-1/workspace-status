@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "23 November 2026, 17:01 WITA",
+    "generated_at": "23 November 2026, 17:31 WITA",
     "source_updated_at": "24 November 2026, 08:08 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -12,8 +12,8 @@
     "needs_fix": 67,
     "not_submitted": 2144,
     "needs_confirmation": 0,
-    "active_findings": 378,
-    "fixed_findings": 481
+    "active_findings": 372,
+    "fixed_findings": 487
   },
   "by_defect": [
     {
@@ -47,8 +47,8 @@
     {
       "code": "unregistered_ni",
       "label": "NIP tidak terdaftar",
-      "active": 46,
-      "fixed": 20,
+      "active": 40,
+      "fixed": 26,
       "total": 66
     },
     {
@@ -69,8 +69,8 @@
   "by_jenjang": [
     {
       "name": "SMA",
-      "active": 169,
-      "fixed": 235,
+      "active": 163,
+      "fixed": 241,
       "total": 404
     },
     {
@@ -97,8 +97,8 @@
       "key": "Pendidikan",
       "label": "Pendidikan",
       "active": 305,
-      "fixed": 359,
-      "total": 664
+      "fixed": 383,
+      "total": 688
     },
     {
       "key": "Non-Pendidikan",
@@ -110,9 +110,9 @@
     {
       "key": "Tidak diketahui",
       "label": "Tidak diketahui",
-      "active": 43,
-      "fixed": 18,
-      "total": 61
+      "active": 37,
+      "fixed": 0,
+      "total": 37
     }
   ]
 }

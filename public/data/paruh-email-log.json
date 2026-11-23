@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status unit dan email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "23 November 2026, 17:01 WITA",
+    "generated_at": "23 November 2026, 17:31 WITA",
     "source_updated_at": "24 November 2026, 08:08 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -41,7 +41,7 @@
       "id": "fd14d6cf8f7b",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Keberbakatan Olahraga Flobamorata Kupang",
+      "satuan_kerja": "SMA NEGERI KEBERBAKATAN OLAHRAGA FLOBAMORATA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -56,7 +56,7 @@
       "id": "fa23ceea99dc",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 Mollo Selatan",
+      "satuan_kerja": "SMAN 1 MOLLO SELATAN",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -71,7 +71,7 @@
       "id": "f36dbf56f9dd",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Kobalima",
+      "satuan_kerja": "SMKN KOBALIMA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -81,6 +81,22 @@
       "rows_parsed": 10,
       "active_findings": 0,
       "fixed_findings": 1
+    },
+    {
+      "id": "f2b06d8e2680",
+      "received_on": "2026-11-23",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMA NEGERI 1 SEMAU SELATAN",
+      "outcome": "nip",
+      "reasons": [
+        "nip",
+        "trailing_000_ni"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 3,
+      "active_findings": 3,
+      "fixed_findings": 0
     },
     {
       "id": "f227aadbc771",
@@ -101,7 +117,7 @@
       "id": "f1adb2265ded",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN Alas",
+      "satuan_kerja": "SMAN ALAS",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -113,10 +129,25 @@
       "fixed_findings": 0
     },
     {
+      "id": "f1a6af031ef4",
+      "received_on": "2026-11-23",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMA NEGERI NOEMUTI TIMUR",
+      "outcome": "valid",
+      "reasons": [
+        "valid"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 20,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
       "id": "ef683329f758",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Katala Hamu Lingu",
+      "satuan_kerja": "SMA NEGERI KATALA HAMU LINGU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -131,7 +162,7 @@
       "id": "ee40fd1133ef",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 2 MAUMERE",
+      "satuan_kerja": "SMAN 2 MAUMERE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -146,7 +177,7 @@
       "id": "ecdb7904924f",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 2 Ende",
+      "satuan_kerja": "SMK NEGERI 2 ENDE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -155,6 +186,22 @@
       "pdf_count": 1,
       "rows_parsed": 18,
       "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "ebd9b4f0a252",
+      "received_on": "2026-11-23",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMA NEGERI 1 SEMAU SELATAN",
+      "outcome": "nip",
+      "reasons": [
+        "nip",
+        "trailing_000_ni"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 3,
+      "active_findings": 3,
       "fixed_findings": 0
     },
     {
@@ -176,7 +223,7 @@
       "id": "e909e2e1c471",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Usapimnasi",
+      "satuan_kerja": "SMA NEGERI USAPIMNASI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -203,25 +250,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "e56ffdfb2787",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK NEGERI 1 WAIBAKUL",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "e4227aed126c",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLBN Nunumeu",
+      "satuan_kerja": "SLBN NUNUMEU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -236,7 +268,7 @@
       "id": "e41894d87500",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN Talibura",
+      "satuan_kerja": "SMKN TALIBURA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -251,7 +283,7 @@
       "id": "e1f5c4ed5e52",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 Aesesa",
+      "satuan_kerja": "SMKN 1 AESESA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -266,7 +298,7 @@
       "id": "dd4a0060a4a2",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 2 Ende",
+      "satuan_kerja": "SMA NEGERI 2 ENDE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -281,7 +313,7 @@
       "id": "dc38725d8e63",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Mollo Tengah",
+      "satuan_kerja": "SMK NEGERI MOLLO TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -296,7 +328,7 @@
       "id": "db24586862a4",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Mamboro",
+      "satuan_kerja": "SMAN 1 MAMBORO",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -326,7 +358,7 @@
       "id": "dabace674414",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Restorasi Riung",
+      "satuan_kerja": "SMA NEGERI 1 RESTORASI RIUNG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -341,7 +373,7 @@
       "id": "d99456ebe82d",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN Oinlasi",
+      "satuan_kerja": "SMAN OINLASI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -356,7 +388,7 @@
       "id": "d3ce70644e36",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 1 Amarasi",
+      "satuan_kerja": "SMK NEGERI 1 AMARASI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -371,7 +403,7 @@
       "id": "d3911cc84c6d",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN Oinlasi",
+      "satuan_kerja": "SMAN OINLASI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -386,7 +418,7 @@
       "id": "d1e3cf079e97",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Wanukaka",
+      "satuan_kerja": "SMA NEGERI 1 WANUKAKA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -401,7 +433,7 @@
       "id": "d0b2a40abfd2",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Kobalima",
+      "satuan_kerja": "SMKN KOBALIMA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -413,25 +445,10 @@
       "fixed_findings": 16
     },
     {
-      "id": "cd90ec8e7a71",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 3 PAHUNGA LODU",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "caf7d98815cc",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Biboki Anleu",
+      "satuan_kerja": "SMAN BIBOKI ANLEU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -446,7 +463,7 @@
       "id": "c9f9cf61774f",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 2 Takari",
+      "satuan_kerja": "SMK NEGERI 2 TAKARI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -461,7 +478,7 @@
       "id": "c8cf197794d1",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Tereweng",
+      "satuan_kerja": "SMA NEGERI TEREWENG",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -477,7 +494,7 @@
       "id": "c88f0eda1b3e",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN Insana Tengah",
+      "satuan_kerja": "SMAN INSANA TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -492,7 +509,7 @@
       "id": "c66a13b29260",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Oeolo",
+      "satuan_kerja": "SMKN OEOLO",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -507,7 +524,7 @@
       "id": "c6035a1fde2e",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Mollo Tengah",
+      "satuan_kerja": "SMK NEGERI MOLLO TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -519,25 +536,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "c2772de751a5",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 JEREBUU",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "c20c64a12417",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 SABU BARAT",
+      "satuan_kerja": "SMAN 1 SABU BARAT",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -553,7 +555,7 @@
       "id": "c106241c0948",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 3 Aesesa",
+      "satuan_kerja": "SMAN 3 AESESA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -568,7 +570,7 @@
       "id": "bdb8579cea15",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 7 Ende",
+      "satuan_kerja": "SMK NEGERI 7 ENDE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -580,25 +582,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "bd341d35eaef",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 BUYASURI",
-      "outcome": "no_excel",
-      "reasons": [
-        "no_excel"
-      ],
-      "excel_count": 0,
-      "pdf_count": 3,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "bd2dbb9b3523",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 1 Adonara",
+      "satuan_kerja": "SMK NEGERI 1 ADONARA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -613,7 +600,7 @@
       "id": "bccd9235a796",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Wolowae",
+      "satuan_kerja": "SMAN 1 WOLOWAE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -628,7 +615,7 @@
       "id": "bb835125c4db",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLB Negeri Kasih Sayang Soa",
+      "satuan_kerja": "SLB NEGERI KASIH SAYANG SOA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -655,40 +642,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "b346f197d65c",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 4 KOMODO",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "b1434fdd3f45",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLB NEGERI BAJAWA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "ae646c45ad23",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN Oinlasi",
+      "satuan_kerja": "SMAN OINLASI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -700,25 +657,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "aba834132245",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLB NEGERI BAJAWA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "aa741dac5191",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 2 Kupang Barat",
+      "satuan_kerja": "SMAN 2 KUPANG BARAT",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -749,7 +691,7 @@
       "id": "a94fd3fbec19",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "Dinas Pendidikan Dan Kebudayaan Provinsi NTT",
+      "satuan_kerja": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -764,7 +706,7 @@
       "id": "a90774861129",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 2 Lobalain",
+      "satuan_kerja": "SMA NEGERI 2 LOBALAIN",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -794,7 +736,7 @@
       "id": "9d13ed16295d",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 4 Takari",
+      "satuan_kerja": "SMA NEGERI 4 TAKARI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -809,7 +751,7 @@
       "id": "9cf8cc608e42",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Kalabahi",
+      "satuan_kerja": "SMAN 1 KALABAHI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -824,7 +766,7 @@
       "id": "998cad18cd56",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Sabun",
+      "satuan_kerja": "SMA NEGERI SABUN",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -839,7 +781,7 @@
       "id": "98793de6b8a7",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Waikabubak",
+      "satuan_kerja": "SMAN 1 WAIKABUBAK",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -855,7 +797,7 @@
       "id": "950d14384264",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN Ndora",
+      "satuan_kerja": "SMK NEGERI NDORA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -870,7 +812,7 @@
       "id": "93fd9f90c355",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 1 Ende",
+      "satuan_kerja": "SMK NEGERI 1 ENDE",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -899,25 +841,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "8d3c5921448d",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 WAIBAKUL",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "8c537f24bc0d",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Oeolo",
+      "satuan_kerja": "SMKN OEOLO",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -947,7 +874,7 @@
       "id": "85ba247a67bb",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Aimere",
+      "satuan_kerja": "SMAN 1 AIMERE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -972,21 +899,6 @@
       "pdf_count": 1,
       "rows_parsed": 4,
       "active_findings": 2,
-      "fixed_findings": 0
-    },
-    {
-      "id": "83b36ec2c5b0",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 HAHARU",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
       "fixed_findings": 0
     },
     {
@@ -1020,25 +932,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "7944817723eb",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 AESESA",
-      "outcome": "no_excel",
-      "reasons": [
-        "no_excel"
-      ],
-      "excel_count": 0,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "779ac8d8b039",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Nangapanda",
+      "satuan_kerja": "SMA NEGERI 1 NANGAPANDA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1053,7 +950,7 @@
       "id": "6fff080a9da9",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Katala Hamu Lingu",
+      "satuan_kerja": "SMA NEGERI KATALA HAMU LINGU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1061,21 +958,6 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 6,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "6e2ae8d58979",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 ROTE BARAT LAUT",
-      "outcome": "no_excel",
-      "reasons": [
-        "no_excel"
-      ],
-      "excel_count": 0,
-      "pdf_count": 1,
-      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0
     },
@@ -1098,7 +980,7 @@
       "id": "6c57db5a3977",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Kangae",
+      "satuan_kerja": "SMA NEGERI KANGAE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1113,7 +995,7 @@
       "id": "6aff0988b57e",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 2 Aesesa",
+      "satuan_kerja": "SMA NEGERI 2 AESESA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1128,7 +1010,7 @@
       "id": "6af8f48f0a4f",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 10 Kupang",
+      "satuan_kerja": "SMAN 10 KUPANG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1143,7 +1025,7 @@
       "id": "68a6ced334c0",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Fafinesu",
+      "satuan_kerja": "SMAN FAFINESU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1158,7 +1040,7 @@
       "id": "6850337e6ab0",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Kakuluk Mesak",
+      "satuan_kerja": "SMK NEGERI KAKULUK MESAK",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -1174,7 +1056,7 @@
       "id": "67e500cedf81",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 2 MAUMERE",
+      "satuan_kerja": "SMAN 2 MAUMERE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1186,25 +1068,10 @@
       "fixed_findings": 1
     },
     {
-      "id": "676671bf1dae",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 TANA RIGHU",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "66c20a49cc6b",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Likwatang",
+      "satuan_kerja": "SMA NEGERI LIKWATANG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1219,7 +1086,7 @@
       "id": "6526660a8454",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 Taebenu",
+      "satuan_kerja": "SMAN 1 TAEBENU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1231,25 +1098,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "6336ab17324d",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 2 SOA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "5e273b367597",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 AESESA",
+      "satuan_kerja": "SMAN 1 AESESA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1264,7 +1116,7 @@
       "id": "5e041d912d01",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 Aesesa",
+      "satuan_kerja": "SMKN 1 AESESA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1296,7 +1148,7 @@
       "id": "5d8be2d83699",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 Takari",
+      "satuan_kerja": "SMA NEGERI 1 TAKARI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1308,25 +1160,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "5c306908be51",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 WEWEWA UTARA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "5bad67c1e1da",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 5 Kupang",
+      "satuan_kerja": "SMAN 5 KUPANG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1357,7 +1194,7 @@
       "id": "5358b98ad0d8",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 8 Kupang",
+      "satuan_kerja": "SMKN 8 KUPANG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1387,7 +1224,7 @@
       "id": "4fbf6875f09f",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 Mollo Selatan",
+      "satuan_kerja": "SMAN 1 MOLLO SELATAN",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1402,7 +1239,7 @@
       "id": "4fa38fe52108",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Solor Barat",
+      "satuan_kerja": "SMAN 1 SOLOR BARAT",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -1431,21 +1268,6 @@
       "fixed_findings": 1
     },
     {
-      "id": "4f42cfe76b1f",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK NEGERI 1 MACANG PACAR",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "4a4be02ef830",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -1464,23 +1286,22 @@
       "id": "45d4d9f56b24",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Noemuti Timur",
-      "outcome": "nip",
+      "satuan_kerja": "SMA NEGERI NOEMUTI TIMUR",
+      "outcome": "valid",
       "reasons": [
-        "nip",
-        "unregistered_ni"
+        "valid"
       ],
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 20,
-      "active_findings": 1,
-      "fixed_findings": 0
+      "active_findings": 0,
+      "fixed_findings": 1
     },
     {
       "id": "4591978a0d3e",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 1 Pandawai",
+      "satuan_kerja": "SMK NEGERI 1 PANDAWAI",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -1508,25 +1329,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "422caf7920d4",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 2 SOA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "42296dcca978",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Tereweng",
+      "satuan_kerja": "SMA NEGERI TEREWENG",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -1554,25 +1360,10 @@
       "fixed_findings": 22
     },
     {
-      "id": "40e0aedf3714",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 SOA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "40c33ed50daf",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Amabi Oefeto Timur",
+      "satuan_kerja": "SMA NEGERI 1 AMABI OEFETO TIMUR",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1587,7 +1378,7 @@
       "id": "3b9053128e86",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Restorasi Riung",
+      "satuan_kerja": "SMA NEGERI 1 RESTORASI RIUNG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1602,7 +1393,7 @@
       "id": "38d3bb16f747",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 2 Atambua",
+      "satuan_kerja": "SMA NEGERI 2 ATAMBUA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1614,25 +1405,10 @@
       "fixed_findings": 1
     },
     {
-      "id": "38d304f6846d",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 2 SOA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "381721aa326c",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 2 Amarasi Barat",
+      "satuan_kerja": "SMA NEGERI 2 AMARASI BARAT",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -1645,25 +1421,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "3815020bcbe4",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 PABERIWAI",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "36abccf7310c",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLB N Beru",
+      "satuan_kerja": "SLB N BERU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1678,7 +1439,7 @@
       "id": "34d17361797e",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 1 Kodi Bangedo",
+      "satuan_kerja": "SMKN 1 KODI BANGEDO",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1693,7 +1454,7 @@
       "id": "31ab990f6411",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 2 SoE",
+      "satuan_kerja": "SMKN 2 SOE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1708,7 +1469,7 @@
       "id": "3159bbf2ab12",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 AESESA",
+      "satuan_kerja": "SMAN 1 AESESA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1720,55 +1481,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "2d4cf85c2ffa",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 LAMBOYA",
-      "outcome": "no_excel",
-      "reasons": [
-        "no_excel"
-      ],
-      "excel_count": 0,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "2bb2b2868531",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 LEMBOR",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "2bb1e06521a4",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN ALAS",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "2ace49acd367",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 9 Kupang",
+      "satuan_kerja": "SMAN 9 KUPANG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1780,25 +1496,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "29a9e16971c4",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN NOEMUTI",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "2652f7ec4199",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 Amarasi Selatan",
+      "satuan_kerja": "SMKN 1 AMARASI SELATAN",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1810,25 +1511,10 @@
       "fixed_findings": 1
     },
     {
-      "id": "25944bf1c503",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 3 PAHUNGA LODU",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "258951f1ae30",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 1 Lobalain",
+      "satuan_kerja": "SMKN 1 LOBALAIN",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1843,7 +1529,7 @@
       "id": "25519aeac089",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 11 Kupang",
+      "satuan_kerja": "SMAN 11 KUPANG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1855,25 +1541,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "24b5b3c05ab8",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 2 SOA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "240bebf62bbc",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 7 Ende",
+      "satuan_kerja": "SMK NEGERI 7 ENDE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1888,7 +1559,7 @@
       "id": "223369de9ff4",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Ende",
+      "satuan_kerja": "SMA NEGERI 1 ENDE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1915,25 +1586,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "1ff3237d82ed",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 2 SOA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "1f3dc3257198",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Amfoang Tengah",
+      "satuan_kerja": "SMA NEGERI 1 AMFOANG TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1945,25 +1601,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "1b19672e7d01",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 2 SOA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "195fc0ae51f0",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 3 Kupang Timur",
+      "satuan_kerja": "SMA NEGERI 3 KUPANG TIMUR",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -1990,21 +1631,6 @@
       "fixed_findings": 5
     },
     {
-      "id": "141433f22726",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 WELAK",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "140656cfbc9f",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -2016,21 +1642,6 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 2,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "13207bc44b47",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI LEWA TIDAHU",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0
     },
@@ -2050,25 +1661,10 @@
       "fixed_findings": 15
     },
     {
-      "id": "10105c3a80d5",
-      "received_on": "2026-11-23",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 PABERIWAI",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "0f6117dc9431",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 2 Kupang",
+      "satuan_kerja": "SMKN 2 KUPANG",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -2085,7 +1681,7 @@
       "id": "0e1e8a97d8ff",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Nianam",
+      "satuan_kerja": "SMA NEGERI NIANAM",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -2102,7 +1698,7 @@
       "id": "0debcda8611e",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Wolowae",
+      "satuan_kerja": "SMAN 1 WOLOWAE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -2164,7 +1760,7 @@
       "id": "0935f88c86d5",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Restorasi Fatuat",
+      "satuan_kerja": "SMA NEGERI RESTORASI FATUAT",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -2179,7 +1775,7 @@
       "id": "0867a90404f2",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Restorasi Riung",
+      "satuan_kerja": "SMA NEGERI 1 RESTORASI RIUNG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -2209,7 +1805,7 @@
       "id": "06f5d5919803",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Toineke",
+      "satuan_kerja": "SMA NEGERI TOINEKE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -2239,7 +1835,7 @@
       "id": "0027f7155c6f",
       "received_on": "2026-11-23",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN Perbatasan Rai Manuk",
+      "satuan_kerja": "SMK NEGERI PERBATASAN RAI MANUK",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -2254,7 +1850,7 @@
     {
       "id": "f44ab072015e",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2264,28 +1860,12 @@
       "pdf_count": 1,
       "rows_parsed": 0,
       "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "f2b06d8e2680",
-      "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
-      "satuan_kerja": "SMAN 1 Semau Selatan",
-      "outcome": "nip",
-      "reasons": [
-        "nip",
-        "trailing_000_ni"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 3,
-      "active_findings": 3,
       "fixed_findings": 0
     },
     {
       "id": "ee200a2d8735",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2298,25 +1878,114 @@
       "fixed_findings": 0
     },
     {
-      "id": "ebd9b4f0a252",
+      "id": "ea619c503a2b",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
-      "satuan_kerja": "SMAN 1 Semau Selatan",
-      "outcome": "nip",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
       "reasons": [
-        "nip",
-        "trailing_000_ni"
+        "template"
       ],
       "excel_count": 1,
       "pdf_count": 1,
-      "rows_parsed": 3,
-      "active_findings": 3,
+      "rows_parsed": 0,
+      "active_findings": 0,
       "fixed_findings": 0
     },
     {
-      "id": "ea619c503a2b",
+      "id": "e56ffdfb2787",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "cd90ec8e7a71",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "c2772de751a5",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "bd341d35eaef",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 3,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "b346f197d65c",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "b1434fdd3f45",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "aba834132245",
+      "received_on": "2026-11-23",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2331,7 +2000,7 @@
     {
       "id": "a4177954c028",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2346,7 +2015,7 @@
     {
       "id": "a4054a89cca9",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2361,7 +2030,7 @@
     {
       "id": "a24a8bff0335",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2376,7 +2045,7 @@
     {
       "id": "9779ca27e4d5",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2391,7 +2060,7 @@
     {
       "id": "948989aaca9a",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2406,7 +2075,7 @@
     {
       "id": "919db6745cdd",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2421,7 +2090,22 @@
     {
       "id": "8db7203ba369",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "8d3c5921448d",
+      "received_on": "2026-11-23",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2436,7 +2120,22 @@
     {
       "id": "8bca394ba207",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "83b36ec2c5b0",
+      "received_on": "2026-11-23",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2451,7 +2150,7 @@
     {
       "id": "8199905ce348",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2464,9 +2163,24 @@
       "fixed_findings": 0
     },
     {
+      "id": "7944817723eb",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
       "id": "74bc721e2ded",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2481,7 +2195,7 @@
     {
       "id": "71b291bd1720",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2496,7 +2210,37 @@
     {
       "id": "6fda758cb019",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "6e2ae8d58979",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "676671bf1dae",
+      "received_on": "2026-11-23",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2511,7 +2255,7 @@
     {
       "id": "636fd59e38f9",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "SMK N 2 Kupang Barat",
       "outcome": "nip",
       "reasons": [
@@ -2525,9 +2269,39 @@
       "fixed_findings": 0
     },
     {
+      "id": "6336ab17324d",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "5c306908be51",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
       "id": "59e786c45d2d",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -2542,7 +2316,7 @@
     {
       "id": "5516a187029b",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2557,7 +2331,22 @@
     {
       "id": "54870ccfc482",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "4f42cfe76b1f",
+      "received_on": "2026-11-23",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2572,7 +2361,7 @@
     {
       "id": "4e6a193953ef",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2587,7 +2376,67 @@
     {
       "id": "487b4bbdb1f4",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "422caf7920d4",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "40e0aedf3714",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "38d304f6846d",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "3815020bcbe4",
+      "received_on": "2026-11-23",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2602,7 +2451,7 @@
     {
       "id": "365d5a43fd00",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2615,9 +2464,54 @@
       "fixed_findings": 0
     },
     {
+      "id": "2d4cf85c2ffa",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
       "id": "2ca17474cd2d",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "2bb2b2868531",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "2bb1e06521a4",
+      "received_on": "2026-11-23",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2632,7 +2526,22 @@
     {
       "id": "29fd06cdd071",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "29a9e16971c4",
+      "received_on": "2026-11-23",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2647,7 +2556,37 @@
     {
       "id": "25b54317f010",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "25944bf1c503",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "24b5b3c05ab8",
+      "received_on": "2026-11-23",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2662,7 +2601,7 @@
     {
       "id": "21bc7463d872",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -2677,7 +2616,37 @@
     {
       "id": "21792df66f75",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "1ff3237d82ed",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "1b19672e7d01",
+      "received_on": "2026-11-23",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2692,7 +2661,7 @@
     {
       "id": "19ea642cb9c7",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2707,7 +2676,7 @@
     {
       "id": "181f50c01a3b",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -2722,7 +2691,52 @@
     {
       "id": "1492e7150202",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "141433f22726",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "13207bc44b47",
+      "received_on": "2026-11-23",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "10105c3a80d5",
+      "received_on": "2026-11-23",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -2737,7 +2751,7 @@
     {
       "id": "001c26057012",
       "received_on": "2026-11-23",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "SMK N 2 Kupang Barat",
       "outcome": "nip",
       "reasons": [
@@ -2769,17 +2783,16 @@
       "id": "fbd1c60068f8",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Noemuti Timur",
-      "outcome": "nip",
+      "satuan_kerja": "SMA NEGERI NOEMUTI TIMUR",
+      "outcome": "valid",
       "reasons": [
-        "nip",
-        "unregistered_ni"
+        "valid"
       ],
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 20,
-      "active_findings": 2,
-      "fixed_findings": 0
+      "active_findings": 0,
+      "fixed_findings": 2
     },
     {
       "id": "fad8357bb1a8",
@@ -2793,36 +2806,6 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 18,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "f2fa66b624b1",
-      "received_on": "2026-11-22",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 RESTORASI RIUNG",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "f03a5b9cadb4",
-      "received_on": "2026-11-22",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 INERIE",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0
     },
@@ -2845,7 +2828,7 @@
       "id": "eacd0ba6db45",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN Plus Kopi Colol",
+      "satuan_kerja": "SMA NEGERI PLUS KOPI COLOL",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -2860,7 +2843,7 @@
       "id": "e4adf17b5d8c",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Wanukaka",
+      "satuan_kerja": "SMA NEGERI 1 WANUKAKA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -2875,7 +2858,7 @@
       "id": "e3215c3bf338",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Detusoko",
+      "satuan_kerja": "SMA NEGERI DETUSOKO",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -2890,7 +2873,7 @@
       "id": "e1cd6218ca43",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI MAUTA",
+      "satuan_kerja": "SMAN MAUTA",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -2900,51 +2883,6 @@
       "pdf_count": 1,
       "rows_parsed": 9,
       "active_findings": 1,
-      "fixed_findings": 0
-    },
-    {
-      "id": "cf6fc724e5db",
-      "received_on": "2026-11-22",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 8 KOTA KOMBA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "cf5c3d32d059",
-      "received_on": "2026-11-22",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 2 RUTENG PURANG",
-      "outcome": "no_excel",
-      "reasons": [
-        "no_excel"
-      ],
-      "excel_count": 0,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "ca409ad7fa98",
-      "received_on": "2026-11-22",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI NOEMUTI TIMUR",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
       "fixed_findings": 0
     },
     {
@@ -2966,7 +2904,7 @@
       "id": "c3a023adae5e",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Oeolo",
+      "satuan_kerja": "SMKN OEOLO",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -2981,7 +2919,7 @@
       "id": "c2397dcff7ac",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK NEGERI 1 LEWOLEBA",
+      "satuan_kerja": "SMKN 1 LEWOLEBA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -2996,7 +2934,7 @@
       "id": "c236c6e6949c",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Noebeba",
+      "satuan_kerja": "SMA NEGERI NOEBEBA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3042,7 +2980,7 @@
       "id": "bb1c740162ea",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLBN Nitsae",
+      "satuan_kerja": "SLB NEGERI NITSAE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3070,25 +3008,10 @@
       "fixed_findings": 14
     },
     {
-      "id": "b3e8e73148f3",
-      "received_on": "2026-11-22",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK NEGERI 1 PANDAWAI",
-      "outcome": "no_excel",
-      "reasons": [
-        "no_excel"
-      ],
-      "excel_count": 0,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "b0b7543edb13",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Aimere",
+      "satuan_kerja": "SMAN 1 AIMERE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3103,7 +3026,7 @@
       "id": "b06fb07ebb74",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Aimere",
+      "satuan_kerja": "SMAN 1 AIMERE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3118,53 +3041,22 @@
       "id": "b04eafd3a6fe",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Noemuti Timur",
-      "outcome": "nip",
+      "satuan_kerja": "SMA NEGERI NOEMUTI TIMUR",
+      "outcome": "valid",
       "reasons": [
-        "nip",
-        "unregistered_ni"
+        "valid"
       ],
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 10,
-      "active_findings": 1,
-      "fixed_findings": 0
-    },
-    {
-      "id": "ae5ed248fc24",
-      "received_on": "2026-11-22",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 2 RUTENG PURANG",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
       "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "a3fd73523ee8",
-      "received_on": "2026-11-22",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 4 SAMBI RAMPAS",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
+      "fixed_findings": 1
     },
     {
       "id": "9b452f9beed2",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 2 Amarasi Barat",
+      "satuan_kerja": "SMA NEGERI 2 AMARASI BARAT",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -3195,7 +3087,7 @@
       "id": "90588539738c",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Noebeba",
+      "satuan_kerja": "SMA NEGERI NOEBEBA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3210,7 +3102,7 @@
       "id": "8f97f5383c43",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 3 Waingapu",
+      "satuan_kerja": "SMA NEGERI 3 WAINGAPU",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -3226,7 +3118,7 @@
       "id": "8eb33249b5c4",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Adonara Tengah",
+      "satuan_kerja": "SMA NEGERI 1 ADONARA TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3241,7 +3133,7 @@
       "id": "88713d36ba4d",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN Plus Kopi Colol",
+      "satuan_kerja": "SMA NEGERI PLUS KOPI COLOL",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3256,7 +3148,7 @@
       "id": "870a2c5657a4",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 1 Loli",
+      "satuan_kerja": "SMKN 1 LOLI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3271,7 +3163,7 @@
       "id": "84ebd446685b",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Raijua",
+      "satuan_kerja": "SMA NEGERI 1 RAIJUA",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -3303,7 +3195,7 @@
       "id": "815ce1c4692a",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Amarasi Timur",
+      "satuan_kerja": "SMA NEGERI 1 AMARASI TIMUR",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -3319,7 +3211,7 @@
       "id": "8119c06299ba",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Amfoang Tengah",
+      "satuan_kerja": "SMA NEGERI 1 AMFOANG TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3331,40 +3223,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "7f9abf315ebc",
-      "received_on": "2026-11-22",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI KATALA HAMU LINGU",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "7598881333c3",
-      "received_on": "2026-11-22",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 SOA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "732a27ce2c23",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Webriamata",
+      "satuan_kerja": "SMA NEGERI WEBRIAMATA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3379,7 +3241,7 @@
       "id": "70b15b3bb69c",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 Amarasi Selatan",
+      "satuan_kerja": "SMKN 1 AMARASI SELATAN",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3409,7 +3271,7 @@
       "id": "6c848831cdfa",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN Sunu",
+      "satuan_kerja": "SMK NEGERI SUNU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3439,7 +3301,7 @@
       "id": "64253976db18",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Rindi",
+      "satuan_kerja": "SMA NEGERI 1 RINDI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3454,7 +3316,7 @@
       "id": "60514a43138c",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 2 Amarasi Barat",
+      "satuan_kerja": "SMA NEGERI 2 AMARASI BARAT",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -3485,7 +3347,7 @@
       "id": "602add1017da",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Bateti",
+      "satuan_kerja": "SMA NEGERI BATETI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3500,23 +3362,22 @@
       "id": "5c2ad6064285",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Noemuti Timur",
-      "outcome": "nip",
+      "satuan_kerja": "SMA NEGERI NOEMUTI TIMUR",
+      "outcome": "valid",
       "reasons": [
-        "nip",
-        "unregistered_ni"
+        "valid"
       ],
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 20,
-      "active_findings": 2,
-      "fixed_findings": 0
+      "active_findings": 0,
+      "fixed_findings": 2
     },
     {
       "id": "554394d45688",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 2 Keo Tengah",
+      "satuan_kerja": "SMA NEGERI 2 KEO TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3531,7 +3392,7 @@
       "id": "53c21c7695a3",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI MAUTA",
+      "satuan_kerja": "SMAN MAUTA",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -3544,25 +3405,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "51deffd176d3",
-      "received_on": "2026-11-22",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 LEMBOR SELATAN",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "51d0d5b7810f",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Maurole",
+      "satuan_kerja": "SMA NEGERI MAUROLE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3577,7 +3423,7 @@
       "id": "50c790deb577",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 2 Amarasi Barat",
+      "satuan_kerja": "SMA NEGERI 2 AMARASI BARAT",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -3593,7 +3439,7 @@
       "id": "4b9bb40d1513",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 Golewa",
+      "satuan_kerja": "SMAN 1 GOLEWA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3623,7 +3469,7 @@
       "id": "38d0494359c4",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI MAUTA",
+      "satuan_kerja": "SMAN MAUTA",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -3639,7 +3485,7 @@
       "id": "35db35f120bc",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Detusoko",
+      "satuan_kerja": "SMA NEGERI DETUSOKO",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3654,7 +3500,7 @@
       "id": "3219e5e784bc",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Kahaungu Eti",
+      "satuan_kerja": "SMA NEGERI 1 KAHAUNGU ETI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3669,7 +3515,7 @@
       "id": "30eb7af9f8d2",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 Golewa",
+      "satuan_kerja": "SMAN 1 GOLEWA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3696,25 +3542,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "28d2cce4eba3",
-      "received_on": "2026-11-22",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 8 KOTA KOMBA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "20e6773ac4bc",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Bateti",
+      "satuan_kerja": "SMA NEGERI BATETI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3729,7 +3560,7 @@
       "id": "2060f973e561",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 Kupang",
+      "satuan_kerja": "SMAN 1 KUPANG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3744,7 +3575,7 @@
       "id": "1e33d104075e",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Noemuti",
+      "satuan_kerja": "SMK NEGERI NOEMUTI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3789,7 +3620,7 @@
       "id": "0d9dc91be0a9",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK NEGERI 1 LEWOLEBA",
+      "satuan_kerja": "SMKN 1 LEWOLEBA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3804,7 +3635,7 @@
       "id": "0d29922a3225",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 2 PACAR",
+      "satuan_kerja": "SMA NEGERI 2 PACAR",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3819,7 +3650,7 @@
       "id": "0a23da3a66f8",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Aimere",
+      "satuan_kerja": "SMAN 1 AIMERE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3834,7 +3665,7 @@
       "id": "09c3d5308d74",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Lewolema",
+      "satuan_kerja": "SMA NEGERI 1 LEWOLEMA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3846,25 +3677,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "08e2dcb269ac",
-      "received_on": "2026-11-22",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN OENOPO",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "023c52ebec03",
       "received_on": "2026-11-22",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN Insana Tengah",
+      "satuan_kerja": "SMAN INSANA TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -3876,9 +3692,24 @@
       "fixed_findings": 1
     },
     {
+      "id": "f2fa66b624b1",
+      "received_on": "2026-11-22",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
       "id": "f2531b72561a",
       "received_on": "2026-11-22",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -3891,9 +3722,69 @@
       "fixed_findings": 0
     },
     {
+      "id": "f03a5b9cadb4",
+      "received_on": "2026-11-22",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
       "id": "e584d9a9e5b8",
       "received_on": "2026-11-22",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "cf6fc724e5db",
+      "received_on": "2026-11-22",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "cf5c3d32d059",
+      "received_on": "2026-11-22",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "ca409ad7fa98",
+      "received_on": "2026-11-22",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -3908,7 +3799,7 @@
     {
       "id": "c580d7f9a511",
       "received_on": "2026-11-22",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -3923,7 +3814,52 @@
     {
       "id": "b6a9c7498ef8",
       "received_on": "2026-11-22",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "b3e8e73148f3",
+      "received_on": "2026-11-22",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "ae5ed248fc24",
+      "received_on": "2026-11-22",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "a3fd73523ee8",
+      "received_on": "2026-11-22",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -3938,7 +3874,22 @@
     {
       "id": "9a06f5e7b035",
       "received_on": "2026-11-22",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "7f9abf315ebc",
+      "received_on": "2026-11-22",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -3953,7 +3904,22 @@
     {
       "id": "7a6c6fb4c56d",
       "received_on": "2026-11-22",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "7598881333c3",
+      "received_on": "2026-11-22",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -3968,7 +3934,7 @@
     {
       "id": "5feb718d82df",
       "received_on": "2026-11-22",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "excel_unreadable",
       "reasons": [
@@ -3983,7 +3949,22 @@
     {
       "id": "584438b5f57e",
       "received_on": "2026-11-22",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "51deffd176d3",
+      "received_on": "2026-11-22",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -3998,7 +3979,7 @@
     {
       "id": "36367900b983",
       "received_on": "2026-11-22",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -4013,7 +3994,22 @@
     {
       "id": "32b49dfa2ef5",
       "received_on": "2026-11-22",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "28d2cce4eba3",
+      "received_on": "2026-11-22",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -4028,7 +4024,7 @@
     {
       "id": "10d7f1237c42",
       "received_on": "2026-11-22",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -4043,7 +4039,7 @@
     {
       "id": "0af113b5eb4b",
       "received_on": "2026-11-22",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -4056,9 +4052,24 @@
       "fixed_findings": 0
     },
     {
+      "id": "08e2dcb269ac",
+      "received_on": "2026-11-22",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
       "id": "0703feed86d9",
       "received_on": "2026-11-22",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -4074,7 +4085,7 @@
       "id": "fc15b98704ef",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Satarmese",
+      "satuan_kerja": "SMAN 1 SATARMESE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4089,7 +4100,7 @@
       "id": "fb1bc1523dcd",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 2 Waingapu",
+      "satuan_kerja": "SMA NEGERI 2 WAINGAPU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4101,25 +4112,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "f799d09c616f",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 SOA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "f771bbdd8004",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Wulla Waijelu",
+      "satuan_kerja": "SMA NEGERI 1 WULLA WAIJELU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4129,21 +4125,6 @@
       "rows_parsed": 11,
       "active_findings": 0,
       "fixed_findings": 11
-    },
-    {
-      "id": "f67c02907dba",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 3 PAHUNGA LODU",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
     },
     {
       "id": "f410d7098cfe",
@@ -4176,21 +4157,6 @@
       "fixed_findings": 0
     },
     {
-      "id": "f1697dd1a430",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI SASITAMEAN",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "ef4e2a8787bc",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4209,7 +4175,7 @@
       "id": "e9e1d49131eb",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Pinu Pahar",
+      "satuan_kerja": "SMA NEGERI PINU PAHAR",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4224,7 +4190,7 @@
       "id": "e3cd965d32dc",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLB Negeri Kota Kupang",
+      "satuan_kerja": "SLB NEGERI KOTA KUPANG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4254,7 +4220,7 @@
       "id": "e05d4dc671ba",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN KOKAR-",
+      "satuan_kerja": "SMKN KOKAR",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4269,7 +4235,7 @@
       "id": "deb299b28e98",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Atambua",
+      "satuan_kerja": "SMAN 1 ATAMBUA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4299,7 +4265,7 @@
       "id": "d9dc7558aaaf",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Witihama",
+      "satuan_kerja": "SMK NEGERI WITIHAMA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4314,7 +4280,7 @@
       "id": "d5c30ca9c4c0",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 2 Tasifeto Barat",
+      "satuan_kerja": "SMA NEGERI 2 TASIFETO BARAT",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -4330,7 +4296,7 @@
       "id": "d3e51042ebe6",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 1 Loli",
+      "satuan_kerja": "SMKN 1 LOLI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4345,7 +4311,7 @@
       "id": "d3b770d77592",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 2 Kupang",
+      "satuan_kerja": "SMKN 2 KUPANG",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -4361,7 +4327,7 @@
       "id": "d284f43a8579",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 2 Waingapu",
+      "satuan_kerja": "SMA NEGERI 2 WAINGAPU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4391,7 +4357,7 @@
       "id": "d1fc685491e2",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN Boking",
+      "satuan_kerja": "SMKN BOKING",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4406,7 +4372,7 @@
       "id": "d1f3fe4a7260",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 SOE",
+      "satuan_kerja": "SMAN 1 SOE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4421,7 +4387,7 @@
       "id": "d1dd717ec816",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 7 Kupang",
+      "satuan_kerja": "SMAN 7 KUPANG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4436,7 +4402,7 @@
       "id": "d154f9288967",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Harneno",
+      "satuan_kerja": "SMK NEGERI HARNENO",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4448,40 +4414,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "cec2e8c8aaaf",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN OEOLO",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "cdfef473ea26",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI SASITAMEAN",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "cd0e7cc35b9e",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Fafinesu",
+      "satuan_kerja": "SMAN FAFINESU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4496,7 +4432,7 @@
       "id": "cc14bb6ef4e8",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 Rote Barat",
+      "satuan_kerja": "SMAN 1 ROTE BARAT",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -4509,25 +4445,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "cb04ec82e849",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 TANA RIGHU",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "c7797fd406b2",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLBN Tenubot",
+      "satuan_kerja": "SLB NEGERI TENUBOT",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4557,7 +4478,7 @@
       "id": "c66d8cb9f355",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 SOE",
+      "satuan_kerja": "SMAN 1 SOE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4572,7 +4493,7 @@
       "id": "c5a1d8517375",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLB Negeri Benpasi",
+      "satuan_kerja": "SLB NEGERI BENPASI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4587,7 +4508,7 @@
       "id": "c54cf3cc4c48",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Witihama",
+      "satuan_kerja": "SMK NEGERI WITIHAMA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4663,7 +4584,7 @@
       "id": "bbfc1900e2b3",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLB Negeri Kota Kupang",
+      "satuan_kerja": "SLB NEGERI KOTA KUPANG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4671,21 +4592,6 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 9,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "b5e5c950a083",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 LAMBOYA",
-      "outcome": "no_excel",
-      "reasons": [
-        "no_excel"
-      ],
-      "excel_count": 0,
-      "pdf_count": 1,
-      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0
     },
@@ -4724,7 +4630,7 @@
       "id": "aaf946bbf333",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 Kodi",
+      "satuan_kerja": "SMKN 1 KODI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4739,7 +4645,7 @@
       "id": "a2e188162cfc",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Alkani",
+      "satuan_kerja": "SMA NEGERI ALKANI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4784,7 +4690,7 @@
       "id": "a00c51ccc72b",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Toineke",
+      "satuan_kerja": "SMA NEGERI TOINEKE",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -4830,7 +4736,7 @@
       "id": "9a7dad0651ec",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN Miomaffo Tengah",
+      "satuan_kerja": "SMA NEGERI MIOMAFFO TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4845,7 +4751,7 @@
       "id": "9a087ba3408a",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Riung",
+      "satuan_kerja": "SMKN RIUNG",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -4876,7 +4782,7 @@
       "id": "93a518483c3d",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 1 Loli",
+      "satuan_kerja": "SMKN 1 LOLI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4921,7 +4827,7 @@
       "id": "8ab1667918bd",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLBN Tenubot",
+      "satuan_kerja": "SLB NEGERI TENUBOT",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4936,7 +4842,7 @@
       "id": "88fe2ded8ca0",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 AESESA",
+      "satuan_kerja": "SMAN 1 AESESA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -4948,85 +4854,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "88b44d327b1c",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 WELAK",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "87dcd653ebeb",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI NOEMUTI TIMUR",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "83b6a3e3d782",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 PABERIWAI",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "82ec0e255097",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI SASITAMEAN",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 3,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "829e3af5c88d",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 AIMERE",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "801e435ff8a1",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Halioan",
+      "satuan_kerja": "SMA NEGERI HALIOAN",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -5039,25 +4870,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "7f30f502465d",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 3 SAMBI RAMPAS",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "7ea71d2909cd",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 Kupang Barat",
+      "satuan_kerja": "SMKN 1 KUPANG BARAT",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5072,7 +4888,7 @@
       "id": "7e8aaa2bc4ab",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Witihama",
+      "satuan_kerja": "SMK NEGERI WITIHAMA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5084,40 +4900,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "7e75ba1501bf",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 WEWEWA UTARA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "7aa2ee9e4836",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI SASITAMEAN",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "78c57b5159d0",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 Tasifeto Timur",
+      "satuan_kerja": "SMAN 1 TASIFETO TIMUR",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -5133,7 +4919,7 @@
       "id": "78674b084670",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Witihama",
+      "satuan_kerja": "SMK NEGERI WITIHAMA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5148,7 +4934,7 @@
       "id": "75e4158576d7",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 Rote Tengah",
+      "satuan_kerja": "SMAN 1 ROTE TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5163,7 +4949,7 @@
       "id": "7252e9b36da7",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLBN Tenubot",
+      "satuan_kerja": "SLB NEGERI TENUBOT",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5178,7 +4964,7 @@
       "id": "7222f77310a2",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 Kodi Utara",
+      "satuan_kerja": "SMKN 1 KODI UTARA",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -5239,7 +5025,7 @@
       "id": "6a81bb02d82b",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLB Negeri Nusa Bungtilu",
+      "satuan_kerja": "SLB NEGERI NUSA BUNGTILU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5247,21 +5033,6 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 4,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "66f64402f57f",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLB NEGERI TENDA RUTENG",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0
     },
@@ -5315,7 +5086,7 @@
       "id": "621c218b730a",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 RESTORASI GOLEWA",
+      "satuan_kerja": "SMK NEGERI 1 RESTORASI GOLEWA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5327,25 +5098,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "61b25dfc3ce7",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK NEGERI 1 WAIBAKUL",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "5e599c1fd605",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 Amabi Oefeto",
+      "satuan_kerja": "SMKN 1 AMABI OEFETO",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5360,7 +5116,7 @@
       "id": "589f2470462a",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 9 Borong",
+      "satuan_kerja": "SMAN 9 BORONG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5390,7 +5146,7 @@
       "id": "5504027750e8",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Lewa",
+      "satuan_kerja": "SMA NEGERI 1 LEWA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5405,7 +5161,7 @@
       "id": "54e6bdaaafd4",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Alor Besar",
+      "satuan_kerja": "SMKN ALOR BESAR",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5435,7 +5191,7 @@
       "id": "5285f809138a",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Harekakae",
+      "satuan_kerja": "SMA NEGERI HAREKAKAE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5447,25 +5203,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "51634b21d81c",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK NEGERI 5 WAINGAPU",
-      "outcome": "no_excel",
-      "reasons": [
-        "no_excel"
-      ],
-      "excel_count": 0,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "4fbea09f6c6d",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Lobalain",
+      "satuan_kerja": "SMAN 1 LOBALAIN",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5493,21 +5234,6 @@
       "fixed_findings": 14
     },
     {
-      "id": "4b1e2cd00099",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI KATALA HAMU LINGU",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "4a52c6084b4a",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -5526,7 +5252,7 @@
       "id": "4917082b7c15",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Fafinesu",
+      "satuan_kerja": "SMAN FAFINESU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5556,7 +5282,7 @@
       "id": "46fe2406bb5b",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 2 Kupang",
+      "satuan_kerja": "SMAN 2 KUPANG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5571,7 +5297,7 @@
       "id": "45ef9ac7915f",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Kefamenanu",
+      "satuan_kerja": "SMAN 1 KEFAMENANU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5579,21 +5305,6 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 14,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "42ea26be5df5",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN ALAS",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0
     },
@@ -5616,7 +5327,7 @@
       "id": "3d787e48c29c",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 3 Kupang Timur",
+      "satuan_kerja": "SMA NEGERI 3 KUPANG TIMUR",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5631,7 +5342,7 @@
       "id": "3d0b3fca8e22",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK NEGERI 4 LEWA",
+      "satuan_kerja": "SMKN 4 LEWA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5661,7 +5372,7 @@
       "id": "3aab78e15e59",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 1 Adonara",
+      "satuan_kerja": "SMK NEGERI 1 ADONARA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5676,7 +5387,7 @@
       "id": "392aef5c7757",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Umbu Ratu Nggay Barat",
+      "satuan_kerja": "SMAN 1 UMBU RATU NGGAY BARAT",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5691,7 +5402,7 @@
       "id": "382e59f29bcc",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 Wewewa Barat",
+      "satuan_kerja": "SMKN 1 WEWEWA BARAT",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -5704,25 +5415,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "359adf4de612",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 2 SOA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "32af582a6ed0",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLB Negeri Nusa Bungtilu",
+      "satuan_kerja": "SLB NEGERI NUSA BUNGTILU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5737,7 +5433,7 @@
       "id": "30e5290b23f5",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN. 1 Rote Tengah",
+      "satuan_kerja": "SMAN 1 ROTE TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5752,7 +5448,7 @@
       "id": "2f57abc0c690",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Bikomi Utara",
+      "satuan_kerja": "SMA NEGERI BIKOMI UTARA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5767,7 +5463,7 @@
       "id": "2ebd52ad21a6",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 Tasifeto Barat",
+      "satuan_kerja": "SMAN 1 TASIFETO BARAT",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5775,21 +5471,6 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 9,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "2c578e0a3fea",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI SASITAMEAN",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0
     },
@@ -5812,7 +5493,7 @@
       "id": "28f5540d7db7",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Kalabahi",
+      "satuan_kerja": "SMAN 1 KALABAHI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5827,7 +5508,7 @@
       "id": "28f4604e05e6",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 1 Mamboro",
+      "satuan_kerja": "SMK NEGERI 1 MAMBORO",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -5844,7 +5525,7 @@
       "id": "25bb5113f463",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Kelubagolit",
+      "satuan_kerja": "SMA NEGERI KELUBAGOLIT",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5859,7 +5540,7 @@
       "id": "23ddf49b5d21",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Malaka Timur",
+      "satuan_kerja": "SMAN 1 MALAKA TIMUR",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5871,25 +5552,10 @@
       "fixed_findings": 20
     },
     {
-      "id": "2175b1aa7323",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI SASITAMEAN",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "1f82150332f0",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Lobalain",
+      "satuan_kerja": "SMAN 1 LOBALAIN",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5919,7 +5585,7 @@
       "id": "1c3dcb86a398",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Lurasik",
+      "satuan_kerja": "SMAN LURASIK",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5949,7 +5615,7 @@
       "id": "1b1bc3432406",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Harneno",
+      "satuan_kerja": "SMK NEGERI HARNENO",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5964,7 +5630,7 @@
       "id": "194e88d711bb",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Malaka Barat",
+      "satuan_kerja": "SMAN 1 MALAKA BARAT",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -5976,25 +5642,10 @@
       "fixed_findings": 1
     },
     {
-      "id": "18f02567fecc",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 AIMERE",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "178323a2a15e",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLB Negeri Nusa Bungtilu",
+      "satuan_kerja": "SLB NEGERI NUSA BUNGTILU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6009,7 +5660,7 @@
       "id": "177ef74ff031",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 2 Ende",
+      "satuan_kerja": "SMA NEGERI 2 ENDE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6021,25 +5672,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "155c7f8d1093",
-      "received_on": "2026-11-21",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 MALAKA TIMUR",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 3,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "151f352b9585",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 FATULEU",
+      "satuan_kerja": "SMAN 1 FATULEU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6054,7 +5690,7 @@
       "id": "14fd03ab8583",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 3 Waingapu",
+      "satuan_kerja": "SMA NEGERI 3 WAINGAPU",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -6070,7 +5706,7 @@
       "id": "14ac7e5a0c44",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN. 1 Rote Tengah",
+      "satuan_kerja": "SMAN 1 ROTE TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6085,7 +5721,7 @@
       "id": "134262872015",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN Miomaffo Tengah",
+      "satuan_kerja": "SMA NEGERI MIOMAFFO TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6130,7 +5766,7 @@
       "id": "0d4ed91cfbeb",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLBN Tenubot",
+      "satuan_kerja": "SLB NEGERI TENUBOT",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6145,7 +5781,7 @@
       "id": "0d2ff6cde27f",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLBN MALARUMA MBAY",
+      "satuan_kerja": "SLBN MALARUMA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6160,7 +5796,7 @@
       "id": "07b1271306d0",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Witihama",
+      "satuan_kerja": "SMK NEGERI WITIHAMA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6190,7 +5826,7 @@
       "id": "046cee218ffa",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLB Negeri Nusa Bungtilu",
+      "satuan_kerja": "SLB NEGERI NUSA BUNGTILU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6205,7 +5841,7 @@
       "id": "045d25e0259c",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN. 1 Rote Tengah",
+      "satuan_kerja": "SMAN 1 ROTE TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6220,7 +5856,7 @@
       "id": "019f583fdd31",
       "received_on": "2026-11-21",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Witihama",
+      "satuan_kerja": "SMK NEGERI WITIHAMA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6234,7 +5870,7 @@
     {
       "id": "f9a7276796ff",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6247,9 +5883,54 @@
       "fixed_findings": 0
     },
     {
+      "id": "f799d09c616f",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "f67c02907dba",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "f1697dd1a430",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
       "id": "eb115b64bc11",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6264,7 +5945,7 @@
     {
       "id": "d999fac20abe",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -6279,7 +5960,7 @@
     {
       "id": "d6ca7868b759",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6294,7 +5975,52 @@
     {
       "id": "d2045caec212",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "cec2e8c8aaaf",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "cdfef473ea26",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "cb04ec82e849",
+      "received_on": "2026-11-21",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6309,7 +6035,7 @@
     {
       "id": "c84cd7b3cf61",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6324,7 +6050,7 @@
     {
       "id": "c7a46d537903",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6339,7 +6065,7 @@
     {
       "id": "c0d0e63f771f",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6354,7 +6080,22 @@
     {
       "id": "ba062391502f",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "b5e5c950a083",
+      "received_on": "2026-11-21",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -6369,7 +6110,7 @@
     {
       "id": "b54b29dfecda",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6384,7 +6125,7 @@
     {
       "id": "b1f08992c649",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -6399,7 +6140,7 @@
     {
       "id": "a6f1d5d73040",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6414,7 +6155,7 @@
     {
       "id": "9dcd415ab132",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6429,7 +6170,7 @@
     {
       "id": "9a3d438a4307",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -6444,7 +6185,7 @@
     {
       "id": "99af53950851",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6459,7 +6200,7 @@
     {
       "id": "984d378b36e5",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6474,7 +6215,7 @@
     {
       "id": "9401ed854411",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6489,7 +6230,112 @@
     {
       "id": "8cc153c8f3d2",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "88b44d327b1c",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "87dcd653ebeb",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "83b6a3e3d782",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "82ec0e255097",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 3,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "829e3af5c88d",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "7f30f502465d",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "7e75ba1501bf",
+      "received_on": "2026-11-21",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6504,7 +6350,7 @@
     {
       "id": "7d7d9a8fd4e8",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "SMK N 2 Kupang Barat",
       "outcome": "nip",
       "reasons": [
@@ -6518,9 +6364,24 @@
       "fixed_findings": 0
     },
     {
+      "id": "7aa2ee9e4836",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
       "id": "730ae2fa1b5c",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6535,7 +6396,7 @@
     {
       "id": "71ef0e5fcfd7",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6550,7 +6411,7 @@
     {
       "id": "6cd8004ff03b",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6565,7 +6426,7 @@
     {
       "id": "6c3ec46e6cf6",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6580,7 +6441,7 @@
     {
       "id": "6b3a8fd6daf1",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6595,7 +6456,37 @@
     {
       "id": "6a271fb029db",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "66f64402f57f",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "61b25dfc3ce7",
+      "received_on": "2026-11-21",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6610,7 +6501,7 @@
     {
       "id": "5e1546e23525",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -6625,7 +6516,7 @@
     {
       "id": "54f3a138d72e",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6638,9 +6529,24 @@
       "fixed_findings": 0
     },
     {
+      "id": "51634b21d81c",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
       "id": "50ef1f0afa54",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6655,7 +6561,7 @@
     {
       "id": "4cc1f5e6a2ba",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -6668,9 +6574,24 @@
       "fixed_findings": 0
     },
     {
+      "id": "4b1e2cd00099",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
       "id": "49986915702f",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -6685,7 +6606,22 @@
     {
       "id": "449f7c33ba7f",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "42ea26be5df5",
+      "received_on": "2026-11-21",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6700,7 +6636,22 @@
     {
       "id": "376e20d72862",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "359adf4de612",
+      "received_on": "2026-11-21",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6715,7 +6666,7 @@
     {
       "id": "332821a308cf",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6730,7 +6681,7 @@
     {
       "id": "2de32b7e25fa",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6745,7 +6696,7 @@
     {
       "id": "2d97d615fa24",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -6758,24 +6709,9 @@
       "fixed_findings": 0
     },
     {
-      "id": "21b30573e7ac",
+      "id": "2c578e0a3fea",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
-      "satuan_kerja": "",
-      "outcome": "no_excel",
-      "reasons": [
-        "no_excel"
-      ],
-      "excel_count": 0,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "1eddd3678159",
-      "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6788,9 +6724,84 @@
       "fixed_findings": 0
     },
     {
+      "id": "21b30573e7ac",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "2175b1aa7323",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "1eddd3678159",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "18f02567fecc",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "155c7f8d1093",
+      "received_on": "2026-11-21",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 3,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
       "id": "0d6a6b6b4466",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -6805,7 +6816,7 @@
     {
       "id": "07879119c35e",
       "received_on": "2026-11-21",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -6821,7 +6832,7 @@
       "id": "fe35cbd68f0b",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 Keo Tengah",
+      "satuan_kerja": "SMAN 1 KEO TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6849,25 +6860,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "f6416ed08281",
-      "received_on": "2026-11-20",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 FATULEU BARAT",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "e82d3b1df932",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Amabi Oefeto Timur",
+      "satuan_kerja": "SMA NEGERI 1 AMABI OEFETO TIMUR",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6882,7 +6878,7 @@
       "id": "e58c74b88b96",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLB Negeri Weri",
+      "satuan_kerja": "SLB NEGERI WERI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6894,25 +6890,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "e082ea2d416e",
-      "received_on": "2026-11-20",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 KALABAHI",
-      "outcome": "no_excel",
-      "reasons": [
-        "no_excel"
-      ],
-      "excel_count": 0,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "db8c75d55f43",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Basmuti",
+      "satuan_kerja": "SMK NEGERI BASMUTI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6942,7 +6923,7 @@
       "id": "d883655916c3",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 Amanuban Selatan",
+      "satuan_kerja": "SMAN 1 AMANUBAN SELATAN",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6957,7 +6938,7 @@
       "id": "d8049fca6fcb",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Titehena",
+      "satuan_kerja": "SMA NEGERI 1 TITEHENA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -6969,25 +6950,10 @@
       "fixed_findings": 1
     },
     {
-      "id": "d7ca07b70a33",
-      "received_on": "2026-11-20",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN ALOR BESAR",
-      "outcome": "no_excel",
-      "reasons": [
-        "no_excel"
-      ],
-      "excel_count": 0,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "d516a51a198e",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Benlutu",
+      "satuan_kerja": "SMAN BENLUTU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7047,7 +7013,7 @@
       "id": "c74b844cfa08",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Pemana",
+      "satuan_kerja": "SMA NEGERI PEMANA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7077,7 +7043,7 @@
       "id": "c2354164479a",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Adonara Barat",
+      "satuan_kerja": "SMA NEGERI 1 ADONARA BARAT",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7122,7 +7088,7 @@
       "id": "b9f076f4a68c",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 BOAWAE",
+      "satuan_kerja": "SMA NEGERI 1 BOAWAE",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7152,7 +7118,7 @@
       "id": "b07c500e27cb",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Fatukopa",
+      "satuan_kerja": "SMA NEGERI FATUKOPA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7167,7 +7133,7 @@
       "id": "ae60f2e243a4",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLBN Am Roit",
+      "satuan_kerja": "SLB NEGERI AM ROIT",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7198,7 +7164,7 @@
       "id": "a892607d20d4",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Ile Ape Timur",
+      "satuan_kerja": "SMA NEGERI 1 ILE APE TIMUR",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7213,7 +7179,7 @@
       "id": "a2aee88ee448",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Kupang Barat",
+      "satuan_kerja": "SMA NEGERI 1 KUPANG BARAT",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -7274,7 +7240,7 @@
       "id": "8d1c1992c7db",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Tereweng",
+      "satuan_kerja": "SMA NEGERI TEREWENG",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -7290,7 +7256,7 @@
       "id": "8c4591c331ce",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 2 Amabi Oefeto Timur",
+      "satuan_kerja": "SMAN 2 AMABI OEFETO TIMUR",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7305,7 +7271,7 @@
       "id": "87f01241108b",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 2 Tasifeto Barat",
+      "satuan_kerja": "SMA NEGERI 2 TASIFETO BARAT",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -7321,7 +7287,7 @@
       "id": "85aae71f78de",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Adonara",
+      "satuan_kerja": "SMA NEGERI 1 ADONARA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7336,7 +7302,7 @@
       "id": "84c6c9f2f136",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "Unit Satuan Pendidikan SMK NEGERI 1 Kota Tambolaka",
+      "satuan_kerja": "SMK NEGERI 1 KOTA TAMBOLAKA",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -7352,7 +7318,7 @@
       "id": "782a7475d19b",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 3 Kalabahi",
+      "satuan_kerja": "SMA NEGERI 3 KALABAHI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7367,7 +7333,7 @@
       "id": "76b02b76d43c",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Kupang Tengah",
+      "satuan_kerja": "SMAN 1 KUPANG TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7375,21 +7341,6 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 9,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "7522bd0992b7",
-      "received_on": "2026-11-20",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 2 SABU BARAT",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0
     },
@@ -7412,7 +7363,7 @@
       "id": "6a8f7bc0e422",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Pacar",
+      "satuan_kerja": "SMA NEGERI 1 PACAR",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7424,25 +7375,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "4e6fea67698c",
-      "received_on": "2026-11-20",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "48ac4c06cd2c",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 Amarasi Selatan",
+      "satuan_kerja": "SMKN 1 AMARASI SELATAN",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7457,7 +7393,7 @@
       "id": "42bff211bd66",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN Restorasi Pili",
+      "satuan_kerja": "SMA NEGERI RESTORASI PILI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7469,25 +7405,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "429ed6cd6f94",
-      "received_on": "2026-11-20",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK NEGERI 1 WAIBAKUL",
-      "outcome": "no_excel",
-      "reasons": [
-        "no_excel"
-      ],
-      "excel_count": 0,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "41804c7403c4",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 7 Kupang",
+      "satuan_kerja": "SMKN 7 KUPANG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7514,21 +7435,6 @@
       "fixed_findings": 0
     },
     {
-      "id": "3f02efb02729",
-      "received_on": "2026-11-20",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 7 KUPANG",
-      "outcome": "no_excel",
-      "reasons": [
-        "no_excel"
-      ],
-      "excel_count": 0,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "3828862be044",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -7547,7 +7453,7 @@
       "id": "3339a1f1d29f",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLB Negeri Pantar",
+      "satuan_kerja": "SLB NEGERI PANTAR",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7562,7 +7468,7 @@
       "id": "32ec46f59d31",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN Fautmolo",
+      "satuan_kerja": "SMA NEGERI FAUTMOLO",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7577,7 +7483,7 @@
       "id": "304a5dc003e7",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "Sma Negeri Pulau Pura",
+      "satuan_kerja": "SMAN PULAU PURA",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -7593,7 +7499,7 @@
       "id": "2fc1a6b8c9db",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 2 Kalabahi",
+      "satuan_kerja": "SMAN 2 KALABAHI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7623,7 +7529,7 @@
       "id": "27adebf5e937",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 02 Kabola",
+      "satuan_kerja": "SMA NEGERI 02 KABOLA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7654,7 +7560,7 @@
       "id": "216742554468",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI BURAGA",
+      "satuan_kerja": "SMAN BURAGA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7669,7 +7575,7 @@
       "id": "1bc6ae014f56",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Wewewa Selatan",
+      "satuan_kerja": "SMAN 1 WEWEWA SELATAN",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7716,7 +7622,7 @@
       "id": "156746cf9883",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Salbait",
+      "satuan_kerja": "SMA NEGERI SALBAIT",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7731,7 +7637,7 @@
       "id": "11c6fe3d1a1a",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 2 Amabi Oefeto Timur",
+      "satuan_kerja": "SMAN 2 AMABI OEFETO TIMUR",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7746,7 +7652,7 @@
       "id": "0e0462f1de7c",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN Binino",
+      "satuan_kerja": "SMA NEGERI BININO",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -7759,25 +7665,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "0ddc4c05f284",
-      "received_on": "2026-11-20",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN 1 LAMBOYA",
-      "outcome": "no_excel",
-      "reasons": [
-        "no_excel"
-      ],
-      "excel_count": 0,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "06683ec4e6fe",
       "received_on": "2026-11-20",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 Sabu Timur",
+      "satuan_kerja": "SMAN 1 SABU TIMUR",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -7789,10 +7680,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "0403bc2ec7e1",
+      "id": "f6416ed08281",
       "received_on": "2026-11-20",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 ADONARA TIMUR",
+      "unit": "",
+      "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
         "template"
@@ -7806,7 +7697,7 @@
     {
       "id": "ed969a17cd65",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -7821,7 +7712,7 @@
     {
       "id": "ecc433673a8c",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -7836,7 +7727,7 @@
     {
       "id": "e3894c2bb280",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -7851,7 +7742,37 @@
     {
       "id": "e1fd5926f694",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "e082ea2d416e",
+      "received_on": "2026-11-20",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "d7ca07b70a33",
+      "received_on": "2026-11-20",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -7866,7 +7787,7 @@
     {
       "id": "c96ec9a85f9d",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -7881,7 +7802,7 @@
     {
       "id": "c67bb58c3638",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -7896,7 +7817,7 @@
     {
       "id": "c4b6b7e0e2fa",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -7911,7 +7832,7 @@
     {
       "id": "c29866d3f1b9",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -7926,7 +7847,7 @@
     {
       "id": "b0cbf7938b9c",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -7941,7 +7862,7 @@
     {
       "id": "aef711096254",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -7956,7 +7877,7 @@
     {
       "id": "96d41296d2bb",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "SMK N 2 Kupang Barat",
       "outcome": "nip",
       "reasons": [
@@ -7972,7 +7893,7 @@
     {
       "id": "9149f7947025",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -7987,7 +7908,7 @@
     {
       "id": "90d68f0bb6f7",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -8002,7 +7923,7 @@
     {
       "id": "8c8120db746c",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8017,7 +7938,7 @@
     {
       "id": "88a4794e1137",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8032,7 +7953,7 @@
     {
       "id": "86c8b1fc695c",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -8047,7 +7968,7 @@
     {
       "id": "83bfd6bfea56",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8062,7 +7983,7 @@
     {
       "id": "7f8110c7fdb2",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8075,9 +7996,24 @@
       "fixed_findings": 0
     },
     {
+      "id": "7522bd0992b7",
+      "received_on": "2026-11-20",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
       "id": "74a19bb29697",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8092,7 +8028,7 @@
     {
       "id": "7451861bcc49",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8107,7 +8043,7 @@
     {
       "id": "6f8465e8fb15",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -8122,7 +8058,7 @@
     {
       "id": "6c03976beac7",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8137,7 +8073,7 @@
     {
       "id": "64dc6970f231",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8152,7 +8088,22 @@
     {
       "id": "6277ae9e559c",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "4e6fea67698c",
+      "received_on": "2026-11-20",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -8167,7 +8118,7 @@
     {
       "id": "4d0f57b778e3",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8182,7 +8133,7 @@
     {
       "id": "4b7ead0b7521",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8197,7 +8148,22 @@
     {
       "id": "4490f5d0e289",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "429ed6cd6f94",
+      "received_on": "2026-11-20",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8212,7 +8178,22 @@
     {
       "id": "402305777696",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "3f02efb02729",
+      "received_on": "2026-11-20",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8227,7 +8208,7 @@
     {
       "id": "3d8517067482",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8242,7 +8223,7 @@
     {
       "id": "3b24ab8ee754",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -8257,7 +8238,7 @@
     {
       "id": "31dcc6f30a79",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8272,7 +8253,7 @@
     {
       "id": "2cbd4d48e139",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8287,7 +8268,7 @@
     {
       "id": "2b8fa15fb0df",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8302,7 +8283,7 @@
     {
       "id": "2b573e18b667",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8317,7 +8298,7 @@
     {
       "id": "11b19f370e2b",
       "received_on": "2026-11-20",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8330,10 +8311,40 @@
       "fixed_findings": 0
     },
     {
+      "id": "0ddc4c05f284",
+      "received_on": "2026-11-20",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "0403bc2ec7e1",
+      "received_on": "2026-11-20",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
       "id": "f26f8feb5a99",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLB Negeri Weri",
+      "satuan_kerja": "SLB NEGERI WERI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -8348,7 +8359,7 @@
       "id": "eb98caaf5ca3",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Alor Kecil",
+      "satuan_kerja": "SMA NEGERI ALOR KECIL",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -8363,7 +8374,7 @@
       "id": "d8b026b760b0",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Fatuleu Tengah",
+      "satuan_kerja": "SMAN 1 FATULEU TENGAH",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -8393,7 +8404,7 @@
       "id": "bd80e1c633ad",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri 1 Waikabubak",
+      "satuan_kerja": "SMKN 1 WAIKABUBAK",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -8409,7 +8420,7 @@
       "id": "bc3f7858cd54",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN Matpunu",
+      "satuan_kerja": "SMA NEGERI MATPUNU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -8424,7 +8435,7 @@
       "id": "b0702b365ce2",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Maiwal",
+      "satuan_kerja": "SMAN MAIWAL",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -8436,25 +8447,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "af46e9c6bc48",
-      "received_on": "2026-11-19",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI 1 ENDE",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "aeb4926bc4d6",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Restorasi Padang Alang",
+      "satuan_kerja": "SMA NEGERI RESTORASI PADANG ALANG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -8484,7 +8480,7 @@
       "id": "a072f4fb075e",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SLB Negeri Weri",
+      "satuan_kerja": "SLB NEGERI WERI",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -8499,7 +8495,7 @@
       "id": "96713f0933af",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI BARANUSA",
+      "satuan_kerja": "SMAN BARANUSA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -8529,7 +8525,7 @@
       "id": "8bb10e5bf40d",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri Restorasi Mainang",
+      "satuan_kerja": "SMA NEGERI RESTORASI MAINANG",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -8574,7 +8570,7 @@
       "id": "448ad488c07f",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Nggaha Ori Angu",
+      "satuan_kerja": "SMA NEGERI 1 NGGAHA ORI ANGU",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -8589,7 +8585,7 @@
       "id": "43992c26a41f",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMKN Maritaing",
+      "satuan_kerja": "SMKN MARITAING",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -8604,7 +8600,7 @@
       "id": "3981f242ef16",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK Negeri Bakalang",
+      "satuan_kerja": "SMKN BAKALANG",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -8621,7 +8617,7 @@
       "id": "341594e9d6ed",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN.Probur",
+      "satuan_kerja": "SMAN PROBUR",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -8634,25 +8630,10 @@
       "fixed_findings": 0
     },
     {
-      "id": "1e20ac24afa8",
-      "received_on": "2026-11-19",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMK NEGERI 1 RAHONG UTARA",
-      "outcome": "no_excel",
-      "reasons": [
-        "no_excel"
-      ],
-      "excel_count": 0,
-      "pdf_count": 9,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "16057ad625de",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN Awaalah",
+      "satuan_kerja": "SMAN AWAALAH",
       "outcome": "nip",
       "reasons": [
         "nip",
@@ -8668,7 +8649,7 @@
       "id": "138df803bb6d",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA Negeri 1 Atambua",
+      "satuan_kerja": "SMAN 1 ATAMBUA",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -8683,7 +8664,7 @@
       "id": "1302cf66d367",
       "received_on": "2026-11-19",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN Dingkanal",
+      "satuan_kerja": "SMA NEGERI DINGKANAL",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -8697,7 +8678,7 @@
     {
       "id": "ecb8e3e70665",
       "received_on": "2026-11-19",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8712,7 +8693,22 @@
     {
       "id": "c96dc9a6befa",
       "received_on": "2026-11-19",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "af46e9c6bc48",
+      "received_on": "2026-11-19",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -8727,7 +8723,7 @@
     {
       "id": "ab59131408af",
       "received_on": "2026-11-19",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -8742,7 +8738,7 @@
     {
       "id": "7088617fa9b8",
       "received_on": "2026-11-19",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8757,7 +8753,7 @@
     {
       "id": "5f8692f546bb",
       "received_on": "2026-11-19",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8772,7 +8768,7 @@
     {
       "id": "51c41c248408",
       "received_on": "2026-11-19",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "template",
       "reasons": [
@@ -8787,7 +8783,7 @@
     {
       "id": "1efe676c207d",
       "received_on": "2026-11-19",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8800,9 +8796,24 @@
       "fixed_findings": 0
     },
     {
+      "id": "1e20ac24afa8",
+      "received_on": "2026-11-19",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 9,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
       "id": "1a4abb19efb7",
       "received_on": "2026-11-19",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8817,7 +8828,7 @@
     {
       "id": "10d1dace69ae",
       "received_on": "2026-11-19",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8845,39 +8856,9 @@
       "fixed_findings": 0
     },
     {
-      "id": "99cf72239698",
-      "received_on": "2026-11-18",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMA NEGERI PEMANA",
-      "outcome": "template",
-      "reasons": [
-        "template"
-      ],
-      "excel_count": 1,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
-      "id": "3f1b2dcf3bea",
-      "received_on": "2026-11-18",
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 AESESA",
-      "outcome": "no_excel",
-      "reasons": [
-        "no_excel"
-      ],
-      "excel_count": 0,
-      "pdf_count": 1,
-      "rows_parsed": 0,
-      "active_findings": 0,
-      "fixed_findings": 0
-    },
-    {
       "id": "dc449bd9b73e",
       "received_on": "2026-11-18",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
       "satuan_kerja": "SMK N 2 Kupang Barat",
       "outcome": "nip",
       "reasons": [
@@ -8891,9 +8872,39 @@
       "fixed_findings": 0
     },
     {
+      "id": "99cf72239698",
+      "received_on": "2026-11-18",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
       "id": "47f4e590e821",
       "received_on": "2026-11-18",
-      "unit": "Belum teridentifikasi",
+      "unit": "",
+      "satuan_kerja": "",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0
+    },
+    {
+      "id": "3f1b2dcf3bea",
+      "received_on": "2026-11-18",
+      "unit": "",
       "satuan_kerja": "",
       "outcome": "no_excel",
       "reasons": [
@@ -8909,7 +8920,7 @@
       "id": "c086c833cbe2",
       "received_on": "2026-11-15",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 Mollo Selatan",
+      "satuan_kerja": "SMAN 1 MOLLO SELATAN",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -8924,7 +8935,7 @@
       "id": "fdb637548f27",
       "received_on": "2025-12-27",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 AMARASI SELATAN",
+      "satuan_kerja": "SMA NEGERI 1 AMARASI SELATAN",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -8939,7 +8950,7 @@
       "id": "e54dbe470a00",
       "received_on": "2025-12-27",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 AMARASI SELATAN",
+      "satuan_kerja": "SMA NEGERI 1 AMARASI SELATAN",
       "outcome": "valid",
       "reasons": [
         "valid"
@@ -8954,7 +8965,7 @@
       "id": "719e949e6056",
       "received_on": "2025-12-27",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "satuan_kerja": "SMAN 1 AMARASI SELATAN",
+      "satuan_kerja": "SMA NEGERI 1 AMARASI SELATAN",
       "outcome": "valid",
       "reasons": [
         "valid"
