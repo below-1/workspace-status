@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "23 November 2026, 12:31 WITA",
+    "generated_at": "23 November 2026, 13:00 WITA",
     "source_updated_at": "24 November 2026, 02:45 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1828,
-    "belum": 2545,
-    "ratio": 41.8,
+    "processed": 1874,
+    "belum": 2499,
+    "ratio": 42.85,
     "province": {
       "total": 4536,
-      "processed": 1978,
-      "ratio": 43.61
+      "processed": 2024,
+      "ratio": 44.62
     },
     "unit_count": 2,
     "unregistered": 185,
@@ -24,9 +24,9 @@
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 1333,
-      "belum": 1566,
-      "ratio": 45.98
+      "processed": 1367,
+      "belum": 1532,
+      "ratio": 47.15
     },
     {
       "name": "SMK",
@@ -38,16 +38,16 @@
     {
       "name": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 104,
-      "belum": 128,
-      "ratio": 44.83
+      "processed": 108,
+      "belum": 124,
+      "ratio": 46.55
     },
     {
       "name": "SLB",
       "total": 159,
-      "processed": 44,
-      "belum": 115,
-      "ratio": 27.67
+      "processed": 52,
+      "belum": 107,
+      "ratio": 32.7
     },
     {
       "name": "Satuan kerja lainnya",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1827,
-      "belum": 2545,
-      "ratio": 41.79
+      "processed": 1873,
+      "belum": 2499,
+      "ratio": 42.84
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -77,9 +77,9 @@
     {
       "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "total": 232,
-      "processed": 104,
-      "belum": 128,
-      "ratio": 44.83,
+      "processed": 108,
+      "belum": 124,
+      "ratio": 46.55,
       "invalid": 0
     },
     {
@@ -653,9 +653,9 @@
     {
       "name": "SMAN 1 TANA RIGHU",
       "total": 12,
-      "processed": 0,
-      "belum": 12,
-      "ratio": 0.0,
+      "processed": 12,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1021,9 +1021,9 @@
     {
       "name": "SMA NEGERI WEDEROK",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0,
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1469,9 +1469,9 @@
     {
       "name": "SLB N BERU",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1797,9 +1797,9 @@
     {
       "name": "SMAN MANUFUI",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3517,9 +3517,9 @@
     {
       "name": "SMA NEGERI 2 JEREBUU",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
