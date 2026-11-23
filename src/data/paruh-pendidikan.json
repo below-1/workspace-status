@@ -2,52 +2,52 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "23 November 2026, 10:02 WITA",
-    "source_updated_at": "23 November 2026, 10:00 WITA",
+    "generated_at": "23 November 2026, 10:31 WITA",
+    "source_updated_at": "23 November 2026, 10:27 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 1629,
-    "belum": 2744,
-    "ratio": 37.25,
+    "processed": 1678,
+    "belum": 2695,
+    "ratio": 38.37,
     "province": {
       "total": 4536,
-      "processed": 1779,
-      "ratio": 39.22
+      "processed": 1828,
+      "ratio": 40.3
     },
     "unit_count": 2,
-    "unregistered": 180,
+    "unregistered": 183,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 1226,
-      "belum": 1673,
-      "ratio": 42.29
+      "processed": 1251,
+      "belum": 1648,
+      "ratio": 43.15
     },
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 266,
-      "belum": 816,
-      "ratio": 24.58
+      "processed": 283,
+      "belum": 799,
+      "ratio": 26.16
     },
     {
       "name": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 93,
-      "belum": 139,
-      "ratio": 40.09
+      "processed": 99,
+      "belum": 133,
+      "ratio": 42.67
     },
     {
       "name": "SLB",
       "total": 159,
-      "processed": 43,
-      "belum": 116,
-      "ratio": 27.04
+      "processed": 44,
+      "belum": 115,
+      "ratio": 27.67
     },
     {
       "name": "Satuan kerja lainnya",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 1628,
-      "belum": 2744,
-      "ratio": 37.24
+      "processed": 1677,
+      "belum": 2695,
+      "ratio": 38.36
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -77,9 +77,9 @@
     {
       "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "total": 232,
-      "processed": 93,
-      "belum": 139,
-      "ratio": 40.09,
+      "processed": 99,
+      "belum": 133,
+      "ratio": 42.67,
       "invalid": 0
     },
     {
@@ -805,9 +805,9 @@
     {
       "name": "SMAN 1 MOLLO SELATAN",
       "total": 11,
-      "processed": 0,
-      "belum": 11,
-      "ratio": 0.0,
+      "processed": 11,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1437,9 +1437,9 @@
     {
       "name": "SMKN 1 AESESA",
       "total": 9,
-      "processed": 0,
-      "belum": 9,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 1,
+      "ratio": 88.89,
       "invalid": 0
     },
     {
@@ -1621,10 +1621,10 @@
     {
       "name": "SMA NEGERI NIANAM",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
-      "invalid": 0
+      "processed": 6,
+      "belum": 2,
+      "ratio": 75.0,
+      "invalid": 4
     },
     {
       "name": "SMA NEGERI PANTOLA",
@@ -2845,9 +2845,9 @@
     {
       "name": "SMKN 1 LAMBOYA",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 5,
+      "belum": 1,
+      "ratio": 83.33,
       "invalid": 0
     },
     {
@@ -3565,9 +3565,9 @@
     {
       "name": "SMA NEGERI KANGAE",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3741,9 +3741,9 @@
     {
       "name": "SMAN ALAS",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3773,9 +3773,9 @@
     {
       "name": "SMK NEGERI BABUIN",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4637,9 +4637,9 @@
     {
       "name": "SLB NEGERI LOURA",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0,
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 23
+      "count": 24
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4861,7 +4861,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (4 baris)",
-      "count": 3
+      "count": 4
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
