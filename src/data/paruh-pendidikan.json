@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "23 November 2026, 19:31 WITA",
-    "source_updated_at": "24 November 2026, 08:08 WITA",
+    "generated_at": "23 November 2026, 20:01 WITA",
+    "source_updated_at": "24 November 2026, 15:41 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4373,
-    "processed": 2226,
-    "belum": 2147,
-    "ratio": 50.9,
+    "processed": 2279,
+    "belum": 2094,
+    "ratio": 52.12,
     "province": {
       "total": 4536,
-      "processed": 2376,
-      "ratio": 52.38
+      "processed": 2429,
+      "ratio": 53.55
     },
     "unit_count": 2,
     "unregistered": 237,
@@ -24,16 +24,16 @@
     {
       "name": "SMA",
       "total": 2899,
-      "processed": 1563,
-      "belum": 1336,
-      "ratio": 53.92
+      "processed": 1613,
+      "belum": 1286,
+      "ratio": 55.64
     },
     {
       "name": "SMK",
       "total": 1082,
-      "processed": 484,
-      "belum": 598,
-      "ratio": 44.73
+      "processed": 487,
+      "belum": 595,
+      "ratio": 45.01
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4372,
-      "processed": 2225,
-      "belum": 2147,
-      "ratio": 50.89
+      "processed": 2278,
+      "belum": 2094,
+      "ratio": 52.1
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -125,9 +125,9 @@
     {
       "name": "SMAN 1 HAWU MEHARA",
       "total": 20,
-      "processed": 0,
-      "belum": 20,
-      "ratio": 0.0,
+      "processed": 20,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -429,9 +429,9 @@
     {
       "name": "SMAN 1 KUPANG TIMUR",
       "total": 13,
-      "processed": 12,
-      "belum": 1,
-      "ratio": 92.31,
+      "processed": 13,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -813,9 +813,9 @@
     {
       "name": "SMAN 1 SABU BARAT",
       "total": 11,
-      "processed": 9,
-      "belum": 2,
-      "ratio": 81.82,
+      "processed": 11,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1349,9 +1349,9 @@
     {
       "name": "SMAN 1 PANTAI BARU",
       "total": 9,
-      "processed": 0,
-      "belum": 9,
-      "ratio": 0.0,
+      "processed": 9,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2109,9 +2109,9 @@
     {
       "name": "SMAN 1 WELAK",
       "total": 7,
-      "processed": 0,
-      "belum": 7,
-      "ratio": 0.0,
+      "processed": 7,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2557,9 +2557,9 @@
     {
       "name": "SMA NEGERI WAIBLAMA",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3533,9 +3533,9 @@
     {
       "name": "SMA NEGERI 3 FATULEU TENGAH",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4309,9 +4309,9 @@
     {
       "name": "SMKN POLEN",
       "total": 3,
-      "processed": 0,
-      "belum": 3,
-      "ratio": 0.0,
+      "processed": 3,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4693,9 +4693,9 @@
     {
       "name": "SMAN 1 MBELILING",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0,
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 20
+      "count": 19
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4861,7 +4861,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (2 baris)",
-      "count": 4
+      "count": 3
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
