@@ -2,88 +2,88 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 12:31 WITA",
+    "generated_at": "24 November 2026, 13:18 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total_master": 4540,
-    "valid": 3149,
-    "needs_fix": 50,
-    "not_submitted": 1341,
+    "valid": 3366,
+    "needs_fix": 64,
+    "not_submitted": 1110,
     "needs_confirmation": 0,
-    "active_findings": 321,
-    "fixed_findings": 833
+    "active_findings": 432,
+    "fixed_findings": 1289
   },
   "by_defect": [
     {
       "code": "missing_ni",
       "label": "NIP kosong",
-      "active": 21,
+      "active": 27,
       "fixed": 1,
-      "total": 22
+      "total": 28
     },
     {
       "code": "non_numeric_ni",
       "label": "NIP bukan angka",
-      "active": 114,
-      "fixed": 603,
-      "total": 717
+      "active": 171,
+      "fixed": 986,
+      "total": 1157
     },
     {
       "code": "wrong_length_ni",
       "label": "Panjang NIP salah",
-      "active": 2,
-      "fixed": 18,
-      "total": 20
+      "active": 8,
+      "fixed": 20,
+      "total": 28
     },
     {
       "code": "trailing_000_ni",
       "label": "NIP berakhiran 000",
-      "active": 124,
-      "fixed": 101,
-      "total": 225
+      "active": 128,
+      "fixed": 128,
+      "total": 256
     },
     {
       "code": "unregistered_ni",
       "label": "NIP tidak terdaftar",
-      "active": 55,
-      "fixed": 37,
-      "total": 92
+      "active": 89,
+      "fixed": 40,
+      "total": 129
     },
     {
       "code": "numeric_cell_ni",
       "label": "NIP tersimpan sebagai angka",
-      "active": 5,
+      "active": 9,
       "fixed": 17,
-      "total": 22
+      "total": 26
     },
     {
       "code": "duplicate_ni_diff_name",
       "label": "NIP ganda beda nama",
       "active": 0,
-      "fixed": 56,
-      "total": 56
+      "fixed": 97,
+      "total": 97
     }
   ],
   "by_jenjang": [
     {
       "name": "SMA",
-      "active": 132,
-      "fixed": 427,
-      "total": 559
+      "active": 199,
+      "fixed": 718,
+      "total": 917
     },
     {
       "name": "SMK",
-      "active": 101,
-      "fixed": 278,
-      "total": 379
+      "active": 126,
+      "fixed": 408,
+      "total": 534
     },
     {
       "name": "Unit induk Dinas Pendidikan",
       "active": 1,
-      "fixed": 17,
-      "total": 18
+      "fixed": 40,
+      "total": 41
     },
     {
       "name": "Satuan kerja lainnya",
@@ -93,18 +93,18 @@
     },
     {
       "name": "Tidak diketahui",
-      "active": 87,
-      "fixed": 102,
-      "total": 189
+      "active": 106,
+      "fixed": 114,
+      "total": 220
     }
   ],
   "by_group": [
     {
       "key": "Pendidikan",
       "label": "Pendidikan",
-      "active": 248,
-      "fixed": 728,
-      "total": 976
+      "active": 353,
+      "fixed": 1183,
+      "total": 1536
     },
     {
       "key": "Non-Pendidikan",
@@ -116,9 +116,9 @@
     {
       "key": "Tidak diketahui",
       "label": "Tidak diketahui",
-      "active": 43,
-      "fixed": 1,
-      "total": 44
+      "active": 49,
+      "fixed": 2,
+      "total": 51
     }
   ]
 }
