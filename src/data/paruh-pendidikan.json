@@ -2,38 +2,38 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "24 November 2026, 13:18 WITA",
+    "generated_at": "24 November 2026, 13:32 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 3232,
-    "belum": 1145,
-    "ratio": 73.84,
+    "processed": 3258,
+    "belum": 1119,
+    "ratio": 74.43,
     "province": {
       "total": 4540,
-      "processed": 3382,
-      "ratio": 74.49
+      "processed": 3408,
+      "ratio": 75.07
     },
     "unit_count": 2,
-    "unregistered": 333,
+    "unregistered": 338,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2191,
-      "belum": 710,
-      "ratio": 75.53
+      "processed": 2207,
+      "belum": 694,
+      "ratio": 76.08
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 774,
-      "belum": 310,
-      "ratio": 71.4
+      "processed": 784,
+      "belum": 300,
+      "ratio": 72.32
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 3231,
-      "belum": 1145,
-      "ratio": 73.83
+      "processed": 3257,
+      "belum": 1119,
+      "ratio": 74.43
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -877,9 +877,9 @@
     {
       "name": "SMAN TAMALABANG",
       "total": 11,
-      "processed": 0,
-      "belum": 11,
-      "ratio": 0.0,
+      "processed": 9,
+      "belum": 2,
+      "ratio": 81.82,
       "invalid": 0
     },
     {
@@ -1461,9 +1461,9 @@
     {
       "name": "SMKN MURIABANG",
       "total": 9,
-      "processed": 0,
-      "belum": 9,
-      "ratio": 0.0,
+      "processed": 5,
+      "belum": 4,
+      "ratio": 55.56,
       "invalid": 0
     },
     {
@@ -2717,9 +2717,9 @@
     {
       "name": "SMAN PANTURA",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3405,9 +3405,9 @@
     {
       "name": "SMKN OELET",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0,
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4717,9 +4717,9 @@
     {
       "name": "SMAN 2 FATULEU BARAT",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0,
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 24
+      "count": 23
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4856,7 +4856,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (2 baris)",
-      "count": 6
+      "count": 7
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4876,7 +4876,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (6 baris)",
-      "count": 3
+      "count": 4
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
