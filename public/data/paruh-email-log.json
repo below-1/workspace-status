@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 14:03 WITA",
+    "generated_at": "24 November 2026, 14:32 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -58,6 +58,38 @@
       "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 0
+    },
+    {
+      "id": "f8ff1ce58e2c",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T14:07:57+08:00",
+      "sender_email": "sman1ileape@gmail.com",
+      "outcome": "nip",
+      "reasons": [
+        "nip",
+        "unregistered_ni"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 12,
+      "active_findings": 1,
+      "fixed_findings": 0,
+      "findings": [
+        {
+          "code": "unregistered_ni",
+          "active": 1,
+          "fixed": 0
+        }
+      ],
+      "invalid_nips": [
+        {
+          "nip": "199303172025212140",
+          "defects": [
+            "unregistered_ni"
+          ]
+        }
+      ],
+      "mixed_unit_count": 1
     },
     {
       "id": "f8bb87c41d7b",
@@ -1538,43 +1570,21 @@
       "received_on": "2026-11-24",
       "received_at": "2026-11-24T13:20:51+08:00",
       "sender_email": "smknmuriabang19@gmail.com",
-      "outcome": "nip",
-      "reasons": [
-        "nip",
-        "trailing_000_ni"
-      ],
+      "outcome": "valid",
+      "reasons": [],
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 16,
-      "active_findings": 3,
-      "fixed_findings": 0,
+      "active_findings": 0,
+      "fixed_findings": 3,
       "findings": [
         {
           "code": "trailing_000_ni",
-          "active": 3,
-          "fixed": 0
+          "active": 0,
+          "fixed": 3
         }
       ],
-      "invalid_nips": [
-        {
-          "nip": "198909042025212000",
-          "defects": [
-            "trailing_000_ni"
-          ]
-        },
-        {
-          "nip": "199101192025212000",
-          "defects": [
-            "trailing_000_ni"
-          ]
-        },
-        {
-          "nip": "199110112025212000",
-          "defects": [
-            "trailing_000_ni"
-          ]
-        }
-      ],
+      "invalid_nips": [],
       "mixed_unit_count": 0
     },
     {
@@ -2647,6 +2657,22 @@
       "mixed_unit_count": 12
     },
     {
+      "id": "2dc26fb11e6b",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T14:28:44+08:00",
+      "sender_email": "smknmuriabang19@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 16,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "2bb759eb335d",
       "received_on": "2026-11-24",
       "received_at": "2026-11-24T01:46:22+08:00",
@@ -2692,6 +2718,22 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "23ef418f2a0e",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T14:25:54+08:00",
+      "sender_email": "kehiimanuel@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 9,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
