@@ -2,38 +2,38 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "24 November 2026, 15:32 WITA",
+    "generated_at": "24 November 2026, 16:02 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 3318,
-    "belum": 1059,
-    "ratio": 75.81,
+    "processed": 3334,
+    "belum": 1043,
+    "ratio": 76.17,
     "province": {
       "total": 4540,
-      "processed": 3469,
-      "ratio": 76.41
+      "processed": 3485,
+      "ratio": 76.76
     },
     "unit_count": 2,
-    "unregistered": 340,
+    "unregistered": 342,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2244,
-      "belum": 657,
-      "ratio": 77.35
+      "processed": 2258,
+      "belum": 643,
+      "ratio": 77.84
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 806,
-      "belum": 278,
-      "ratio": 74.35
+      "processed": 808,
+      "belum": 276,
+      "ratio": 74.54
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 3317,
-      "belum": 1059,
-      "ratio": 75.8
+      "processed": 3333,
+      "belum": 1043,
+      "ratio": 76.17
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -93,10 +93,10 @@
     {
       "name": "SMK NEGERI 3 KOMODO",
       "total": 26,
-      "processed": 25,
-      "belum": 1,
-      "ratio": 96.15,
-      "invalid": 1
+      "processed": 26,
+      "belum": 0,
+      "ratio": 100.0,
+      "invalid": 0
     },
     {
       "name": "SMAN 1 KODI",
@@ -1341,9 +1341,9 @@
     {
       "name": "SMAN 1 NITA",
       "total": 9,
-      "processed": 0,
-      "belum": 9,
-      "ratio": 0.0,
+      "processed": 9,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3253,9 +3253,9 @@
     {
       "name": "SMAN PUREMAN",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0,
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4525,9 +4525,9 @@
     {
       "name": "SMK NEGERI 3 ENDE",
       "total": 2,
-      "processed": 0,
-      "belum": 2,
-      "ratio": 0.0,
+      "processed": 1,
+      "belum": 1,
+      "ratio": 50.0,
       "invalid": 0
     },
     {
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 23
+      "count": 22
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4856,7 +4856,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (2 baris)",
-      "count": 7
+      "count": 8
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",

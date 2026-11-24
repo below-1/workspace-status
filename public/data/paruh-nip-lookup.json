@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 15:32 WITA",
+    "generated_at": "24 November 2026, 16:02 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -726,6 +726,28 @@
         }
       ],
       "received_on": "2026-11-23"
+    },
+    {
+      "nip": "197101122021210002",
+      "nama": "Eni Suryanti Pati, S.H",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMK NEGERI 3 ENDE",
+      "jenjang": "Tidak diketahui",
+      "status": "needs_fix",
+      "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [],
+      "active_details": [
+        {
+          "code": "unregistered_ni",
+          "raw": "197101122021210002",
+          "detail": "NIP tidak ditemukan pada data master PPPK"
+        }
+      ],
+      "fixed_details": [],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "197102202025211012",
@@ -1908,12 +1930,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 NITA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "197401192021211001",
@@ -3288,6 +3310,20 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-21"
+    },
+    {
+      "nip": "197605132021212001",
+      "nama": "MARIA MENGE",
+      "nama_berkas": "Maria Menge, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMK NEGERI 3 ENDE - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "197605222025211036",
@@ -6072,6 +6108,20 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-03"
+    },
+    {
+      "nip": "197908252021212004",
+      "nama": "MARIA YASINTA LEPU",
+      "nama_berkas": "Maria Yasinta Lepu, S.TP",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMK NEGERI 3 ENDE - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "197909022025211041",
@@ -17106,6 +17156,28 @@
       "received_on": "2026-11-23"
     },
     {
+      "nip": "198506260225212109",
+      "nama": "Yasinta Rita, S.Pd",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMK NEGERI 3 ENDE",
+      "jenjang": "Tidak diketahui",
+      "status": "needs_fix",
+      "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [],
+      "active_details": [
+        {
+          "code": "unregistered_ni",
+          "raw": "198506260225212109",
+          "detail": "NIP tidak ditemukan pada data master PPPK"
+        }
+      ],
+      "fixed_details": [],
+      "received_on": "2026-11-24"
+    },
+    {
       "nip": "198506262025211157",
       "nama": "YORI YANTO BULAN",
       "nama_berkas": "",
@@ -21246,16 +21318,16 @@
     {
       "nip": "198610272025212106",
       "nama": "MARIA NONA EVA RAMBI",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Nona Eva Rambi,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 NITA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198610272025212108",
@@ -22614,12 +22686,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 NITA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198703012025212144",
@@ -28455,16 +28527,16 @@
     {
       "nip": "198803312025211115",
       "nama": "ALFIANUS KAMUSI",
-      "nama_berkas": "",
+      "nama_berkas": "Alfianus Kamusi, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN PUREMAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198804012025211028",
@@ -35777,16 +35849,16 @@
     {
       "nip": "198906102025211213",
       "nama": "KRITOFEL MUANLEY",
-      "nama_berkas": "",
+      "nama_berkas": "Kristofel Muanley,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN PUREMAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198906112025211183",
@@ -37943,16 +38015,16 @@
     {
       "nip": "198910042025212164",
       "nama": "KRISTINA WINSTON",
-      "nama_berkas": "",
+      "nama_berkas": "Kristina Winston,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 NITA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198910052025211199",
@@ -41211,16 +41283,16 @@
     {
       "nip": "199004292025211143",
       "nama": "YACOBUS DESA",
-      "nama_berkas": "",
+      "nama_berkas": "Yacobus Desa,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 NITA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199004302025212143",
@@ -42173,16 +42245,16 @@
     {
       "nip": "199007072025211219",
       "nama": "YULIUS SEBDEL JE",
-      "nama_berkas": "",
+      "nama_berkas": "Yulius Sebdel Je,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 NITA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199007072025212200",
@@ -48995,16 +49067,16 @@
     {
       "nip": "199108042025211132",
       "nama": "MARIO HUSTAN KARBEY",
-      "nama_berkas": "",
+      "nama_berkas": "Mario Hustan Karbey, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 3 ENDE",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199108072025212188",
@@ -53710,16 +53782,16 @@
     {
       "nip": "199205302025212146",
       "nama": "AGUSTINA L. MOLINA",
-      "nama_berkas": "",
+      "nama_berkas": "Agustina Lea Molina,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN PUREMAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199205312025211021",
@@ -57504,16 +57576,16 @@
     {
       "nip": "199301302025212122",
       "nama": "SAECILIA CHRESNOVITA DUA ARA",
-      "nama_berkas": "",
+      "nama_berkas": "Saecilia Chresnovita Dua Ara,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 NITA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199302012025212154",
@@ -57900,16 +57972,16 @@
     {
       "nip": "199302282025212159",
       "nama": "LOYS FEBY MAUTUKA",
-      "nama_berkas": "",
+      "nama_berkas": "Loys Feby Mautuka,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN PUREMAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199303022025211152",
@@ -76955,16 +77027,16 @@
     {
       "nip": "199609032025212159",
       "nama": "MARIA MEILANIA DOMPEIPEN",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Meilania Dompeipen, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN PUREMAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199609042025212054",
@@ -80558,16 +80630,16 @@
     {
       "nip": "199708092025212136",
       "nama": "ROMANA EDIT TERESA",
-      "nama_berkas": "",
+      "nama_berkas": "Romana Edit Teresa,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 3 KOMODO",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199708112025211126",
@@ -80870,15 +80942,17 @@
       "errors": [
         "unregistered_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "fixed_errors": [
+        "unregistered_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "unregistered_ni",
           "raw": "199709082025212136",
           "detail": "NIP tidak ditemukan pada data master PPPK"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-24"
     },
     {
@@ -81482,12 +81556,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 NITA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199711292025211102",
@@ -86738,12 +86812,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 NITA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "200108152025211044",
