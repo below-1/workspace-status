@@ -2,18 +2,18 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 11:32 WITA",
+    "generated_at": "24 November 2026, 12:01 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total_master": 4540,
-    "valid": 3078,
+    "valid": 3102,
     "needs_fix": 50,
-    "not_submitted": 1412,
+    "not_submitted": 1388,
     "needs_confirmation": 0,
-    "active_findings": 319,
-    "fixed_findings": 823
+    "active_findings": 320,
+    "fixed_findings": 824
   },
   "by_defect": [
     {
@@ -40,9 +40,9 @@
     {
       "code": "trailing_000_ni",
       "label": "NIP berakhiran 000",
-      "active": 128,
-      "fixed": 95,
-      "total": 223
+      "active": 129,
+      "fixed": 96,
+      "total": 225
     },
     {
       "code": "unregistered_ni",
@@ -69,15 +69,15 @@
   "by_jenjang": [
     {
       "name": "SMA",
-      "active": 137,
-      "fixed": 418,
+      "active": 136,
+      "fixed": 419,
       "total": 555
     },
     {
       "name": "SMK",
-      "active": 99,
+      "active": 101,
       "fixed": 278,
-      "total": 377
+      "total": 379
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -102,9 +102,9 @@
     {
       "key": "Pendidikan",
       "label": "Pendidikan",
-      "active": 245,
-      "fixed": 719,
-      "total": 964
+      "active": 246,
+      "fixed": 720,
+      "total": 966
     },
     {
       "key": "Non-Pendidikan",

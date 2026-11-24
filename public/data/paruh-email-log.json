@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 11:32 WITA",
+    "generated_at": "24 November 2026, 12:01 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -132,6 +132,22 @@
       "mixed_unit_count": 1
     },
     {
+      "id": "e8b51f27a0b8",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T11:55:46+08:00",
+      "sender_email": "wololomiyulius@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 15,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "e87117b10d98",
       "received_on": "2026-11-24",
       "received_at": "2026-11-24T09:01:46+08:00",
@@ -148,6 +164,22 @@
       "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 0
+    },
+    {
+      "id": "e7e5441e0b7d",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T11:46:52+08:00",
+      "sender_email": "slbnpembinapenfui@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 10,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 2
     },
     {
       "id": "dedbf60dd8be",
@@ -728,6 +760,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "9f313f82d45f",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T11:49:01+08:00",
+      "sender_email": "wewewatimurs@gmail.com",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "9da4d3b2ed2e",
       "received_on": "2026-11-24",
       "received_at": "2026-11-24T08:27:57+08:00",
@@ -916,6 +966,22 @@
       "mixed_unit_count": 7
     },
     {
+      "id": "8a55841c51a9",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T11:54:47+08:00",
+      "sender_email": "donatusbriaseran69@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 3,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "866dff3fdc22",
       "received_on": "2026-11-24",
       "received_at": "2026-11-24T06:33:33+08:00",
@@ -1010,6 +1076,22 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "714e9bc8f537",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T11:41:42+08:00",
+      "sender_email": "slbnpembinapenfui@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 10,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 2
+    },
+    {
       "id": "6f12dc14a10e",
       "received_on": "2026-11-24",
       "received_at": "2026-11-24T10:41:08+08:00",
@@ -1040,6 +1122,22 @@
         }
       ],
       "mixed_unit_count": 1
+    },
+    {
+      "id": "66b411c93e6e",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T11:49:40+08:00",
+      "sender_email": "johananenabu2021@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 8,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
     },
     {
       "id": "63b5d81ccb76",
@@ -1136,6 +1234,38 @@
       "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 0
+    },
+    {
+      "id": "53870224bb1b",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T11:43:13+08:00",
+      "sender_email": "lelismigel@gmail.com",
+      "outcome": "nip",
+      "reasons": [
+        "nip",
+        "trailing_000_ni"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 2,
+      "active_findings": 1,
+      "fixed_findings": 0,
+      "findings": [
+        {
+          "code": "trailing_000_ni",
+          "active": 1,
+          "fixed": 0
+        }
+      ],
+      "invalid_nips": [
+        {
+          "nip": "199804122025211000",
+          "defects": [
+            "trailing_000_ni"
+          ]
+        }
+      ],
+      "mixed_unit_count": 1
     },
     {
       "id": "50bc67818a9b",
@@ -1341,6 +1471,22 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "39f16ae00656",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T11:45:34+08:00",
+      "sender_email": "royjoat09@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 2,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "37b4ac61eb03",
       "received_on": "2026-11-24",
       "received_at": "2026-11-24T11:08:55+08:00",
@@ -1435,6 +1581,24 @@
       "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 1
+    },
+    {
+      "id": "28b06f1b5d2a",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T11:38:11+08:00",
+      "sender_email": "eldisdasilva47@gmail.com",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
     },
     {
       "id": "26c847a3b152",
@@ -1568,6 +1732,38 @@
         }
       ],
       "mixed_unit_count": 0
+    },
+    {
+      "id": "0ff47ba1d911",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T11:52:49+08:00",
+      "sender_email": "lelismigel@gmail.com",
+      "outcome": "nip",
+      "reasons": [
+        "nip",
+        "trailing_000_ni"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 2,
+      "active_findings": 1,
+      "fixed_findings": 0,
+      "findings": [
+        {
+          "code": "trailing_000_ni",
+          "active": 1,
+          "fixed": 0
+        }
+      ],
+      "invalid_nips": [
+        {
+          "nip": "199804122025211000",
+          "defects": [
+            "trailing_000_ni"
+          ]
+        }
+      ],
+      "mixed_unit_count": 1
     },
     {
       "id": "0d2e697b82fb",
@@ -9653,31 +9849,21 @@
       "received_on": "2026-11-22",
       "received_at": "2026-11-22T20:44:47+08:00",
       "sender_email": "wololomiyulius@gmail.com",
-      "outcome": "nip",
-      "reasons": [
-        "nip",
-        "trailing_000_ni"
-      ],
+      "outcome": "valid",
+      "reasons": [],
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 15,
-      "active_findings": 1,
-      "fixed_findings": 0,
+      "active_findings": 0,
+      "fixed_findings": 1,
       "findings": [
         {
           "code": "trailing_000_ni",
-          "active": 1,
-          "fixed": 0
+          "active": 0,
+          "fixed": 1
         }
       ],
-      "invalid_nips": [
-        {
-          "nip": "198405312021211000",
-          "defects": [
-            "trailing_000_ni"
-          ]
-        }
-      ],
+      "invalid_nips": [],
       "mixed_unit_count": 0
     },
     {
