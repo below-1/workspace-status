@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "24 November 2026, 09:31 WITA",
+    "generated_at": "24 November 2026, 10:01 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 2874,
-    "belum": 1503,
-    "ratio": 65.66,
+    "processed": 2898,
+    "belum": 1479,
+    "ratio": 66.21,
     "province": {
       "total": 4540,
-      "processed": 3024,
-      "ratio": 66.61
+      "processed": 3048,
+      "ratio": 67.14
     },
     "unit_count": 2,
     "unregistered": 271,
@@ -24,30 +24,30 @@
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2001,
-      "belum": 900,
-      "ratio": 68.98
+      "processed": 2003,
+      "belum": 898,
+      "ratio": 69.05
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 646,
-      "belum": 438,
-      "ratio": 59.59
+      "processed": 656,
+      "belum": 428,
+      "ratio": 60.52
     },
     {
       "name": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 151,
-      "belum": 81,
-      "ratio": 65.09
+      "processed": 153,
+      "belum": 79,
+      "ratio": 65.95
     },
     {
       "name": "SLB",
       "total": 159,
-      "processed": 75,
-      "belum": 84,
-      "ratio": 47.17
+      "processed": 85,
+      "belum": 74,
+      "ratio": 53.46
     },
     {
       "name": "Satuan kerja lainnya",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 2873,
-      "belum": 1503,
-      "ratio": 65.65
+      "processed": 2897,
+      "belum": 1479,
+      "ratio": 66.2
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -77,9 +77,9 @@
     {
       "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "total": 232,
-      "processed": 151,
-      "belum": 81,
-      "ratio": 65.09,
+      "processed": 153,
+      "belum": 79,
+      "ratio": 65.95,
       "invalid": 1
     },
     {
@@ -917,9 +917,9 @@
     {
       "name": "SLB NEGERI OELMASI",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0,
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1181,9 +1181,9 @@
     {
       "name": "SMKN 2 KOMODO",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0,
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4381,9 +4381,9 @@
     {
       "name": "SMAN 1 AMFOANG SELATAN",
       "total": 2,
-      "processed": 0,
-      "belum": 2,
-      "ratio": 0.0,
+      "processed": 2,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {

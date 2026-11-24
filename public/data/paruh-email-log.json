@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 09:31 WITA",
+    "generated_at": "24 November 2026, 10:01 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -42,6 +42,74 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "f70a3ee00090",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T09:47:44+08:00",
+      "sender_email": "slbnnusabungtilu@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 5,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 1
+    },
+    {
+      "id": "f63fba6092e8",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T06:34:43+08:00",
+      "sender_email": "kurniawanawik@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "f49a1935fd0e",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T00:31:03+08:00",
+      "sender_email": "adelcibana78@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "f26d89fdc97f",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T09:53:13+08:00",
+      "sender_email": "slbnnusabungtilu@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 5,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 1
+    },
+    {
       "id": "e87117b10d98",
       "received_on": "2026-11-24",
       "received_at": "2026-11-24T09:01:46+08:00",
@@ -58,6 +126,22 @@
       "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 0
+    },
+    {
+      "id": "dddb8742b2b5",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T09:59:14+08:00",
+      "sender_email": "sman1amfselatan22@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 3,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 1
     },
     {
       "id": "dcf6211afac6",
@@ -150,6 +234,40 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "cb0aeaad1150",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T09:38:41+08:00",
+      "sender_email": "retnosernaru@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 20,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "c58aa834051d",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T10:58:16+08:00",
+      "sender_email": "smantamalabang1@gmail.com",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "c56344765fb4",
       "received_on": "2026-11-24",
       "received_at": "2026-11-24T08:58:17+08:00",
@@ -182,6 +300,38 @@
       "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 0
+    },
+    {
+      "id": "bae2f97de96d",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T09:48:57+08:00",
+      "sender_email": "slbnnusabungtilu@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 5,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 1
+    },
+    {
+      "id": "aed3ebd8355e",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T09:50:36+08:00",
+      "sender_email": "slbnnusabungtilu@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 5,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 1
     },
     {
       "id": "ad1aea76c0b3",
@@ -351,6 +501,24 @@
       ],
       "excel_count": 0,
       "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "9fe0bc43404d",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T06:52:40+08:00",
+      "sender_email": "smanbinino8@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
       "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
@@ -529,6 +697,24 @@
       "mixed_unit_count": 7
     },
     {
+      "id": "866dff3fdc22",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T06:33:33+08:00",
+      "sender_email": "kurniawanawik@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "803ad9139916",
       "received_on": "2026-11-24",
       "received_at": "2026-11-24T07:55:49+08:00",
@@ -627,6 +813,22 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "63b5d81ccb76",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T09:49:45+08:00",
+      "sender_email": "helariuslaamo@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 10,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "624a0f3c212d",
       "received_on": "2026-11-24",
       "received_at": "2026-11-24T09:00:44+08:00",
@@ -641,6 +843,22 @@
       "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 0
+    },
+    {
+      "id": "5ac4659788e9",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T09:51:34+08:00",
+      "sender_email": "slbnnusabungtilu@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 5,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 1
     },
     {
       "id": "5aa80c726d25",
@@ -675,10 +893,46 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "50bc67818a9b",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T09:10:30+08:00",
+      "sender_email": "thenggutikampur150391@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "50baeecd190c",
       "received_on": "2026-11-24",
       "received_at": "2026-11-24T08:53:50+08:00",
       "sender_email": "smansaamfut2022@gmail.com",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "4fdab584c37a",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T09:45:20+08:00",
+      "sender_email": "smknbatara1978@gmail.com",
       "outcome": "template",
       "reasons": [
         "template"
@@ -994,6 +1248,42 @@
       "mixed_unit_count": 7
     },
     {
+      "id": "0be22d9b3554",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T08:49:40+08:00",
+      "sender_email": "elentianajetia93@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "0b9beeecb23c",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T07:52:48+08:00",
+      "sender_email": "ignatiusloyolasutradio58@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "fe92baedaca5",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T10:45:42+08:00",
@@ -1078,6 +1368,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "fc5257a5940b",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T20:04:22+08:00",
+      "sender_email": "niksonbureni13@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "fc16e6a620d4",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T19:38:37+08:00",
@@ -1130,6 +1438,42 @@
       "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 1
+    },
+    {
+      "id": "f869fd511958",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T20:26:55+08:00",
+      "sender_email": "slewatidahu@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "f61b815e7a72",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T08:16:18+08:00",
+      "sender_email": "04kikitulle@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
     },
     {
       "id": "f60e58e772a1",
@@ -1493,6 +1837,24 @@
       "mixed_unit_count": 6
     },
     {
+      "id": "ec21312af57f",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T20:27:56+08:00",
+      "sender_email": "slewatidahu@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "ebd9b4f0a252",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T14:16:44+08:00",
@@ -1571,6 +1933,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "e974dffb3190",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T19:30:40+08:00",
+      "sender_email": "andinimutu43@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "e909e2e1c471",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T13:55:28+08:00",
@@ -1596,6 +1976,24 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 8,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "e855a0c5cefd",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T20:27:04+08:00",
+      "sender_email": "wololomiyulius@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -1726,6 +2124,24 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 8,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "e3e9083ecd77",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T20:52:30+08:00",
+      "sender_email": "vitaliskamodu1978@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -2901,6 +3317,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "b365c6622896",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T21:24:57+08:00",
+      "sender_email": "ignatiusloyolasutradio58@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "b346f197d65c",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T09:47:43+08:00",
@@ -2937,6 +3371,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "ae7333f4fae4",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T16:21:24+08:00",
+      "sender_email": "martonamah15@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "ae646c45ad23",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T11:47:14+08:00",
@@ -2946,6 +3398,24 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 14,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "ac53020890f3",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T09:49:54+08:00",
+      "sender_email": "esaudesnatalys@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -4464,6 +4934,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "68a0317b1dae",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T09:44:04+08:00",
+      "sender_email": "smkn1lamboyaaa@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "688434bf5ef3",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T19:31:39+08:00",
@@ -5062,6 +5550,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "56a28c405ee4",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T23:41:24+08:00",
+      "sender_email": "sman1kodibalaghar@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "566ef2481360",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T21:11:16+08:00",
@@ -5360,6 +5866,24 @@
       ],
       "excel_count": 1,
       "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "4c6206ba9d2e",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T22:18:21+08:00",
+      "sender_email": "ragalawamax@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
       "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
@@ -6004,6 +6528,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "3772e3149201",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T17:50:31+08:00",
+      "sender_email": "cletus74waleng@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "36abccf7310c",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T12:53:21+08:00",
@@ -6106,6 +6648,24 @@
           "fixed": 1
         }
       ],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "3421791d99c5",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T11:55:15+08:00",
+      "sender_email": "sman1tanjungbunga@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 0
     },
@@ -6280,6 +6840,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "2b6d7c2405bd",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T17:40:00+08:00",
+      "sender_email": "cletus74waleng@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "2ace49acd367",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T11:24:43+08:00",
@@ -6289,6 +6867,24 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 6,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "2a4e49f04394",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T20:20:30+08:00",
+      "sender_email": "wololomiyulius@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -6324,6 +6920,24 @@
       ],
       "excel_count": 1,
       "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "295b1da6421a",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T10:28:14+08:00",
+      "sender_email": "feronikataniwo6@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
       "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
@@ -6732,6 +7346,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "1df8b5d2d905",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T09:42:55+08:00",
+      "sender_email": "fransiskusxaveriusb@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "1de5161d5f48",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T22:43:03+08:00",
@@ -6764,6 +7396,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "1d7b7627d152",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T09:07:01+08:00",
+      "sender_email": "feronikataniwo6@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "1bd40a87541a",
       "received_on": "2026-11-23",
       "received_at": "2026-11-23T19:10:01+08:00",
@@ -6778,6 +7428,24 @@
       "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 4
+    },
+    {
+      "id": "1b9c0edb1327",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T23:36:32+08:00",
+      "sender_email": "tamonobpedy@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
     },
     {
       "id": "1b19672e7d01",
@@ -7357,6 +8025,24 @@
           ]
         }
       ],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "0f5de7fc83d4",
+      "received_on": "2026-11-23",
+      "received_at": "2026-11-23T08:58:37+08:00",
+      "sender_email": "yohanalbj@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
       "mixed_unit_count": 0
     },
     {
@@ -7971,6 +8657,24 @@
       "mixed_unit_count": 1
     },
     {
+      "id": "e60e8d8c5596",
+      "received_on": "2026-11-22",
+      "received_at": "2026-11-22T13:53:45+08:00",
+      "sender_email": "nifuekitaroci@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "e584d9a9e5b8",
       "received_on": "2026-11-22",
       "received_at": "2026-11-22T10:48:29+08:00",
@@ -8439,6 +9143,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "a3a0e2787a80",
+      "received_on": "2026-11-22",
+      "received_at": "2026-11-22T23:12:42+08:00",
+      "sender_email": "sman1kodibalaghar@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "9b452f9beed2",
       "received_on": "2026-11-22",
       "received_at": "2026-11-22T16:00:37+08:00",
@@ -8813,6 +9535,24 @@
       "mixed_unit_count": 7
     },
     {
+      "id": "6cce9443e1db",
+      "received_on": "2026-11-22",
+      "received_at": "2026-11-22T11:06:36+08:00",
+      "sender_email": "florentinatokan747@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "6c848831cdfa",
       "received_on": "2026-11-22",
       "received_at": "2026-11-22T21:27:51+08:00",
@@ -8843,6 +9583,24 @@
       "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 7
+    },
+    {
+      "id": "6509b898cb59",
+      "received_on": "2026-11-22",
+      "received_at": "2026-11-22T21:58:09+08:00",
+      "sender_email": "ferdimanafe92@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
     },
     {
       "id": "64253976db18",
@@ -9159,6 +9917,24 @@
       "mixed_unit_count": 4
     },
     {
+      "id": "3dd23281cc68",
+      "received_on": "2026-11-22",
+      "received_at": "2026-11-22T11:27:35+08:00",
+      "sender_email": "ferdimanafe92@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "38d0494359c4",
       "received_on": "2026-11-22",
       "received_at": "2026-11-22T09:54:51+08:00",
@@ -9243,6 +10019,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "325890ffc585",
+      "received_on": "2026-11-22",
+      "received_at": "2026-11-22T12:42:13+08:00",
+      "sender_email": "smknmuriabang19@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "3219e5e784bc",
       "received_on": "2026-11-22",
       "received_at": "2026-11-22T14:14:56+08:00",
@@ -9290,6 +10084,24 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 8,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "29d0f09d0d7b",
+      "received_on": "2026-11-22",
+      "received_at": "2026-11-22T09:56:35+08:00",
+      "sender_email": "kekakristina96@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -9778,6 +10590,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "e48f90f1a01b",
+      "received_on": "2026-11-21",
+      "received_at": "2026-11-21T09:09:25+08:00",
+      "sender_email": "smansatakari1@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "e3cd965d32dc",
       "received_on": "2026-11-21",
       "received_at": "2026-11-21T17:26:47+08:00",
@@ -9945,6 +10775,24 @@
           ]
         }
       ],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "d50ba8f0af51",
+      "received_on": "2026-11-21",
+      "received_at": "2026-11-21T16:40:40+08:00",
+      "sender_email": "cabangdinaspendwilvi@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
       "mixed_unit_count": 0
     },
     {
@@ -10474,6 +11322,42 @@
       ],
       "excel_count": 1,
       "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "c04e9fe9cc3f",
+      "received_on": "2026-11-21",
+      "received_at": "2026-11-21T07:29:43+08:00",
+      "sender_email": "danguchris@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "bf73b3074f61",
+      "received_on": "2026-11-21",
+      "received_at": "2026-11-21T15:43:35+08:00",
+      "sender_email": "etha5352@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
       "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
@@ -11029,6 +11913,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "8bc30c556118",
+      "received_on": "2026-11-21",
+      "received_at": "2026-11-21T12:30:58+08:00",
+      "sender_email": "ludgardiskue2@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "8ab1667918bd",
       "received_on": "2026-11-21",
       "received_at": "2026-11-21T16:58:49+08:00",
@@ -11319,6 +12221,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "7b05396c32b2",
+      "received_on": "2026-11-21",
+      "received_at": "2026-11-21T19:40:01+08:00",
+      "sender_email": "yakobusjeparu@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "7aa2ee9e4836",
       "received_on": "2026-11-21",
       "received_at": "2026-11-21T15:31:36+08:00",
@@ -11378,6 +12298,24 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 11,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "77b8a96b151c",
+      "received_on": "2026-11-21",
+      "received_at": "2026-11-21T17:09:07+08:00",
+      "sender_email": "benebria572@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -11686,6 +12624,42 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 8,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "6365d39058e0",
+      "received_on": "2026-11-21",
+      "received_at": "2026-11-21T13:27:28+08:00",
+      "sender_email": "slbnnusabungtilu@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "629c7bb47901",
+      "received_on": "2026-11-21",
+      "received_at": "2026-11-21T15:46:43+08:00",
+      "sender_email": "slbnegeribajawa2014@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 2,
+      "pdf_count": 0,
+      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -12309,6 +13283,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "35dfeca72ab6",
+      "received_on": "2026-11-21",
+      "received_at": "2026-11-21T16:16:46+08:00",
+      "sender_email": "umbusogarayustinus@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "359adf4de612",
       "received_on": "2026-11-21",
       "received_at": "2026-11-21T11:50:17+08:00",
@@ -12319,6 +13311,24 @@
       ],
       "excel_count": 1,
       "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "33ed70f0823c",
+      "received_on": "2026-11-21",
+      "received_at": "2026-11-21T17:09:54+08:00",
+      "sender_email": "benebria572@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
       "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
@@ -12354,6 +13364,24 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 4,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "316140e0f0ba",
+      "received_on": "2026-11-21",
+      "received_at": "2026-11-21T14:27:13+08:00",
+      "sender_email": "slbnegeribajawa2014@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -13165,6 +14193,42 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "f6db622e1274",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T13:30:12+08:00",
+      "sender_email": "bukudarius@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "f691c636b0f4",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T11:31:26+08:00",
+      "sender_email": "oinlasisman@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "f6416ed08281",
       "received_on": "2026-11-20",
       "received_at": "2026-11-20T10:13:37+08:00",
@@ -13333,6 +14397,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "db2c928bf971",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T17:02:32+08:00",
+      "sender_email": "nataliafetok402@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "d8e30f063c0c",
       "received_on": "2026-11-20",
       "received_at": "2026-11-20T13:54:33+08:00",
@@ -13414,6 +14496,24 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 16,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "d4fcfd8f4d24",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T11:26:07+08:00",
+      "sender_email": "oinlasisman@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -13595,6 +14695,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "be8c9d10bc34",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T21:25:06+08:00",
+      "sender_email": "metymaris2@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "bc69ea0d6da5",
       "received_on": "2026-11-20",
       "received_at": "2026-11-20T13:05:23+08:00",
@@ -13631,6 +14749,24 @@
       ],
       "invalid_nips": [],
       "mixed_unit_count": 1
+    },
+    {
+      "id": "ba3fedacc395",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T11:47:56+08:00",
+      "sender_email": "oinlasisman@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
     },
     {
       "id": "b9f076f4a68c",
@@ -13726,6 +14862,60 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 12,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "ae54e6d8250d",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T16:45:17+08:00",
+      "sender_email": "adelcibana78@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "ad34f16c70ef",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T11:21:17+08:00",
+      "sender_email": "oinlasisman@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "ab4e42114783",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T08:43:23+08:00",
+      "sender_email": "umbusogarayustinus@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -13970,6 +15160,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "8f9a5f1dbb79",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T09:22:29+08:00",
+      "sender_email": "weyanusbeti0106@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "8d1c1992c7db",
       "received_on": "2026-11-20",
       "received_at": "2026-11-20T15:41:37+08:00",
@@ -14078,6 +15286,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "8bed0d5e2d25",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T11:32:13+08:00",
+      "sender_email": "merytenis20@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "88a4794e1137",
       "received_on": "2026-11-20",
       "received_at": "2026-11-20T10:58:43+08:00",
@@ -14138,6 +15364,24 @@
       ],
       "excel_count": 1,
       "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "867ec4f4c6a2",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T13:30:54+08:00",
+      "sender_email": "oinlasisman@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
       "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
@@ -14236,6 +15480,42 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "7ad0acca57c2",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T13:09:12+08:00",
+      "sender_email": "oinlasisman@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "78e9058aca57",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T10:58:02+08:00",
+      "sender_email": "auliaotniverat@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "782a7475d19b",
       "received_on": "2026-11-20",
       "received_at": "2026-11-20T15:52:44+08:00",
@@ -14302,6 +15582,24 @@
       ],
       "excel_count": 0,
       "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "7491482f95fb",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T13:29:41+08:00",
+      "sender_email": "oinlasisman@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
       "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
@@ -14396,6 +15694,42 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "67af911a7a33",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T08:33:08+08:00",
+      "sender_email": "taduandreas01@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 2,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "676932dba75e",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T11:42:16+08:00",
+      "sender_email": "oinlasisman@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "64dc6970f231",
       "received_on": "2026-11-20",
       "received_at": "2026-11-20T10:59:07+08:00",
@@ -14432,6 +15766,42 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "613f9905699b",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T14:06:39+08:00",
+      "sender_email": "sman1ileape@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "5573ec7952ab",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T12:16:03+08:00",
+      "sender_email": "oinlasisman@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "4e6fea67698c",
       "received_on": "2026-11-20",
       "received_at": "2026-11-20T12:13:26+08:00",
@@ -14460,6 +15830,24 @@
       ],
       "excel_count": 0,
       "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "4d0436a83dd6",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T11:36:29+08:00",
+      "sender_email": "oinlasisman@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
       "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
@@ -14518,6 +15906,24 @@
       ],
       "excel_count": 0,
       "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "436e537c14b4",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T10:59:44+08:00",
+      "sender_email": "oinlasisman@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
       "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
@@ -15066,6 +16472,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "17a1f0ddef60",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T13:07:47+08:00",
+      "sender_email": "oinlasisman@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "156746cf9883",
       "received_on": "2026-11-20",
       "received_at": "2026-11-20T18:15:45+08:00",
@@ -15200,6 +16624,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "03743d00ea94",
+      "received_on": "2026-11-20",
+      "received_at": "2026-11-20T11:13:48+08:00",
+      "sender_email": "oinlasisman@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "f26f8feb5a99",
       "received_on": "2026-11-19",
       "received_at": "2026-11-19T12:00:47+08:00",
@@ -15276,6 +16718,24 @@
       ],
       "excel_count": 1,
       "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "bfcce4b43534",
+      "received_on": "2026-11-19",
+      "received_at": "2026-11-19T08:37:13+08:00",
+      "sender_email": "sman2ambar@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
       "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
@@ -15422,6 +16882,42 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "a64fab099b8e",
+      "received_on": "2026-11-19",
+      "received_at": "2026-11-19T20:10:03+08:00",
+      "sender_email": "smanegeri3amabioefetotimur@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "a44d927ef9e1",
+      "received_on": "2026-11-19",
+      "received_at": "2026-11-19T17:29:32+08:00",
+      "sender_email": "smanegerilikwatang@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 0,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "a072f4fb075e",
       "received_on": "2026-11-19",
       "received_at": "2026-11-19T11:56:26+08:00",
@@ -15454,6 +16950,24 @@
       "mixed_unit_count": 1
     },
     {
+      "id": "933fd44f5ba9",
+      "received_on": "2026-11-19",
+      "received_at": "2026-11-20T10:22:12+08:00",
+      "sender_email": "nataliafetok402@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "8cda9055850d",
       "received_on": "2026-11-19",
       "received_at": "2026-11-19T13:58:52+08:00",
@@ -15479,6 +16993,24 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 9,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "8a8a1ea9dc62",
+      "received_on": "2026-11-19",
+      "received_at": "2026-11-19T08:37:13+08:00",
+      "sender_email": "sman2ambar@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
+      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -15546,6 +17078,24 @@
       ],
       "excel_count": 0,
       "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "560fdb8f19eb",
+      "received_on": "2026-11-19",
+      "received_at": "2026-11-20T15:02:51+08:00",
+      "sender_email": "oinlasisman@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
       "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
@@ -15931,6 +17481,24 @@
       ],
       "excel_count": 0,
       "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "234fb7e828f5",
+      "received_on": "2026-11-18",
+      "received_at": "2026-11-18T22:48:09+08:00",
+      "sender_email": "cletus74waleng@gmail.com",
+      "outcome": "pdf",
+      "reasons": [
+        "pdf"
+      ],
+      "excel_count": 1,
+      "pdf_count": 0,
       "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,

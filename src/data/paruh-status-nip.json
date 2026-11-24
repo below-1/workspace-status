@@ -2,15 +2,15 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 09:31 WITA",
+    "generated_at": "24 November 2026, 10:01 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total_master": 4540,
-    "valid": 3008,
+    "valid": 3032,
     "needs_fix": 49,
-    "not_submitted": 1483,
+    "not_submitted": 1459,
     "needs_confirmation": 0,
     "active_findings": 339,
     "fixed_findings": 763
@@ -82,8 +82,14 @@
     {
       "name": "Unit induk Dinas Pendidikan",
       "active": 1,
-      "fixed": 26,
-      "total": 27
+      "fixed": 17,
+      "total": 18
+    },
+    {
+      "name": "Satuan kerja lainnya",
+      "active": 0,
+      "fixed": 9,
+      "total": 9
     },
     {
       "name": "Tidak diketahui",
