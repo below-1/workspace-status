@@ -2,18 +2,18 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 08:02 WITA",
+    "generated_at": "24 November 2026, 08:31 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total_master": 4540,
-    "valid": 2940,
+    "valid": 2978,
     "needs_fix": 49,
-    "not_submitted": 1551,
+    "not_submitted": 1513,
     "needs_confirmation": 0,
-    "active_findings": 316,
-    "fixed_findings": 715
+    "active_findings": 321,
+    "fixed_findings": 737
   },
   "by_defect": [
     {
@@ -27,15 +27,15 @@
       "code": "non_numeric_ni",
       "label": "NIP bukan angka",
       "active": 113,
-      "fixed": 540,
-      "total": 653
+      "fixed": 562,
+      "total": 675
     },
     {
       "code": "wrong_length_ni",
       "label": "Panjang NIP salah",
-      "active": 8,
+      "active": 10,
       "fixed": 9,
-      "total": 17
+      "total": 19
     },
     {
       "code": "trailing_000_ni",
@@ -47,9 +47,9 @@
     {
       "code": "unregistered_ni",
       "label": "NIP tidak terdaftar",
-      "active": 46,
+      "active": 49,
       "fixed": 35,
-      "total": 81
+      "total": 84
     },
     {
       "code": "numeric_cell_ni",
@@ -70,14 +70,14 @@
     {
       "name": "SMA",
       "active": 147,
-      "fixed": 365,
-      "total": 512
+      "fixed": 386,
+      "total": 533
     },
     {
       "name": "SMK",
-      "active": 89,
+      "active": 91,
       "fixed": 224,
-      "total": 313
+      "total": 315
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -87,18 +87,18 @@
     },
     {
       "name": "Tidak diketahui",
-      "active": 79,
-      "fixed": 100,
-      "total": 179
+      "active": 82,
+      "fixed": 101,
+      "total": 183
     }
   ],
   "by_group": [
     {
       "key": "Pendidikan",
       "label": "Pendidikan",
-      "active": 242,
-      "fixed": 611,
-      "total": 853
+      "active": 247,
+      "fixed": 633,
+      "total": 880
     },
     {
       "key": "Non-Pendidikan",
