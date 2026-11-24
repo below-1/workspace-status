@@ -2,18 +2,18 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 13:32 WITA",
+    "generated_at": "24 November 2026, 14:03 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total_master": 4540,
-    "valid": 3392,
+    "valid": 3415,
     "needs_fix": 64,
-    "not_submitted": 1084,
+    "not_submitted": 1061,
     "needs_confirmation": 0,
-    "active_findings": 440,
-    "fixed_findings": 1294
+    "active_findings": 438,
+    "fixed_findings": 1302
   },
   "by_defect": [
     {
@@ -27,8 +27,8 @@
       "code": "non_numeric_ni",
       "label": "NIP bukan angka",
       "active": 171,
-      "fixed": 991,
-      "total": 1162
+      "fixed": 997,
+      "total": 1168
     },
     {
       "code": "wrong_length_ni",
@@ -47,8 +47,8 @@
     {
       "code": "unregistered_ni",
       "label": "NIP tidak terdaftar",
-      "active": 90,
-      "fixed": 40,
+      "active": 88,
+      "fixed": 42,
       "total": 130
     },
     {
@@ -69,15 +69,15 @@
   "by_jenjang": [
     {
       "name": "SMA",
-      "active": 201,
-      "fixed": 718,
-      "total": 919
+      "active": 200,
+      "fixed": 724,
+      "total": 924
     },
     {
       "name": "SMK",
       "active": 132,
-      "fixed": 413,
-      "total": 545
+      "fixed": 414,
+      "total": 546
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Tidak diketahui",
-      "active": 106,
-      "fixed": 114,
+      "active": 105,
+      "fixed": 115,
       "total": 220
     }
   ],
@@ -102,15 +102,15 @@
     {
       "key": "Pendidikan",
       "label": "Pendidikan",
-      "active": 361,
-      "fixed": 1188,
-      "total": 1549
+      "active": 360,
+      "fixed": 1195,
+      "total": 1555
     },
     {
       "key": "Non-Pendidikan",
       "label": "Non-Pendidikan",
-      "active": 30,
-      "fixed": 104,
+      "active": 29,
+      "fixed": 105,
       "total": 134
     },
     {

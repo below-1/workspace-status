@@ -2,26 +2,26 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Non Dinas Pendidikan",
     "period": "2026",
-    "generated_at": "24 November 2026, 13:32 WITA",
+    "generated_at": "24 November 2026, 14:03 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 163,
-    "processed": 150,
-    "belum": 13,
-    "ratio": 92.02,
+    "processed": 151,
+    "belum": 12,
+    "ratio": 92.64,
     "province": {
       "total": 4540,
-      "processed": 3408,
-      "ratio": 75.07
+      "processed": 3431,
+      "ratio": 75.57
     },
     "unit_count": 23,
     "unregistered": 338,
     "unit_status_counts": {
-      "lengkap": 15,
+      "lengkap": 16,
       "sebagian": 4,
-      "kosong": 4
+      "kosong": 3
     }
   },
   "units": [
@@ -140,9 +140,9 @@
     {
       "unit": "BADAN PENGELOLA PERBATASAN",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0
     },
     {
       "unit": "BIRO PEREKONOMIAN DAN ADMINISTRASI PEMBANGUNAN",
@@ -189,11 +189,6 @@
   ],
   "invalid_submissions": [
     {
-      "unit": "BADAN PENGELOLA PERBATASAN",
-      "reason": "NIP tidak valid (1 baris)",
-      "count": 1
-    },
-    {
       "unit": "BADAN PENGEMBANGAN SUMBER DAYA MANUSIA DAERAH",
       "reason": "NIP tidak valid (11 baris)",
       "count": 1
@@ -201,7 +196,7 @@
     {
       "unit": "Belum teridentifikasi",
       "reason": "Berkas Excel tidak sesuai template",
-      "count": 72
+      "count": 73
     },
     {
       "unit": "Belum teridentifikasi",
