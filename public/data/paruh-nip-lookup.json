@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 14:32 WITA",
+    "generated_at": "24 November 2026, 15:02 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -7128,16 +7128,16 @@
     {
       "nip": "198005032025211123",
       "nama": "MILIKHEOR BOBO",
-      "nama_berkas": "",
+      "nama_berkas": "Milikheor Bobo,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN BIKOMI SELATAN",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198005052025212102",
@@ -15052,16 +15052,16 @@
     {
       "nip": "198409122025212095",
       "nama": "MARIA SEPRILA NAISOKO",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Seprila Naisoko, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN BIKOMI SELATAN",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198409182025211034",
@@ -25345,16 +25345,16 @@
     {
       "nip": "198709052025212146",
       "nama": "ROSWITA TANI",
-      "nama_berkas": "",
+      "nama_berkas": "Roswita Tani, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN BIKOMI SELATAN",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198709072025212000",
@@ -25365,17 +25365,19 @@
       "jenjang": "Tidak diketahui",
       "status": "needs_fix",
       "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [
         "trailing_000_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "trailing_000_ni",
           "raw": "198709072025212000",
           "detail": ""
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-24"
     },
     {
@@ -25395,16 +25397,16 @@
     {
       "nip": "198709072025212147",
       "nama": "NAFSIAH",
-      "nama_berkas": "",
+      "nama_berkas": "NAFSIAH,S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN TAMALABANG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198709072025212149",
@@ -40671,16 +40673,16 @@
     {
       "nip": "199004032025212198",
       "nama": "APLONIA AHOINNAI",
-      "nama_berkas": "",
+      "nama_berkas": "Aplonia Ahoinnai, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN BIKOMI SELATAN",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199004042025211225",
@@ -58032,16 +58034,16 @@
     {
       "nip": "199303092025212177",
       "nama": "MARINCE SELAN",
-      "nama_berkas": "",
+      "nama_berkas": "Marince Selan, S.ST",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN BIKOMI SELATAN",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199303102025211180",
@@ -64253,16 +64255,16 @@
     {
       "nip": "199405122025212172",
       "nama": "MELIANA AHOINAI",
-      "nama_berkas": "",
+      "nama_berkas": "Meliana Ahoinai,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN BIKOMI SELATAN",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199405122025212185",
@@ -73373,15 +73375,17 @@
       "errors": [
         "unregistered_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "fixed_errors": [
+        "unregistered_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "unregistered_ni",
           "raw": "199601122025211122",
           "detail": "NIP tidak ditemukan pada data master PPPK"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-24"
     },
     {
@@ -76649,16 +76653,16 @@
     {
       "nip": "199608122025211122",
       "nama": "YESUA KELENDONU",
-      "nama_berkas": "",
+      "nama_berkas": "YESUA KELENDONU,S.Pd.Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN TAMALABANG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199608122025212143",
