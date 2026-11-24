@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 17:32 WITA",
-    "source_updated_at": "24 November 2026, 17:43 WITA",
+    "generated_at": "24 November 2026, 18:01 WITA",
+    "source_updated_at": "24 November 2026, 17:58 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -28,12 +28,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI INSANA BARAT TUAMAU",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "196805152025211049",
@@ -12086,12 +12086,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 3 KEFAMENANU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198305082025211127",
@@ -12274,16 +12274,16 @@
     {
       "nip": "198306202025211144",
       "nama": "MAKARINUS MALAFU HAUMEN",
-      "nama_berkas": "",
+      "nama_berkas": "Makarinus Malafu Haumen, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 3 KEFAMENANU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198306252025211137",
@@ -14182,16 +14182,16 @@
     {
       "nip": "198404172025211154",
       "nama": "MAXIMUS YOSEF ALEN",
-      "nama_berkas": "",
+      "nama_berkas": "Maximus Yosef Alen, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 3 KEFAMENANU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198404182025212099",
@@ -18404,12 +18404,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198512032025211099",
@@ -18554,16 +18554,16 @@
     {
       "nip": "198512242025212092",
       "nama": "HANA TEFA",
-      "nama_berkas": "",
+      "nama_berkas": "HANA TEFA,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN SANTIAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198512262025211121",
@@ -20664,12 +20664,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198608222025211140",
@@ -23408,16 +23408,16 @@
     {
       "nip": "198704032025212147",
       "nama": "ANDILAI BIA",
-      "nama_berkas": "",
+      "nama_berkas": "ANDILAI BIA,S.PdK",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN SANTIAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198704052025212149",
@@ -23727,7 +23727,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-21"
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198704222025212091",
@@ -23938,16 +23938,16 @@
     {
       "nip": "198705102025211266",
       "nama": "GORDIANUS SEYKO FEDHO",
-      "nama_berkas": "",
+      "nama_berkas": "Gordianus Seyko Fedho, M.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 3 KEFAMENANU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198705122025211209",
@@ -25428,7 +25428,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-21"
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198708272025211187",
@@ -26090,7 +26090,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-21"
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198710122025211154",
@@ -27672,7 +27672,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-21"
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198801152025212123",
@@ -28158,7 +28158,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-21"
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198803032025212189",
@@ -28918,7 +28918,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-21"
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198804162025212135",
@@ -32785,16 +32785,16 @@
     {
       "nip": "198812162025211127",
       "nama": "PRIMUS EUSABIUS S. OPAT",
-      "nama_berkas": "",
+      "nama_berkas": "Primus Eusabius Opat, S.Sos",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 3 KEFAMENANU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198812182025211030",
@@ -37645,16 +37645,16 @@
     {
       "nip": "198909102025212210",
       "nama": "ROSALIA MULYATI BABAT S.PD",
-      "nama_berkas": "",
+      "nama_berkas": "Rosalia Mulyati Babat",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198909112025211164",
@@ -39571,12 +39571,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199001122025212160",
@@ -40475,16 +40475,16 @@
     {
       "nip": "199003132025212159",
       "nama": "KRISTINA LIDIA LETEK KAHA",
-      "nama_berkas": "",
+      "nama_berkas": "Kristina Lidia Letek Kaha, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 3 KEFAMENANU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199003132025212161",
@@ -40895,16 +40895,16 @@
     {
       "nip": "199004042025211231",
       "nama": "KEKRUS ATPEN SELAN",
-      "nama_berkas": "",
+      "nama_berkas": "Kekrus Atpen Selan, S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KIUBAAT",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199004042025211233",
@@ -42261,12 +42261,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199007032025212189",
@@ -46641,16 +46641,16 @@
     {
       "nip": "199103152025212161",
       "nama": "KORNELIA KOLE TONI",
-      "nama_berkas": "",
+      "nama_berkas": "Kornelia Kole Toni, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 3 KEFAMENANU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199103162025211130",
@@ -46849,12 +46849,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199103312025211122",
@@ -47569,16 +47569,16 @@
     {
       "nip": "199105092025212204",
       "nama": "DINA BANA",
-      "nama_berkas": "",
+      "nama_berkas": "DINA BANA, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN SANTIAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199105112025211139",
@@ -47587,12 +47587,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199105122025212195",
@@ -47611,16 +47611,16 @@
     {
       "nip": "199105132025212162",
       "nama": "MEIRINCE TALAN",
-      "nama_berkas": "",
+      "nama_berkas": "Meirince Talan, S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KIUBAAT",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199105132025212164",
@@ -48771,16 +48771,16 @@
     {
       "nip": "199107162025212168",
       "nama": "FLORIDA ICE SERAN",
-      "nama_berkas": "",
+      "nama_berkas": "Florida Ice Seran, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 3 KEFAMENANU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199107172025211090",
@@ -50693,16 +50693,16 @@
     {
       "nip": "199111302025212153",
       "nama": "ANDRIA NOVIYANTI GALUS",
-      "nama_berkas": "",
+      "nama_berkas": "Andria Noviyanti Galus, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 3 KEFAMENANU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199112012025211166",
@@ -55224,16 +55224,16 @@
     {
       "nip": "199208172025211288",
       "nama": "ASERIA Y. KASEH",
-      "nama_berkas": "",
+      "nama_berkas": "ASERIA Y. KASEH, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN SANTIAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199208172025212311",
@@ -58490,12 +58490,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199303272025211161",
@@ -59072,16 +59072,16 @@
     {
       "nip": "199304232025212161",
       "nama": "APRIANA BANUNAEK",
-      "nama_berkas": "",
+      "nama_berkas": "APRIANA BANUNAEK, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN SANTIAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199304252025212038",
@@ -60506,16 +60506,16 @@
     {
       "nip": "199307292025211126",
       "nama": "YULIANUS JENA",
-      "nama_berkas": "",
+      "nama_berkas": "Yulianus Jena, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 3 KEFAMENANU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199307312025211046",
@@ -60752,16 +60752,16 @@
     {
       "nip": "199308172025211243",
       "nama": "ASA GINETON TEFU",
-      "nama_berkas": "",
+      "nama_berkas": "Asa Gineton Tefu, S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KIUBAAT",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199308172025211245",
@@ -63697,16 +63697,16 @@
     {
       "nip": "199403262025212131",
       "nama": "ELYANA M. NOKAS",
-      "nama_berkas": "",
+      "nama_berkas": "ELYANA M. NIKAS, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN SANTIAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199403272025212147",
@@ -65179,12 +65179,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199407052025212198",
@@ -65585,16 +65585,16 @@
     {
       "nip": "199407292025212143",
       "nama": "JULIANTI BANUNU",
-      "nama_berkas": "",
+      "nama_berkas": "Julianti Banunu,S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KIUBAAT",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199407302025211116",
@@ -65715,12 +65715,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199408092025211031",
@@ -65849,12 +65849,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199408152025212156",
@@ -66567,16 +66567,16 @@
     {
       "nip": "199409252025211128",
       "nama": "SEMRI ADRIANUS LEO",
-      "nama_berkas": "",
+      "nama_berkas": "Semri Adrianus, S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KIUBAAT",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199409252025211130",
@@ -66809,16 +66809,16 @@
     {
       "nip": "199410052025212200",
       "nama": "OFNI DORINCE BANA",
-      "nama_berkas": "",
+      "nama_berkas": "Ofni Dorince Bana, S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KIUBAAT",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199410092025212156",
@@ -68511,12 +68511,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199502092025211117",
@@ -70083,16 +70083,16 @@
     {
       "nip": "199505032025212177",
       "nama": "FREDERIKA SILA",
-      "nama_berkas": "",
+      "nama_berkas": "Frederika Sila, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 3 KEFAMENANU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199505052025211000",
@@ -72435,16 +72435,16 @@
     {
       "nip": "199510172025212182",
       "nama": "MARIA FRIDA SANAN",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Frida Sanan, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 3 KEFAMENANU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199510192025212107",
@@ -72863,16 +72863,16 @@
     {
       "nip": "199511182025211119",
       "nama": "YOSTI DENOSIRTA TEFU",
-      "nama_berkas": "",
+      "nama_berkas": "Yosti Denosirta Tefu, S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KIUBAAT",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199511192025211016",
@@ -73285,16 +73285,16 @@
     {
       "nip": "199512172025212136",
       "nama": "DELILA KASE",
-      "nama_berkas": "",
+      "nama_berkas": "DELILA KASE, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN SANTIAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199512212025212104",
@@ -75373,12 +75373,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199605062025211125",
@@ -76185,12 +76185,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199606242025212139",
@@ -76507,16 +76507,16 @@
     {
       "nip": "199607102025211114",
       "nama": "REKSI S.ATTO",
-      "nama_berkas": "",
+      "nama_berkas": "REKSI S. ATTO, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN SANTIAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199607122025212190",
@@ -77627,16 +77627,16 @@
     {
       "nip": "199610222025212150",
       "nama": "REGINA BENU",
-      "nama_berkas": "",
+      "nama_berkas": "REGINA BENU, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN SANTIAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199610232025211041",
@@ -79042,16 +79042,16 @@
     {
       "nip": "199703082025212115",
       "nama": "MIRNA SURIAYANTI OKO",
-      "nama_berkas": "",
+      "nama_berkas": "Mirna Suriayanti Oko, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 3 KEFAMENANU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199703102025211019",
@@ -79074,12 +79074,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199703102025212130",
@@ -79166,12 +79166,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199703172025212150",
@@ -79880,16 +79880,16 @@
     {
       "nip": "199705212025211105",
       "nama": "LEO NIDAS TANAEM",
-      "nama_berkas": "",
+      "nama_berkas": "LEO NIDAS TANAEM, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN SANTIAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199705252025211026",
@@ -80868,12 +80868,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 3 KEFAMENANU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199708232025211105",
@@ -85397,16 +85397,16 @@
     {
       "nip": "199905152025212127",
       "nama": "MEDIANA LOINENAK",
-      "nama_berkas": "",
+      "nama_berkas": "MEDIANA LOINENAK, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN SANTIAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199905172025212112",
@@ -86056,6 +86056,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-21"
+    },
+    {
+      "nip": "199912062026212118",
+      "nama": "Genoveva Sisilia Primarahayu",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 WAE RI'I",
+      "jenjang": "Tidak diketahui",
+      "status": "needs_fix",
+      "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [],
+      "active_details": [
+        {
+          "code": "unregistered_ni",
+          "raw": "199912062026212118",
+          "detail": "NIP tidak ditemukan pada data master PPPK"
+        }
+      ],
+      "fixed_details": [],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199912072025212076",
