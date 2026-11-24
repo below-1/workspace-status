@@ -2,45 +2,45 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "24 November 2026, 10:31 WITA",
+    "generated_at": "24 November 2026, 11:02 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 2903,
-    "belum": 1474,
-    "ratio": 66.32,
+    "processed": 2933,
+    "belum": 1444,
+    "ratio": 67.01,
     "province": {
       "total": 4540,
-      "processed": 3053,
-      "ratio": 67.25
+      "processed": 3083,
+      "ratio": 67.91
     },
     "unit_count": 2,
-    "unregistered": 271,
+    "unregistered": 283,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2006,
-      "belum": 895,
-      "ratio": 69.15
+      "processed": 2026,
+      "belum": 875,
+      "ratio": 69.84
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 658,
-      "belum": 426,
-      "ratio": 60.7
+      "processed": 667,
+      "belum": 417,
+      "ratio": 61.53
     },
     {
       "name": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 153,
-      "belum": 79,
-      "ratio": 65.95
+      "processed": 154,
+      "belum": 78,
+      "ratio": 66.38
     },
     {
       "name": "SLB",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 2902,
-      "belum": 1474,
-      "ratio": 66.32
+      "processed": 2932,
+      "belum": 1444,
+      "ratio": 67.0
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -77,9 +77,9 @@
     {
       "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "total": 232,
-      "processed": 153,
-      "belum": 79,
-      "ratio": 65.95,
+      "processed": 154,
+      "belum": 78,
+      "ratio": 66.38,
       "invalid": 1
     },
     {
@@ -397,9 +397,9 @@
     {
       "name": "SMA NEGERI 1 KUPANG BARAT",
       "total": 13,
-      "processed": 11,
-      "belum": 2,
-      "ratio": 84.62,
+      "processed": 12,
+      "belum": 1,
+      "ratio": 92.31,
       "invalid": 0
     },
     {
@@ -565,9 +565,9 @@
     {
       "name": "SMA NEGERI LAENMANEN",
       "total": 12,
-      "processed": 0,
-      "belum": 12,
-      "ratio": 0.0,
+      "processed": 12,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1453,9 +1453,9 @@
     {
       "name": "SMKN 4 KUPANG",
       "total": 9,
-      "processed": 0,
-      "belum": 9,
-      "ratio": 0.0,
+      "processed": 9,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2013,10 +2013,10 @@
     {
       "name": "SMA NEGERI 2 SULAMU",
       "total": 7,
-      "processed": 0,
-      "belum": 7,
-      "ratio": 0.0,
-      "invalid": 0
+      "processed": 6,
+      "belum": 1,
+      "ratio": 85.71,
+      "invalid": 1
     },
     {
       "name": "SMA NEGERI 2 TASIFETO TIMUR",
@@ -2709,9 +2709,9 @@
     {
       "name": "SMAN MUTIS EBAN",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 1,
+      "belum": 5,
+      "ratio": 16.67,
       "invalid": 0
     },
     {
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 18
+      "count": 19
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4856,7 +4856,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (2 baris)",
-      "count": 4
+      "count": 5
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4881,6 +4881,11 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (8 baris)",
+      "count": 1
+    },
+    {
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "reason": "NIP tidak valid (9 baris)",
       "count": 1
     },
     {
