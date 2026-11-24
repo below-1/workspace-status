@@ -2,31 +2,31 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "24 November 2026, 12:01 WITA",
+    "generated_at": "24 November 2026, 12:31 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 2968,
-    "belum": 1409,
-    "ratio": 67.81,
+    "processed": 3015,
+    "belum": 1362,
+    "ratio": 68.88,
     "province": {
       "total": 4540,
-      "processed": 3118,
-      "ratio": 68.68
+      "processed": 3165,
+      "ratio": 69.71
     },
     "unit_count": 2,
-    "unregistered": 285,
+    "unregistered": 292,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2039,
-      "belum": 862,
-      "ratio": 70.29
+      "processed": 2086,
+      "belum": 815,
+      "ratio": 71.91
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 2967,
-      "belum": 1409,
-      "ratio": 67.8
+      "processed": 3014,
+      "belum": 1362,
+      "ratio": 68.88
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -237,9 +237,9 @@
     {
       "name": "SMA NEGERI 1 RINDI UMALULU",
       "total": 15,
-      "processed": 0,
-      "belum": 15,
-      "ratio": 0.0,
+      "processed": 15,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -269,10 +269,10 @@
     {
       "name": "SMAN 4 KUPANG",
       "total": 15,
-      "processed": 12,
-      "belum": 3,
-      "ratio": 80.0,
-      "invalid": 2
+      "processed": 14,
+      "belum": 1,
+      "ratio": 93.33,
+      "invalid": 0
     },
     {
       "name": "SMAN 7 KUPANG",
@@ -1381,9 +1381,9 @@
     {
       "name": "SMAN ATENGMELANG",
       "total": 9,
-      "processed": 0,
-      "belum": 9,
-      "ratio": 0.0,
+      "processed": 9,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1405,9 +1405,9 @@
     {
       "name": "SMAN ROTE SELATAN",
       "total": 9,
-      "processed": 0,
-      "belum": 9,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 1,
+      "ratio": 88.89,
       "invalid": 0
     },
     {
@@ -1701,9 +1701,9 @@
     {
       "name": "SMAN 1 SABU TENGAH",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3029,9 +3029,9 @@
     {
       "name": "SMA NEGERI 3 AMARASI TIMUR",
       "total": 5,
-      "processed": 4,
-      "belum": 1,
-      "ratio": 80.0,
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3605,9 +3605,9 @@
     {
       "name": "SMAN 1 SOLOR BARAT",
       "total": 4,
-      "processed": 3,
-      "belum": 1,
-      "ratio": 75.0,
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3989,9 +3989,9 @@
     {
       "name": "SMA NEGERI 2 AMFOANG TIMUR",
       "total": 3,
-      "processed": 0,
-      "belum": 3,
-      "ratio": 0.0,
+      "processed": 3,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 18
+      "count": 19
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4851,12 +4851,12 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (2 baris)",
-      "count": 5
+      "count": 4
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (3 baris)",
-      "count": 1
+      "count": 2
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4866,12 +4866,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (6 baris)",
-      "count": 2
-    },
-    {
-      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
-      "reason": "NIP tidak valid (7 baris)",
-      "count": 1
+      "count": 3
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
