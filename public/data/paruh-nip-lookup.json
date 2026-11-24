@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 16:32 WITA",
+    "generated_at": "24 November 2026, 17:02 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -23616,6 +23616,28 @@
       "received_on": ""
     },
     {
+      "nip": "198704182025211000",
+      "nama": "Alfonsus Nitti, A.Md",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMK NEGERI 1 TAEBENU",
+      "jenjang": "Tidak diketahui",
+      "status": "needs_fix",
+      "errors": [
+        "trailing_000_ni"
+      ],
+      "fixed_errors": [],
+      "active_details": [
+        {
+          "code": "trailing_000_ni",
+          "raw": "198704182025211000",
+          "detail": ""
+        }
+      ],
+      "fixed_details": [],
+      "received_on": "2026-11-24"
+    },
+    {
       "nip": "198704182025211125",
       "nama": "ALFONSUS NITTI",
       "nama_berkas": "",
@@ -30617,16 +30639,16 @@
     {
       "nip": "198807302025211135",
       "nama": "JEFRI ARYANDI BONES",
-      "nama_berkas": "",
+      "nama_berkas": "Jefri Aryandi Bones, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 TAEBENU",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198807302025212096",
@@ -40903,16 +40925,16 @@
     {
       "nip": "199004072025212173",
       "nama": "HETI SUSANTI APRIANA BANUNAEK",
-      "nama_berkas": "",
+      "nama_berkas": "Heti S. A. Banunaek, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 TAEBENU",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199004082025211051",
@@ -85203,16 +85225,16 @@
     {
       "nip": "199904252025212085",
       "nama": "BENDELINA BAITANU",
-      "nama_berkas": "",
+      "nama_berkas": "Bendelina Baitanu, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 TAEBENU",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199904272025212099",

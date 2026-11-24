@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 16:32 WITA",
+    "generated_at": "24 November 2026, 17:02 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -469,6 +469,38 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "dee4960a07e3",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T16:45:10+08:00",
+      "sender_email": "smkn1taebenu@gmail.com",
+      "outcome": "nip",
+      "reasons": [
+        "nip",
+        "trailing_000_ni"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 4,
+      "active_findings": 1,
+      "fixed_findings": 0,
+      "findings": [
+        {
+          "code": "trailing_000_ni",
+          "active": 1,
+          "fixed": 0
+        }
+      ],
+      "invalid_nips": [
+        {
+          "nip": "198704182025211000",
+          "defects": [
+            "trailing_000_ni"
+          ]
+        }
+      ],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "dedbf60dd8be",
       "received_on": "2026-11-24",
       "received_at": "2026-11-24T10:52:51+08:00",
@@ -592,6 +624,24 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 5,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "d8353fab07e1",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T16:31:50+08:00",
+      "sender_email": "maksieduardedisonkase@gmail.com",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -2172,6 +2222,74 @@
       "fixed_findings": 0,
       "findings": [],
       "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "723a3eca65fa",
+      "received_on": "2026-11-24",
+      "received_at": "2026-11-24T16:47:01+08:00",
+      "sender_email": "esaudesnatalys@gmail.com",
+      "outcome": "nip",
+      "reasons": [
+        "nip",
+        "trailing_000_ni"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 7,
+      "active_findings": 7,
+      "fixed_findings": 0,
+      "findings": [
+        {
+          "code": "trailing_000_ni",
+          "active": 7,
+          "fixed": 0
+        }
+      ],
+      "invalid_nips": [
+        {
+          "nip": "198108162025212000",
+          "defects": [
+            "trailing_000_ni"
+          ]
+        },
+        {
+          "nip": "198201232025211000",
+          "defects": [
+            "trailing_000_ni"
+          ]
+        },
+        {
+          "nip": "198503072025212000",
+          "defects": [
+            "trailing_000_ni"
+          ]
+        },
+        {
+          "nip": "198712282025212000",
+          "defects": [
+            "trailing_000_ni"
+          ]
+        },
+        {
+          "nip": "199001232025211000",
+          "defects": [
+            "trailing_000_ni"
+          ]
+        },
+        {
+          "nip": "199004122025212000",
+          "defects": [
+            "trailing_000_ni"
+          ]
+        },
+        {
+          "nip": "199203142025212000",
+          "defects": [
+            "trailing_000_ni"
+          ]
+        }
+      ],
       "mixed_unit_count": 0
     },
     {
