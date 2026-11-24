@@ -2,18 +2,18 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 10:01 WITA",
+    "generated_at": "24 November 2026, 10:31 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total_master": 4540,
-    "valid": 3032,
+    "valid": 3037,
     "needs_fix": 49,
-    "not_submitted": 1459,
+    "not_submitted": 1454,
     "needs_confirmation": 0,
-    "active_findings": 339,
-    "fixed_findings": 763
+    "active_findings": 318,
+    "fixed_findings": 789
   },
   "by_defect": [
     {
@@ -27,21 +27,21 @@
       "code": "non_numeric_ni",
       "label": "NIP bukan angka",
       "active": 113,
-      "fixed": 587,
-      "total": 700
+      "fixed": 591,
+      "total": 704
     },
     {
       "code": "wrong_length_ni",
       "label": "Panjang NIP salah",
-      "active": 10,
-      "fixed": 9,
+      "active": 4,
+      "fixed": 15,
       "total": 19
     },
     {
       "code": "trailing_000_ni",
       "label": "NIP berakhiran 000",
-      "active": 150,
-      "fixed": 67,
+      "active": 135,
+      "fixed": 82,
       "total": 217
     },
     {
@@ -62,22 +62,22 @@
       "code": "duplicate_ni_diff_name",
       "label": "NIP ganda beda nama",
       "active": 0,
-      "fixed": 52,
-      "total": 52
+      "fixed": 53,
+      "total": 53
     }
   ],
   "by_jenjang": [
     {
       "name": "SMA",
-      "active": 148,
-      "fixed": 390,
+      "active": 133,
+      "fixed": 405,
       "total": 538
     },
     {
       "name": "SMK",
-      "active": 108,
-      "fixed": 246,
-      "total": 354
+      "active": 102,
+      "fixed": 257,
+      "total": 359
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -102,9 +102,9 @@
     {
       "key": "Pendidikan",
       "label": "Pendidikan",
-      "active": 265,
-      "fixed": 659,
-      "total": 924
+      "active": 244,
+      "fixed": 685,
+      "total": 929
     },
     {
       "key": "Non-Pendidikan",

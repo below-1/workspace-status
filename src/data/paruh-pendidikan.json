@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "24 November 2026, 10:01 WITA",
+    "generated_at": "24 November 2026, 10:31 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 2898,
-    "belum": 1479,
-    "ratio": 66.21,
+    "processed": 2903,
+    "belum": 1474,
+    "ratio": 66.32,
     "province": {
       "total": 4540,
-      "processed": 3048,
-      "ratio": 67.14
+      "processed": 3053,
+      "ratio": 67.25
     },
     "unit_count": 2,
     "unregistered": 271,
@@ -24,16 +24,16 @@
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2003,
-      "belum": 898,
-      "ratio": 69.05
+      "processed": 2006,
+      "belum": 895,
+      "ratio": 69.15
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 656,
-      "belum": 428,
-      "ratio": 60.52
+      "processed": 658,
+      "belum": 426,
+      "ratio": 60.7
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 2897,
-      "belum": 1479,
-      "ratio": 66.2
+      "processed": 2902,
+      "belum": 1474,
+      "ratio": 66.32
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -1837,9 +1837,9 @@
     {
       "name": "SMK NEGERI 2 WAINGAPU",
       "total": 8,
-      "processed": 7,
-      "belum": 1,
-      "ratio": 87.5,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2005,9 +2005,9 @@
     {
       "name": "SMA NEGERI 2 AMARASI BARAT",
       "total": 7,
-      "processed": 4,
-      "belum": 3,
-      "ratio": 57.14,
+      "processed": 7,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4773,9 +4773,9 @@
     {
       "name": "SMKN 1 AMABI OEFETO TIMUR",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0,
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4861,7 +4861,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (3 baris)",
-      "count": 3
+      "count": 1
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4887,11 +4887,6 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "Tanpa lampiran Excel (hanya PDF/tautan)",
       "count": 2
-    },
-    {
-      "unit": "Dinas Pendidikan Dan Kebudayaan Provinsi Nusa Tenggara Timur",
-      "reason": "NIP tidak valid (2 baris)",
-      "count": 1
     },
     {
       "unit": "Dinas Pendidikan Provinsi NTT",
