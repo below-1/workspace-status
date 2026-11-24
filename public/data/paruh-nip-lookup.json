@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 16:02 WITA",
+    "generated_at": "24 November 2026, 16:32 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -738,14 +738,30 @@
       "errors": [
         "unregistered_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "fixed_errors": [
+        "unregistered_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "unregistered_ni",
           "raw": "197101122021210002",
           "detail": "NIP tidak ditemukan pada data master PPPK"
         }
       ],
+      "received_on": "2026-11-24"
+    },
+    {
+      "nip": "197101122022212005",
+      "nama": "ENI SURIANTI PATI",
+      "nama_berkas": "Eni Suryanti Pati, S.H",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMK NEGERI 3 ENDE - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-24"
     },
@@ -1554,6 +1570,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-23"
+    },
+    {
+      "nip": "197305082005211037",
+      "nama": "Marthen Abraham",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMAN 2 KUPANG TIMUR",
+      "jenjang": "Tidak diketahui",
+      "status": "needs_fix",
+      "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [],
+      "active_details": [
+        {
+          "code": "unregistered_ni",
+          "raw": "197305082005211037",
+          "detail": "NIP tidak ditemukan pada data master PPPK"
+        }
+      ],
+      "fixed_details": [],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "197305082025211037",
@@ -3496,16 +3534,16 @@
     {
       "nip": "197609072025212044",
       "nama": "IMELDA INAQ",
-      "nama_berkas": "",
+      "nama_berkas": "Imelda Inaq, A.Md",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "197609172025211056",
@@ -9117,8 +9155,8 @@
       "nip": "198108162025212000",
       "nama": "Maldin Bella, S.Pd",
       "nama_berkas": "",
-      "unit": "",
-      "satuan_kerja": "SMK N 2 Kupang Barat",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 2 KUPANG BARAT",
       "jenjang": "Tidak diketahui",
       "status": "needs_fix",
       "errors": [
@@ -9133,7 +9171,7 @@
         }
       ],
       "fixed_details": [],
-      "received_on": "2026-11-23"
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198108162025212029",
@@ -9827,8 +9865,8 @@
       "nip": "198201232025211000",
       "nama": "Arsed Haning, S.Pd",
       "nama_berkas": "",
-      "unit": "",
-      "satuan_kerja": "SMK N 2 Kupang Barat",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 2 KUPANG BARAT",
       "jenjang": "Tidak diketahui",
       "status": "needs_fix",
       "errors": [
@@ -9843,7 +9881,7 @@
         }
       ],
       "fixed_details": [],
-      "received_on": "2026-11-23"
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198201232025211017",
@@ -16173,8 +16211,8 @@
       "nip": "198503072025212000",
       "nama": "Mariana Taek, S.Pd",
       "nama_berkas": "",
-      "unit": "",
-      "satuan_kerja": "SMK N 2 Kupang Barat",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 2 KUPANG BARAT",
       "jenjang": "Tidak diketahui",
       "status": "needs_fix",
       "errors": [
@@ -16189,7 +16227,7 @@
         }
       ],
       "fixed_details": [],
-      "received_on": "2026-11-23"
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198503072025212098",
@@ -17166,15 +17204,17 @@
       "errors": [
         "unregistered_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "fixed_errors": [
+        "unregistered_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "unregistered_ni",
           "raw": "198506260225212109",
           "detail": "NIP tidak ditemukan pada data master PPPK"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-24"
     },
     {
@@ -17208,16 +17248,16 @@
     {
       "nip": "198506262025212109",
       "nama": "YASINTA RITA",
-      "nama_berkas": "",
+      "nama_berkas": "Yasinta Rita, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 3 ENDE",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198506272025211139",
@@ -20732,16 +20772,16 @@
     {
       "nip": "198608312025211115",
       "nama": "YENS BOIS",
-      "nama_berkas": "",
+      "nama_berkas": "Yens Bois,S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 1 AMARASI BARAT",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198608312025212081",
@@ -27278,8 +27318,8 @@
       "nip": "198712282025212000",
       "nama": "Desy Melan Olfiana Sanu, S.Pd",
       "nama_berkas": "",
-      "unit": "",
-      "satuan_kerja": "SMK N 2 Kupang Barat",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 2 KUPANG BARAT",
       "jenjang": "Tidak diketahui",
       "status": "needs_fix",
       "errors": [
@@ -27294,7 +27334,7 @@
         }
       ],
       "fixed_details": [],
-      "received_on": "2026-11-23"
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198712282025212162",
@@ -29261,12 +29301,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 KUPANG TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198805202025212194",
@@ -39574,8 +39614,8 @@
       "nip": "199001232025211000",
       "nama": "Sufyan Karikama, S.Pd",
       "nama_berkas": "",
-      "unit": "",
-      "satuan_kerja": "SMK N 2 Kupang Barat",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 2 KUPANG BARAT",
       "jenjang": "Tidak diketahui",
       "status": "needs_fix",
       "errors": [
@@ -39590,7 +39630,7 @@
         }
       ],
       "fixed_details": [],
-      "received_on": "2026-11-23"
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199001232025211129",
@@ -40920,8 +40960,8 @@
       "nip": "199004122025212000",
       "nama": "Angreni Serlyanti Toy, S.Pd",
       "nama_berkas": "",
-      "unit": "",
-      "satuan_kerja": "SMK N 2 Kupang Barat",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 2 KUPANG BARAT",
       "jenjang": "Tidak diketahui",
       "status": "needs_fix",
       "errors": [
@@ -40936,7 +40976,7 @@
         }
       ],
       "fixed_details": [],
-      "received_on": "2026-11-23"
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199004122025212223",
@@ -42499,16 +42539,16 @@
     {
       "nip": "199007192025212123",
       "nama": "JULI ELROI G. H. PUAI",
-      "nama_berkas": "",
+      "nama_berkas": "Juli E.G.H.Puai,S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 1 AMARASI BARAT",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199007202025212174",
@@ -47819,16 +47859,16 @@
     {
       "nip": "199105252025212222",
       "nama": "MARIA MAGDALENA RATONG",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Magdalena Ratong, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 BUYASURI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199105272025211141",
@@ -48779,16 +48819,16 @@
     {
       "nip": "199107202025212175",
       "nama": "RINI NELDER MOKOS",
-      "nama_berkas": "",
+      "nama_berkas": "Rini N. Mokos,S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 1 AMARASI BARAT",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199107212025212192",
@@ -52408,8 +52448,8 @@
       "nip": "199203142025212000",
       "nama": "Indah Mawarni Taek, S.Pd",
       "nama_berkas": "",
-      "unit": "",
-      "satuan_kerja": "SMK N 2 Kupang Barat",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 2 KUPANG BARAT",
       "jenjang": "Tidak diketahui",
       "status": "needs_fix",
       "errors": [
@@ -52424,7 +52464,7 @@
         }
       ],
       "fixed_details": [],
-      "received_on": "2026-11-23"
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199203142025212159",
@@ -54220,16 +54260,16 @@
     {
       "nip": "199206232025212134",
       "nama": "DEWANTI MAUMUDE",
-      "nama_berkas": "",
+      "nama_berkas": "Dewanti Maumude, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 BUYASURI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199206252025212190",
@@ -59500,16 +59540,16 @@
     {
       "nip": "199305212025211143",
       "nama": "RIKLAN MIKEL SORTUI",
-      "nama_berkas": "",
+      "nama_berkas": "Riklan M. Sortui,S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 1 AMARASI BARAT",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199305242025212180",
@@ -61890,12 +61930,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 KUPANG TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199311152025212152",
@@ -63179,12 +63219,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 KUPANG TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199402212025211122",
@@ -66367,12 +66407,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199409172025211134",
@@ -69735,12 +69775,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 KUPANG TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199504222025211133",
@@ -70225,16 +70265,16 @@
     {
       "nip": "199505152025211199",
       "nama": "KHARUDIN HAMID",
-      "nama_berkas": "",
+      "nama_berkas": "Kharudin Hamid, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 BUYASURI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199505152025212245",
@@ -79778,12 +79818,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 KUPANG TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199705192025211091",
@@ -82248,12 +82288,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 KUPANG TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199801262025212115",
@@ -85283,16 +85323,16 @@
     {
       "nip": "199905142025212100",
       "nama": "MARIA IMACULATA PARERA",
-      "nama_berkas": "",
+      "nama_berkas": "Maria I. Parera,S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 1 AMARASI BARAT",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199905152025212018",
@@ -87062,12 +87102,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 KUPANG TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "200301082025212015",
