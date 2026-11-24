@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 07:31 WITA",
+    "generated_at": "24 November 2026, 08:02 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -532,16 +532,24 @@
     {
       "nip": "197005062025211066",
       "nama": "MELKI BILI NGONGO",
-      "nama_berkas": "",
+      "nama_berkas": "Melki Bili Ngongo, S. Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 2 WAINGAPU",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19700506 2025211066",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "197007102022211005",
@@ -4558,16 +4566,24 @@
     {
       "nip": "197803292025212040",
       "nama": "MARLYN LULU",
-      "nama_berkas": "",
+      "nama_berkas": "Yunita L. Hamu Meha, S. Pd., Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 2 WAINGAPU",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "duplicate_ni_diff_name"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "duplicate_ni_diff_name",
+          "raw": "197803292025212040",
+          "detail": "NIP ganda; versi terbaru: Marlyn Lulu, S. Kom"
+        }
+      ],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "197803302025211054",
@@ -4978,16 +4994,16 @@
     {
       "nip": "197809252025211061",
       "nama": "STEPANUS HUNGA DJANGGA KADU",
-      "nama_berkas": "",
+      "nama_berkas": "Stepanus H.Djangga Kadu",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 2 WAINGAPU",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "197810052025211029",
@@ -6692,12 +6708,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 WEWEWA TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198004012025211104",
@@ -24728,16 +24744,16 @@
     {
       "nip": "198709192025212139",
       "nama": "ROSLIANA DAPA LOKA",
-      "nama_berkas": "",
+      "nama_berkas": "ROSLIANA DAPA LOKA, S.Pd., Gr.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 WEWEWA TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198709212025212119",
@@ -35612,12 +35628,20 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 2 WAINGAPU",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19890805 2025212186",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198908062025211172",
@@ -36302,16 +36326,16 @@
     {
       "nip": "198909112025212149",
       "nama": "SELFIANA BEBY INA",
-      "nama_berkas": "",
+      "nama_berkas": "SELFIANA BEBY INA, S.Pd., Gr.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 WEWEWA TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198909122025212157",
@@ -37168,16 +37192,16 @@
     {
       "nip": "198911102025212246",
       "nama": "NOVIANTI LEPIR DJANGGA NDEWA",
-      "nama_berkas": "",
+      "nama_berkas": "Novianti L.Djangga Ndewa, S. Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 2 WAINGAPU",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198911112025211242",
@@ -51900,16 +51924,16 @@
     {
       "nip": "199205202025211166",
       "nama": "WELHELMUS",
-      "nama_berkas": "",
+      "nama_berkas": "WELHELMUS, S.Pd., Gr.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 WEWEWA TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199205202025212222",
@@ -55412,16 +55436,16 @@
     {
       "nip": "199301052025211148",
       "nama": "ARISONA BILI",
-      "nama_berkas": "",
+      "nama_berkas": "ARISONA BILI, S.Pd., Gr.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 WEWEWA TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199301052025212195",
@@ -55580,16 +55604,16 @@
     {
       "nip": "199301212025212163",
       "nama": "MARDIYANA HAMARUNA",
-      "nama_berkas": "",
+      "nama_berkas": "Mardiyana Hamaruna, S. Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 2 WAINGAPU",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199301222025211103",
@@ -57410,16 +57434,16 @@
     {
       "nip": "199305092025211146",
       "nama": "MELKIANUS LENDE BULU",
-      "nama_berkas": "",
+      "nama_berkas": "MELKIANUS LENDE BULU, S.Pd., Gr.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 WEWEWA TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199305092025211148",
@@ -60744,16 +60768,16 @@
     {
       "nip": "199401052025212177",
       "nama": "YASNI REMI NDIMA",
-      "nama_berkas": "",
+      "nama_berkas": "Yasni Remi Ndima, S. Pd., Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 2 WAINGAPU",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199401052025212182",
@@ -62606,16 +62630,16 @@
     {
       "nip": "199406062025212282",
       "nama": "YUVIA WOLLA GOLE",
-      "nama_berkas": "",
+      "nama_berkas": "YUVIA WOLLA GOLE, S.Pd., Gr.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 WEWEWA TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199406072025212182",
@@ -63100,16 +63124,16 @@
     {
       "nip": "199407082025212152",
       "nama": "LIA LAPINIA",
-      "nama_berkas": "",
+      "nama_berkas": "LIA LAPINIA,S.pd.Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 WEWEWA TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199407082025212157",
@@ -64114,19 +64138,19 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 RAHONG UTARA",
       "jenjang": "SMK",
-      "status": "needs_fix",
-      "errors": [
+      "status": "valid",
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"199409082025212176\"",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-23"
     },
     {
@@ -67996,16 +68020,16 @@
     {
       "nip": "199505122025212183",
       "nama": "AGUSTINA MICI TANGGELA",
-      "nama_berkas": "",
+      "nama_berkas": "AGUSTINA MICI TANGGELA, , S.Pd., Gr.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 WEWEWA TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199505152025211195",
@@ -68628,19 +68652,19 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 RAHONG UTARA",
       "jenjang": "SMK",
-      "status": "needs_fix",
-      "errors": [
+      "status": "valid",
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "\"199506162025212208\"",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-23"
     },
     {
@@ -69838,16 +69862,16 @@
     {
       "nip": "199509282025212144",
       "nama": "ESTER BULU",
-      "nama_berkas": "",
+      "nama_berkas": "ESTER BULU, S.Pd., Gr.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 WEWEWA TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199509282025212146",
@@ -72242,16 +72266,16 @@
     {
       "nip": "199603202025212122",
       "nama": "ELISABET LEBA KAKA",
-      "nama_berkas": "",
+      "nama_berkas": "ELISABET LEBA KAKA, S.Pd., Gr.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 WEWEWA TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199603212025211109",
@@ -74822,16 +74846,16 @@
     {
       "nip": "199609142025212174",
       "nama": "SISILIA LOLO INNA",
-      "nama_berkas": "",
+      "nama_berkas": "SISILIA LOLO INNA, S.Pd., Gr.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 WEWEWA TIMUR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199609182025212157",

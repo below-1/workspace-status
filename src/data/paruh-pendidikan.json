@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "24 November 2026, 07:31 WITA",
+    "generated_at": "24 November 2026, 08:02 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 2785,
-    "belum": 1592,
-    "ratio": 63.63,
+    "processed": 2806,
+    "belum": 1571,
+    "ratio": 64.11,
     "province": {
       "total": 4540,
-      "processed": 2935,
-      "ratio": 64.65
+      "processed": 2956,
+      "ratio": 65.11
     },
     "unit_count": 2,
     "unregistered": 270,
@@ -24,16 +24,16 @@
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 1966,
-      "belum": 935,
-      "ratio": 67.77
+      "processed": 1978,
+      "belum": 923,
+      "ratio": 68.18
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 599,
-      "belum": 485,
-      "ratio": 55.26
+      "processed": 608,
+      "belum": 476,
+      "ratio": 56.09
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 2784,
-      "belum": 1592,
-      "ratio": 63.62
+      "processed": 2805,
+      "belum": 1571,
+      "ratio": 64.1
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -549,9 +549,9 @@
     {
       "name": "SMA NEGERI 2 WEWEWA TIMUR",
       "total": 12,
-      "processed": 0,
-      "belum": 12,
-      "ratio": 0.0,
+      "processed": 12,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1837,9 +1837,9 @@
     {
       "name": "SMK NEGERI 2 WAINGAPU",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 7,
+      "belum": 1,
+      "ratio": 87.5,
       "invalid": 0
     },
     {
@@ -4501,10 +4501,10 @@
     {
       "name": "SMK NEGERI 1 RAHONG UTARA",
       "total": 2,
-      "processed": 0,
-      "belum": 2,
-      "ratio": 0.0,
-      "invalid": 2
+      "processed": 2,
+      "belum": 0,
+      "ratio": 100.0,
+      "invalid": 0
     },
     {
       "name": "SMK NEGERI 1 TABUNDUNG",
@@ -4856,7 +4856,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (2 baris)",
-      "count": 3
+      "count": 2
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
