@@ -2,18 +2,18 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 17:02 WITA",
+    "generated_at": "24 November 2026, 17:32 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total_master": 4540,
-    "valid": 3490,
-    "needs_fix": 64,
-    "not_submitted": 986,
+    "valid": 3514,
+    "needs_fix": 60,
+    "not_submitted": 966,
     "needs_confirmation": 0,
-    "active_findings": 448,
-    "fixed_findings": 1316
+    "active_findings": 383,
+    "fixed_findings": 1381
   },
   "by_defect": [
     {
@@ -26,8 +26,8 @@
     {
       "code": "non_numeric_ni",
       "label": "NIP bukan angka",
-      "active": 171,
-      "fixed": 997,
+      "active": 159,
+      "fixed": 1009,
       "total": 1168
     },
     {
@@ -40,15 +40,15 @@
     {
       "code": "trailing_000_ni",
       "label": "NIP berakhiran 000",
-      "active": 140,
-      "fixed": 138,
+      "active": 91,
+      "fixed": 187,
       "total": 278
     },
     {
       "code": "unregistered_ni",
       "label": "NIP tidak terdaftar",
-      "active": 93,
-      "fixed": 46,
+      "active": 89,
+      "fixed": 50,
       "total": 139
     },
     {
@@ -69,14 +69,14 @@
   "by_jenjang": [
     {
       "name": "SMA",
-      "active": 204,
-      "fixed": 726,
+      "active": 188,
+      "fixed": 742,
       "total": 930
     },
     {
       "name": "SMK",
-      "active": 138,
-      "fixed": 426,
+      "active": 124,
+      "fixed": 440,
       "total": 564
     },
     {
@@ -93,8 +93,8 @@
     },
     {
       "name": "Tidak diketahui",
-      "active": 105,
-      "fixed": 115,
+      "active": 70,
+      "fixed": 150,
       "total": 220
     }
   ],
@@ -102,8 +102,8 @@
     {
       "key": "Pendidikan",
       "label": "Pendidikan",
-      "active": 370,
-      "fixed": 1209,
+      "active": 340,
+      "fixed": 1239,
       "total": 1579
     },
     {
@@ -116,8 +116,8 @@
     {
       "key": "Tidak diketahui",
       "label": "Tidak diketahui",
-      "active": 49,
-      "fixed": 2,
+      "active": 14,
+      "fixed": 37,
       "total": 51
     }
   ]
