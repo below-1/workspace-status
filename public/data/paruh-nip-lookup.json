@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "24 November 2026, 08:31 WITA",
+    "generated_at": "24 November 2026, 09:02 WITA",
     "source_updated_at": "24 November 2026, 17:43 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -7360,16 +7360,24 @@
     {
       "nip": "198007262025211079",
       "nama": "YUNUS MANEK LELO",
-      "nama_berkas": "",
+      "nama_berkas": "Yunus Manek Lelo,S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI RAIHAT",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19800726202521 1 079",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198007282025211013",
@@ -13596,16 +13604,24 @@
     {
       "nip": "198404102025211219",
       "nama": "APOLONIUS REMI MAU",
-      "nama_berkas": "",
+      "nama_berkas": "Apolonius Remi Mau,S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI RAIHAT",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19840410202521 1 219",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198404112025212097",
@@ -26646,16 +26662,16 @@
     {
       "nip": "198801132025212117",
       "nama": "DESI ROLY GANDI SOLE",
-      "nama_berkas": "",
+      "nama_berkas": "DESI R.G. SOLE, S.Pd., Gr.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI TUNUA",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "198801142025211026",
@@ -68788,16 +68804,16 @@
     {
       "nip": "199506132025212173",
       "nama": "YUMERTI LESTARI KOLLO",
-      "nama_berkas": "",
+      "nama_berkas": "YUMERTI L. KOLLO, S. Pd., Gr.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI TUNUA",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199506162025212208",
@@ -70886,16 +70902,24 @@
     {
       "nip": "199512052025212190",
       "nama": "ANASTASIA BENYAMIN",
-      "nama_berkas": "",
+      "nama_berkas": "Anastasia Benyamin, S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI RAIHAT",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19951205202521 2 190",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199512072025211124",
@@ -74046,16 +74070,16 @@
     {
       "nip": "199607012025211156",
       "nama": "GEBI JUANO KOTEN",
-      "nama_berkas": "",
+      "nama_berkas": "GEBI J. KOTEN, S.Pd., Gr.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI TUNUA",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199607032025211102",
@@ -77108,30 +77132,32 @@
       "errors": [
         "unregistered_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "fixed_errors": [
+        "unregistered_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "unregistered_ni",
           "raw": "199704142021212160",
           "detail": "NIP tidak ditemukan pada data master PPPK"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-19"
     },
     {
       "nip": "199704142025212160",
       "nama": "APRILIA DAMA YANTI",
-      "nama_berkas": "",
+      "nama_berkas": "Aprilia Dama Yanti, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 WAIKABUBAK",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-24"
     },
     {
       "nip": "199704152025211103",
