@@ -2,7 +2,7 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Non Dinas Pendidikan",
     "period": "2026",
-    "generated_at": "25 November 2026, 17:01 WITA",
+    "generated_at": "25 November 2026, 17:31 WITA",
     "source_updated_at": "25 November 2026, 19:28 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -13,8 +13,8 @@
     "ratio": 92.64,
     "province": {
       "total": 4540,
-      "processed": 3794,
-      "ratio": 83.57
+      "processed": 3797,
+      "ratio": 83.63
     },
     "unit_count": 23,
     "unregistered": 354,
@@ -196,7 +196,7 @@
     {
       "unit": "Belum teridentifikasi",
       "reason": "Berkas Excel tidak sesuai template",
-      "count": 85
+      "count": 84
     },
     {
       "unit": "Belum teridentifikasi",

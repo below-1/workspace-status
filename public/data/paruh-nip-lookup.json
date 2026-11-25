@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "25 November 2026, 17:01 WITA",
+    "generated_at": "25 November 2026, 17:31 WITA",
     "source_updated_at": "25 November 2026, 19:28 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -21850,16 +21850,16 @@
     {
       "nip": "198611282025212115",
       "nama": "VENIDORA FALLO",
-      "nama_berkas": "",
+      "nama_berkas": "VENIDORA FALLO, S. Pd., Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MUTIS",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198612092025212097",
@@ -23892,16 +23892,16 @@
     {
       "nip": "198704242025212176",
       "nama": "MARIA GORETI KOFI",
-      "nama_berkas": "",
+      "nama_berkas": "MARIA GORETI KOFI, S. Pd., Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MUTIS",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198704252025211142",
@@ -51355,16 +51355,16 @@
     {
       "nip": "199112262025211121",
       "nama": "DESIDARIUS AMBANU",
-      "nama_berkas": "",
+      "nama_berkas": "DESIDARIUS AMBANU, S. Pd., Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MUTIS",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199112282025211028",
