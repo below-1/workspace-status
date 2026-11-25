@@ -2,14 +2,14 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "25 November 2026, 15:31 WITA",
+    "generated_at": "25 November 2026, 16:02 WITA",
     "source_updated_at": "25 November 2026, 19:28 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
-    "emails": 1332,
-    "failed": 559,
-    "valid_files": 773,
+    "emails": 1337,
+    "failed": 562,
+    "valid_files": 775,
     "active_nip_emails": 79,
     "active_findings": 209,
     "fixed_findings": 1079
@@ -19,40 +19,40 @@
       "code": "no_excel",
       "label": "Tanpa lampiran Excel",
       "count": 139,
-      "ratio": 10.44
+      "ratio": 10.4
     },
     {
       "code": "excel_unreadable",
       "label": "Excel tidak terbaca",
       "count": 1,
-      "ratio": 0.08
+      "ratio": 0.07
     },
     {
       "code": "template",
       "label": "Excel tidak sesuai template",
-      "count": 262,
-      "ratio": 19.67
+      "count": 265,
+      "ratio": 19.82
     },
     {
       "code": "nip",
       "label": "NIP tidak valid",
       "count": 79,
-      "ratio": 5.93
+      "ratio": 5.91
     },
     {
       "code": "pdf",
       "label": "PDF tidak valid",
       "count": 78,
-      "ratio": 5.86
+      "ratio": 5.83
     }
   ],
   "by_week": [
     {
       "period": "2026-11-23",
-      "emails": 748,
-      "failed": 294,
-      "valid": 454,
-      "ratio": 60.7
+      "emails": 753,
+      "failed": 297,
+      "valid": 456,
+      "ratio": 60.56
     },
     {
       "period": "2026-11-16",

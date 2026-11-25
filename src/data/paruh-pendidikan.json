@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "25 November 2026, 15:31 WITA",
+    "generated_at": "25 November 2026, 16:02 WITA",
     "source_updated_at": "25 November 2026, 19:28 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 3628,
-    "belum": 749,
-    "ratio": 82.89,
+    "processed": 3642,
+    "belum": 735,
+    "ratio": 83.21,
     "province": {
       "total": 4540,
-      "processed": 3779,
-      "ratio": 83.24
+      "processed": 3793,
+      "ratio": 83.55
     },
     "unit_count": 2,
     "unregistered": 354,
@@ -24,16 +24,16 @@
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2450,
-      "belum": 451,
-      "ratio": 84.45
+      "processed": 2456,
+      "belum": 445,
+      "ratio": 84.66
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 902,
-      "belum": 182,
-      "ratio": 83.21
+      "processed": 910,
+      "belum": 174,
+      "ratio": 83.95
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 3627,
-      "belum": 749,
-      "ratio": 82.88
+      "processed": 3641,
+      "belum": 735,
+      "ratio": 83.2
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -1925,9 +1925,9 @@
     {
       "name": "SMKN OP",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2525,9 +2525,9 @@
     {
       "name": "SMA NEGERI NUNKOLO",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4831,7 +4831,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "Berkas Excel tidak sesuai template",
-      "count": 1
+      "count": 2
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
@@ -4846,7 +4846,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (2 baris)",
-      "count": 6
+      "count": 5
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
