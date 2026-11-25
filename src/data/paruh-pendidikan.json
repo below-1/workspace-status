@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "25 November 2026, 10:01 WITA",
+    "generated_at": "25 November 2026, 10:31 WITA",
     "source_updated_at": "25 November 2026, 19:28 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 3532,
-    "belum": 845,
-    "ratio": 80.69,
+    "processed": 3538,
+    "belum": 839,
+    "ratio": 80.83,
     "province": {
       "total": 4540,
-      "processed": 3683,
-      "ratio": 81.12
+      "processed": 3689,
+      "ratio": 81.26
     },
     "unit_count": 2,
     "unregistered": 350,
@@ -31,9 +31,9 @@
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 866,
-      "belum": 218,
-      "ratio": 79.89
+      "processed": 872,
+      "belum": 212,
+      "ratio": 80.44
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 3531,
-      "belum": 845,
-      "ratio": 80.69
+      "processed": 3537,
+      "belum": 839,
+      "ratio": 80.83
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -2877,9 +2877,9 @@
     {
       "name": "SMKN 3 KALABAHI",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
