@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "25 November 2026, 20:01 WITA",
-    "source_updated_at": "25 November 2026, 19:52 WITA",
+    "generated_at": "25 November 2026, 20:31 WITA",
+    "source_updated_at": "25 November 2026, 20:27 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -5388,12 +5388,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SLB NEGERI ENDE",
       "jenjang": "SLB",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "197810172025212032",
@@ -9838,16 +9838,16 @@
     {
       "nip": "198112242025212046",
       "nama": "EMILIANA BONAFANTURA BEWU",
-      "nama_berkas": "",
+      "nama_berkas": "Emiliana Bonafantura Bewu, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SLB NEGERI ENDE",
       "jenjang": "SLB",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198112252025212083",
@@ -11122,6 +11122,20 @@
       "received_on": "2026-11-23"
     },
     {
+      "nip": "198208162022212025",
+      "nama": "VICTORIA SRISANTI NULE",
+      "nama_berkas": "Victoria S. Nulle, S. Kom",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMAN 1 TAEKAS - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "198208172025211211",
       "nama": "MARTINUS MUDA KONDO",
       "nama_berkas": "Martinus Muda Kondo.S.Pd,Gr",
@@ -11320,16 +11334,16 @@
     {
       "nip": "198209162025212078",
       "nama": "YULIANA MINA",
-      "nama_berkas": "",
+      "nama_berkas": "Yuliana Mina, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SLB NEGERI ENDE",
       "jenjang": "SLB",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198209202025211125",
@@ -14402,16 +14416,16 @@
     {
       "nip": "198404112025212097",
       "nama": "ANJELINA YACOBA KOEN ATAWUWUR",
-      "nama_berkas": "",
+      "nama_berkas": "Anjelina Yacoba Koen Atawuwur, S.Sos",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SLB NEGERI ENDE",
       "jenjang": "SLB",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198404122025212145",
@@ -19458,16 +19472,16 @@
     {
       "nip": "198603112025212117",
       "nama": "PETRONELA RANTETANA",
-      "nama_berkas": "",
+      "nama_berkas": "Petronella Rantetana, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SLB NEGERI ENDE",
       "jenjang": "SLB",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198603122025212000",
@@ -19730,16 +19744,16 @@
     {
       "nip": "198604032025211165",
       "nama": "APRIANUS UKAT",
-      "nama_berkas": "",
+      "nama_berkas": "Aprianus Ukat, S. Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 TAEKAS",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198604082025212092",
@@ -26535,12 +26549,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 TAEKAS",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198710052025212062",
@@ -29307,16 +29321,16 @@
     {
       "nip": "198804052025212163",
       "nama": "MARIA WILFRIDA NINO",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Wilfrida Nino, S. Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 TAEKAS",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198804062025212174",
@@ -31571,16 +31585,16 @@
     {
       "nip": "198808162025212155",
       "nama": "YASINTA CICIWATI PINGA",
-      "nama_berkas": "",
+      "nama_berkas": "Yasinta Cici Wati Pinga, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SLB NEGERI ENDE",
       "jenjang": "SLB",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198808162025212157",
@@ -31951,16 +31965,16 @@
     {
       "nip": "198809062025211111",
       "nama": "SEBASTIANUS SUMARTO",
-      "nama_berkas": "",
+      "nama_berkas": "Sebastianus Sumarto, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 3 LAMBA LEDA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198809072025211035",
@@ -35935,16 +35949,16 @@
     {
       "nip": "198905092025211161",
       "nama": "BONEFASIUS EKA PUTRA WANGSA OKA SASI",
-      "nama_berkas": "",
+      "nama_berkas": "Bonefasius Eka Putra Wangsa Oka Sasi, S. Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 TAEKAS",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198905102025211239",
@@ -39411,16 +39425,16 @@
     {
       "nip": "198911252025212151",
       "nama": "AUXILIA KATHARINE BANA",
-      "nama_berkas": "",
+      "nama_berkas": "Auxilia Katharine Bana, S. Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 TAEKAS",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198911262025211043",
@@ -43309,16 +43323,16 @@
     {
       "nip": "199007212025212190",
       "nama": "MARIA YOFRANTA REPI",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Yofranta Repi, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SLB NEGERI ENDE",
       "jenjang": "SLB",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199007222025212122",
@@ -46395,16 +46409,16 @@
     {
       "nip": "199101162025212126",
       "nama": "LIDWINA BANA",
-      "nama_berkas": "",
+      "nama_berkas": "Lidwina Bana, S. Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 TAEKAS",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199101192025212000",
@@ -52227,6 +52241,20 @@
       "received_on": ""
     },
     {
+      "nip": "199201072022211011",
+      "nama": "RAYMUNDUS NINO",
+      "nama_berkas": "Raymundus Nino, S. Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMAN 1 TAEKAS - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "199201072025212163",
       "nama": "JAMILAH UMAR",
       "nama_berkas": "JAMILAH UMAR, S.Pd",
@@ -53035,16 +53063,16 @@
     {
       "nip": "199202282025212177",
       "nama": "MARIA SURYANI RIRIT PAMA GADO",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Suryani Ririt Pama Gado, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SLB NEGERI ENDE",
       "jenjang": "SLB",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199202292025211121",
@@ -55336,16 +55364,16 @@
     {
       "nip": "199207012025212210",
       "nama": "ESTER NURLEYLA",
-      "nama_berkas": "",
+      "nama_berkas": "Ester Nurleyla, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 3 LAMBA LEDA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199207022025211146",
@@ -64667,16 +64695,16 @@
     {
       "nip": "199403242025212161",
       "nama": "MARIA PRISILA NAIMNULE",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Prisila Naimnule, S. Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 TAEKAS",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199403262025212131",
@@ -70429,16 +70457,16 @@
     {
       "nip": "199503202025212159",
       "nama": "MARIA ANGELINA LADO",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Angelina Lado, S. Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 TAEKAS",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199503212025211119",
@@ -72902,16 +72930,16 @@
     {
       "nip": "199508312025211109",
       "nama": "AGUTIANUS KARDONIS",
-      "nama_berkas": "",
+      "nama_berkas": "Agutianus Kardonis, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 3 LAMBA LEDA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199509022025212133",
@@ -75127,16 +75155,16 @@
     {
       "nip": "199602062025212147",
       "nama": "ALBERGITA NOHO",
-      "nama_berkas": "",
+      "nama_berkas": "Albergita Noho, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 3 LAMBA LEDA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199602072025212137",
@@ -84906,16 +84934,16 @@
     {
       "nip": "199807052025212136",
       "nama": "MARSELINA FENIESTIN",
-      "nama_berkas": "",
+      "nama_berkas": "Marselina Feniestin, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 3 LAMBA LEDA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199807062025212120",
