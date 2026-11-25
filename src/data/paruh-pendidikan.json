@@ -2,38 +2,38 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "25 November 2026, 21:02 WITA",
+    "generated_at": "25 November 2026, 21:32 WITA",
     "source_updated_at": "25 November 2026, 21:51 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 3731,
-    "belum": 646,
-    "ratio": 85.24,
+    "processed": 3754,
+    "belum": 623,
+    "ratio": 85.77,
     "province": {
       "total": 4540,
-      "processed": 3882,
-      "ratio": 85.51
+      "processed": 3905,
+      "ratio": 86.01
     },
     "unit_count": 2,
-    "unregistered": 356,
+    "unregistered": 360,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2511,
-      "belum": 390,
-      "ratio": 86.56
+      "processed": 2526,
+      "belum": 375,
+      "ratio": 87.07
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 933,
-      "belum": 151,
-      "ratio": 86.07
+      "processed": 941,
+      "belum": 143,
+      "ratio": 86.81
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 3730,
-      "belum": 646,
-      "ratio": 85.24
+      "processed": 3753,
+      "belum": 623,
+      "ratio": 85.76
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -989,9 +989,9 @@
     {
       "name": "SMA NEGERI LASIOLAT",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0,
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1861,9 +1861,9 @@
     {
       "name": "SMKN 1 KUWUS",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3117,9 +3117,9 @@
     {
       "name": "SMAN 1 NAGAWUTUNG",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0,
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
