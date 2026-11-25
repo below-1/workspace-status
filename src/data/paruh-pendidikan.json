@@ -2,38 +2,38 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "25 November 2026, 14:52 WITA",
+    "generated_at": "25 November 2026, 15:01 WITA",
     "source_updated_at": "25 November 2026, 19:28 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 3609,
-    "belum": 768,
-    "ratio": 82.45,
+    "processed": 3628,
+    "belum": 749,
+    "ratio": 82.89,
     "province": {
       "total": 4540,
-      "processed": 3760,
-      "ratio": 82.82
+      "processed": 3779,
+      "ratio": 83.24
     },
     "unit_count": 2,
-    "unregistered": 353,
+    "unregistered": 354,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2441,
-      "belum": 460,
-      "ratio": 84.14
+      "processed": 2450,
+      "belum": 451,
+      "ratio": 84.45
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 892,
-      "belum": 192,
-      "ratio": 82.29
+      "processed": 902,
+      "belum": 182,
+      "ratio": 83.21
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 3608,
-      "belum": 768,
-      "ratio": 82.45
+      "processed": 3627,
+      "belum": 749,
+      "ratio": 82.88
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -885,9 +885,9 @@
     {
       "name": "SMK NEGERI 1 SATARMESE",
       "total": 11,
-      "processed": 0,
-      "belum": 11,
-      "ratio": 0.0,
+      "processed": 10,
+      "belum": 1,
+      "ratio": 90.91,
       "invalid": 0
     },
     {
@@ -1485,9 +1485,9 @@
     {
       "name": "SMA NEGERI 1 BUYASURI",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4349,9 +4349,9 @@
     {
       "name": "SMA NEGERI 1 WULANDONI",
       "total": 2,
-      "processed": 0,
-      "belum": 2,
-      "ratio": 0.0,
+      "processed": 1,
+      "belum": 1,
+      "ratio": 50.0,
       "invalid": 0
     },
     {
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 22
+      "count": 23
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
