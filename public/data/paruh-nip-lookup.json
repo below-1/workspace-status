@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "25 November 2026, 19:01 WITA",
+    "generated_at": "25 November 2026, 19:32 WITA",
     "source_updated_at": "25 November 2026, 19:28 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -1146,6 +1146,28 @@
       "received_on": ""
     },
     {
+      "nip": "197204122025211020",
+      "nama": "HENDRIK O BULING",
+      "nama_berkas": "HENDRIK O. BULING",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19720412202521 1 020",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "197205062025212024",
       "nama": "SARINA ENGA LIKA",
       "nama_berkas": "SARINA ENGA LIKA, SE",
@@ -1730,6 +1752,28 @@
       "received_on": "2026-11-03"
     },
     {
+      "nip": "197306112024211002",
+      "nama": "RAHMAD UMAR",
+      "nama_berkas": "RAHMAD UMAR,S.Ag",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19730611202421 1 002",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "197306272025212011",
       "nama": "JOHANA FRANSISKA ABUK",
       "nama_berkas": "",
@@ -1896,16 +1940,24 @@
     {
       "nip": "197310232025212028",
       "nama": "ADOLFINA KOLIMO",
-      "nama_berkas": "",
+      "nama_berkas": "ADOLFINA KOLIMO, SM",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 KALABAHI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19731023202521 2 028",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "197311042025211024",
@@ -3576,6 +3628,28 @@
       "received_on": "2026-11-03"
     },
     {
+      "nip": "197608302022212010",
+      "nama": "BARSILAI ERLY WASTY HOYATA",
+      "nama_berkas": "BARSILAY E.W. HOYATA, S.Kom",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19760830202221 2 010",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "197609062025211068",
       "nama": "BALTASAR MANU GASPAR",
       "nama_berkas": "",
@@ -4012,6 +4086,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-24"
+    },
+    {
+      "nip": "197704242022212010",
+      "nama": "NURCAHAYA",
+      "nama_berkas": "NURCAHAYA, S.Kom",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19770424202221 2 010",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "197705262025211045",
@@ -10948,6 +11044,28 @@
       "received_on": "2026-11-23"
     },
     {
+      "nip": "198207292022212011",
+      "nama": "DAHLIA BAY GAWI",
+      "nama_berkas": "DAHLIA BAY GAWI, SE",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19820729202221 2 011",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "198208012025211106",
       "nama": "ALFONSIUS ELI",
       "nama_berkas": "Alfonsius Eli, A.Md.Kep",
@@ -11446,6 +11564,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-23"
+    },
+    {
+      "nip": "198212272025212021",
+      "nama": "BETY FERONIKA TAKALAPETA",
+      "nama_berkas": "BETY F. TAKALAPETA, S.Pd.,Gr",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19821227202521 2 021",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198212282025211102",
@@ -12484,6 +12624,28 @@
       "received_on": "2026-11-23"
     },
     {
+      "nip": "198307062022211016",
+      "nama": "GERSON BANG",
+      "nama_berkas": "GERSON BANG, S.Si",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19830706202221 1 016",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "198307072025211172",
       "nama": "JONI TABALA",
       "nama_berkas": "",
@@ -12602,6 +12764,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-04"
+    },
+    {
+      "nip": "198308052025211041",
+      "nama": "SABAN IMRAN",
+      "nama_berkas": "SABAN IMRAN, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19830805202521 1 041",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198308052025212098",
@@ -13406,6 +13590,28 @@
         }
       ],
       "received_on": "2026-11-23"
+    },
+    {
+      "nip": "198401072022211014",
+      "nama": "ERIK ESTRADA PULING",
+      "nama_berkas": "ERIK E. PULING, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19840107202221 1 014",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198401072025211115",
@@ -15728,6 +15934,28 @@
       "received_on": "2026-11-21"
     },
     {
+      "nip": "198411242024211009",
+      "nama": "CALVIN VONSIUS PAULINUS PENI",
+      "nama_berkas": "CALVIN V. P. PENI, S.Pd.,Gr",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19841124202421 1 009",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "198411242025211023",
       "nama": "BRUTH THER SOEFT AHAL ONI",
       "nama_berkas": "",
@@ -15932,6 +16160,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-03"
+    },
+    {
+      "nip": "198412272025211024",
+      "nama": "PAULUS TANG",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19841227202521 1 024",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198412282025211029",
@@ -16158,12 +16408,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 LAMALERA",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198502192025212084",
@@ -20174,6 +20424,28 @@
       "received_on": ""
     },
     {
+      "nip": "198607052024211023",
+      "nama": "ESRA MANISENI",
+      "nama_berkas": "ESRA MANISENI, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19860705202421 1 023",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "198607052025211040",
       "nama": "ANTHONIUS DJOKO TRIONO",
       "nama_berkas": "ANTHONIUS DJOKO TRIONO,SE",
@@ -20618,16 +20890,24 @@
     {
       "nip": "198608112025212119",
       "nama": "REGINA ELISABETH ATACAY",
-      "nama_berkas": "",
+      "nama_berkas": "REGINA E. ATACAY, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 KALABAHI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19860811202521 2 119",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198608122025212028",
@@ -21406,6 +21686,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-23"
+    },
+    {
+      "nip": "198610242022212008",
+      "nama": "EUNIKKE D. ALOJAHA",
+      "nama_berkas": "EUNIKKE D. ALOJAHA, SE;Gr",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19861024202221 2 008",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198610242025211130",
@@ -22428,6 +22730,28 @@
       "received_on": ""
     },
     {
+      "nip": "198701292025211029",
+      "nama": "ALFRET SIR",
+      "nama_berkas": "ALFRET SIR, S.Pd.,Gr",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19870129202521 1 029",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "198702012025212132",
       "nama": "YOVITA MUKU WULA",
       "nama_berkas": "Yovita Muku Wula,S.Pd",
@@ -23348,16 +23672,24 @@
     {
       "nip": "198703232025211150",
       "nama": "FRANSISCUS KRISTOPORUS BULING",
-      "nama_berkas": "",
+      "nama_berkas": "FRANSISCUS K. BULING",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 KALABAHI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19870323202521 1 150",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198703232025211152",
@@ -23662,6 +23994,28 @@
       "received_on": "2026-10-27"
     },
     {
+      "nip": "198704142022212024",
+      "nama": "DEWI JUWITA",
+      "nama_berkas": "DEWI JUWITA, S.Pd.,Gr",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19870414 202221 2 024",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "198704142025211198",
       "nama": "JONI MAWER BAITANU",
       "nama_berkas": "",
@@ -23938,6 +24292,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-10-15"
+    },
+    {
+      "nip": "198705042025211046",
+      "nama": "CATUR SEMEYERD HERWANTO KOLY",
+      "nama_berkas": "CATUR S.H. KOLY, S.Pd.,Gr",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19870504202521 1 046",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198705042025211165",
@@ -26323,6 +26699,28 @@
       "received_on": ""
     },
     {
+      "nip": "198710172025212035",
+      "nama": "EMA INDRAYANI LALANG PERING",
+      "nama_berkas": "EMA I. LALANG PERING, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19871017202521 2 035",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "198710192025211117",
       "nama": "ROBIANUS KONO",
       "nama_berkas": "",
@@ -27679,6 +28077,28 @@
       "received_on": "2026-11-20"
     },
     {
+      "nip": "198801092022211023",
+      "nama": "MUSA ABRAHAM FAMANEY",
+      "nama_berkas": "MUSA A. FAMANEY, S.Pd., Gr",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19880109202221 1 023",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "198801092025212030",
       "nama": "LODIA ESTER",
       "nama_berkas": "",
@@ -28243,6 +28663,28 @@
       "received_on": "2026-11-23"
     },
     {
+      "nip": "19880225024211016",
+      "nama": "PESTUS JIPSON WENI RATU, S.Pd",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI",
+      "jenjang": "Tidak diketahui",
+      "status": "needs_fix",
+      "errors": [
+        "non_numeric_ni"
+      ],
+      "fixed_errors": [],
+      "active_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19880225 02421 1 016",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "fixed_details": [],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "198802282025211135",
       "nama": "YOSEPH ROMANUS RESI",
       "nama_berkas": "YOSEP ROMANUS RESI, S.Pd",
@@ -28375,6 +28817,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-24"
+    },
+    {
+      "nip": "198803112025212063",
+      "nama": "NUARTI",
+      "nama_berkas": "NUARTI, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19880311202521 2 063",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198803122025211162",
@@ -29253,6 +29717,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": ""
+    },
+    {
+      "nip": "198805022022212027",
+      "nama": "DWI MEILIA RAHMADANI",
+      "nama_berkas": "DWI M. RAHMADANI, S.Pd., Gr",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19880502202221 2 027",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198805022025212169",
@@ -35609,6 +36095,28 @@
       "received_on": "2026-11-23"
     },
     {
+      "nip": "198905182025212039",
+      "nama": "MARIA ATAMA",
+      "nama_berkas": "MARIA ATAMA, S.Pd.,Gr",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19890518202521 2 039",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "198905182025212184",
       "nama": "RIFAT HAWILA WENI MAU",
       "nama_berkas": "Rifat H. Weni Mau, S.Pd",
@@ -36781,16 +37289,16 @@
     {
       "nip": "198907162025211153",
       "nama": "YOHANES DATON PULUM",
-      "nama_berkas": "",
+      "nama_berkas": "Yohanes Daton Pulum , S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 LAMALERA",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198907172022211014",
@@ -39219,12 +39727,20 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 KALABAHI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19891211202521 2 141",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198912142025211141",
@@ -41617,6 +42133,28 @@
       "received_on": "2026-11-21"
     },
     {
+      "nip": "199005042022211011",
+      "nama": "FLORIANUS BUANG",
+      "nama_berkas": "FLORIANUS BUANG, S.Pd.,Gr",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19900504202221 1 011",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "199005052025212338",
       "nama": "MARIA VICTORIA BETE KUI",
       "nama_berkas": "Maria Victoria Bete Kui, S.Pd., Gr",
@@ -43126,6 +43664,28 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
+      "received_on": "2026-11-25"
+    },
+    {
+      "nip": "199008112022212021",
+      "nama": "AMELIA MOYKARI",
+      "nama_berkas": "AMELIA MOYKARI, S.Pd.,Gr",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19900811202221 2 021",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
       "received_on": "2026-11-25"
     },
     {
@@ -45315,6 +45875,28 @@
       "received_on": "2026-11-24"
     },
     {
+      "nip": "199012282022212021",
+      "nama": "NURHAYATI ADANG",
+      "nama_berkas": "NURHAYATI ADANG, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19901228202221 2 021",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "199012282025212154",
       "nama": "YANCE BACEBA SELAN",
       "nama_berkas": "YANCE BACEBA SELAN, S.Pd",
@@ -46481,6 +47063,28 @@
       "received_on": "2026-11-23"
     },
     {
+      "nip": "199103032022212022",
+      "nama": "MARSELINDA MARO",
+      "nama_berkas": "MARSELINDA MARO, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19910303202221 2 022",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "199103032025212083",
       "nama": "NURUL WAHYU KUSUMARDANI",
       "nama_berkas": "NURUL WAHYU KUSUMARDANI,S.Si",
@@ -47433,16 +48037,16 @@
     {
       "nip": "199104172025212187",
       "nama": "ANISITAS PAMPUR",
-      "nama_berkas": "",
+      "nama_berkas": "Anisitas Pampur, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI RESTORASI TIMUNG WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199104182025211159",
@@ -48141,16 +48745,16 @@
     {
       "nip": "199105292025211141",
       "nama": "KRISTOFORUS MEIRINALDO MARUNG",
-      "nama_berkas": "",
+      "nama_berkas": "Kristoforus Meirinaldo Marung, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI RESTORASI TIMUNG WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199105292025212131",
@@ -49229,16 +49833,24 @@
     {
       "nip": "199107282025212153",
       "nama": "FLORINDA TANG",
-      "nama_berkas": "",
+      "nama_berkas": "FLORINDA TANG, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 KALABAHI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19910728202521 2 153",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199107282025212155",
@@ -49465,6 +50077,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": ""
+    },
+    {
+      "nip": "199108162022212030",
+      "nama": "DOLI ESTERLINA GRIMU",
+      "nama_berkas": "DOLI E. GRIMU, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19910816202221 2 030",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199108172025211257",
@@ -51099,6 +51733,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-22"
+    },
+    {
+      "nip": "199112142025211046",
+      "nama": "JAKOB ADI KURNIAWAN PERING",
+      "nama_berkas": "JAKOB A.K. PERING, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19911214202521 1 046",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199112142025212146",
@@ -54396,6 +55052,28 @@
       "received_on": "2026-11-23"
     },
     {
+      "nip": "199206182022212017",
+      "nama": "YUNIATI ALBERTINA DAEL DJAHA",
+      "nama_berkas": "YUNIATI A. DAELDJAHA, S.Pd;Gr",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19920618202221 2 017",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "199206182025211133",
       "nama": "DIONISIUS FERDI RANGGAK",
       "nama_berkas": "Dionisius Ferdi Ranggak,S.Pd",
@@ -55018,16 +55696,24 @@
     {
       "nip": "199207292025211128",
       "nama": "SIMSON HIDAYAT ONMABI",
-      "nama_berkas": "",
+      "nama_berkas": "SIMSON HIDAYAT ONMABI, A.Md",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 KALABAHI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19920729202521 1 128",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199207302025211031",
@@ -55234,6 +55920,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-20"
+    },
+    {
+      "nip": "199208122022212028",
+      "nama": "ARANCI MBOE",
+      "nama_berkas": "ARANCI MBOE, S.Pd, Gr",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19920812202221 2 028",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199208122025211181",
@@ -56586,16 +57294,16 @@
     {
       "nip": "199211102025211196",
       "nama": "VINSENSIUS PARMAN",
-      "nama_berkas": "",
+      "nama_berkas": "Vinsensius Parman, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI RESTORASI TIMUNG WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199211112025211000",
@@ -56676,6 +57384,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-23"
+    },
+    {
+      "nip": "199211162025212035",
+      "nama": "NAOMI OUW",
+      "nama_berkas": "NAOMI OUW, S.Pd.,Gr",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19921116202521 2 035",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199211202025211134",
@@ -61198,16 +61928,24 @@
     {
       "nip": "199308302025212159",
       "nama": "IMMANUELLA A. DJAHAMOUW",
-      "nama_berkas": "",
+      "nama_berkas": "IMMANUELA A. DJAHAMOUW, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 KALABAHI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19930830202521 2 159",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199308312025211110",
@@ -62028,6 +62766,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-04"
+    },
+    {
+      "nip": "199310282025212032",
+      "nama": "HARYATI KAPITANG",
+      "nama_berkas": "HARYATI KAPITANG, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19931028202521 2 032",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199310282025212196",
@@ -63193,16 +63953,16 @@
     {
       "nip": "199401262025211109",
       "nama": "YUVENTINUS ELOR",
-      "nama_berkas": "",
+      "nama_berkas": "Yuventinus Elor, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI RESTORASI TIMUNG WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199401282025212151",
@@ -65307,16 +66067,24 @@
     {
       "nip": "199407012025211165",
       "nama": "AKBAR HUSEN DJUMA",
-      "nama_berkas": "",
+      "nama_berkas": "AKBAR H. DJUMA",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 KALABAHI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19940701202521 1 165",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199407012025211168",
@@ -65743,6 +66511,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-23"
+    },
+    {
+      "nip": "199407282025211027",
+      "nama": "YOHANES VIRGINO K. KAMUIHKAR",
+      "nama_berkas": "YOHANES V.K. KAMUIHKAR, S.Pd.,Gr",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19940728202521 1 027",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199407282025211111",
@@ -68111,6 +68901,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-20"
+    },
+    {
+      "nip": "199412282022211008",
+      "nama": "ANDY",
+      "nama_berkas": "ANDY, S.Pd.,Gr",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19941228202221 1 008",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199412282025211129",
@@ -71752,16 +72564,16 @@
     {
       "nip": "199508022025211145",
       "nama": "PETRUS SIANUS ALOTARONG",
-      "nama_berkas": "",
+      "nama_berkas": "Petrus Sianus Alotarong, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI RESTORASI TIMUNG WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199508022025211146",
@@ -72542,6 +73354,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-21"
+    },
+    {
+      "nip": "199510112022211011",
+      "nama": "ABDUL HATIP S. BUSA",
+      "nama_berkas": "ABDUL HATIP S. BUSA, S.Kom",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19951011202221 1 011",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199510112025211133",
@@ -75513,16 +76347,16 @@
     {
       "nip": "199604222025211119",
       "nama": "WILHELMUS APRILMAN AGUL",
-      "nama_berkas": "",
+      "nama_berkas": "Wilhelmus Aprilman Agul, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI RESTORASI TIMUNG WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199604232025211115",
@@ -77850,6 +78684,28 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
+      "received_on": "2026-11-25"
+    },
+    {
+      "nip": "199610192025212045",
+      "nama": "RIA ERAWATI MAUKAFELI",
+      "nama_berkas": "RIA ERAWATI MAUKAFELI, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 KALABAHI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19961019202521 2 045",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
       "received_on": "2026-11-25"
     },
     {
@@ -82140,16 +82996,16 @@
     {
       "nip": "199712132025212114",
       "nama": "EMENILDA JEHIRA",
-      "nama_berkas": "",
+      "nama_berkas": "Emenilda Jehira, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI RESTORASI TIMUNG WAE RII",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199712152025212114",
@@ -83898,16 +84754,24 @@
     {
       "nip": "199806282025212122",
       "nama": "HARDIYANTI ABDUL WAHID",
-      "nama_berkas": "",
+      "nama_berkas": "HARDIYANTI ABDUL WAHID, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 KALABAHI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19980628202521 2 122",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199806282025212124",
@@ -84622,16 +85486,24 @@
     {
       "nip": "199810142025211085",
       "nama": "ELISAMA STARIS DAKAWETANG",
-      "nama_berkas": "",
+      "nama_berkas": "ELISAMA S. DAKAWETANG",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 KALABAHI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19981014202521 1 085",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199810172025212099",
@@ -86546,12 +87418,20 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 KALABAHI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "20000220202521 2 084",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "200003032025212105",
