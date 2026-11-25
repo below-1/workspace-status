@@ -2,18 +2,18 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "25 November 2026, 10:31 WITA",
+    "generated_at": "25 November 2026, 14:02 WITA",
     "source_updated_at": "25 November 2026, 19:28 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total_master": 4540,
-    "valid": 3673,
-    "needs_fix": 39,
-    "not_submitted": 828,
+    "valid": 3725,
+    "needs_fix": 32,
+    "not_submitted": 783,
     "needs_confirmation": 0,
-    "active_findings": 288,
-    "fixed_findings": 1487
+    "active_findings": 282,
+    "fixed_findings": 1500
   },
   "by_defect": [
     {
@@ -40,16 +40,16 @@
     {
       "code": "trailing_000_ni",
       "label": "NIP berakhiran 000",
-      "active": 91,
-      "fixed": 192,
-      "total": 283
+      "active": 92,
+      "fixed": 195,
+      "total": 287
     },
     {
       "code": "unregistered_ni",
       "label": "NIP tidak terdaftar",
-      "active": 89,
-      "fixed": 56,
-      "total": 145
+      "active": 82,
+      "fixed": 65,
+      "total": 147
     },
     {
       "code": "numeric_cell_ni",
@@ -62,22 +62,22 @@
       "code": "duplicate_ni_diff_name",
       "label": "NIP ganda beda nama",
       "active": 0,
-      "fixed": 97,
-      "total": 97
+      "fixed": 98,
+      "total": 98
     }
   ],
   "by_jenjang": [
     {
       "name": "SMA",
-      "active": 92,
-      "fixed": 842,
-      "total": 934
+      "active": 89,
+      "fixed": 849,
+      "total": 938
     },
     {
       "name": "SMK",
-      "active": 123,
+      "active": 126,
       "fixed": 445,
-      "total": 568
+      "total": 571
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Tidak diketahui",
-      "active": 72,
-      "fixed": 151,
+      "active": 66,
+      "fixed": 157,
       "total": 223
     }
   ],
@@ -102,9 +102,9 @@
     {
       "key": "Pendidikan",
       "label": "Pendidikan",
-      "active": 245,
-      "fixed": 1345,
-      "total": 1590
+      "active": 239,
+      "fixed": 1358,
+      "total": 1597
     },
     {
       "key": "Non-Pendidikan",
