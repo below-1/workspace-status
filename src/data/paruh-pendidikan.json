@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "25 November 2026, 16:31 WITA",
+    "generated_at": "25 November 2026, 17:01 WITA",
     "source_updated_at": "25 November 2026, 19:28 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 3642,
-    "belum": 735,
-    "ratio": 83.21,
+    "processed": 3643,
+    "belum": 734,
+    "ratio": 83.23,
     "province": {
       "total": 4540,
-      "processed": 3793,
-      "ratio": 83.55
+      "processed": 3794,
+      "ratio": 83.57
     },
     "unit_count": 2,
     "unregistered": 354,
@@ -24,9 +24,9 @@
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2456,
-      "belum": 445,
-      "ratio": 84.66
+      "processed": 2457,
+      "belum": 444,
+      "ratio": 84.69
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 3641,
-      "belum": 735,
-      "ratio": 83.2
+      "processed": 3642,
+      "belum": 734,
+      "ratio": 83.23
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -1093,9 +1093,9 @@
     {
       "name": "SMAN KUANFATU",
       "total": 10,
-      "processed": 9,
-      "belum": 1,
-      "ratio": 90.0,
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
