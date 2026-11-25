@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "25 November 2026, 15:01 WITA",
+    "generated_at": "25 November 2026, 15:31 WITA",
     "source_updated_at": "25 November 2026, 19:28 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -237,6 +237,22 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 12,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "c51c1bd14656",
+      "received_on": "2026-11-25",
+      "received_at": "2026-11-25T15:15:11+08:00",
+      "sender_email": "nendikoib5@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 7,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -1207,6 +1223,24 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 20,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "1e987163be19",
+      "received_on": "2026-11-25",
+      "received_at": "2026-11-25T15:18:08+08:00",
+      "sender_email": "smkn1kuwus08@gmail.com",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
