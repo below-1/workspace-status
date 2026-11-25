@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "25 November 2026, 18:32 WITA",
+    "generated_at": "25 November 2026, 19:01 WITA",
     "source_updated_at": "25 November 2026, 19:28 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -7246,16 +7246,16 @@
     {
       "nip": "198004222025212034",
       "nama": "MARIA MAGDALENA WAE EDANG WALA",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Magdalena Wae Edangwala, S.Sos",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198004242025212067",
@@ -37214,7 +37214,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-21"
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198908102025211229",
@@ -47963,16 +47963,16 @@
     {
       "nip": "199105212025212137",
       "nama": "MARIA KRISTIANA SIKONE USFINIT",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Kristiana S. Usfinit, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 INSANA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199105232025212000",
@@ -48643,16 +48643,16 @@
     {
       "nip": "199106282025212162",
       "nama": "HERLINA YUNITA KAMALENG",
-      "nama_berkas": "",
+      "nama_berkas": "HERLINA YUNITA KAMALENG, S.Pd.Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 AMARASI BARAT",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199106282025212165",
@@ -48665,15 +48665,17 @@
       "errors": [
         "unregistered_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "fixed_errors": [
+        "unregistered_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "unregistered_ni",
           "raw": "199106282025212165",
           "detail": "NIP tidak ditemukan pada data master PPPK"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-25"
     },
     {
@@ -50635,16 +50637,16 @@
     {
       "nip": "199111162025212172",
       "nama": "YOVIOLATHA PRIMA USFOMENI",
-      "nama_berkas": "",
+      "nama_berkas": "Yoviolatha Prima Usfomeni, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 INSANA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199111192025212134",
@@ -67718,7 +67720,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-21"
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199411252025211108",
@@ -68733,32 +68735,34 @@
       "jenjang": "Tidak diketahui",
       "status": "needs_fix",
       "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [
         "trailing_000_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "trailing_000_ni",
           "raw": "199502072025211000",
           "detail": ""
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-25"
     },
     {
       "nip": "199502072025211118",
       "nama": "LAZARUS AGUN",
-      "nama_berkas": "",
+      "nama_berkas": "Lazarus Agun, S.Pd, Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 SATARMESE",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199502072025212171",
@@ -69155,16 +69159,16 @@
     {
       "nip": "199502282025212211",
       "nama": "SKOLASTIKA AGNES NOGO BLIKOLOLONG",
-      "nama_berkas": "",
+      "nama_berkas": "Skolastika Agnes Nogo Blikololong, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199503022025212140",
@@ -73203,16 +73207,16 @@
     {
       "nip": "199511242025211111",
       "nama": "PROTOSIUS AGUSTINUS KLAU",
-      "nama_berkas": "",
+      "nama_berkas": "Protosius Agustinus Klau, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 INSANA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199511252025211024",
@@ -73579,6 +73583,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-24"
+    },
+    {
+      "nip": "199512232025211117",
+      "nama": "Indra Markus Laitera, S.Pd",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMA NEGERI 2 SEMAU",
+      "jenjang": "Tidak diketahui",
+      "status": "needs_fix",
+      "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [],
+      "active_details": [
+        {
+          "code": "unregistered_ni",
+          "raw": "199512232025211117",
+          "detail": "NIP tidak ditemukan pada data master PPPK"
+        }
+      ],
+      "fixed_details": [],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199512252025211140",
@@ -75403,16 +75429,16 @@
     {
       "nip": "199604152025212163",
       "nama": "AGUSTINA PENI",
-      "nama_berkas": "",
+      "nama_berkas": "Agustina Peni, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SLB NEGERI TUNA GRAHITA (C) NUBATUKAN",
       "jenjang": "SLB",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199604162025212165",
@@ -81074,16 +81100,16 @@
     {
       "nip": "199708212025211094",
       "nama": "OSWIN AGUSTINUS LIKO",
-      "nama_berkas": "",
+      "nama_berkas": "Oswin Agustinus Liko, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 INSANA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199708222025212130",
@@ -82081,7 +82107,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-21"
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199712122025212191",
@@ -83895,7 +83921,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-21"
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199806292025212123",
@@ -84928,16 +84954,16 @@
     {
       "nip": "199901182025212082",
       "nama": "MARGARETHA SANIT",
-      "nama_berkas": "",
+      "nama_berkas": "Margaretha Sanit, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 INSANA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199901202025212070",

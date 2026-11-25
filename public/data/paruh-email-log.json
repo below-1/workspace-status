@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "25 November 2026, 18:32 WITA",
+    "generated_at": "25 November 2026, 19:01 WITA",
     "source_updated_at": "25 November 2026, 19:28 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -128,6 +128,22 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "ef4bb1c9ab6d",
+      "received_on": "2026-11-25",
+      "received_at": "2026-11-25T18:56:25+08:00",
+      "sender_email": "sekunda.nofu42@admin.sma.belajar.id",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 5,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "ebe6beccce6e",
       "received_on": "2026-11-25",
       "received_at": "2026-11-25T18:10:21+08:00",
@@ -179,6 +195,38 @@
       "fixed_findings": 0,
       "findings": [],
       "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "e7bd2d94d935",
+      "received_on": "2026-11-25",
+      "received_at": "2026-11-25T18:35:11+08:00",
+      "sender_email": "mariatadas0192@gmail.com",
+      "outcome": "nip",
+      "reasons": [
+        "nip",
+        "unregistered_ni"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 10,
+      "active_findings": 1,
+      "fixed_findings": 0,
+      "findings": [
+        {
+          "code": "unregistered_ni",
+          "active": 1,
+          "fixed": 0
+        }
+      ],
+      "invalid_nips": [
+        {
+          "nip": "199512232025211117",
+          "defects": [
+            "unregistered_ni"
+          ]
+        }
+      ],
       "mixed_unit_count": 0
     },
     {
@@ -357,6 +405,22 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 7,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "c2a93c8a4e08",
+      "received_on": "2026-11-25",
+      "received_at": "2026-11-25T18:33:38+08:00",
+      "sender_email": "otemusuricky@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 6,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -894,6 +958,22 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "79b854ed1184",
+      "received_on": "2026-11-25",
+      "received_at": "2026-11-25T18:57:41+08:00",
+      "sender_email": "apolonia291@guru.smk.belajar.id",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 11,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "7980b0a72ca0",
       "received_on": "2026-11-25",
       "received_at": "2026-11-25T10:26:26+08:00",
@@ -1144,31 +1224,21 @@
       "received_on": "2026-11-25",
       "received_at": "2026-11-25T08:16:50+08:00",
       "sender_email": "otemusuricky@gmail.com",
-      "outcome": "nip",
-      "reasons": [
-        "nip",
-        "unregistered_ni"
-      ],
+      "outcome": "valid",
+      "reasons": [],
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 6,
-      "active_findings": 1,
-      "fixed_findings": 0,
+      "active_findings": 0,
+      "fixed_findings": 1,
       "findings": [
         {
           "code": "unregistered_ni",
-          "active": 1,
-          "fixed": 0
+          "active": 0,
+          "fixed": 1
         }
       ],
-      "invalid_nips": [
-        {
-          "nip": "199106282025212165",
-          "defects": [
-            "unregistered_ni"
-          ]
-        }
-      ],
+      "invalid_nips": [],
       "mixed_unit_count": 0
     },
     {
@@ -1480,31 +1550,21 @@
       "received_on": "2026-11-25",
       "received_at": "2026-11-25T14:53:27+08:00",
       "sender_email": "apolonia291@guru.smk.belajar.id",
-      "outcome": "nip",
-      "reasons": [
-        "nip",
-        "trailing_000_ni"
-      ],
+      "outcome": "valid",
+      "reasons": [],
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 11,
-      "active_findings": 1,
-      "fixed_findings": 0,
+      "active_findings": 0,
+      "fixed_findings": 1,
       "findings": [
         {
           "code": "trailing_000_ni",
-          "active": 1,
-          "fixed": 0
+          "active": 0,
+          "fixed": 1
         }
       ],
-      "invalid_nips": [
-        {
-          "nip": "199502072025211000",
-          "defects": [
-            "trailing_000_ni"
-          ]
-        }
-      ],
+      "invalid_nips": [],
       "mixed_unit_count": 0
     },
     {
@@ -1602,6 +1662,22 @@
         }
       ],
       "mixed_unit_count": 1
+    },
+    {
+      "id": "1400d07c4dfe",
+      "received_on": "2026-11-25",
+      "received_at": "2026-11-25T18:51:15+08:00",
+      "sender_email": "agustinapeni77@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 3,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 3
     },
     {
       "id": "116cecc72535",
@@ -2155,31 +2231,21 @@
       "received_on": "2026-11-24",
       "received_at": "2026-11-24T15:07:07+08:00",
       "sender_email": "otemusuricky@gmail.com",
-      "outcome": "nip",
-      "reasons": [
-        "nip",
-        "unregistered_ni"
-      ],
+      "outcome": "valid",
+      "reasons": [],
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 6,
-      "active_findings": 1,
-      "fixed_findings": 0,
+      "active_findings": 0,
+      "fixed_findings": 1,
       "findings": [
         {
           "code": "unregistered_ni",
-          "active": 1,
-          "fixed": 0
+          "active": 0,
+          "fixed": 1
         }
       ],
-      "invalid_nips": [
-        {
-          "nip": "199106282025212165",
-          "defects": [
-            "unregistered_ni"
-          ]
-        }
-      ],
+      "invalid_nips": [],
       "mixed_unit_count": 0
     },
     {
