@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "25 November 2026, 19:32 WITA",
-    "source_updated_at": "25 November 2026, 19:28 WITA",
+    "generated_at": "25 November 2026, 20:01 WITA",
+    "source_updated_at": "25 November 2026, 19:52 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -332,12 +332,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "196909272025211010",
@@ -1548,12 +1548,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "197304142025211015",
@@ -8986,6 +8986,20 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-23"
+    },
+    {
+      "nip": "198105252022211011",
+      "nama": "GREGORIUS HADIMAN",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMAN 2 LANGKE REMBONG - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198105252025212107",
@@ -25873,12 +25887,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198708242025212037",
@@ -35369,12 +35383,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198904162025211189",
@@ -37619,12 +37633,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "198908062025211174",
@@ -49643,16 +49657,16 @@
     {
       "nip": "199107212025212192",
       "nama": "DOMINGGAS BUI BERE",
-      "nama_berkas": "",
+      "nama_berkas": "Dominggas Bui Bere, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KAKULUK MESAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199107222025212140",
@@ -54726,12 +54740,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199206012025212193",
@@ -55410,12 +55424,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199207082025211165",
@@ -59878,12 +59892,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199304172025211141",
@@ -60380,16 +60394,16 @@
     {
       "nip": "199305152025212233",
       "nama": "SEJARTINA CLARA RIBEIRO",
-      "nama_berkas": "",
+      "nama_berkas": "Sejartina Clara Ribeiro, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KAKULUK MESAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199305172025211156",
@@ -61540,16 +61554,16 @@
     {
       "nip": "199308072025211180",
       "nama": "ADRIANUS SASWO",
-      "nama_berkas": "",
+      "nama_berkas": "ADRIANUS SASWO, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 7 BORONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199308082025212223",
@@ -62282,16 +62296,16 @@
     {
       "nip": "199309192025212183",
       "nama": "YANUARIA BAU",
-      "nama_berkas": "",
+      "nama_berkas": "Yanuaria Bau, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KAKULUK MESAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199309212022211005",
@@ -64195,16 +64209,16 @@
     {
       "nip": "199402122025212183",
       "nama": "MARIA GAUDENSIANA BILI",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Gaudensiana Bili, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KAKULUK MESAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199402202025211132",
@@ -66039,16 +66053,16 @@
     {
       "nip": "199406292025212146",
       "nama": "MARIA EVALINA ARAUJO SURI",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Evalina Araujo Suri, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KAKULUK MESAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199406302025212158",
@@ -70399,6 +70413,20 @@
       "received_on": "2026-11-23"
     },
     {
+      "nip": "199503192022212013",
+      "nama": "APOLONIA ICANDRAINA SRIREJEKI",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMAN 2 LANGKE REMBONG - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-25"
+    },
+    {
       "nip": "199503202025212159",
       "nama": "MARIA ANGELINA LADO",
       "nama_berkas": "",
@@ -70443,16 +70471,16 @@
     {
       "nip": "199503222025212134",
       "nama": "VONY MARTIENCE WARIAKA",
-      "nama_berkas": "",
+      "nama_berkas": "Vony Martience Wariaka, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KAKULUK MESAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199503232025212191",
@@ -72052,16 +72080,16 @@
     {
       "nip": "199506172025212160",
       "nama": "FRANCISCA CORREIA CARVALHO",
-      "nama_berkas": "",
+      "nama_berkas": "Francisca Correia Carvalho, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KAKULUK MESAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199506172025212162",
@@ -73298,12 +73326,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199510062025211130",
@@ -74281,16 +74309,16 @@
     {
       "nip": "199512132025212137",
       "nama": "LUSIA ODILLA KA'AUNI",
-      "nama_berkas": "",
+      "nama_berkas": "Lusia Odilla Ka'auni, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KAKULUK MESAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199512152025212184",
@@ -83496,12 +83524,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199801282025211096",
@@ -84136,32 +84164,34 @@
       "jenjang": "Tidak diketahui",
       "status": "needs_fix",
       "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [
         "trailing_000_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "trailing_000_ni",
           "raw": "199804122025211000",
           "detail": ""
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-25"
     },
     {
       "nip": "199804122025211092",
       "nama": "ALFIAN APRIANUS LAKUSABA",
-      "nama_berkas": "",
+      "nama_berkas": "Alfian Aprianus Lakusaba,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 AMFOANG TENGAH",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199804152025212139",
@@ -85752,12 +85782,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-25"
     },
     {
       "nip": "199901072025212088",

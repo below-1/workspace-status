@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "25 November 2026, 19:32 WITA",
-    "source_updated_at": "25 November 2026, 19:28 WITA",
+    "generated_at": "25 November 2026, 20:01 WITA",
+    "source_updated_at": "25 November 2026, 19:52 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 3676,
-    "belum": 701,
-    "ratio": 83.98,
+    "processed": 3697,
+    "belum": 680,
+    "ratio": 84.46,
     "province": {
       "total": 4540,
-      "processed": 3827,
-      "ratio": 84.3
+      "processed": 3848,
+      "ratio": 84.76
     },
     "unit_count": 2,
     "unregistered": 356,
@@ -24,16 +24,16 @@
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2465,
-      "belum": 436,
-      "ratio": 84.97
+      "processed": 2485,
+      "belum": 416,
+      "ratio": 85.66
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 932,
-      "belum": 152,
-      "ratio": 85.98
+      "processed": 933,
+      "belum": 151,
+      "ratio": 86.07
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 3675,
-      "belum": 701,
-      "ratio": 83.98
+      "processed": 3696,
+      "belum": 680,
+      "ratio": 84.46
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -821,9 +821,9 @@
     {
       "name": "SMAN 2 LANGKE REMBONG",
       "total": 11,
-      "processed": 0,
-      "belum": 11,
-      "ratio": 0.0,
+      "processed": 11,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1269,9 +1269,9 @@
     {
       "name": "SMA NEGERI KAKULUK MESAK",
       "total": 9,
-      "processed": 0,
-      "belum": 9,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 1,
+      "ratio": 88.89,
       "invalid": 0
     },
     {
@@ -4741,18 +4741,18 @@
     {
       "name": "SMAN 7 BORONG",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0,
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
       "name": "SMK NEGERI 1 AMFOANG TENGAH",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0,
-      "invalid": 1
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0,
+      "invalid": 0
     },
     {
       "name": "SMK NEGERI 1 TITEHENA",
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 21
+      "count": 19
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
