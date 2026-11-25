@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "26 November 2026, 00:06 WITA",
-    "source_updated_at": "25 November 2026, 23:37 WITA",
+    "generated_at": "26 November 2026, 07:48 WITA",
+    "source_updated_at": "26 November 2026, 07:19 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -2934,16 +2934,16 @@
     {
       "nip": "197505282025212033",
       "nama": "ASNAT P. KARGENA",
-      "nama_berkas": "",
+      "nama_berkas": "Asnat P Kargena, S.Sos",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MATARU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "197505292025212008",
@@ -6008,16 +6008,16 @@
     {
       "nip": "197905282025212049",
       "nama": "EMERINSIANA RIKA NAHAK",
-      "nama_berkas": "",
+      "nama_berkas": "Emerensiana Rika Nahak, A.Md",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "197906012022212020",
@@ -6808,6 +6808,20 @@
       "received_on": "2026-11-24"
     },
     {
+      "nip": "198001092024212002",
+      "nama": "SERVINA SECONDISTA HALE",
+      "nama_berkas": "Servina Secondista Hale, S.TP",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN KLETEK SUAI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-26"
+    },
+    {
       "nip": "198001092025211059",
       "nama": "KRISTOFORUS TOLEK KOTEN",
       "nama_berkas": "",
@@ -7058,16 +7072,16 @@
     {
       "nip": "198003162025211077",
       "nama": "HUBERTUS SUGIANTO HASAN",
-      "nama_berkas": "",
+      "nama_berkas": "HUBERTUS S.HASAN, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 KOMODO",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198003222025212007",
@@ -7188,6 +7202,20 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-22"
+    },
+    {
+      "nip": "198004032022212017",
+      "nama": "HERMALINDA TELIK TETI",
+      "nama_berkas": "Hermalinda Telik Teti, S.P",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN KLETEK SUAI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198004052025211150",
@@ -8086,16 +8114,16 @@
     {
       "nip": "198010162025211091",
       "nama": "KALEB LAKAMALAI",
-      "nama_berkas": "",
+      "nama_berkas": "Kaleb Lakamalai SE",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MATARU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198010162025212061",
@@ -10464,16 +10492,16 @@
     {
       "nip": "198204102025211153",
       "nama": "AYUB KARLEHI",
-      "nama_berkas": "",
+      "nama_berkas": "AYUB KARLEHI, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MATARU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198204152025211136",
@@ -10686,16 +10714,16 @@
     {
       "nip": "198205152025212126",
       "nama": "YOHANA LURUK NAHAK",
-      "nama_berkas": "",
+      "nama_berkas": "Yohana Luruk Nahak, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198205162025211021",
@@ -11314,16 +11342,16 @@
     {
       "nip": "198209102025212087",
       "nama": "RITA SOARES",
-      "nama_berkas": "",
+      "nama_berkas": "Rita Soares, SS",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN KLETEK SUAI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198209122025211112",
@@ -11342,16 +11370,16 @@
     {
       "nip": "198209122025212091",
       "nama": "MAGDALENA ASNAT MAIBANA",
-      "nama_berkas": "",
+      "nama_berkas": "Magdalena Asnat Maibana,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MATARU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198209162025211025",
@@ -13426,6 +13454,20 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-03"
+    },
+    {
+      "nip": "198311212024212015",
+      "nama": "SISILIA NOVI PARERA",
+      "nama_berkas": "Sisilia Novi Parera, S.Pi",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN KLETEK SUAI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198311222025211024",
@@ -16226,6 +16268,20 @@
       "received_on": "2026-11-19"
     },
     {
+      "nip": "198412232024211003",
+      "nama": "YOSEP TAEK",
+      "nama_berkas": "Yosep Taek, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN KLETEK SUAI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-26"
+    },
+    {
       "nip": "198412242025212040",
       "nama": "DEBORA THORSIANA LOBO HUKY",
       "nama_berkas": "Debora Thorsiana Lobo Huky, SE",
@@ -16362,16 +16418,16 @@
     {
       "nip": "198501212025212087",
       "nama": "YESRI KRISTIANA KARLEGI",
-      "nama_berkas": "",
+      "nama_berkas": "YESRI KRISTIANA KARLEGI, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MATARU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198501232025211095",
@@ -16598,6 +16654,20 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-03"
+    },
+    {
+      "nip": "198503032025212043",
+      "nama": "WIHELMINA BALOK BERE",
+      "nama_berkas": "Wihelmina Balok Bere, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN KLETEK SUAI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198503032025212150",
@@ -18540,16 +18610,16 @@
     {
       "nip": "198510142025212079",
       "nama": "SARAH MEHLINA PADAMA",
-      "nama_berkas": "",
+      "nama_berkas": "Sarah Mehlina Padama,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MATARU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198510152025212124",
@@ -20086,12 +20156,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198605152025212156",
@@ -20856,16 +20926,16 @@
     {
       "nip": "198608032025212115",
       "nama": "MARIA LILYANA ARI MESTHA",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Lilyana Ari Mestha, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 ELAR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198608042025212121",
@@ -21162,16 +21232,16 @@
     {
       "nip": "198608232025212107",
       "nama": "LEA KARMANI",
-      "nama_berkas": "",
+      "nama_berkas": "Lea Karmani, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MATARU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198608242025211140",
@@ -21644,6 +21714,20 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-22"
+    },
+    {
+      "nip": "198610112022212019",
+      "nama": "MARIA OCTOVIANA CAESARINA KOLLO",
+      "nama_berkas": "Maria Octoviana Caesarina Kollo, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN KLETEK SUAI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198610132025211127",
@@ -23976,16 +24060,16 @@
     {
       "nip": "198704082025211138",
       "nama": "RUDI HARTONO",
-      "nama_berkas": "",
+      "nama_berkas": "RUDI HARTONO, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 KOMODO",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198704092025211024",
@@ -24224,16 +24308,16 @@
     {
       "nip": "198704182025212112",
       "nama": "WILHELMINA SALJU",
-      "nama_berkas": "",
+      "nama_berkas": "WILHELMINA SALJU, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 KOMODO",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198704192025211123",
@@ -25065,16 +25149,16 @@
     {
       "nip": "198706192025212135",
       "nama": "YOSEFINA NDAHANG",
-      "nama_berkas": "",
+      "nama_berkas": "Yosefina Ndahang, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 ELAR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198706202025212155",
@@ -25559,16 +25643,16 @@
     {
       "nip": "198707272025212249",
       "nama": "SABINA BANUNG",
-      "nama_berkas": "",
+      "nama_berkas": "Sabina Banung, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198707292025211144",
@@ -29673,16 +29757,16 @@
     {
       "nip": "198804212025212189",
       "nama": "TITIN WINDAYATRI NAMPIRA",
-      "nama_berkas": "",
+      "nama_berkas": "TITIN WINDAYATRI NAMPIRA,S.Pd,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MATARU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198804232025212132",
@@ -33271,16 +33355,16 @@
     {
       "nip": "198811262025211119",
       "nama": "RIKARDUS UKAS",
-      "nama_berkas": "",
+      "nama_berkas": "Rikardus Ukas, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 ELAR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198811262025212119",
@@ -37565,16 +37649,16 @@
     {
       "nip": "198907282025211133",
       "nama": "YULIUS SINA MAU",
-      "nama_berkas": "",
+      "nama_berkas": "Yulius Sina Mau, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN KLETEK SUAI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198907302025212122",
@@ -37909,6 +37993,20 @@
       "received_on": "2026-11-24"
     },
     {
+      "nip": "198908142025212036",
+      "nama": "AGUSTINA UDUK KALOHU",
+      "nama_berkas": "Agustina Uduk Kalohu, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN KLETEK SUAI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-26"
+    },
+    {
       "nip": "198908152025212181",
       "nama": "TRIFONIA DAYUTIN",
       "nama_berkas": "",
@@ -38185,16 +38283,16 @@
     {
       "nip": "198908282025212193",
       "nama": "YULIANA YATI DIMA",
-      "nama_berkas": "",
+      "nama_berkas": "Yuliana Yati Dima, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198908282025212197",
@@ -39821,6 +39919,20 @@
       "received_on": "2026-11-25"
     },
     {
+      "nip": "198912132024211019",
+      "nama": "DANIEL HANE TAE",
+      "nama_berkas": "Daniel Hane Tae, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN KLETEK SUAI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-26"
+    },
+    {
       "nip": "198912142025211141",
       "nama": "YAKOBUS HENDRIK",
       "nama_berkas": "",
@@ -41173,16 +41285,16 @@
     {
       "nip": "199003112025211152",
       "nama": "MARSELINUS NGGIKU",
-      "nama_berkas": "",
+      "nama_berkas": "Marselinus Nggiku, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 ELAR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199003112025212130",
@@ -45247,16 +45359,16 @@
     {
       "nip": "199011132025211136",
       "nama": "EDOM DAVID TALMAI",
-      "nama_berkas": "",
+      "nama_berkas": "EDOM DAVID TALMAI, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MATARU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199011152025211174",
@@ -45743,16 +45855,16 @@
     {
       "nip": "199012132025211128",
       "nama": "YOHANES RAMPAS",
-      "nama_berkas": "",
+      "nama_berkas": "Yohanes Rampas, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 ELAR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199012132025212139",
@@ -47269,6 +47381,20 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-03"
+    },
+    {
+      "nip": "199103062025212035",
+      "nama": "MARIA YANTI MESAK",
+      "nama_berkas": "Maria Yanti Mesak, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN KLETEK SUAI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199103072025212144",
@@ -58910,6 +59036,20 @@
       "received_on": "2026-11-22"
     },
     {
+      "nip": "199302162025211048",
+      "nama": "FRANSISKUS KLAU",
+      "nama_berkas": "Fransiskus Klau, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN KLETEK SUAI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-26"
+    },
+    {
       "nip": "199302172025211124",
       "nama": "FERDINAN ARDIN B. NGONGO",
       "nama_berkas": "FERDINAN ARDIN B. NGONGO, S.Pd",
@@ -59160,16 +59300,16 @@
     {
       "nip": "199303042025212172",
       "nama": "EFREMSIANA JUM",
-      "nama_berkas": "",
+      "nama_berkas": "Efremsiana Jum, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199303052025212173",
@@ -59224,16 +59364,16 @@
     {
       "nip": "199303082025211154",
       "nama": "YOHANES BANGKAI",
-      "nama_berkas": "",
+      "nama_berkas": "YOHANES BANGKAI, S.Pd.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MATARU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199303082025212174",
@@ -73985,16 +74125,16 @@
     {
       "nip": "199511112025212177",
       "nama": "HET KANDRA DOM LOHI MADJENI",
-      "nama_berkas": "",
+      "nama_berkas": "HET KANDRA DOM LOHI MADJENI, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MATARU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199511122025212174",
@@ -76145,6 +76285,20 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-23"
+    },
+    {
+      "nip": "199604052024212051",
+      "nama": "WALBURGA GERVASIA BERE MANEHAT",
+      "nama_berkas": "Walburga Gervasia Bere Manehat, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN KLETEK SUAI - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199604052025211113",
@@ -80874,16 +81028,16 @@
     {
       "nip": "199704212025211099",
       "nama": "ANANIUS ADE K. JEHARUT",
-      "nama_berkas": "",
+      "nama_berkas": "Ananius Ade K. Jeharut, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199704232025211121",
@@ -83336,16 +83490,16 @@
     {
       "nip": "199712272025212157",
       "nama": "MARIA NATALIA GLORYANTI RATU",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Natalia Gloryanti Ratu, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 LANGKE REMBONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199712312025212217",
