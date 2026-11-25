@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "25 November 2026, 22:01 WITA",
-    "source_updated_at": "25 November 2026, 21:56 WITA",
+    "generated_at": "25 November 2026, 22:31 WITA",
+    "source_updated_at": "25 November 2026, 22:23 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 3767,
-    "belum": 610,
-    "ratio": 86.06,
+    "processed": 3780,
+    "belum": 597,
+    "ratio": 86.36,
     "province": {
       "total": 4540,
-      "processed": 3918,
-      "ratio": 86.3
+      "processed": 3931,
+      "ratio": 86.59
     },
     "unit_count": 2,
     "unregistered": 360,
@@ -24,9 +24,9 @@
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2539,
-      "belum": 362,
-      "ratio": 87.52
+      "processed": 2552,
+      "belum": 349,
+      "ratio": 87.97
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 3766,
-      "belum": 610,
-      "ratio": 86.06
+      "processed": 3779,
+      "belum": 597,
+      "ratio": 86.36
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -3109,9 +3109,9 @@
     {
       "name": "SMAN 1 LAMBA LEDA",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0,
+      "processed": 5,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3549,9 +3549,9 @@
     {
       "name": "SMA NEGERI 5 LAMBA LEDA",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3693,9 +3693,9 @@
     {
       "name": "SMAN 3 SAMBI RAMPAS",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
