@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "26 November 2026, 12:30 WITA",
-    "source_updated_at": "26 November 2026, 12:22 WITA",
+    "generated_at": "26 November 2026, 13:01 WITA",
+    "source_updated_at": "26 November 2026, 12:58 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -33293,16 +33293,24 @@
     {
       "nip": "198811112025212214",
       "nama": "MARTINA KILA",
-      "nama_berkas": "",
+      "nama_berkas": "Martina Kila, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 4 KOTA KOMBA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19881111 202521 2 214",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198811112025212216",
@@ -52567,16 +52575,24 @@
     {
       "nip": "199201042025212163",
       "nama": "EMILIA NURBAYA",
-      "nama_berkas": "",
+      "nama_berkas": "Emilia Nurbaya, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 4 KOTA KOMBA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19920104 202521 2 163",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199201072022211011",
@@ -67101,16 +67117,24 @@
     {
       "nip": "199408052025211148",
       "nama": "OSWALDUS SON",
-      "nama_berkas": "",
+      "nama_berkas": "Oswaldus Son, S.E",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 4 KOTA KOMBA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19940805 202521 1 148",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199408072025212198",
@@ -78323,16 +78347,24 @@
     {
       "nip": "199608032025212157",
       "nama": "LIDYA ERMELINDA FITRIA",
-      "nama_berkas": "",
+      "nama_berkas": "Lidya Ermelinda Fitria, S.E",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 4 KOTA KOMBA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19960803 202521 2 157",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199608052025211144",

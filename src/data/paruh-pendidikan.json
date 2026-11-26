@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "26 November 2026, 12:30 WITA",
-    "source_updated_at": "26 November 2026, 12:22 WITA",
+    "generated_at": "26 November 2026, 13:01 WITA",
+    "source_updated_at": "26 November 2026, 12:58 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 3989,
-    "belum": 388,
-    "ratio": 91.14,
+    "processed": 3993,
+    "belum": 384,
+    "ratio": 91.23,
     "province": {
       "total": 4540,
-      "processed": 4140,
-      "ratio": 91.19
+      "processed": 4144,
+      "ratio": 91.28
     },
     "unit_count": 2,
     "unregistered": 366,
@@ -24,9 +24,9 @@
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2687,
-      "belum": 214,
-      "ratio": 92.62
+      "processed": 2691,
+      "belum": 210,
+      "ratio": 92.76
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 3988,
-      "belum": 388,
-      "ratio": 91.13
+      "processed": 3992,
+      "belum": 384,
+      "ratio": 91.22
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -3709,9 +3709,9 @@
     {
       "name": "SMAN 4 KOTA KOMBA",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {

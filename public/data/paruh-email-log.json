@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "26 November 2026, 12:30 WITA",
-    "source_updated_at": "26 November 2026, 12:22 WITA",
+    "generated_at": "26 November 2026, 13:01 WITA",
+    "source_updated_at": "26 November 2026, 12:58 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -586,6 +586,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "86c7550e9fe4",
+      "received_on": "2026-11-26",
+      "received_at": "2026-11-26T12:58:54+08:00",
+      "sender_email": "slbnalor86@gmail.com",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "86914ea9fe2d",
       "received_on": "2026-11-26",
       "received_at": "2026-11-26T05:51:41+08:00",
@@ -959,6 +977,46 @@
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "1a71ddb10e5c",
+      "received_on": "2026-11-26",
+      "received_at": "2026-11-26T12:50:34+08:00",
+      "sender_email": "hajikarim29@admin.smk.belajar.id",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "173ceb4726a3",
+      "received_on": "2026-11-26",
+      "received_at": "2026-11-26T12:53:11+08:00",
+      "sender_email": "resna.dasilva07@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 4,
+      "active_findings": 0,
+      "fixed_findings": 4,
+      "findings": [
+        {
+          "code": "non_numeric_ni",
+          "active": 0,
+          "fixed": 4
+        }
+      ],
       "invalid_nips": [],
       "mixed_unit_count": 0
     },
