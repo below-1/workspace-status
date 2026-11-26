@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "26 November 2026, 08:31 WITA",
-    "source_updated_at": "26 November 2026, 08:22 WITA",
+    "generated_at": "26 November 2026, 09:01 WITA",
+    "source_updated_at": "26 November 2026, 08:59 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 3873,
-    "belum": 504,
-    "ratio": 88.49,
+    "processed": 3901,
+    "belum": 476,
+    "ratio": 89.12,
     "province": {
       "total": 4540,
-      "processed": 4024,
-      "ratio": 88.63
+      "processed": 4052,
+      "ratio": 89.25
     },
     "unit_count": 2,
     "unregistered": 361,
@@ -24,30 +24,30 @@
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2619,
-      "belum": 282,
-      "ratio": 90.28
+      "processed": 2632,
+      "belum": 269,
+      "ratio": 90.73
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 950,
-      "belum": 134,
-      "ratio": 87.64
+      "processed": 958,
+      "belum": 126,
+      "ratio": 88.38
     },
     {
       "name": "Unit induk Dinas Pendidikan",
       "total": 232,
-      "processed": 184,
-      "belum": 48,
-      "ratio": 79.31
+      "processed": 187,
+      "belum": 45,
+      "ratio": 80.6
     },
     {
       "name": "SLB",
       "total": 159,
-      "processed": 119,
-      "belum": 40,
-      "ratio": 74.84
+      "processed": 123,
+      "belum": 36,
+      "ratio": 77.36
     },
     {
       "name": "Satuan kerja lainnya",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 3872,
-      "belum": 504,
-      "ratio": 88.48
+      "processed": 3900,
+      "belum": 476,
+      "ratio": 89.12
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -77,9 +77,9 @@
     {
       "name": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "total": 232,
-      "processed": 184,
-      "belum": 48,
-      "ratio": 79.31,
+      "processed": 187,
+      "belum": 45,
+      "ratio": 80.6,
       "invalid": 1
     },
     {
@@ -1813,9 +1813,9 @@
     {
       "name": "SMK NEGERI 1 KEFAMENANU",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 8,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1989,9 +1989,9 @@
     {
       "name": "SMA NEGERI 1 WELULI",
       "total": 7,
-      "processed": 0,
-      "belum": 7,
-      "ratio": 0.0,
+      "processed": 7,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -2429,9 +2429,9 @@
     {
       "name": "SMA NEGERI 1 JEREBUU",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3429,9 +3429,9 @@
     {
       "name": "SLB C NEGERI WAIKABUBAK",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 20
+      "count": 19
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
