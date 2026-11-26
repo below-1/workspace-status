@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "26 November 2026, 11:01 WITA",
-    "source_updated_at": "26 November 2026, 10:58 WITA",
+    "generated_at": "26 November 2026, 11:31 WITA",
+    "source_updated_at": "26 November 2026, 11:25 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -16454,16 +16454,16 @@
     {
       "nip": "198501142025211094",
       "nama": "URBANUS FOLLA",
-      "nama_berkas": "",
+      "nama_berkas": "URBANUS FOLLA, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN PANTAI BARU",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198501182025212068",
@@ -19052,12 +19052,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN PANTAI BARU",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198512142025211117",
@@ -33999,16 +33999,16 @@
     {
       "nip": "198901092025211135",
       "nama": "YOHANIS PAULUS ELIK",
-      "nama_berkas": "",
+      "nama_berkas": "YOHANIS PAULUS ELIK, A.Ma Pus",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN PANTAI BARU",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198901092025212110",
@@ -35487,16 +35487,16 @@
     {
       "nip": "198904052025211203",
       "nama": "EVERT LIMA",
-      "nama_berkas": "",
+      "nama_berkas": "EVERT LIMA, S.Pi.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN PANTAI BARU",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198904052025212198",
@@ -43523,16 +43523,16 @@
     {
       "nip": "199007182025212159",
       "nama": "MARSELINA DIAN",
-      "nama_berkas": "",
+      "nama_berkas": "Marselina Dian,S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 LEMBOR SELATAN",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199007192025212123",
@@ -44499,16 +44499,16 @@
     {
       "nip": "199009122025211145",
       "nama": "HENGKI MANANE",
-      "nama_berkas": "",
+      "nama_berkas": "Hengki Manane, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 FATULEU TENGAH",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199009142025212152",
@@ -47021,16 +47021,16 @@
     {
       "nip": "199102092025212131",
       "nama": "ANDARINI NDUNG",
-      "nama_berkas": "",
+      "nama_berkas": "Andarini Ndung,S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 LEMBOR SELATAN",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199102092025212133",
@@ -54300,16 +54300,16 @@
     {
       "nip": "199204172025212192",
       "nama": "ROBERTILDE MURNI JAMUNG",
-      "nama_berkas": "",
+      "nama_berkas": "Robertilde Murni Jamung,S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 LEMBOR SELATAN",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199204212025211177",
@@ -56628,30 +56628,30 @@
     {
       "nip": "199209042025212167",
       "nama": "KATARINA JAIMAN",
-      "nama_berkas": "",
+      "nama_berkas": "Katarina Jaiman,S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 LEMBOR SELATAN",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199209052025212168",
       "nama": "NARTIANI JIMUN",
-      "nama_berkas": "",
+      "nama_berkas": "Nartiani Jimun,S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 LEMBOR SELATAN",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199209062025211160",
@@ -63979,16 +63979,16 @@
     {
       "nip": "199312302025212151",
       "nama": "DELI ATRISNA BANANI",
-      "nama_berkas": "",
+      "nama_berkas": "Deli Atrisna Banani, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 FATULEU TENGAH",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199312312025211258",
@@ -72592,16 +72592,16 @@
     {
       "nip": "199507032025212159",
       "nama": "ANATOLIA YUSTINA RINDU",
-      "nama_berkas": "",
+      "nama_berkas": "Anatolia Yustina Rindu,S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 LEMBOR SELATAN",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199507062025211153",
@@ -72886,16 +72886,16 @@
     {
       "nip": "199507292025211132",
       "nama": "FREDERIK BEDINTUS EBEN",
-      "nama_berkas": "",
+      "nama_berkas": "Frederik Bedintus Eben,S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 LEMBOR SELATAN",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199508012025212174",
@@ -73118,16 +73118,16 @@
     {
       "nip": "199508212025211123",
       "nama": "GRASIANUS EKIS",
-      "nama_berkas": "",
+      "nama_berkas": "Grasianus Ekis,S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 LEMBOR SELATAN",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199508212025212138",
@@ -74151,16 +74151,16 @@
     {
       "nip": "199511052025212157",
       "nama": "NENDI MARTA KOIB",
-      "nama_berkas": "",
+      "nama_berkas": "Nendi Marta Koib, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 FATULEU TENGAH",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199511052025212158",
@@ -76683,16 +76683,16 @@
     {
       "nip": "199604172025212159",
       "nama": "APRILIANI ASNI",
-      "nama_berkas": "",
+      "nama_berkas": "Apriliani Asni,S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 LEMBOR SELATAN",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199604182025211096",
@@ -83228,16 +83228,16 @@
     {
       "nip": "199712012025212132",
       "nama": "EMILDA NATALIA DESIANI",
-      "nama_berkas": "",
+      "nama_berkas": "Emilda Natalia Desiani,S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 LEMBOR SELATAN",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199712022025212138",

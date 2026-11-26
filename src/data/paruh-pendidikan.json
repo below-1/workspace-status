@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "26 November 2026, 11:01 WITA",
-    "source_updated_at": "26 November 2026, 10:58 WITA",
+    "generated_at": "26 November 2026, 11:31 WITA",
+    "source_updated_at": "26 November 2026, 11:25 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 3932,
-    "belum": 445,
-    "ratio": 89.83,
+    "processed": 3949,
+    "belum": 428,
+    "ratio": 90.22,
     "province": {
       "total": 4540,
-      "processed": 4083,
-      "ratio": 89.93
+      "processed": 4100,
+      "ratio": 90.31
     },
     "unit_count": 2,
     "unregistered": 364,
@@ -24,16 +24,16 @@
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2645,
-      "belum": 256,
-      "ratio": 91.18
+      "processed": 2648,
+      "belum": 253,
+      "ratio": 91.28
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 976,
-      "belum": 108,
-      "ratio": 90.04
+      "processed": 990,
+      "belum": 94,
+      "ratio": 91.33
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 3931,
-      "belum": 445,
-      "ratio": 89.83
+      "processed": 3948,
+      "belum": 428,
+      "ratio": 90.22
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -1125,9 +1125,9 @@
     {
       "name": "SMK NEGERI 1 LEMBOR SELATAN",
       "total": 10,
-      "processed": 0,
-      "belum": 10,
-      "ratio": 0.0,
+      "processed": 10,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3917,9 +3917,9 @@
     {
       "name": "SMKN PANTAI BARU",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4093,9 +4093,9 @@
     {
       "name": "SMAN 2 FATULEU TENGAH",
       "total": 3,
-      "processed": 0,
-      "belum": 3,
-      "ratio": 0.0,
+      "processed": 3,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
