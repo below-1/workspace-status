@@ -2,18 +2,18 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "26 November 2026, 13:01 WITA",
-    "source_updated_at": "26 November 2026, 12:58 WITA",
+    "generated_at": "26 November 2026, 13:30 WITA",
+    "source_updated_at": "26 November 2026, 13:23 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total_master": 4540,
-    "valid": 4135,
+    "valid": 4138,
     "needs_fix": 31,
-    "not_submitted": 374,
+    "not_submitted": 371,
     "needs_confirmation": 0,
-    "active_findings": 272,
-    "fixed_findings": 1643
+    "active_findings": 275,
+    "fixed_findings": 1651
   },
   "by_defect": [
     {
@@ -27,8 +27,8 @@
       "code": "non_numeric_ni",
       "label": "NIP bukan angka",
       "active": 66,
-      "fixed": 1213,
-      "total": 1279
+      "fixed": 1221,
+      "total": 1287
     },
     {
       "code": "wrong_length_ni",
@@ -40,16 +40,16 @@
     {
       "code": "trailing_000_ni",
       "label": "NIP berakhiran 000",
-      "active": 83,
+      "active": 85,
       "fixed": 213,
-      "total": 296
+      "total": 298
     },
     {
       "code": "unregistered_ni",
       "label": "NIP tidak terdaftar",
-      "active": 75,
+      "active": 76,
       "fixed": 79,
-      "total": 154
+      "total": 155
     },
     {
       "code": "numeric_cell_ni",
@@ -69,15 +69,15 @@
   "by_jenjang": [
     {
       "name": "SMA",
-      "active": 90,
+      "active": 92,
       "fixed": 866,
-      "total": 956
+      "total": 958
     },
     {
       "name": "SMK",
-      "active": 118,
-      "fixed": 568,
-      "total": 686
+      "active": 119,
+      "fixed": 576,
+      "total": 695
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -102,9 +102,9 @@
     {
       "key": "Pendidikan",
       "label": "Pendidikan",
-      "active": 229,
-      "fixed": 1501,
-      "total": 1730
+      "active": 232,
+      "fixed": 1509,
+      "total": 1741
     },
     {
       "key": "Non-Pendidikan",

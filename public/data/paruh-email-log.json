@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "26 November 2026, 13:01 WITA",
-    "source_updated_at": "26 November 2026, 12:58 WITA",
+    "generated_at": "26 November 2026, 13:30 WITA",
+    "source_updated_at": "26 November 2026, 13:23 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -23,6 +23,38 @@
       "fixed_findings": 0,
       "findings": [],
       "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "f51ee5d014b7",
+      "received_on": "2026-11-26",
+      "received_at": "2026-11-26T13:11:05+08:00",
+      "sender_email": "rofinus.wake41@admin.sma.belajar.id",
+      "outcome": "nip",
+      "reasons": [
+        "nip",
+        "trailing_000_ni"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 8,
+      "active_findings": 1,
+      "fixed_findings": 0,
+      "findings": [
+        {
+          "code": "trailing_000_ni",
+          "active": 1,
+          "fixed": 0
+        }
+      ],
+      "invalid_nips": [
+        {
+          "nip": "198906192025212000",
+          "defects": [
+            "trailing_000_ni"
+          ]
+        }
+      ],
       "mixed_unit_count": 0
     },
     {
@@ -840,6 +872,43 @@
       "fixed_findings": 0,
       "findings": [],
       "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "462e35dd42f0",
+      "received_on": "2026-11-26",
+      "received_at": "2026-11-26T13:23:35+08:00",
+      "sender_email": "smkn1aesesa@gmail.com",
+      "outcome": "nip",
+      "reasons": [
+        "nip",
+        "unregistered_ni"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 9,
+      "active_findings": 1,
+      "fixed_findings": 8,
+      "findings": [
+        {
+          "code": "non_numeric_ni",
+          "active": 0,
+          "fixed": 8
+        },
+        {
+          "code": "unregistered_ni",
+          "active": 1,
+          "fixed": 0
+        }
+      ],
+      "invalid_nips": [
+        {
+          "nip": "19930729 202521 2 137",
+          "defects": [
+            "unregistered_ni"
+          ]
+        }
+      ],
       "mixed_unit_count": 0
     },
     {

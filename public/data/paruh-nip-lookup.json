@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "26 November 2026, 13:01 WITA",
-    "source_updated_at": "26 November 2026, 12:58 WITA",
+    "generated_at": "26 November 2026, 13:30 WITA",
+    "source_updated_at": "26 November 2026, 13:23 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -134,12 +134,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN WOLOJITA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "196903112025212015",
@@ -614,12 +614,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN WOLOJITA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "197009172025211045",
@@ -2655,7 +2655,7 @@
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "received_on": "2026-11-23"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "197410062025212027",
@@ -17901,7 +17901,7 @@
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "received_on": "2026-11-23"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198506282025212081",
@@ -18263,7 +18263,7 @@
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "received_on": "2026-11-23"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198508232025212093",
@@ -22607,7 +22607,7 @@
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "received_on": "2026-11-23"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198612212025212106",
@@ -28324,7 +28324,7 @@
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "received_on": "2026-11-23"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198801052025212037",
@@ -37002,7 +37002,7 @@
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "received_on": "2026-11-23"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198906162025211207",
@@ -37087,6 +37087,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-21"
+    },
+    {
+      "nip": "198906192025212000",
+      "nama": "Yuliana Jemu,S.Pd.",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMAN WOLOJITA",
+      "jenjang": "Tidak diketahui",
+      "status": "needs_fix",
+      "errors": [
+        "trailing_000_ni"
+      ],
+      "fixed_errors": [],
+      "active_details": [
+        {
+          "code": "trailing_000_ni",
+          "raw": "198906192025212000",
+          "detail": ""
+        }
+      ],
+      "fixed_details": [],
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198906192025212062",
@@ -39130,7 +39152,7 @@
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "received_on": "2026-11-23"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198910072025212167",
@@ -57950,16 +57972,16 @@
     {
       "nip": "199211302025211136",
       "nama": "ANDREAS DANRENG",
-      "nama_berkas": "",
+      "nama_berkas": "Andreas Danreng,S.Pd.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN WOLOJITA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199212012025212159",
@@ -61888,6 +61910,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-24"
+    },
+    {
+      "nip": "199307292025212137",
+      "nama": "Anri Anastasia Wea Laha, S.Pd",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN 1 AESESA",
+      "jenjang": "Tidak diketahui",
+      "status": "needs_fix",
+      "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [],
+      "active_details": [
+        {
+          "code": "unregistered_ni",
+          "raw": "19930729 202521 2 137",
+          "detail": "setelah spasi dihapus: 199307292025212137"
+        }
+      ],
+      "fixed_details": [],
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199307312025211046",
@@ -86013,7 +86057,7 @@
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "received_on": "2026-11-23"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199810062025211026",
