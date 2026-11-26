@@ -2,31 +2,31 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "26 November 2026, 10:00 WITA",
-    "source_updated_at": "26 November 2026, 09:52 WITA",
+    "generated_at": "26 November 2026, 10:30 WITA",
+    "source_updated_at": "26 November 2026, 10:24 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 3913,
-    "belum": 464,
-    "ratio": 89.4,
+    "processed": 3917,
+    "belum": 460,
+    "ratio": 89.49,
     "province": {
       "total": 4540,
-      "processed": 4064,
-      "ratio": 89.52
+      "processed": 4068,
+      "ratio": 89.6
     },
     "unit_count": 2,
-    "unregistered": 362,
+    "unregistered": 363,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2640,
-      "belum": 261,
-      "ratio": 91.0
+      "processed": 2644,
+      "belum": 257,
+      "ratio": 91.14
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 3912,
-      "belum": 464,
-      "ratio": 89.4
+      "processed": 3916,
+      "belum": 460,
+      "ratio": 89.49
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -3173,9 +3173,9 @@
     {
       "name": "SMAN 2 SANO NGGOANG",
       "total": 5,
-      "processed": 0,
-      "belum": 5,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 1,
+      "ratio": 80.0,
       "invalid": 0
     },
     {
@@ -4836,7 +4836,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (1 baris)",
-      "count": 19
+      "count": 20
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",

@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "26 November 2026, 10:00 WITA",
-    "source_updated_at": "26 November 2026, 09:52 WITA",
+    "generated_at": "26 November 2026, 10:30 WITA",
+    "source_updated_at": "26 November 2026, 10:24 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -7712,12 +7712,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 SANO NGGOANG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198007072025211037",
@@ -27145,12 +27145,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 SANO NGGOANG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198710282025212161",
@@ -60220,12 +60220,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 SANO NGGOANG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199304182025211162",
@@ -64027,6 +64027,28 @@
       "received_on": "2026-11-21"
     },
     {
+      "nip": "199328082025211159",
+      "nama": "Cenbiatus Raino",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMAN 2 SANO NGGOANG",
+      "jenjang": "Tidak diketahui",
+      "status": "needs_fix",
+      "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [],
+      "active_details": [
+        {
+          "code": "unregistered_ni",
+          "raw": "199328082025211159",
+          "detail": "NIP tidak ditemukan pada data master PPPK"
+        }
+      ],
+      "fixed_details": [],
+      "received_on": "2026-11-26"
+    },
+    {
       "nip": "199401012025212352",
       "nama": "ELISABETH NAHAK",
       "nama_berkas": "Elisabeth Nahak,S.Pd",
@@ -66557,12 +66579,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 2 SANO NGGOANG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199407132025211154",
