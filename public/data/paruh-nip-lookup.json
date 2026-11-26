@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "26 November 2026, 10:30 WITA",
-    "source_updated_at": "26 November 2026, 10:24 WITA",
+    "generated_at": "26 November 2026, 11:01 WITA",
+    "source_updated_at": "26 November 2026, 10:58 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -1864,12 +1864,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 BORONG",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "197309112025211038",
@@ -9396,12 +9396,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN MALAIPEA",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198108082025212078",
@@ -10784,16 +10784,16 @@
     {
       "nip": "198205262025212081",
       "nama": "ROSALIA NEO",
-      "nama_berkas": "",
+      "nama_berkas": "Rosalia Ne'O, A.Md",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 ATADEI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198205272025211019",
@@ -20434,16 +20434,16 @@
     {
       "nip": "198606162025212152",
       "nama": "MARIA DELVINA DIO",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Delvina Dio, S.Pd.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 4 ENDE",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198606172025211048",
@@ -21522,16 +21522,16 @@
     {
       "nip": "198609072025212122",
       "nama": "MARGERITA KARIMALEI",
-      "nama_berkas": "",
+      "nama_berkas": "Margerita Karimalei,S.Pd.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN MALAIPEA",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198609102025212132",
@@ -22580,12 +22580,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 SANO NGGOANG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198612212025212108",
@@ -25199,16 +25199,16 @@
     {
       "nip": "198706162025212154",
       "nama": "MARIA MAGDALENA ANGGO",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Magdalena Anggo,S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 1 ATADEI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198706192025211130",
@@ -28787,16 +28787,16 @@
     {
       "nip": "198802122025212176",
       "nama": "MARIANA ONARIS",
-      "nama_berkas": "",
+      "nama_berkas": "Mariana Onaris, S.Pd.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 4 ENDE",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198802132025211033",
@@ -35783,12 +35783,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 BORONG",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198904212025211168",
@@ -60062,16 +60062,16 @@
     {
       "nip": "199304102025212205",
       "nama": "LINA SRI MAYA KARHOM",
-      "nama_berkas": "",
+      "nama_berkas": "Lina Sri Maya Karhom, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 BORONG",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199304102025212206",
@@ -66105,12 +66105,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 BORONG",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199406092025211137",
@@ -68471,16 +68471,16 @@
     {
       "nip": "199410262025211119",
       "nama": "MARIANUS GONDO OKTAR",
-      "nama_berkas": "",
+      "nama_berkas": "Marianus Gondo Oktar, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 BORONG",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199410262025212129",
@@ -70483,16 +70483,16 @@
     {
       "nip": "199503082025212147",
       "nama": "ERMENILDA NESTI",
-      "nama_berkas": "",
+      "nama_berkas": "Ermenilda Nesti, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 BORONG",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "1995030920252111123",
@@ -70793,16 +70793,16 @@
     {
       "nip": "199503222025211094",
       "nama": "EMANUEL HARMAN",
-      "nama_berkas": "",
+      "nama_berkas": "Emanuel Harman, ST",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 BORONG",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199503222025212134",
@@ -74517,16 +74517,16 @@
     {
       "nip": "199512052025212188",
       "nama": "OKTOFINA LODIA LANMA",
-      "nama_berkas": "",
+      "nama_berkas": "Oktofina Lodia Lanma,S.Pd.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN MALAIPEA",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199512052025212190",
@@ -78485,6 +78485,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-23"
+    },
+    {
+      "nip": "199608272025212000",
+      "nama": "Paulina Maikameng,S.Pd",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMKN MALAIPEA",
+      "jenjang": "Tidak diketahui",
+      "status": "needs_fix",
+      "errors": [
+        "trailing_000_ni"
+      ],
+      "fixed_errors": [],
+      "active_details": [
+        {
+          "code": "trailing_000_ni",
+          "raw": "199608272025212000",
+          "detail": ""
+        }
+      ],
+      "fixed_details": [],
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199608272025212123",
