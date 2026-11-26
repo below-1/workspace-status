@@ -2,18 +2,18 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "26 November 2026, 09:01 WITA",
-    "source_updated_at": "26 November 2026, 08:59 WITA",
+    "generated_at": "26 November 2026, 09:31 WITA",
+    "source_updated_at": "26 November 2026, 09:23 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total_master": 4540,
-    "valid": 4043,
-    "needs_fix": 32,
-    "not_submitted": 465,
+    "valid": 4051,
+    "needs_fix": 31,
+    "not_submitted": 458,
     "needs_confirmation": 0,
-    "active_findings": 274,
-    "fixed_findings": 1630
+    "active_findings": 273,
+    "fixed_findings": 1632
   },
   "by_defect": [
     {
@@ -26,8 +26,8 @@
     {
       "code": "non_numeric_ni",
       "label": "NIP bukan angka",
-      "active": 67,
-      "fixed": 1206,
+      "active": 66,
+      "fixed": 1207,
       "total": 1273
     },
     {
@@ -40,16 +40,16 @@
     {
       "code": "trailing_000_ni",
       "label": "NIP berakhiran 000",
-      "active": 83,
-      "fixed": 211,
+      "active": 82,
+      "fixed": 212,
       "total": 294
     },
     {
       "code": "unregistered_ni",
       "label": "NIP tidak terdaftar",
-      "active": 76,
+      "active": 77,
       "fixed": 76,
-      "total": 152
+      "total": 153
     },
     {
       "code": "numeric_cell_ni",
@@ -70,8 +70,8 @@
     {
       "name": "SMA",
       "active": 91,
-      "fixed": 855,
-      "total": 946
+      "fixed": 856,
+      "total": 947
     },
     {
       "name": "SMK",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Tidak diketahui",
-      "active": 64,
-      "fixed": 159,
+      "active": 63,
+      "fixed": 160,
       "total": 223
     }
   ],
@@ -102,9 +102,9 @@
     {
       "key": "Pendidikan",
       "label": "Pendidikan",
-      "active": 231,
-      "fixed": 1488,
-      "total": 1719
+      "active": 230,
+      "fixed": 1490,
+      "total": 1720
     },
     {
       "key": "Non-Pendidikan",

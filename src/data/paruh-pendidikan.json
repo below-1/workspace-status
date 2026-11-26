@@ -2,31 +2,31 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "26 November 2026, 09:01 WITA",
-    "source_updated_at": "26 November 2026, 08:59 WITA",
+    "generated_at": "26 November 2026, 09:31 WITA",
+    "source_updated_at": "26 November 2026, 09:23 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 3901,
-    "belum": 476,
-    "ratio": 89.12,
+    "processed": 3909,
+    "belum": 468,
+    "ratio": 89.31,
     "province": {
       "total": 4540,
-      "processed": 4052,
-      "ratio": 89.25
+      "processed": 4060,
+      "ratio": 89.43
     },
     "unit_count": 2,
-    "unregistered": 361,
+    "unregistered": 362,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2632,
-      "belum": 269,
-      "ratio": 90.73
+      "processed": 2640,
+      "belum": 261,
+      "ratio": 91.0
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 3900,
-      "belum": 476,
-      "ratio": 89.12
+      "processed": 3908,
+      "belum": 468,
+      "ratio": 89.31
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -1589,9 +1589,9 @@
     {
       "name": "SMA NEGERI KALONDAMA",
       "total": 8,
-      "processed": 0,
-      "belum": 8,
-      "ratio": 0.0,
+      "processed": 7,
+      "belum": 1,
+      "ratio": 87.5,
       "invalid": 0
     },
     {
@@ -2061,9 +2061,9 @@
     {
       "name": "SMA NEGERI SILAIPUI",
       "total": 7,
-      "processed": 6,
-      "belum": 1,
-      "ratio": 85.71,
+      "processed": 7,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {

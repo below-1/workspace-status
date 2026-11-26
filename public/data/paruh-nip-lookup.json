@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "26 November 2026, 09:01 WITA",
-    "source_updated_at": "26 November 2026, 08:59 WITA",
+    "generated_at": "26 November 2026, 09:31 WITA",
+    "source_updated_at": "26 November 2026, 09:23 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -14954,6 +14954,28 @@
       "received_on": "2026-11-22"
     },
     {
+      "nip": "198405272025212019",
+      "nama": "Butet Heni Melinda Ouhana,SE",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMA NEGERI KALONDAMA",
+      "jenjang": "Tidak diketahui",
+      "status": "needs_fix",
+      "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [],
+      "active_details": [
+        {
+          "code": "unregistered_ni",
+          "raw": "198405272025212019",
+          "detail": "NIP tidak ditemukan pada data master PPPK"
+        }
+      ],
+      "fixed_details": [],
+      "received_on": "2026-11-26"
+    },
+    {
       "nip": "198405272025212091",
       "nama": "BUTET HENNY MELINDA OUHANA",
       "nama_berkas": "",
@@ -21172,16 +21194,16 @@
     {
       "nip": "198608162025212171",
       "nama": "ELISABET LETMAU",
-      "nama_berkas": "",
+      "nama_berkas": "Elisabet Letmau,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KALONDAMA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198608182025212000",
@@ -36535,16 +36557,16 @@
     {
       "nip": "198905252025212250",
       "nama": "MARYAM MASE",
-      "nama_berkas": "",
+      "nama_berkas": "Maryam Mase,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KALONDAMA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198905262025211140",
@@ -39542,21 +39564,21 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-24"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198911202025211137",
       "nama": "ROKI STEVEN BESY",
-      "nama_berkas": "",
+      "nama_berkas": "Roki Steven Besy,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KALONDAMA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198911202025212162",
@@ -48710,7 +48732,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-24"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199105162025211132",
@@ -54890,17 +54912,19 @@
       "jenjang": "Tidak diketahui",
       "status": "needs_fix",
       "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [
         "trailing_000_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "trailing_000_ni",
           "raw": "199205262025212000",
           "detail": ""
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-20"
     },
     {
@@ -54910,19 +54934,19 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI SILAIPUI",
       "jenjang": "SMA",
-      "status": "needs_fix",
-      "errors": [
+      "status": "valid",
+      "errors": [],
+      "fixed_errors": [
         "non_numeric_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "non_numeric_ni",
           "raw": "199205262025212149'",
           "detail": "NIP hanya boleh memuat angka"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-24"
     },
     {
@@ -59996,16 +60020,16 @@
     {
       "nip": "199304072025212161",
       "nama": "LETY SUPIAH BLEGUR",
-      "nama_berkas": "",
+      "nama_berkas": "Lety Supiah Blegur,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KALONDAMA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199304102025211199",
@@ -61588,16 +61612,16 @@
     {
       "nip": "199307212025212160",
       "nama": "LOLANG NAEMA ORNI LILY",
-      "nama_berkas": "",
+      "nama_berkas": "Lolang Naema Orni Lily,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KALONDAMA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199307222025212136",
@@ -67336,7 +67360,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-24"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199408262025212162",
@@ -70261,16 +70285,16 @@
     {
       "nip": "199502272025212181",
       "nama": "SARCE BLEGUR",
-      "nama_berkas": "",
+      "nama_berkas": "Sarce Blegur,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KALONDAMA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199502282025212211",
@@ -71969,7 +71993,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-24"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199505252025212226",
@@ -72941,7 +72965,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-24"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199508092025212181",
@@ -84987,7 +85011,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-24"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199806142025212130",
@@ -85240,16 +85264,16 @@
     {
       "nip": "199807072025212128",
       "nama": "SIMEI BAKKI LIBING",
-      "nama_berkas": "",
+      "nama_berkas": "Simei Bakki Libing,S.Mat",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI KALONDAMA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199807082025212132",
