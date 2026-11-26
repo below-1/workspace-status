@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "26 November 2026, 08:00 WITA",
-    "source_updated_at": "26 November 2026, 07:55 WITA",
+    "generated_at": "26 November 2026, 08:31 WITA",
+    "source_updated_at": "26 November 2026, 08:22 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -21361,7 +21361,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-25"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198609012025211023",
@@ -26394,7 +26394,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-25"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198709182025211041",
@@ -26771,30 +26771,32 @@
       "errors": [
         "unregistered_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "fixed_errors": [
+        "unregistered_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "unregistered_ni",
           "raw": "198710122025212027",
           "detail": "NIP tidak ditemukan pada data master PPPK"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-25"
     },
     {
       "nip": "198710122025212172",
       "nama": "ELVI SUSANTI LAANA",
-      "nama_berkas": "",
+      "nama_berkas": "Elvi Susanti Laana, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 4 KALABAHI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198710122025212175",
@@ -28702,7 +28704,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-25"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198802122025212176",
@@ -29005,16 +29007,16 @@
     {
       "nip": "198803122025211162",
       "nama": "MARTINUS DAKUNG",
-      "nama_berkas": "",
+      "nama_berkas": "Martinus Dakung, S.Pd.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 LELAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198803122025212189",
@@ -33406,7 +33408,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-25"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198811282025211123",
@@ -36290,7 +36292,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-25"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198905192025211130",
@@ -36337,16 +36339,16 @@
     {
       "nip": "198905202025212225",
       "nama": "YUSTINA MELI",
-      "nama_berkas": "",
+      "nama_berkas": "Yustina Meli,S.Pd.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 LELAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198905212025212135",
@@ -42609,16 +42611,16 @@
     {
       "nip": "199005202025211199",
       "nama": "SAFRINUS CADOR",
-      "nama_berkas": "",
+      "nama_berkas": "Safrinus Cador,S.Pd.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 LELAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199005212025211132",
@@ -43726,7 +43728,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-25"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199008032025211177",
@@ -47771,16 +47773,16 @@
     {
       "nip": "199103282025212135",
       "nama": "MARIA SUSANTI",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Susanti,S.Pd.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 LELAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199103292025211135",
@@ -49051,16 +49053,16 @@
     {
       "nip": "199106012025212215",
       "nama": "ANGGRIANA FITRYA JENA",
-      "nama_berkas": "",
+      "nama_berkas": "Anggriana Fitrya Jena, S.Pd.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 LELAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199106022025212164",
@@ -57337,7 +57339,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-25"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199210282025212185",
@@ -59094,16 +59096,16 @@
     {
       "nip": "199302202025212151",
       "nama": "YASINTA MARTA GANUR",
-      "nama_berkas": "",
+      "nama_berkas": "Yasinta Marta Ganur,S.Pd.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 LELAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199302212025212149",
@@ -63313,16 +63315,16 @@
     {
       "nip": "199311202025212156",
       "nama": "YULIA MUTI",
-      "nama_berkas": "",
+      "nama_berkas": "Yulia Muti,S.Pd.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 LELAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199311202025212158",
@@ -74352,7 +74354,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-25"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199511272025211144",
@@ -79515,7 +79517,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-25"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199612102025212170",
@@ -79931,7 +79933,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-25"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199701192025211093",
@@ -80654,16 +80656,16 @@
     {
       "nip": "199703232025211114",
       "nama": "ADRIANUS WANDRIANTO PURNAMA",
-      "nama_berkas": "",
+      "nama_berkas": "Adrianus Wandrianto Purnama,S.Pd.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 LELAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199703232025212050",
@@ -83349,7 +83351,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-25"
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199712202025211104",
@@ -83504,16 +83506,16 @@
     {
       "nip": "199712312025212217",
       "nama": "MELANIA ANGELINA BAHAGIA",
-      "nama_berkas": "",
+      "nama_berkas": "Melania Angelina Bahagia,S.Pd.",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 LELAK",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199712312025212219",
@@ -84806,15 +84808,17 @@
       "errors": [
         "unregistered_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "fixed_errors": [
+        "unregistered_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "unregistered_ni",
           "raw": "199806032020211111",
           "detail": "NIP tidak ditemukan pada data master PPPK"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-25"
     },
     {
@@ -84824,12 +84828,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 4 KALABAHI",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199806052025211100",

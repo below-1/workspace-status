@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "26 November 2026, 08:00 WITA",
-    "source_updated_at": "26 November 2026, 07:55 WITA",
+    "generated_at": "26 November 2026, 08:31 WITA",
+    "source_updated_at": "26 November 2026, 08:22 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 3862,
-    "belum": 515,
-    "ratio": 88.23,
+    "processed": 3873,
+    "belum": 504,
+    "ratio": 88.49,
     "province": {
       "total": 4540,
-      "processed": 4013,
-      "ratio": 88.39
+      "processed": 4024,
+      "ratio": 88.63
     },
     "unit_count": 2,
     "unregistered": 361,
@@ -24,16 +24,16 @@
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2610,
-      "belum": 291,
-      "ratio": 89.97
+      "processed": 2619,
+      "belum": 282,
+      "ratio": 90.28
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 948,
-      "belum": 136,
-      "ratio": 87.45
+      "processed": 950,
+      "belum": 134,
+      "ratio": 87.64
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 3861,
-      "belum": 515,
-      "ratio": 88.23
+      "processed": 3872,
+      "belum": 504,
+      "ratio": 88.48
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -501,9 +501,9 @@
     {
       "name": "SMKN 4 KALABAHI",
       "total": 13,
-      "processed": 11,
-      "belum": 2,
-      "ratio": 84.62,
+      "processed": 13,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -1325,9 +1325,9 @@
     {
       "name": "SMAN 1 LELAK",
       "total": 9,
-      "processed": 0,
-      "belum": 9,
-      "ratio": 0.0,
+      "processed": 9,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4846,7 +4846,7 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "reason": "NIP tidak valid (2 baris)",
-      "count": 6
+      "count": 5
     },
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
