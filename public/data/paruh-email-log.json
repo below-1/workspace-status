@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "26 November 2026, 12:01 WITA",
-    "source_updated_at": "26 November 2026, 11:55 WITA",
+    "generated_at": "26 November 2026, 12:30 WITA",
+    "source_updated_at": "26 November 2026, 12:22 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -536,6 +536,22 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "8b1a9c264fb6",
+      "received_on": "2026-11-26",
+      "received_at": "2026-11-26T12:18:29+08:00",
+      "sender_email": "yuniatihaan83@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 4,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "8aef317f91be",
       "received_on": "2026-11-26",
       "received_at": "2026-11-26T11:13:45+08:00",
@@ -775,31 +791,21 @@
       "received_on": "2026-11-26",
       "received_at": "2026-11-26T11:52:49+08:00",
       "sender_email": "bennedictfalchorandem@gmail.com",
-      "outcome": "nip",
-      "reasons": [
-        "nip",
-        "wrong_length_ni"
-      ],
+      "outcome": "valid",
+      "reasons": [],
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 3,
-      "active_findings": 1,
-      "fixed_findings": 0,
+      "active_findings": 0,
+      "fixed_findings": 1,
       "findings": [
         {
           "code": "wrong_length_ni",
-          "active": 1,
-          "fixed": 0
+          "active": 0,
+          "fixed": 1
         }
       ],
-      "invalid_nips": [
-        {
-          "nip": "19900226202512100",
-          "defects": [
-            "wrong_length_ni"
-          ]
-        }
-      ],
+      "invalid_nips": [],
       "mixed_unit_count": 0
     },
     {
@@ -835,35 +841,41 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "38c069f14017",
+      "received_on": "2026-11-26",
+      "received_at": "2026-11-26T12:22:41+08:00",
+      "sender_email": "bennedictfalchorandem@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 3,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "34addd442099",
       "received_on": "2026-11-26",
       "received_at": "2026-11-26T10:40:24+08:00",
       "sender_email": "yuniatihaan83@gmail.com",
-      "outcome": "nip",
-      "reasons": [
-        "nip",
-        "trailing_000_ni"
-      ],
+      "outcome": "valid",
+      "reasons": [],
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 4,
-      "active_findings": 1,
-      "fixed_findings": 0,
+      "active_findings": 0,
+      "fixed_findings": 1,
       "findings": [
         {
           "code": "trailing_000_ni",
-          "active": 1,
-          "fixed": 0
+          "active": 0,
+          "fixed": 1
         }
       ],
-      "invalid_nips": [
-        {
-          "nip": "199608272025212000",
-          "defects": [
-            "trailing_000_ni"
-          ]
-        }
-      ],
+      "invalid_nips": [],
       "mixed_unit_count": 0
     },
     {
@@ -969,6 +981,22 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "1060b995c8d2",
+      "received_on": "2026-11-26",
+      "received_at": "2026-11-26T12:19:32+08:00",
+      "sender_email": "purangsmanruteng@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 9,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "0e318eec0a2f",
       "received_on": "2026-11-26",
       "received_at": "2026-11-26T09:06:16+08:00",
@@ -996,6 +1024,24 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 6,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "070805f7cb4e",
+      "received_on": "2026-11-26",
+      "received_at": "2026-11-26T12:13:07+08:00",
+      "sender_email": "slbnkomodontt@gmail.com",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],

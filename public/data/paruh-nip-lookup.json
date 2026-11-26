@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "26 November 2026, 12:01 WITA",
-    "source_updated_at": "26 November 2026, 11:55 WITA",
+    "generated_at": "26 November 2026, 12:30 WITA",
+    "source_updated_at": "26 November 2026, 12:22 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -34895,16 +34895,16 @@
     {
       "nip": "198903052025212166",
       "nama": "SKOLASTIKA LESMIATI",
-      "nama_berkas": "",
+      "nama_berkas": "Skolastika Lesmiati,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 RUTENG PURANG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "198903062025211126",
@@ -41161,17 +41161,19 @@
       "jenjang": "Tidak diketahui",
       "status": "needs_fix",
       "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [
         "wrong_length_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "wrong_length_ni",
           "raw": "19900226202512100",
           "detail": "length=17"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-26"
     },
     {
@@ -41191,16 +41193,16 @@
     {
       "nip": "199002262025212143",
       "nama": "VALENTINA MEGAMETRIS HAYATI DATU",
-      "nama_berkas": "",
+      "nama_berkas": "Valentina Megametris Hayati Datu,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 KUWUS",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199002272025211037",
@@ -50233,16 +50235,16 @@
     {
       "nip": "199108012025212192",
       "nama": "ALVIANA ISTA ABUNG",
-      "nama_berkas": "",
+      "nama_berkas": "Alviana Ista Abung,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 RUTENG PURANG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199108022025212193",
@@ -51409,16 +51411,16 @@
     {
       "nip": "199110272025212127",
       "nama": "KRISTINA VIRGIN",
-      "nama_berkas": "",
+      "nama_berkas": "Kristina Virgin,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 RUTENG PURANG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199111022025211141",
@@ -57498,16 +57500,16 @@
     {
       "nip": "199210252025211130",
       "nama": "KRISTOFORUS YORDANI NONGGO",
-      "nama_berkas": "",
+      "nama_berkas": "Kristoforus Y.Nonggo,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 RUTENG PURANG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199210252025212154",
@@ -59536,16 +59538,16 @@
     {
       "nip": "199303072025211144",
       "nama": "FREDERIKUS MUJUR",
-      "nama_berkas": "",
+      "nama_berkas": "Frederikus Mujur,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 RUTENG PURANG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199303082025211154",
@@ -66865,16 +66867,16 @@
     {
       "nip": "199407192025212148",
       "nama": "MARSELINA YUSTA",
-      "nama_berkas": "",
+      "nama_berkas": "Marselina Yusta,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 RUTENG PURANG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199407202025212188",
@@ -75499,16 +75501,16 @@
     {
       "nip": "199601282025212112",
       "nama": "VALERIA YOLANDRIANI NIRMALA LADANG",
-      "nama_berkas": "",
+      "nama_berkas": "Valeria Y.N.Ladang,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 RUTENG PURANG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199601282025212114",
@@ -78601,32 +78603,34 @@
       "jenjang": "Tidak diketahui",
       "status": "needs_fix",
       "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [
         "trailing_000_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "trailing_000_ni",
           "raw": "199608272025212000",
           "detail": ""
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-26"
     },
     {
       "nip": "199608272025212123",
       "nama": "PAULINA MAIKAMENG",
-      "nama_berkas": "",
+      "nama_berkas": "Paulina Maikameng,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN MALAIPEA",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199608292025211101",
@@ -81456,16 +81460,16 @@
     {
       "nip": "199705142025211106",
       "nama": "RIKARDUS JEHADU",
-      "nama_berkas": "",
+      "nama_berkas": "Rikardus Jehadu,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 RUTENG PURANG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199705152025211127",
@@ -86504,16 +86508,16 @@
     {
       "nip": "199902172025212091",
       "nama": "TRIFONIA JEANETE ARISTA ISTOFANI",
-      "nama_berkas": "",
+      "nama_berkas": "Trifonia J.A. Istofani,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMA NEGERI 2 RUTENG PURANG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-26"
     },
     {
       "nip": "199902242025211067",
