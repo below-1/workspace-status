@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "26 November 2026, 09:31 WITA",
-    "source_updated_at": "26 November 2026, 09:23 WITA",
+    "generated_at": "26 November 2026, 10:00 WITA",
+    "source_updated_at": "26 November 2026, 09:52 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 3909,
-    "belum": 468,
-    "ratio": 89.31,
+    "processed": 3913,
+    "belum": 464,
+    "ratio": 89.4,
     "province": {
       "total": 4540,
-      "processed": 4060,
-      "ratio": 89.43
+      "processed": 4064,
+      "ratio": 89.52
     },
     "unit_count": 2,
     "unregistered": 362,
@@ -31,9 +31,9 @@
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 958,
-      "belum": 126,
-      "ratio": 88.38
+      "processed": 962,
+      "belum": 122,
+      "ratio": 88.75
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 3908,
-      "belum": 468,
-      "ratio": 89.31
+      "processed": 3912,
+      "belum": 464,
+      "ratio": 89.4
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -3861,9 +3861,9 @@
     {
       "name": "SMKN 1 POCO RANAKA",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {

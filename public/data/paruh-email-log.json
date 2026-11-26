@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "26 November 2026, 09:31 WITA",
-    "source_updated_at": "26 November 2026, 09:23 WITA",
+    "generated_at": "26 November 2026, 10:00 WITA",
+    "source_updated_at": "26 November 2026, 09:52 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -140,6 +140,24 @@
       "mixed_unit_count": 1
     },
     {
+      "id": "baff4bde7c8e",
+      "received_on": "2026-11-26",
+      "received_at": "2026-11-26T09:43:45+08:00",
+      "sender_email": "slbnmanekatniki2@gmail.com",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "b90eae8e6a35",
       "received_on": "2026-11-26",
       "received_at": "2026-11-26T08:22:40+08:00",
@@ -172,6 +190,22 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "ab2706a7fa8b",
+      "received_on": "2026-11-26",
+      "received_at": "2026-11-26T09:52:09+08:00",
+      "sender_email": "smknegeri01pocoranaka@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 4,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "9e1daf6f4b8e",
       "received_on": "2026-11-26",
       "received_at": "2026-11-26T08:52:09+08:00",
@@ -192,6 +226,24 @@
       "received_on": "2026-11-26",
       "received_at": "2026-11-26T08:07:27+08:00",
       "sender_email": "smandualambaleda@gmail.com",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "932912d9b2bf",
+      "received_on": "2026-11-26",
+      "received_at": "2026-11-26T09:49:20+08:00",
+      "sender_email": "wempimariano045@gmail.com",
       "outcome": "template",
       "reasons": [
         "template"
