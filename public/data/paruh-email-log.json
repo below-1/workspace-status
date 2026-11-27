@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 13:31 WITA",
-    "source_updated_at": "27 November 2026, 13:27 WITA",
+    "generated_at": "27 November 2026, 14:03 WITA",
+    "source_updated_at": "27 November 2026, 13:47 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -55,6 +55,38 @@
       "fixed_findings": 0,
       "findings": [],
       "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "d4a915bf82c9",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T13:47:53+08:00",
+      "sender_email": "consertiathaal@gmail.com",
+      "outcome": "nip",
+      "reasons": [
+        "nip",
+        "unregistered_ni"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 7,
+      "active_findings": 1,
+      "fixed_findings": 0,
+      "findings": [
+        {
+          "code": "unregistered_ni",
+          "active": 1,
+          "fixed": 0
+        }
+      ],
+      "invalid_nips": [
+        {
+          "nip": "198808122025211171",
+          "defects": [
+            "unregistered_ni"
+          ]
+        }
+      ],
       "mixed_unit_count": 0
     },
     {

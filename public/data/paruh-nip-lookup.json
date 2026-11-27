@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 13:31 WITA",
-    "source_updated_at": "27 November 2026, 13:27 WITA",
+    "generated_at": "27 November 2026, 14:03 WITA",
+    "source_updated_at": "27 November 2026, 13:47 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -4124,6 +4124,20 @@
       "received_on": "2026-11-19"
     },
     {
+      "nip": "197705272022212006",
+      "nama": "ELISABETH BABU",
+      "nama_berkas": "Elisabeth Babu, S.Sos",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMAN MUTIS EBAN - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-27"
+    },
+    {
       "nip": "197705302025212008",
       "nama": "MARIA DOMINIKA MINGGA WEKING",
       "nama_berkas": "Maria D. Mingga Weking, S.Pd",
@@ -7550,6 +7564,20 @@
         }
       ],
       "received_on": "2026-11-24"
+    },
+    {
+      "nip": "198005182022211005",
+      "nama": "MAXIMILIANUS NATUN",
+      "nama_berkas": "Maximilianus Natun, S.Pd",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMAN MUTIS EBAN - DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
+      "jenjang": "Tidak diketahui",
+      "status": "not_paruh",
+      "errors": [],
+      "fixed_errors": [],
+      "active_details": [],
+      "fixed_details": [],
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198005302025211019",
@@ -20834,16 +20862,16 @@
     {
       "nip": "198607112025212116",
       "nama": "YOPI SURYANTI",
-      "nama_berkas": "",
+      "nama_berkas": "Yopi Suryanti, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MUTIS EBAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198607122025212141",
@@ -26291,16 +26319,16 @@
     {
       "nip": "198708312025211109",
       "nama": "GREGORIUS ANUNUT",
-      "nama_berkas": "",
+      "nama_berkas": "Grehgorius Anunut, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MUTIS EBAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198709012025212153",
@@ -31829,6 +31857,28 @@
       "active_details": [],
       "fixed_details": [],
       "received_on": "2026-11-04"
+    },
+    {
+      "nip": "198808122025211171",
+      "nama": "Ardifianus Ciuman, S.Pd",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMAN MUTIS EBAN",
+      "jenjang": "Tidak diketahui",
+      "status": "needs_fix",
+      "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [],
+      "active_details": [
+        {
+          "code": "unregistered_ni",
+          "raw": "198808122025211171",
+          "detail": "NIP tidak ditemukan pada data master PPPK"
+        }
+      ],
+      "fixed_details": [],
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198808122025212154",
@@ -40417,16 +40467,16 @@
     {
       "nip": "198912282025211142",
       "nama": "PRIMUS FOBIA",
-      "nama_berkas": "",
+      "nama_berkas": "Primus Fobia, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MUTIS EBAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198912292025211146",
@@ -42551,16 +42601,16 @@
     {
       "nip": "199004302025212145",
       "nama": "KORI AVELINA FALLO",
-      "nama_berkas": "",
+      "nama_berkas": "Kori Avelina Fallo, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN MUTIS EBAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199005012025211141",
