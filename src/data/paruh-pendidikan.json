@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "27 November 2026, 16:00 WITA",
+    "generated_at": "27 November 2026, 16:30 WITA",
     "source_updated_at": "27 November 2026, 16:24 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 4169,
-    "belum": 208,
-    "ratio": 95.25,
+    "processed": 4179,
+    "belum": 198,
+    "ratio": 95.48,
     "province": {
       "total": 4540,
-      "processed": 4320,
-      "ratio": 95.15
+      "processed": 4330,
+      "ratio": 95.37
     },
     "unit_count": 2,
     "unregistered": 372,
@@ -24,16 +24,16 @@
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2807,
-      "belum": 94,
-      "ratio": 96.76
+      "processed": 2811,
+      "belum": 90,
+      "ratio": 96.9
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 1020,
-      "belum": 64,
-      "ratio": 94.1
+      "processed": 1026,
+      "belum": 58,
+      "ratio": 94.65
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 4168,
-      "belum": 208,
-      "ratio": 95.25
+      "processed": 4178,
+      "belum": 198,
+      "ratio": 95.48
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -2773,9 +2773,9 @@
     {
       "name": "SMK NEGERI 3 ELAR",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -3725,9 +3725,9 @@
     {
       "name": "SMAN 5 BORONG",
       "total": 4,
-      "processed": 0,
-      "belum": 4,
-      "ratio": 0.0,
+      "processed": 4,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {

@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 16:00 WITA",
+    "generated_at": "27 November 2026, 16:30 WITA",
     "source_updated_at": "27 November 2026, 16:24 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -4520,16 +4520,24 @@
     {
       "nip": "197711022025211057",
       "nama": "LEONARDUS JEHAUN",
-      "nama_berkas": "",
+      "nama_berkas": "Leonardus Jehaun, A.Md",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 5 BORONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19771102 202521 1 057",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-27"
     },
     {
       "nip": "197711022025212013",
@@ -43607,16 +43615,24 @@
     {
       "nip": "199007112025211136",
       "nama": "OSIN JUSANI SON",
-      "nama_berkas": "",
+      "nama_berkas": "Osin Jusani Son, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 5 BORONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19900711 202521 1 136",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199007112025212180",
@@ -58226,16 +58242,16 @@
     {
       "nip": "199212062025212177",
       "nama": "MARIA MAGDALENA FINCE",
-      "nama_berkas": "",
+      "nama_berkas": "MARIA MAGDALENA FINCE S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 3 ELAR",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199212072025212159",
@@ -64995,16 +65011,16 @@
     {
       "nip": "199402272025212141",
       "nama": "YULTIANA KURNIA",
-      "nama_berkas": "",
+      "nama_berkas": "Yultiana Kurnia S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 3 ELAR",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199403032025212231",
@@ -65957,16 +65973,24 @@
     {
       "nip": "199405052025211206",
       "nama": "SEBASTIANUS LAN",
-      "nama_berkas": "",
+      "nama_berkas": "Sebastianus Lan, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 5 BORONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19940505 202521 1 206",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199405062025211117",
@@ -67997,16 +68021,16 @@
     {
       "nip": "199409092025211167",
       "nama": "KORNELIS JEHATU",
-      "nama_berkas": "",
+      "nama_berkas": "Kornelis Jehatu,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 3 ELAR",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199409102025211147",
@@ -77291,16 +77315,16 @@
     {
       "nip": "199605072025211132",
       "nama": "DOMISIANUS AMSI DAESAMRI",
-      "nama_berkas": "",
+      "nama_berkas": "Domisianus Amsi Daesamri, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 3 ELAR",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199605082025212169",
@@ -83938,16 +83962,16 @@
     {
       "nip": "199712232025212140",
       "nama": "FAUSTINA NATALIA MENSI",
-      "nama_berkas": "",
+      "nama_berkas": "Faustina Natalia Mensi, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 3 ELAR",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199712252025211019",
@@ -85474,16 +85498,24 @@
     {
       "nip": "199806262025212160",
       "nama": "DELFIANI DANGUT",
-      "nama_berkas": "",
+      "nama_berkas": "Delfiani Dangut, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 5 BORONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "non_numeric_ni"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "non_numeric_ni",
+          "raw": "19980626 202521 2 160",
+          "detail": "NIP hanya boleh memuat angka"
+        }
+      ],
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199806262025212162",
@@ -85610,16 +85642,16 @@
     {
       "nip": "199807032025211085",
       "nama": "THOMAS YOVAN DHARMAN",
-      "nama_berkas": "",
+      "nama_berkas": "Thomas Yovan Dharman, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMK NEGERI 3 ELAR",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199807042025211094",

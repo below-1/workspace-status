@@ -2,7 +2,7 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 16:00 WITA",
+    "generated_at": "27 November 2026, 16:30 WITA",
     "source_updated_at": "27 November 2026, 16:24 WITA",
     "source": "parse-usulan-perpanjangan"
   },
@@ -165,6 +165,28 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "bfc7b538efa2",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T16:09:28+08:00",
+      "sender_email": "sman5.borong@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 4,
+      "active_findings": 0,
+      "fixed_findings": 4,
+      "findings": [
+        {
+          "code": "non_numeric_ni",
+          "active": 0,
+          "fixed": 4
+        }
+      ],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "b52e8d80e3cf",
       "received_on": "2026-11-27",
       "received_at": "2026-11-27T08:43:00+08:00",
@@ -209,6 +231,28 @@
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "a70e99d82161",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T16:21:00+08:00",
+      "sender_email": "sman5.borong@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 4,
+      "active_findings": 0,
+      "fixed_findings": 4,
+      "findings": [
+        {
+          "code": "non_numeric_ni",
+          "active": 0,
+          "fixed": 4
+        }
+      ],
       "invalid_nips": [],
       "mixed_unit_count": 0
     },
@@ -267,6 +311,24 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 4,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "999850da57dc",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T16:24:15+08:00",
+      "sender_email": "viktoriawulang@gmail.com",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -729,6 +791,22 @@
       "excel_count": 0,
       "pdf_count": 1,
       "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "05e39923ad23",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T16:16:48+08:00",
+      "sender_email": "smk3elar@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 6,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
