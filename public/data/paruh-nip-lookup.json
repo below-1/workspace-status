@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 15:00 WITA",
-    "source_updated_at": "27 November 2026, 15:57 WITA",
+    "generated_at": "27 November 2026, 15:30 WITA",
+    "source_updated_at": "27 November 2026, 16:24 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -1138,12 +1138,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 AIMERE",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "197204122025211020",
@@ -3480,12 +3480,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 AIMERE",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "197605222025212007",
@@ -5522,12 +5522,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 AIMERE",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "197811152025211081",
@@ -25948,7 +25948,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-21"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198708062025212129",
@@ -54926,12 +54926,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 1 AIMERE",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199205112025212169",
@@ -72681,7 +72681,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-21"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199506132025212171",

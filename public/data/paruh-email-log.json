@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 15:00 WITA",
-    "source_updated_at": "27 November 2026, 15:57 WITA",
+    "generated_at": "27 November 2026, 15:30 WITA",
+    "source_updated_at": "27 November 2026, 16:24 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -396,6 +396,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "7300b531bba1",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T16:24:23+08:00",
+      "sender_email": "yustinustae12@admin.sma.belajar.id",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "626f9d06fdae",
       "received_on": "2026-11-27",
       "received_at": "2026-11-27T10:21:25+08:00",
@@ -516,6 +534,22 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "4e531f954d96",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T15:23:21+08:00",
+      "sender_email": "alexandrosaragih0810@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 4,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "4b5171c939a5",
       "received_on": "2026-11-27",
       "received_at": "2026-11-27T13:27:25+08:00",
@@ -625,6 +659,22 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 3,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "15980b5a74ba",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T15:01:08+08:00",
+      "sender_email": "boawaesmandu17@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 4,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
