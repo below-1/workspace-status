@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 12:01 WITA",
-    "source_updated_at": "27 November 2026, 11:54 WITA",
+    "generated_at": "27 November 2026, 12:30 WITA",
+    "source_updated_at": "27 November 2026, 12:24 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -22866,16 +22866,16 @@
     {
       "nip": "198701032025211131",
       "nama": "ANDREAS TADU",
-      "nama_berkas": "",
+      "nama_berkas": "Andreas Tadu, S.Kom",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 4 ELAR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198701032025211133",
@@ -24674,12 +24674,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 2 KOTA KOMBA",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198705062025212159",
@@ -34691,12 +34691,12 @@
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 2 KOTA KOMBA",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198902112025211149",
@@ -80696,16 +80696,16 @@
     {
       "nip": "199702162025212145",
       "nama": "YULIANA YOVITA AMBUT'",
-      "nama_berkas": "",
+      "nama_berkas": "Yuliana Yovita Ambut, S.Pd.Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 4 ELAR",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199702162025212149",

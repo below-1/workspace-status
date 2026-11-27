@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 12:01 WITA",
-    "source_updated_at": "27 November 2026, 11:54 WITA",
+    "generated_at": "27 November 2026, 12:30 WITA",
+    "source_updated_at": "27 November 2026, 12:24 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -110,6 +110,22 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 8,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "c08470c4c8a0",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T12:04:19+08:00",
+      "sender_email": "taduandreas01@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 2,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -278,6 +294,22 @@
       "mixed_unit_count": 1
     },
     {
+      "id": "802fade5f8cd",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T12:24:12+08:00",
+      "sender_email": "yohanesgaring@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 2,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 2
+    },
+    {
       "id": "7bf6cf3c58f5",
       "received_on": "2026-11-27",
       "received_at": "2026-11-27T07:26:40+08:00",
@@ -346,6 +378,24 @@
           "fixed": 1
         }
       ],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "59bcdb56f3fd",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T12:17:50+08:00",
+      "sender_email": "islandruteng@gmail.com",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 0
     },

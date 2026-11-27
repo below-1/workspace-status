@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "27 November 2026, 12:01 WITA",
-    "source_updated_at": "27 November 2026, 11:54 WITA",
+    "generated_at": "27 November 2026, 12:30 WITA",
+    "source_updated_at": "27 November 2026, 12:24 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 4146,
-    "belum": 231,
-    "ratio": 94.72,
+    "processed": 4150,
+    "belum": 227,
+    "ratio": 94.81,
     "province": {
       "total": 4540,
-      "processed": 4297,
-      "ratio": 94.65
+      "processed": 4301,
+      "ratio": 94.74
     },
     "unit_count": 2,
     "unregistered": 371,
@@ -24,16 +24,16 @@
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2792,
-      "belum": 109,
-      "ratio": 96.24
+      "processed": 2794,
+      "belum": 107,
+      "ratio": 96.31
     },
     {
       "name": "SMK",
       "total": 1084,
-      "processed": 1013,
-      "belum": 71,
-      "ratio": 93.45
+      "processed": 1015,
+      "belum": 69,
+      "ratio": 93.63
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 4145,
-      "belum": 231,
-      "ratio": 94.72
+      "processed": 4149,
+      "belum": 227,
+      "ratio": 94.81
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -4461,9 +4461,9 @@
     {
       "name": "SMAN 4 ELAR",
       "total": 2,
-      "processed": 0,
-      "belum": 2,
-      "ratio": 0.0,
+      "processed": 2,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
@@ -4565,9 +4565,9 @@
     {
       "name": "SMKN 2 KOTA KOMBA",
       "total": 2,
-      "processed": 0,
-      "belum": 2,
-      "ratio": 0.0,
+      "processed": 2,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
