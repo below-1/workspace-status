@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 12:30 WITA",
-    "source_updated_at": "27 November 2026, 12:24 WITA",
+    "generated_at": "27 November 2026, 13:00 WITA",
+    "source_updated_at": "27 November 2026, 12:57 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -55666,16 +55666,16 @@
     {
       "nip": "199206212025211127",
       "nama": "ALOISIUS GONSARGO NANGA",
-      "nama_berkas": "",
+      "nama_berkas": "Aloisius Gonsargo Nanga, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN 2 ELAR",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199206222025212159",

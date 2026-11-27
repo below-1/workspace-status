@@ -2,15 +2,15 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 12:30 WITA",
-    "source_updated_at": "27 November 2026, 12:24 WITA",
+    "generated_at": "27 November 2026, 13:00 WITA",
+    "source_updated_at": "27 November 2026, 12:57 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total_master": 4540,
-    "valid": 4292,
+    "valid": 4293,
     "needs_fix": 31,
-    "not_submitted": 217,
+    "not_submitted": 216,
     "needs_confirmation": 0,
     "active_findings": 276,
     "fixed_findings": 1690
