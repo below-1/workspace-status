@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "27 November 2026, 15:30 WITA",
+    "generated_at": "27 November 2026, 16:00 WITA",
     "source_updated_at": "27 November 2026, 16:24 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 4168,
-    "belum": 209,
-    "ratio": 95.23,
+    "processed": 4169,
+    "belum": 208,
+    "ratio": 95.25,
     "province": {
       "total": 4540,
-      "processed": 4319,
-      "ratio": 95.13
+      "processed": 4320,
+      "ratio": 95.15
     },
     "unit_count": 2,
     "unregistered": 372,
@@ -45,9 +45,9 @@
     {
       "name": "SLB",
       "total": 159,
-      "processed": 143,
-      "belum": 16,
-      "ratio": 89.94
+      "processed": 144,
+      "belum": 15,
+      "ratio": 90.57
     },
     {
       "name": "Satuan kerja lainnya",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 4167,
-      "belum": 209,
-      "ratio": 95.22
+      "processed": 4168,
+      "belum": 208,
+      "ratio": 95.25
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -4629,9 +4629,9 @@
     {
       "name": "SLB NEGERI LAKAMOLA",
       "total": 1,
-      "processed": 0,
-      "belum": 1,
-      "ratio": 0.0,
+      "processed": 1,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
