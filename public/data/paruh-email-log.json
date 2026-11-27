@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 10:31 WITA",
-    "source_updated_at": "27 November 2026, 10:21 WITA",
+    "generated_at": "27 November 2026, 11:00 WITA",
+    "source_updated_at": "27 November 2026, 10:33 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -242,6 +242,22 @@
       ],
       "invalid_nips": [],
       "mixed_unit_count": 0
+    },
+    {
+      "id": "808c8fcd8494",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T10:33:37+08:00",
+      "sender_email": "dinow993@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 18,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 1
     },
     {
       "id": "7bf6cf3c58f5",
