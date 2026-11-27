@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 09:55 WITA",
-    "source_updated_at": "27 November 2026, 09:12 WITA",
+    "generated_at": "27 November 2026, 10:00 WITA",
+    "source_updated_at": "27 November 2026, 09:58 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -39251,16 +39251,16 @@
     {
       "nip": "198910092025211173",
       "nama": "YUBERTUS BEKE BILI",
-      "nama_berkas": "",
+      "nama_berkas": "YUBERTUS BEKE BILI, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 WEWEWA UTARA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198910102025212271",
@@ -43347,16 +43347,16 @@
     {
       "nip": "199006252025211140",
       "nama": "DENI",
-      "nama_berkas": "",
+      "nama_berkas": "DENI, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 WEWEWA UTARA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199006302025211159",
@@ -63166,16 +63166,16 @@
     {
       "nip": "199310202025211178",
       "nama": "OKTAVIANUS BOKU BURA GELA",
-      "nama_berkas": "",
+      "nama_berkas": "OKTAVIANUS BOKU BURA GELA, S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 WEWEWA UTARA",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199310202025212055",
