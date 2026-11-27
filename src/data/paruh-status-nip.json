@@ -2,18 +2,18 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "26 November 2026, 13:30 WITA",
-    "source_updated_at": "26 November 2026, 13:23 WITA",
+    "generated_at": "27 November 2026, 09:55 WITA",
+    "source_updated_at": "27 November 2026, 09:12 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total_master": 4540,
-    "valid": 4138,
+    "valid": 4262,
     "needs_fix": 31,
-    "not_submitted": 371,
+    "not_submitted": 247,
     "needs_confirmation": 0,
-    "active_findings": 275,
-    "fixed_findings": 1651
+    "active_findings": 276,
+    "fixed_findings": 1676
   },
   "by_defect": [
     {
@@ -27,8 +27,8 @@
       "code": "non_numeric_ni",
       "label": "NIP bukan angka",
       "active": 66,
-      "fixed": 1221,
-      "total": 1287
+      "fixed": 1237,
+      "total": 1303
     },
     {
       "code": "wrong_length_ni",
@@ -40,16 +40,16 @@
     {
       "code": "trailing_000_ni",
       "label": "NIP berakhiran 000",
-      "active": 85,
-      "fixed": 213,
+      "active": 83,
+      "fixed": 215,
       "total": 298
     },
     {
       "code": "unregistered_ni",
       "label": "NIP tidak terdaftar",
-      "active": 76,
-      "fixed": 79,
-      "total": 155
+      "active": 79,
+      "fixed": 83,
+      "total": 162
     },
     {
       "code": "numeric_cell_ni",
@@ -62,22 +62,22 @@
       "code": "duplicate_ni_diff_name",
       "label": "NIP ganda beda nama",
       "active": 0,
-      "fixed": 98,
-      "total": 98
+      "fixed": 101,
+      "total": 101
     }
   ],
   "by_jenjang": [
     {
       "name": "SMA",
       "active": 92,
-      "fixed": 866,
-      "total": 958
+      "fixed": 869,
+      "total": 961
     },
     {
       "name": "SMK",
-      "active": 119,
-      "fixed": 576,
-      "total": 695
+      "active": 123,
+      "fixed": 595,
+      "total": 718
     },
     {
       "name": "Unit induk Dinas Pendidikan",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Tidak diketahui",
-      "active": 63,
-      "fixed": 160,
+      "active": 60,
+      "fixed": 163,
       "total": 223
     }
   ],
@@ -102,9 +102,9 @@
     {
       "key": "Pendidikan",
       "label": "Pendidikan",
-      "active": 232,
-      "fixed": 1509,
-      "total": 1741
+      "active": 233,
+      "fixed": 1534,
+      "total": 1767
     },
     {
       "key": "Non-Pendidikan",
