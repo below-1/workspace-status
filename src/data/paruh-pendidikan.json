@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "27 November 2026, 11:00 WITA",
-    "source_updated_at": "27 November 2026, 10:33 WITA",
+    "generated_at": "27 November 2026, 11:30 WITA",
+    "source_updated_at": "27 November 2026, 11:17 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 4138,
-    "belum": 239,
-    "ratio": 94.54,
+    "processed": 4144,
+    "belum": 233,
+    "ratio": 94.68,
     "province": {
       "total": 4540,
-      "processed": 4289,
-      "ratio": 94.47
+      "processed": 4295,
+      "ratio": 94.6
     },
     "unit_count": 2,
     "unregistered": 371,
@@ -45,9 +45,9 @@
     {
       "name": "SLB",
       "total": 159,
-      "processed": 137,
-      "belum": 22,
-      "ratio": 86.16
+      "processed": 143,
+      "belum": 16,
+      "ratio": 89.94
     },
     {
       "name": "Satuan kerja lainnya",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 4137,
-      "belum": 239,
-      "ratio": 94.54
+      "processed": 4143,
+      "belum": 233,
+      "ratio": 94.68
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -2349,9 +2349,9 @@
     {
       "name": "SLB NEGERI KOMODO",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {
