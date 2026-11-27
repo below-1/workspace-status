@@ -2,31 +2,31 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "27 November 2026, 10:00 WITA",
-    "source_updated_at": "27 November 2026, 09:58 WITA",
+    "generated_at": "27 November 2026, 10:31 WITA",
+    "source_updated_at": "27 November 2026, 10:21 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 4123,
-    "belum": 254,
-    "ratio": 94.2,
+    "processed": 4129,
+    "belum": 248,
+    "ratio": 94.33,
     "province": {
       "total": 4540,
-      "processed": 4274,
-      "ratio": 94.14
+      "processed": 4280,
+      "ratio": 94.27
     },
     "unit_count": 2,
-    "unregistered": 370,
+    "unregistered": 371,
     "satuan_kerja_count": 594
   },
   "jenjang": [
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2777,
-      "belum": 124,
-      "ratio": 95.73
+      "processed": 2783,
+      "belum": 118,
+      "ratio": 95.93
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 4122,
-      "belum": 254,
-      "ratio": 94.2
+      "processed": 4128,
+      "belum": 248,
+      "ratio": 94.33
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -2701,9 +2701,9 @@
     {
       "name": "SMAN LAMALU",
       "total": 6,
-      "processed": 0,
-      "belum": 6,
-      "ratio": 0.0,
+      "processed": 6,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {

@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 10:00 WITA",
-    "source_updated_at": "27 November 2026, 09:58 WITA",
+    "generated_at": "27 November 2026, 10:31 WITA",
+    "source_updated_at": "27 November 2026, 10:21 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -7610,16 +7610,16 @@
     {
       "nip": "198006112025212051",
       "nama": "SUFI ADELCI AMUNG",
-      "nama_berkas": "",
+      "nama_berkas": "Sufi Adelci Amung, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN LAMALU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198006122025212037",
@@ -16138,16 +16138,16 @@
     {
       "nip": "198411192025212069",
       "nama": "NANCE LADANG",
-      "nama_berkas": "",
+      "nama_berkas": "Nance Ladang, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN LAMALU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198411192025212071",
@@ -21724,16 +21724,24 @@
     {
       "nip": "198609282025211147",
       "nama": "KONTERIUS ROBINSON SIBU",
-      "nama_berkas": "",
+      "nama_berkas": "Konterius Robinson Sibu, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN LAMALU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
-      "fixed_errors": [],
+      "fixed_errors": [
+        "duplicate_ni_diff_name"
+      ],
       "active_details": [],
-      "fixed_details": [],
-      "received_on": ""
+      "fixed_details": [
+        {
+          "code": "duplicate_ni_diff_name",
+          "raw": "198609282025211147",
+          "detail": "NIP ganda; versi terbaru: Kanterius Robinson Sibu, S.Pd.,Gr"
+        }
+      ],
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198609292025211147",
@@ -32150,7 +32158,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-26"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198808272025212134",
@@ -32651,16 +32659,16 @@
     {
       "nip": "198809262025212130",
       "nama": "STEFANIA BUNGA JINGI ANGRIYATI",
-      "nama_berkas": "",
+      "nama_berkas": "Stefania B. J. Angriyati, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN LAMALU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198809292025212141",
@@ -34130,7 +34138,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-26"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198901092025211135",
@@ -41113,6 +41121,30 @@
       "received_on": "2026-11-21"
     },
     {
+      "nip": "19900217202511122",
+      "nama": "Hasanudin Dahlan, S.Pd.,Gr",
+      "nama_berkas": "",
+      "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
+      "satuan_kerja": "SMAN LAMALU",
+      "jenjang": "Tidak diketahui",
+      "status": "needs_fix",
+      "errors": [
+        "unregistered_ni"
+      ],
+      "fixed_errors": [
+        "wrong_length_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
+        {
+          "code": "wrong_length_ni",
+          "raw": "19900217202511122",
+          "detail": "length=17"
+        }
+      ],
+      "received_on": "2026-11-27"
+    },
+    {
       "nip": "199002172025211120",
       "nama": "MUSA FERDINAN FANSENI",
       "nama_berkas": "",
@@ -41137,16 +41169,16 @@
     {
       "nip": "199002172025211122",
       "nama": "HASANUDIN DAHLAN",
-      "nama_berkas": "",
+      "nama_berkas": "Hasanudin Dahlan, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN LAMALU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199002182025211098",
@@ -42214,7 +42246,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-26"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199004202025211041",
@@ -45174,7 +45206,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-26"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199010122025211193",
@@ -45207,16 +45239,16 @@
     {
       "nip": "199010152025211177",
       "nama": "OKTOVIANUS LOLANG",
-      "nama_berkas": "",
+      "nama_berkas": "Oktovianus Lolang, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN LAMALU",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199010162025212154",
@@ -59921,7 +59953,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-26"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199303202025211153",
@@ -61507,7 +61539,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-26"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199306292025212129",
@@ -72571,7 +72603,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-26"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199506132025211046",
