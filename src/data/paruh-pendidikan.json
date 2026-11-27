@@ -2,19 +2,19 @@
   "meta": {
     "title": "PPPK Paruh Waktu — Dinas Pendidikan dan Kebudayaan",
     "period": "2026",
-    "generated_at": "27 November 2026, 13:00 WITA",
-    "source_updated_at": "27 November 2026, 12:57 WITA",
+    "generated_at": "27 November 2026, 13:31 WITA",
+    "source_updated_at": "27 November 2026, 13:27 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "summary": {
     "total": 4377,
-    "processed": 4151,
-    "belum": 226,
-    "ratio": 94.84,
+    "processed": 4160,
+    "belum": 217,
+    "ratio": 95.04,
     "province": {
       "total": 4540,
-      "processed": 4302,
-      "ratio": 94.76
+      "processed": 4311,
+      "ratio": 94.96
     },
     "unit_count": 2,
     "unregistered": 371,
@@ -24,9 +24,9 @@
     {
       "name": "SMA",
       "total": 2901,
-      "processed": 2794,
-      "belum": 107,
-      "ratio": 96.31
+      "processed": 2803,
+      "belum": 98,
+      "ratio": 96.62
     },
     {
       "name": "SMK",
@@ -61,9 +61,9 @@
     {
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "total": 4376,
-      "processed": 4150,
-      "belum": 226,
-      "ratio": 94.84
+      "processed": 4159,
+      "belum": 217,
+      "ratio": 95.04
     },
     {
       "unit": "CABANG DINAS PENDIDIKAN WILAYAH VI, KELAS A, MELIPUTI WILAYAH KERJA KABUPATEN MANGGARAI TIMUR, KABUPATEN MANGGARAI DAN KABUPATEN MANGGARAI BARAT DI RUTENG",
@@ -1301,9 +1301,9 @@
     {
       "name": "SMA NEGERI RESTORASI AIMOLI",
       "total": 9,
-      "processed": 0,
-      "belum": 9,
-      "ratio": 0.0,
+      "processed": 9,
+      "belum": 0,
+      "ratio": 100.0,
       "invalid": 0
     },
     {

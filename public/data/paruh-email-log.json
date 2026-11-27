@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 13:00 WITA",
-    "source_updated_at": "27 November 2026, 12:57 WITA",
+    "generated_at": "27 November 2026, 13:31 WITA",
+    "source_updated_at": "27 November 2026, 13:27 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -432,6 +432,38 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "5263389fe253",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T13:14:22+08:00",
+      "sender_email": "islandruteng@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 2,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "4b5171c939a5",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T13:27:25+08:00",
+      "sender_email": "smanrestorasiaimoli@gmail.com",
+      "outcome": "valid",
+      "reasons": [],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 18,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "4a79168910dc",
       "received_on": "2026-11-27",
       "received_at": "2026-11-27T11:06:59+08:00",
@@ -478,6 +510,24 @@
       "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 2
+    },
+    {
+      "id": "2d48e0055559",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T13:26:42+08:00",
+      "sender_email": "egimangis@gmail.com",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 13,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
     },
     {
       "id": "1a65668f7965",
