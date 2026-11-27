@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 14:31 WITA",
-    "source_updated_at": "27 November 2026, 14:27 WITA",
+    "generated_at": "27 November 2026, 15:00 WITA",
+    "source_updated_at": "27 November 2026, 15:57 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -328,6 +328,24 @@
       "mixed_unit_count": 0
     },
     {
+      "id": "82977a4eecdc",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T14:36:25+08:00",
+      "sender_email": "viktoriawulang@gmail.com",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
       "id": "808c8fcd8494",
       "received_on": "2026-11-27",
       "received_at": "2026-11-27T10:33:37+08:00",
@@ -560,6 +578,24 @@
       "findings": [],
       "invalid_nips": [],
       "mixed_unit_count": 2
+    },
+    {
+      "id": "38ca3709c85a",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T15:57:30+08:00",
+      "sender_email": "yustinustae12@admin.sma.belajar.id",
+      "outcome": "template",
+      "reasons": [
+        "template"
+      ],
+      "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
     },
     {
       "id": "2d48e0055559",
