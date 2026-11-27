@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 11:30 WITA",
-    "source_updated_at": "27 November 2026, 11:17 WITA",
+    "generated_at": "27 November 2026, 12:01 WITA",
+    "source_updated_at": "27 November 2026, 11:54 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -4210,16 +4210,16 @@
     {
       "nip": "197707072025212098",
       "nama": "KELARA JULI",
-      "nama_berkas": "",
+      "nama_berkas": "Kelara Juli, SE",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 4 BORONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "197707132025211050",
@@ -10884,16 +10884,16 @@
     {
       "nip": "198206122025211179",
       "nama": "ADRIANUS TALU",
-      "nama_berkas": "",
+      "nama_berkas": "Adrianus Talu, SM",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "DINAS PENDIDIKAN DAN KEBUDAYAAN PROVINSI NTT",
       "jenjang": "Unit induk Dinas Pendidikan",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198206132025211032",
