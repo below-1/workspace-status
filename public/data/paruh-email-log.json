@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status email masuk PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 14:03 WITA",
-    "source_updated_at": "27 November 2026, 13:47 WITA",
+    "generated_at": "27 November 2026, 14:31 WITA",
+    "source_updated_at": "27 November 2026, 14:27 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -206,6 +206,24 @@
       "excel_count": 1,
       "pdf_count": 1,
       "rows_parsed": 13,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "a090360bd895",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T14:13:35+08:00",
+      "sender_email": "smknkayang2012@gmail.com",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
+      "pdf_count": 1,
+      "rows_parsed": 0,
       "active_findings": 0,
       "fixed_findings": 0,
       "findings": [],
@@ -587,6 +605,24 @@
         "template"
       ],
       "excel_count": 1,
+      "pdf_count": 1,
+      "rows_parsed": 0,
+      "active_findings": 0,
+      "fixed_findings": 0,
+      "findings": [],
+      "invalid_nips": [],
+      "mixed_unit_count": 0
+    },
+    {
+      "id": "0ad606d12102",
+      "received_on": "2026-11-27",
+      "received_at": "2026-11-27T14:27:09+08:00",
+      "sender_email": "smkn1labuanbajo@gmail.com",
+      "outcome": "no_excel",
+      "reasons": [
+        "no_excel"
+      ],
+      "excel_count": 0,
       "pdf_count": 1,
       "rows_parsed": 0,
       "active_findings": 0,
