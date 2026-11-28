@@ -2,8 +2,8 @@
   "meta": {
     "title": "Status dan Temuan NIP PPPK Paruh Waktu",
     "period": "2026",
-    "generated_at": "27 November 2026, 16:30 WITA",
-    "source_updated_at": "27 November 2026, 16:24 WITA",
+    "generated_at": "28 November 2026, 13:10 WITA",
+    "source_updated_at": "28 November 2026, 12:53 WITA",
     "source": "parse-usulan-perpanjangan"
   },
   "records": [
@@ -1827,7 +1827,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-24"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "197308182025212029",
@@ -7053,7 +7053,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-24"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198003082025211008",
@@ -13228,16 +13228,16 @@
     {
       "nip": "198309112025211102",
       "nama": "SEBASTIANUS NONO",
-      "nama_berkas": "",
+      "nama_berkas": "Sebastianus Nono,S.S",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 GOLEWA WERE",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198309132025211032",
@@ -13687,7 +13687,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-24"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198312122025211169",
@@ -19434,15 +19434,17 @@
       "errors": [
         "unregistered_ni"
       ],
-      "fixed_errors": [],
-      "active_details": [
+      "fixed_errors": [
+        "unregistered_ni"
+      ],
+      "active_details": [],
+      "fixed_details": [
         {
           "code": "unregistered_ni",
           "raw": "198601172025211128",
           "detail": "NIP tidak ditemukan pada data master PPPK"
         }
       ],
-      "fixed_details": [],
       "received_on": "2026-11-24"
     },
     {
@@ -21270,16 +21272,16 @@
     {
       "nip": "198608152025212149",
       "nama": "YANTI NOVIDA ISMAU",
-      "nama_berkas": "",
+      "nama_berkas": "Yanti Novida Ismau,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 GOLEWA WERE",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198608152025212151",
@@ -21972,16 +21974,16 @@
     {
       "nip": "198610172025211128",
       "nama": "RONI PELLO",
-      "nama_berkas": "",
+      "nama_berkas": "Roni Pello, S.Pd.,Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN ROTE SELATAN",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198610182025212100",
@@ -29460,7 +29462,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-24"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198803242025212112",
@@ -30627,16 +30629,16 @@
     {
       "nip": "198806052025211249",
       "nama": "FRANSISKUS SUMARDI",
-      "nama_berkas": "",
+      "nama_berkas": "FRANSISKUS SUMARDI, S.Pd., Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 3 BORONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198806052025212196",
@@ -33368,7 +33370,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-24"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198811072025211135",
@@ -38449,16 +38451,16 @@
     {
       "nip": "198908232025212149",
       "nama": "YOHANA FRANSISKA NGATU",
-      "nama_berkas": "",
+      "nama_berkas": "Yohana Fransiska Ngatu,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 GOLEWA WERE",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "198908242025211029",
@@ -41711,16 +41713,16 @@
     {
       "nip": "199003132025212161",
       "nama": "MARIA SALOME NOE",
-      "nama_berkas": "",
+      "nama_berkas": "Maria Salome Noe,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 1 GOLEWA WERE",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199003142025211142",
@@ -55281,7 +55283,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-24"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199205302025212145",
@@ -67816,7 +67818,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-24"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199408292025212138",
@@ -69684,7 +69686,7 @@
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": "2026-11-24"
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199412302025212181",
@@ -73546,16 +73548,16 @@
     {
       "nip": "199508242025211131",
       "nama": "BERTOLOMEUS GHOPA",
-      "nama_berkas": "",
+      "nama_berkas": "Bertolomeus Ghopa,S.Pd",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMKN BAJAWA UTARA",
       "jenjang": "SMK",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-28"
     },
     {
       "nip": "199508252025212162",
@@ -78119,16 +78121,16 @@
     {
       "nip": "199606272025212157",
       "nama": "MARSELINA ELDISIA EMBUN",
-      "nama_berkas": "",
+      "nama_berkas": "MARSELINA ELDISIA EMBUN, S.Pd., Gr",
       "unit": "DINAS PENDIDIKAN DAN KEBUDAYAAN",
       "satuan_kerja": "SMAN 3 BORONG",
       "jenjang": "SMA",
-      "status": "not_submitted",
+      "status": "valid",
       "errors": [],
       "fixed_errors": [],
       "active_details": [],
       "fixed_details": [],
-      "received_on": ""
+      "received_on": "2026-11-27"
     },
     {
       "nip": "199606272025212159",
